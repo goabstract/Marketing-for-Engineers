@@ -18,3 +18,7 @@ Articles, where you can find what topics, titles, collections, tags, categories 
 * [How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8), by [Quincy Larson](https://twitter.com/ossia)
 * [Medium’s Most Recommended Stories of 2016](https://medium.com/startup-grind/mediums-most-recommended-stories-of-2016-171efdd705c5), by [Levent Aşkan](https://twitter.com/leventask)
 * [How to Win at Medium (advice on title, text formating & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373), by [Elizabeth Tobey](https://twitter.com/dahanese)
+* [35 Actionable Tips to Grow Your Medium Blog (timing, some promotional tips)](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905), by [Ali Mese](https://twitter.com/meseali)
+
+How to promote your great article: 
+
