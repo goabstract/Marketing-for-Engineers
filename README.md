@@ -25,3 +25,10 @@ Articles, where you can find what topics, titles, collections, tags, categories 
 
 How to promote your great article: 
 
+
+## Influencer Marketing
+Influencer marketing is a type of marketing that focuses on working with opinioon leaders to drive a brand's message\product\service to the larger market.
+
+
+
+
