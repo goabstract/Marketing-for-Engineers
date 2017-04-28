@@ -1,11 +1,13 @@
 # Marketing-for-Engineers:
 
-* Content-Marketing 
+* Content Marketing 
   * Medium Marketing
 
- 
+## Marketing without Budget
+Collection of marketing channels for getting the first users. Most of these ways take a lot of time and effort, but don’t actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below.  
+* [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/), by 
   
-## Content-Marketing 
+## Content Marketing 
 ### Medium Marketing
 Basics. How to write, edit, publish and add your article to publications:
 * [FAQ from Medium on Writing](https://help.medium.com/hc/en-us/sections/115001484727-General)
