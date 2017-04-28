@@ -1,7 +1,9 @@
 # Marketing-for-Engineers:
 
+* Marketing without Budget
 * Content Marketing 
   * Medium Marketing
+* Influencer Marketing
 
 ## Marketing without Budget
 Collection of marketing channels for getting the first users. Most of these ways take a lot of time and effort, but don’t actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below.  
