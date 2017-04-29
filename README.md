@@ -7,7 +7,7 @@
 
 ## Marketing without Budget
 Collection of marketing channels for getting the first users. Most of these ways take a lot of time and effort, but don’t actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below.  
-* [Do Things that Don't Scale](http://paulgraham.com/ds.html), by Paul Graham. He is co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. You can find many useful essays in is blog.
+* [Do Things that Don't Scale](http://paulgraham.com/ds.html), by Paul Graham. He is co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. This essay is a must-read for every stratup founder, indie developer or creator. You can also find many other useful essays in Paul Graham blog.
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/), by Hiten Shah
   
 ## Content Marketing 
