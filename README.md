@@ -4,9 +4,11 @@
 * Content Marketing 
   * Medium Marketing
 * Influencer Marketing
+* Building Partnerships 
+
 
 ## Marketing without Budget
-Collection of marketing channels for getting the first users. Most of these ways take a lot of time and effort, but don’t actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below.  
+Collection of marketing channels for getting the first users. Most of these ways will take a lot of time and effort, but don’t actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below.  
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html), by Paul Graham. He is co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. This essay is a must-read for every stratup founder, indie developer or creator. You can also find many other useful essays in Paul Graham blog.
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/), by Hiten Shah
   
@@ -31,6 +33,12 @@ How to promote your great article:
 ## Influencer Marketing
 Influencer marketing is a type of marketing that focuses on working with opinioon leaders to drive a brand's message\product\service to the larger market.
 
+
+## Building Partnerships 
+
+Communication is the key for building any kind of relationships. Every social community has its own rules for this. Business people will prefer concise value driven messages, when engineers are more open to deep well-thought-out talk. I encourage you to learn these social rules before writing a single line of LinkedIn invitation:
+
+* [How to Write Emails Like a CEO](https://medium.com/@Torbahax/how-to-write-emails-like-a-ceo-d6a2906611e0), by Andrew Torba
 
 
 
