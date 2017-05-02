@@ -39,7 +39,9 @@ How to promote your great article:
 ## Influencer Marketing
 Influencer marketing is a type of marketing that focuses on working with opinioon leaders to drive a brand's message\product\service to the larger market.
 
-##  Marketing for Product Hunt Launch 
+## :cat: Marketing for Product Hunt Launch 
+[Basic rules on Posting](https://help.producthunt.com/posting): how to post or comment, how to ask for support, how to get to the homepage.
+
 
 Useful tools:
 * [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practise to thank those people for supporting you via Twitter 😍
