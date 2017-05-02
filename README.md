@@ -4,8 +4,10 @@
 * Content Marketing 
   * Medium Marketing
 * Influencer Marketing
+* Marketing for Product Hunt Launch 
 * Building Partnerships 
 * Psychology in Marketing 
+* Pricing 
 
 
 ## :triumph: Marketing without Budget
@@ -37,6 +39,10 @@ How to promote your great article:
 ## Influencer Marketing
 Influencer marketing is a type of marketing that focuses on working with opinioon leaders to drive a brand's message\product\service to the larger market.
 
+##  Marketing for Product Hunt Launch 
+
+Useful tools:
+* [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practise to thank those people for supporting you via Twitter 😍
 
 ## :bowtie: Building Partnerships 
 
@@ -46,6 +52,15 @@ Communication is the key for building any kind of relationships. Every social co
 
 ## 🕵️ Psychology in Marketing 
 If you want to make a deeper dive into the the user's brain, I will recommend you to learn disciplines on the intersection with marketing.
+
+
+## :moneybag: Pricing 
+We struggle in asking people to pay for your product or service.
+[How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1), by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging low price for you mobile apps or any other product.
+
+
+
+
 
 
 
