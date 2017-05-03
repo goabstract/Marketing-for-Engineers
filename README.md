@@ -1,23 +1,23 @@
 # Marketing-for-Engineers:
 
-* Marketing without Budget
-* Content Marketing 
-  * Personal blog
-  * Medium Marketing
-  * Promotion of your content
-* Influencer Marketing
-* Marketing for Product Hunt Launch 
-* Social Media Marketing
-  * Twitter
+* [Marketing without Budget](https://github.com/LisaDziuba/Marketing-for-Engineers#triumph-marketing-without-budget)
+* [Content Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#content-marketing) 
+  * [Personal blog](https://github.com/LisaDziuba/Marketing-for-Engineers#sunglasses-personal-blog)
+  * [Medium Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#green_book-medium-marketing)
+  * [Promotion of your content](https://github.com/LisaDziuba/Marketing-for-Engineers#mega-promotion-of-your-content)
+* [Influencer Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#influencer-marketing)
+* [Marketing for Product Hunt Launch](https://github.com/LisaDziuba/Marketing-for-Engineers#cat-marketing-for-product-hunt-launch)
+* [Social Media Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#social-media-marketing)
+  * [Twitter](https://github.com/LisaDziuba/Marketing-for-Engineers#twitter)
   * Facebook
   * Reddit
   * LinkedIn
-* Email Marketing
-  * Product Onboarding emails  
-  * Cold emails
-* Building Partnerships 
-* Psychology in Marketing 
-* Pricing 
+* [Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#email-email-marketing)
+  * [Product Onboarding emails](https://github.com/LisaDziuba/Marketing-for-Engineers#product-emails)  
+  * [Cold emails](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-emails)
+* [Building Partnerships](https://github.com/LisaDziuba/Marketing-for-Engineers#bowtie-building-partnerships)
+* [Psychology in Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#%EF%B8%8F-psychology-in-marketing)
+* [Pricing](https://github.com/LisaDziuba/Marketing-for-Engineers#moneybag-pricing)
 
 
 ## :triumph: Marketing without Budget
