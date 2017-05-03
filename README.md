@@ -5,6 +5,11 @@
   * Medium Marketing
 * Influencer Marketing
 * Marketing for Product Hunt Launch 
+* Social Media Marketing
+  * Twitter
+  * Facebook
+  * Reddit
+  * LinkedIn
 * Building Partnerships 
 * Psychology in Marketing 
 * Pricing 
@@ -46,18 +51,24 @@ How to promote your great article:
 Influencer marketing is a type of marketing that focuses on working with opinioon leaders to drive a brand's message\product\service to the larger market.
 
 ## :cat: Marketing for Product Hunt Launch 
-Product Hunt (PH) is a place to discover, share, and geek out about new products in tech. Submiting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get many honest feedback, downloads, users and PR buzz. 
+Product Hunt (PH) is a place to discover, share, and geek out about new products in tech. Submiting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get many honest feedback, downloads, users and PR buzz. Please, check success PH stories to decide if PH is the right launch platform for you!
 
-Start with [basic rules on Posting](https://help.producthunt.com/posting): how to post or comment, how to ask for support, how to get to the homepage. Then read [Five things everyone should know about Product Hunt](https://medium.com/product-hunt/five-things-everyone-should-know-about-product-hunt-fac74f44c32b).
+Start with [basic rules on Posting](https://help.producthunt.com/posting): how to post or comment, how to ask for support, how to get to the homepage. Then read [Five things everyone should know about Product Hunt](https://medium.com/product-hunt/five-things-everyone-should-know-about-product-hunt-fac74f44c32b). Join the PH community and feel how it works, before actually starting you launch activities.
 
-:scream: Successful PH launch takes a lot of preparation, promotion during the launch (24h) and follow-up work. These guides will help you:
+:scream: Successful PH launch takes a lot of preparation, promotion during the launch (24h++) and follow-up work. These guides will help you:
 
 * [Product Hunt 101](https://medium.com/swlh/product-hunt-101-426511f03501) from one of the top-hunters, Robleh Jama. It's very useful to listen to the launch algorithm from the person, who submit a lot of different products.
+* [The SaaS founder’s guide to Product Hunt](https://blog.amplifr.com/en/amplifr-on-producthunt/) from the Russian company, Amplifr. It's a nice tutorial around your product preparation (onboarding, language check, emails and other not obvious stuff).
 * [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app startup, who lauhcned on Product Hunt in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" useful. I encourage you to think about resources you will invest in PH launch versus possible outcome!
 
 Useful tools:
 * [Notify](https://notify.ly/) notifies you in Slack when your startup is mentioned online. That helps you to answer\react quickly if somebody talks about your product (feedback, question).
 * [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practise to thank those people for supporting you via Twitter 😍
+
+## Social Media Marketing
+### Twitter
+
+Be awere of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364).
 
 ## :bowtie: Building Partnerships 
 
