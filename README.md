@@ -24,6 +24,7 @@
 Collection of marketing channels for getting the first users. Most of these ways will take a lot of time and effort, but don’t actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below.  
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html), by Paul Graham. He is co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. This essay is a must-read for every stratup founder, indie developer or creator. You can also find many other useful essays in Paul Graham blog.
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/), by Hiten Shah
+* [How We Got Our First 2,000 Users Doing Things That Don’t Scale] by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
 
 The main rule of successful marketing without budget: Don't Become A Spammer :trollface:
   
@@ -104,13 +105,15 @@ You should A/B test different email headers, text, images, CTA button and always
 
 ### :fearful: Cold emails
 Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On everage, 25% of people answered on my cold emails. 😟 I was afreid, that people will write me: "go fucking away with your spam!" But, nobody did it. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing! 
-  
-* You can star from looking on [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team. 
+
 * Learn from people, who run cold email campaings, like this: [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
 * And here is some inspring stories from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
+* These [11 Cold Email Template](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your targer audience. Done by Melissa Williams from Yesware. 
+* And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team, which can help you to write your own.
 
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
+* If you don't find needed email with Norbert, you can check [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
 
 
 ## :bowtie: Building Partnerships 
