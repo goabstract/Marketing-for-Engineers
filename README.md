@@ -27,7 +27,8 @@ Collection of marketing channels for getting the first users. Most of these ways
 The main rule of successful marketing without budget: Don't Become A Spammer :trollface:
   
 ## Content Marketing 
-When you don't have the time or money to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs. 
+When you don't have money or expertise to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your content. You don't have to be a profesional writer for making a cool content. So give yourself space to be creative. 
+:see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
 
 ### Personal blog
 Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. 
@@ -44,7 +45,6 @@ Basics of writing on Medium. How to write, edit, publish and add your article to
 * [Add draft or post to publication](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication)
 * [Keyboard shortcuts](https://help.medium.com/hc/en-us/articles/214672207)
 * [Tips and tricks for Medium writers](https://blog.medium.com/tips-and-tricks-for-medium-writers-1d79498101c3)
-* Always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions.
 
 Articles, where you can find what topics, titles, collections, tags, categories and post length are popular for Medium readers:
 * [What I learned from analyzing the top 252 Medium stories of 2016](https://medium.freecodecamp.com/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c), by freeCodeCamp founder Quincy Larson
