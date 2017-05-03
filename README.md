@@ -10,6 +10,8 @@
   * Facebook
   * Reddit
   * LinkedIn
+* Email Marketing
+  * Product emails 
 * Building Partnerships 
 * Psychology in Marketing 
 * Pricing 
@@ -69,6 +71,12 @@ Useful tools:
 ### Twitter
 
 Be awere of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364).
+
+## :email: Email Marketing
+### Product emails 
+* [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by customer.io team.
+* [Trial expiration email best practices](https://postmarkapp.com/guides/trial-expiration-email-best-practices) by Garrett Dimon.
+* [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by customer.io team.
 
 ## :bowtie: Building Partnerships 
 
