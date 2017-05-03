@@ -13,7 +13,7 @@
   * Reddit
   * LinkedIn
 * Email Marketing
-  * Product emails 
+  * Product Onboarding emails  
   * Cold emails
 * Building Partnerships 
 * Psychology in Marketing 
@@ -82,16 +82,22 @@ Useful tools:
 Be awere of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364).
 
 ## :email: Email Marketing
-### Product emails 
+### Product Onboarding emails 
 * [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by customer.io team.
 * [Trial expiration email best practices](https://postmarkapp.com/guides/trial-expiration-email-best-practices) by Garrett Dimon.
 * [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by customer.io team.
+* [3 Lessons Learned From Testing Hundreds Of Onboarding Emails](https://www.groovehq.com/blog/email-onboarding-optimization) by Alex Turnbull, Groove founder. 
+
+For getting an inspiration for your onboarding emails you can check some examples from popular companies:
+* [Email copy from great companies](http://www.goodemailcopy.com/) by Front.
 
 ### :fearful: Cold emails
-Most people hate cold outreach and everething connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or reccomendations. I used this technique for getting feedback on early Flawless App. On everage, 25% of people answered on my cold emails. 😟 I was afreid, that people will write me: "go fucking away with your spam!"  
-[101 Sales Email Templates You Can Use to Close More Deals](https://attach.io/sales-email-templates/) by attach.io team. 
+Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On everage, 25% of people answered on my cold emails. 😟 I was afreid, that people will write me: "go fucking away with your spam!" But, nobody did it. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing! 
+  
+You can star from looking on [Sales Email Templates You Can Use to Close More Deals](https://attach.io/sales-email-templates/) by attach.io team. 
 
 Useful tools:
+* [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
 
 
 ## :bowtie: Building Partnerships 
