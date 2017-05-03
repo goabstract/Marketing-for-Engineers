@@ -31,7 +31,7 @@ The main rule of successful marketing without budget: Don't Become A Spammer :tr
 When you don't have money or expertise to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your content. You don't have to be a profesional writer for making a cool content. So give yourself space to be creative. 
 :see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
 
-### Personal blog
+### :sunglasses: Personal Blog
 Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. 
 
 ### :green_book: Medium Marketing
