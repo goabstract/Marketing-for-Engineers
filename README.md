@@ -30,7 +30,7 @@ Basics of writing on Medium. How to write, edit, publish and add your article to
 * [Add draft or post to publication](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication)
 * [Keyboard shortcuts](https://help.medium.com/hc/en-us/articles/214672207)
 * [Tips and tricks for Medium writers](https://blog.medium.com/tips-and-tricks-for-medium-writers-1d79498101c3)
-* Always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions, like [Grammarly for Chrome]()
+* Always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions.
 
 Articles, where you can find what topics, titles, collections, tags, categories and post length are popular for Medium readers:
 * [What I learned from analyzing the top 252 Medium stories of 2016](https://medium.freecodecamp.com/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c), by freeCodeCamp founder Quincy Larson
@@ -52,6 +52,7 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 
 :scream: Successful PH launch takes a lot of preparation, promotion during the launch (24h) and follow-up work. These guides will help you:
 
+* [Product Hunt 101](https://medium.com/swlh/product-hunt-101-426511f03501) from one of the top-hunters, Robleh Jama. It's very useful to listen to the launch algorithm from the person, who submit a lot of different products.
 * [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app startup, who lauhcned on Product Hunt in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" useful. I encourage you to think about resources you will invest in PH launch versus possible outcome!
 
 Useful tools:
