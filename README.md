@@ -101,10 +101,12 @@ You should A/B test different email headers, text, images, CTA button and always
 
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
 
+
 ### :fearful: Cold emails
 Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On everage, 25% of people answered on my cold emails. 😟 I was afreid, that people will write me: "go fucking away with your spam!" But, nobody did it. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing! 
   
-You can star from looking on [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team. 
+* You can star from looking on [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team. 
+* Learn from people, who run cold email campaings, like this: [10 cold email tips I used to get 60,000 signups] by Dunja Lazić.
 
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
@@ -115,6 +117,7 @@ Useful tools:
 Communication is the key for building any kind of relationships. Every social community has its own rules for this. Business people will prefer concise value driven messages, when engineers are more open to deep well-thought-out talk. I encourage you to learn these social rules before writing a single line of LinkedIn invitation:
 
 * [How to Write Emails Like a CEO](https://medium.com/@Torbahax/how-to-write-emails-like-a-ceo-d6a2906611e0), by Andrew Torba
+* [5 rules for good email etiquette](https://byrslf.co/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671) by Mattan Griffel.
 
 ## 🕵️ Psychology in Marketing 
 If you want to make a deeper dive into the the user's brain, I will recommend you to learn disciplines on the intersection with marketing.
