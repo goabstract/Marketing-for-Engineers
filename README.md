@@ -106,7 +106,8 @@ You should A/B test different email headers, text, images, CTA button and always
 Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On everage, 25% of people answered on my cold emails. 😟 I was afreid, that people will write me: "go fucking away with your spam!" But, nobody did it. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing! 
   
 * You can star from looking on [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team. 
-* Learn from people, who run cold email campaings, like this: [10 cold email tips I used to get 60,000 signups] by Dunja Lazić.
+* Learn from people, who run cold email campaings, like this: [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
+* And here is some inspring stories from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
 
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
