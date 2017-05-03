@@ -119,6 +119,7 @@ Communication is the key for building any kind of relationships. Every social co
 
 * [How to Write Emails Like a CEO](https://medium.com/@Torbahax/how-to-write-emails-like-a-ceo-d6a2906611e0), by Andrew Torba
 * [5 rules for good email etiquette](https://byrslf.co/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671) by Mattan Griffel.
+* [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73) by Romain Serman
 
 ## 🕵️ Psychology in Marketing 
 If you want to make a deeper dive into the the user's brain, I will recommend you to learn disciplines on the intersection with marketing.
