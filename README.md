@@ -2,7 +2,9 @@
 
 * Marketing without Budget
 * Content Marketing 
+  * Personal blog
   * Medium Marketing
+  * Promotion of your content
 * Influencer Marketing
 * Marketing for Product Hunt Launch 
 * Social Media Marketing
@@ -25,8 +27,13 @@ Collection of marketing channels for getting the first users. Most of these ways
 The main rule of successful marketing without budget: Don't Become A Spammer :trollface:
   
 ## Content Marketing 
+When you don't have the time or money to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs. 
+
+### Personal blog
+Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. 
+
 ### :green_book: Medium Marketing
-Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users or Medium readers. I want also show you the downside of using Medium versus your own blog:
+Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. I want also show you the downside of using Medium versus your own blog:
 -  Lower Conversion. 
 You can get huge traffic to your Medium blog, but it doesn’t mean that people will go to your website or offering.
 - No magic with getting traffic
@@ -46,7 +53,8 @@ Articles, where you can find what topics, titles, collections, tags, categories 
 * [How to Win at Medium (advice on title, text formating & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373), by Elizabeth Tobey
 * [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905)(timing, some promotional tips), by Ali Mese
 
-How to promote your great article: 
+### :mega: Promotion of your content
+As you have already understood, you need to promote your content both for your own blog, Medium-like platforms or guest post at other blogs. Here some ideas how to promote your great articles: 
 
 
 ## Influencer Marketing
