@@ -30,7 +30,7 @@ Basics of writing on Medium. How to write, edit, publish and add your article to
 * [Add draft or post to publication](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication)
 * [Keyboard shortcuts](https://help.medium.com/hc/en-us/articles/214672207)
 * [Tips and tricks for Medium writers](https://blog.medium.com/tips-and-tricks-for-medium-writers-1d79498101c3)
-* Always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/) and [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck).
+* Always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions, like [Grammarly for Chrome]()
 
 Articles, where you can find what topics, titles, collections, tags, categories and post length are popular for Medium readers:
 * [What I learned from analyzing the top 252 Medium stories of 2016](https://medium.freecodecamp.com/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c), by freeCodeCamp founder Quincy Larson
@@ -48,7 +48,7 @@ Influencer marketing is a type of marketing that focuses on working with opinioo
 ## :cat: Marketing for Product Hunt Launch 
 Product Hunt (PH) is a place to discover, share, and geek out about new products in tech. Submiting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get many honest feedback, downloads, users and PR buzz. 
 
-[Basic rules on Posting](https://help.producthunt.com/posting): how to post or comment, how to ask for support, how to get to the homepage.
+Start with [basic rules on Posting](https://help.producthunt.com/posting): how to post or comment, how to ask for support, how to get to the homepage. Then read [Five things everyone should know about Product Hunt](https://medium.com/product-hunt/five-things-everyone-should-know-about-product-hunt-fac74f44c32b).
 
 :scream: Successful PH launch takes a lot of preparation, promotion during the launch (24h) and follow-up work. These guides will help you:
 
