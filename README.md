@@ -14,6 +14,7 @@
   * LinkedIn
 * Email Marketing
   * Product emails 
+  * Cold emails
 * Building Partnerships 
 * Psychology in Marketing 
 * Pricing 
@@ -85,6 +86,13 @@ Be awere of [Twitter tweet & DM limit](https://support.twitter.com/articles/1536
 * [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by customer.io team.
 * [Trial expiration email best practices](https://postmarkapp.com/guides/trial-expiration-email-best-practices) by Garrett Dimon.
 * [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by customer.io team.
+
+### :fearful: Cold emails
+Most people hate cold outreach and everething connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or reccomendations. I used this technique for getting feedback on early Flawless App. On everage, 25% of people answered on my cold emails. 😟 I was afreid, that people will write me: "go fucking away with your spam!"  
+[101 Sales Email Templates You Can Use to Close More Deals](https://attach.io/sales-email-templates/) by attach.io team. 
+
+Useful tools:
+
 
 ## :bowtie: Building Partnerships 
 
