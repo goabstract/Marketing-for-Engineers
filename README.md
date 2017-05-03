@@ -19,7 +19,13 @@ The main rule of successful marketing without budget: Don't Become A Spammer :tr
   
 ## Content Marketing 
 ### :green_book: Medium Marketing
-Basics. How to write, edit, publish and add your article to publications:
+Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users or Medium readers. I want also show you the downside of using Medium versus your own blog:
+-  Lower Conversion. 
+You can get huge traffic to your Medium blog, but it doesn’t mean that people will go to your website or offering.
+- No magic with getting traffic
+You still need to promote your articles yourself. 
+
+Basics of writing on Medium. How to write, edit, publish and add your article to publications:
 * [FAQ from Medium on Writing](https://help.medium.com/hc/en-us/sections/115001484727-General)
 * [Add draft or post to publication](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication)
 * [Keyboard shortcuts](https://help.medium.com/hc/en-us/articles/214672207)
@@ -40,10 +46,14 @@ How to promote your great article:
 Influencer marketing is a type of marketing that focuses on working with opinioon leaders to drive a brand's message\product\service to the larger market.
 
 ## :cat: Marketing for Product Hunt Launch 
+Product Hunt is a place to discover, share, and geek out about new products in tech. Submiting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get many honest feedback, downloads, users and PR buzz. 
+
+
 [Basic rules on Posting](https://help.producthunt.com/posting): how to post or comment, how to ask for support, how to get to the homepage.
 
 
 Useful tools:
+* [Notify](https://notify.ly/) notifies you in Slack when your startup is mentioned online. That helps you to answer\react quickly if somebody talks about your product (feedback, question).
 * [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practise to thank those people for supporting you via Twitter 😍
 
 ## :bowtie: Building Partnerships 
