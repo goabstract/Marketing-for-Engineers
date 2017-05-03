@@ -90,7 +90,7 @@ Product Onboarding emails:
 * [3 Lessons Learned From Testing Hundreds Of Onboarding Emails](https://www.groovehq.com/blog/email-onboarding-optimization) by Alex Turnbull, Groove founder. 
 
 For getting an inspiration for your onboarding emails you can check some examples from popular companies:
-* [Email copy from great companies](http://www.goodemailcopy.com/) by Front.
+* [Email copy from great companies](http://www.goodemailcopy.com/) by Front or [Really Good Emails site](https://reallygoodemails.com/).
 * [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/) from Drift team.
 * [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9), by Bart King.
 
