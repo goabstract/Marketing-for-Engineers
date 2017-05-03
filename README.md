@@ -58,7 +58,7 @@ If you want to make a deeper dive into the the user's brain, I will recommend yo
 
 ## :moneybag: Pricing 
 We struggle in asking people to pay for your product or service.
-[How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1), by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging low price for you mobile apps or any other product.
+* [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging low price for you mobile apps or any other product.
 
 
 
