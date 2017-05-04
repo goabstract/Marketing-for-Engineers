@@ -24,7 +24,7 @@
 Collection of marketing channels for getting the first users. Most of these ways will take a lot of time and effort, but don’t actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below.  
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html), by Paul Graham. He is co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. This essay is a must-read for every stratup founder, indie developer or creator. You can also find many other useful essays in Paul Graham blog.
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/), by Hiten Shah
-* [How We Got Our First 2,000 Users Doing Things That Don’t Scale] by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
+* [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
 
 The main rule of successful marketing without budget: Don't Become A Spammer :trollface:
   
@@ -53,7 +53,7 @@ Articles, where you can find what topics, titles, collections, tags, categories 
 * [How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8), by Quincy Larson
 * [Medium’s Most Recommended Stories of 2016](https://medium.com/startup-grind/mediums-most-recommended-stories-of-2016-171efdd705c5), by Levent Aşkan
 * [How to Win at Medium (advice on title, text formating & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373), by Elizabeth Tobey
-* [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905)(timing, some promotional tips), by Ali Mese
+* [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905)    (timing, some promotional tips), by Ali Mese
 
 ### :mega: Promotion of your content
 As you have already understood, you need to promote your content both for your own blog, Medium-like platforms or guest post at other blogs. Here some ideas how to promote your great articles: 
@@ -108,8 +108,8 @@ Most people hate cold outreach and everything connected to the direct sales. How
 
 * Learn from people, who run cold email campaings, like this: [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
 * And here is some inspring stories from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
-* These [11 Cold Email Template](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your targer audience. Done by Melissa Williams from Yesware. 
-* And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team, which can help you to write your own.
+* These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your targer audience. Don't forget to do research before writing cold email! You need to really know the person you are writing. Btw, these funny cool templates were done by Melissa Williams from Yesware. 
+* And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team, which can help you to write your own too.
 
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
