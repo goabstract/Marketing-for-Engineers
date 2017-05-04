@@ -21,15 +21,16 @@
 
 
 ## :triumph: Marketing without Budget
-Collection of marketing channels for getting the first users. Most of these ways will take a lot of time and effort, but don’t actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below.  
-* [Do Things that Don't Scale](http://paulgraham.com/ds.html), by Paul Graham. He is co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. This essay is a must-read for every stratup founder, indie developer or creator. You can also find many other useful essays in Paul Graham blog.
-* [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/), by Hiten Shah
+You will find here a collection of free marketing channels for getting the first users. Most of it will take a lot of time & effort, but will not actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below. So, get fresh ideas from these real-life stories and think what could work for your users:
+* [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. This essay is a must-read for every stratup founder, indie developer or creator. You can also find many other useful essays in Paul Graham blog.
+* [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah
 * [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
 
-The main rule of successful marketing without budget: Don't Become A Spammer :trollface:
+We used many free marketing channels. To be honest, when we started Flawless App we didn't have other ways ¯\_(ツ)_/¯ We wrote cold emails, talk to influencers, manually rectuit users at events, post at Facebook developers groups, worked with developers\designers via Twitter and did many other clever trics. 🎉 These gave us our first 1000 beta users 🎉 So try it out! The only thing I ask you to keep in mind: Don't Become A Spammer :trollface:
   
 ## Content Marketing 
-When you don't have money or expertise to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your content. You don't have to be a profesional writer for making a cool content. So give yourself space to be creative. 
+When you don't have money or expertise to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your articles. You don't have to be a profesional writer for making a cool content. Just give yourself space to be creative and share your expertise. I encorage you to do a content-marketing by yourself, because outsorsing it can be tricky (espesialy at the beginning).
+
 :see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
 
 ### :sunglasses: Personal Blog
