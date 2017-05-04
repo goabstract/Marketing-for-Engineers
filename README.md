@@ -83,12 +83,19 @@ Useful tools:
 Be awere of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364).
 
 ## :email: Email Marketing
+I know what you are thinking right now: "nobody cares about emails". Well, do you have your favorite newsletters? Do you love discount emails from your favorite dev tool? I bet, the answer is "yes" :smirk: The goal of email marketing is to turn email addresses into loyal users or prospect partners. 
+
 ### Product emails 
+Product emails 
+
+The goal of onboarding is to increase the number of users who actually use your product (or free trial) and paid for it later. Onboarding process can be done not only via emails. You can reach out to users through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls. For [Flawless App](https://flawlessapp.io/) we decided to use a combination of triggered onboarding emails and in-app notifications.
+
 Product Onboarding emails: 
 * [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by customer.io team.
 * [Trial expiration email best practices](https://postmarkapp.com/guides/trial-expiration-email-best-practices) by Garrett Dimon.
 * [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by customer.io team.
 * [3 Lessons Learned From Testing Hundreds Of Onboarding Emails](https://www.groovehq.com/blog/email-onboarding-optimization) by Alex Turnbull, Groove founder. 
+* [How to Bring Inactive Users Back from the Dead with Emails](https://www.appcues.com/blog/how-to-bring-inactive-users-back-from-the-dead/) by Ty Magnin from Appcues.
 
 For getting an inspiration for your onboarding emails you can check some examples from popular companies:
 * [Email copy from great companies](http://www.goodemailcopy.com/) by Front or [Really Good Emails site](https://reallygoodemails.com/).
@@ -98,9 +105,10 @@ For getting an inspiration for your onboarding emails you can check some example
 When you have a new product release, you can use launch emails as an effective tool for growing users engagement:
 * [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
 
-You should A/B test different email headers, text, images, CTA button and always look on your metricks:
-
+You should always A/B test different email headers, text, message styles, images, CTA buttons. Look on your metricks and measure how well is your onboarding experience works:
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
+
+You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game. 
 
 
 ### :fearful: Cold emails
