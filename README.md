@@ -12,6 +12,7 @@
   * Facebook
   * Reddit
   * LinkedIn
+  * GitHub
 * [Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#email-email-marketing)
   * [Product Onboarding emails](https://github.com/LisaDziuba/Marketing-for-Engineers#product-emails)  
   * [Cold emails](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-emails)
@@ -22,16 +23,15 @@
 
 ## :triumph: Marketing without Budget
 You will find here a collection of free marketing channels for getting the first users. Most of it will take a lot of time & effort, but will not actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below. So, get fresh ideas from these real-life stories and think what could work for your users:
-* [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. This essay is a must-read for every stratup founder, indie developer or creator. You can also find many other useful essays in Paul Graham blog.
+* [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is a co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. This essay is a must-read for every creator, indie developer or startup founder. You can also find many other useful essays in Paul Graham blog.
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah
-* [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
-* If you have a very difficult product with ton of varying use cases, you can try [Using free products for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/). It's a great way to show benefits of your main produtc and increase brand awareness. This post shows how to sell API-solution via free high-valuable tools
+* Here is Product Hunt story! [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
+* If you have difficult product with many varying use cases, you can try to [use free products for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/). It's a great way to show benefits of your main offering and increase brand awareness. This post shows how to sell Clearbit API-solution via free high-valuable & easy-to-use tools. You can invest your time and make some free stuff as well. It can be anything, that gives a taste of your main product — UI kits, browser extensions, open source tools.
+* Promotion via freebies is a powerful tool to get emails of prospect leads. 
 
 We used many free marketing channels. 
 
-To be honest, when we started Flawless App we didn't have other ways. We wrote cold emails, talk to influencers, manually rectuit users at events, post at Facebook developers groups, worked with developers\designers via Twitter and did many other clever trics. 🎉 These gave us our first 1000 beta users 🎉 So try it out! 
-
-The only thing I ask you to keep in mind: Don't Become A Spammer :trollface:
+To be honest, when we started Flawless App we didn't have other ways. We wrote cold emails, talk to influencers, manually rectuit users at events, post at Facebook developers groups, worked with developers\designers via Twitter and did many other clever trics. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
   
 ## Content Marketing 
 When you don't have money or expertise to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your articles. You don't have to be a profesional writer for making a cool content. Just give yourself space to be creative and share your expertise. I encorage you to do a content-marketing by yourself, because outsorsing it can be tricky (espesialy at the beginning).
@@ -85,6 +85,11 @@ Useful tools:
 * [Crisp Live Chat](https://crisp.im/en/) is very useful duirng your launch campaing, when people ask things in a real-time. Sush communication can increase conversion at your site and give you a lot of insights. We use free version and it's awesome so far. 
 
 ## Social Media Marketing
+
+My favoirity SMM tools:
+* [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) for social media scheduling (both have free options). I love Buffer transperent culture and cool iOS dev team. 
+* [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
+
 ### Twitter
 
 Be awere of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364).
@@ -130,6 +135,7 @@ Most people hate cold outreach and everything connected to the direct sales. How
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
 * If you don't find needed email with Norbert, you can check [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
+* [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connectios. With this tool you can also see who have opened your email :wink:
 
 
 ## :bowtie: Building Partnerships 
