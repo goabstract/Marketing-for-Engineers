@@ -22,9 +22,9 @@
 
 
 ## :triumph: Marketing without Budget
-You will find here a collection of free marketing channels for getting the first users. Most of it will take a lot of time & effort, but will not actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing are comprehensively explained in its own directories below. So, get fresh ideas from these real-life stories and think what could work for your users:
-* [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is a co-founder of Y Combinator, computer scientist, investor, and enterpreneur. Paul shows how such popular companies as Stripe, Airbnb or Facebook got their first users. It's more philosophical read for helping your brain to think in the right direction. 
-* [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah. It highlights bunch of ideas to try.
+You will find here a collection of free marketing channels for getting the first users. Most of it will take a lot of time & effort, but will not actually cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing, are comprehensively explained in its own directories below. So, get fresh ideas from these real-life stories and think what could work for your users:
+* [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is a co-founder of Y Combinator, computer scientist, investor, and entrepreneur. Paul shows how such popular companies as Stripe, Airbnb or Facebook got their first users. It's more philosophical read for helping your brain to think in the right direction. 
+* [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah. It highlights a bunch of ideas to try.
 * Here is Product Hunt story! [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
 * If you have difficult product with many varying use cases, you can try to [use free products for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/). It's a great way to show benefits of your main offering and increase brand awareness. This post shows how to sell Clearbit API-solution via free high-valuable & easy-to-use tools. You can invest your time and make some free stuff as well. It can be anything, that gives a taste of your main product — UI kits, browser extensions, open source tools. By the way, open source products can tremendously grow loyalty to your brand! :heart_eyes: I love React-Sketchapp and Lottie from Airbnb Design team.
 * Promotion via freebies is a powerful tool to get emails of prospect leads. 
@@ -32,10 +32,10 @@ You will find here a collection of free marketing channels for getting the first
 
 We used many free marketing channels. 
 
-To be honest, when we started Flawless App we didn't have other ways. We wrote cold emails, talk to influencers, manually rectuit users at events, post at Facebook developers groups, worked with developers\designers via Twitter and did many other clever trics. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
+To be honest, when we started Flawless App we didn't have other ways. We wrote cold emails, talk to influencers, manually recruit users at events, post at Facebook developers groups, worked with developers\designers via Twitter and did many other clever tricks. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
   
 ## Content Marketing 
-When you don't have money or expertise to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your articles. You don't have to be a profesional writer for making a cool content. Just give yourself space to be creative and share your expertise. I encorage you to do a content-marketing by yourself, because outsorsing it can be tricky (espesialy at the beginning).
+When you don't have money or expertise to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your articles. You don't have to be a professional writer for making a cool content. Just give yourself space to be creative and share your expertise. I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning).
 
 :see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
 
@@ -59,7 +59,7 @@ Articles, where you can find what topics, titles, collections, tags, categories 
 * [What I learned from analyzing the top 252 Medium stories of 2016](https://medium.freecodecamp.com/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c), by freeCodeCamp founder Quincy Larson
 * [How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8), by Quincy Larson
 * [Medium’s Most Recommended Stories of 2016](https://medium.com/startup-grind/mediums-most-recommended-stories-of-2016-171efdd705c5), by Levent Aşkan
-* [How to Win at Medium (advice on title, text formating & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373), by Elizabeth Tobey
+* [How to Win at Medium (advice on title, text formatting & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373), by Elizabeth Tobey
 * [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905)    (timing, some promotional tips), by Ali Mese
 
 ### :mega: Promotion of your content
@@ -67,10 +67,10 @@ As you have already understood, you need to promote your content both for your o
 
 
 ## Influencer Marketing
-Influencer marketing is a type of marketing that focuses on working with opinioon leaders to drive a brand's message\product\service to the larger market.
+Influencer marketing is a type of marketing that focuses on working with opinion leaders to drive a brand's message\product\service to the larger market.
 
 ## :cat: Marketing for Product Hunt Launch 
-Product Hunt (PH) is a place to discover, share, and geek out about new products in tech. Submiting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get many honest feedback, downloads, users and PR buzz. Please, check success PH stories to decide if PH is the right launch platform for you!
+Product Hunt (PH) is a place to discover, share, and geek out about new products in tech. Submitting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get many honest feedback, downloads, users and PR buzz. Please, check success PH stories to decide if PH is the right launch platform for you!
 
 Start with [basic rules on Posting](https://help.producthunt.com/posting): how to post or comment, how to ask for support, how to get to the homepage. Then read [Five things everyone should know about Product Hunt](https://medium.com/product-hunt/five-things-everyone-should-know-about-product-hunt-fac74f44c32b). Join the PH community and feel how it works, before actually starting you launch activities.
 
@@ -82,8 +82,8 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 
 Useful tools:
 * [Notify](https://notify.ly/) notifies you in Slack when your startup is mentioned online. That helps you to answer\react quickly if somebody talks about your product (feedback, question). The tool is free. 
-* [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practise to thank those people for supporting you via Twitter 😍
-* [Crisp Live Chat](https://crisp.im/en/) is very useful duirng your launch campaing, when people ask things in a real-time. Sush communication can increase conversion at your site and give you a lot of insights. We use free version and it's awesome so far. 
+* [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practice to thank those people for supporting you via Twitter 😍
+* [Crisp Live Chat](https://crisp.im/en/) is very useful during your launch campaign when people ask things in a real-time. Such communication can increase conversion at your site and give you a lot of insights. We use the free version and it's awesome so far. 
 
 ## Social Media Marketing
 
@@ -93,7 +93,7 @@ My favoirity SMM tools:
 
 ### Twitter
 
-Be awere of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364). And these tools help you maximize your Twitter presence, from timing to sharing to analysis:
+Be aware of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364). And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
 
 
@@ -103,9 +103,9 @@ I know what you are thinking right now: "nobody cares about emails". Well, do yo
 ### Product emails 
 Product emails 
 
-The goal of onboarding is to increase the number of users who actually use your product (or free trial) and pay for it later. Onboarding process can be done not only via emails. You can reach out to users through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls :telephone_receiver:. For [Flawless App](https://flawlessapp.io/) we decided to use a combination of triggered onboarding emails and in-app notifications. I will focus mostly on onboarding emails, becasue it's the easies tool to start with. 
+The goal of onboarding is to increase the number of users who actually use your product (or free trial) and pay for it later. Onboarding process can be done not only via emails. You can reach out to users through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls :telephone_receiver:. For [Flawless App](https://flawlessapp.io/) we decided to use a combination of triggered onboarding emails and in-app notifications. I will focus mostly on onboarding emails because it's the easiest tool to start with. 
 
-These tutorial will help you to make your product onboarding experience right :love_letter:: 
+This tutorial will help you to make your product onboarding experience right :love_letter:: 
 * [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by customer.io team.
 * [Trial expiration email best practices](https://postmarkapp.com/guides/trial-expiration-email-best-practices) by Garrett Dimon.
 * [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by customer.io team.
@@ -116,50 +116,43 @@ For getting an inspiration for your onboarding emails you can check some example
 * [Email copy from great companies](http://www.goodemailcopy.com/) by Front or [Really Good Emails site](https://reallygoodemails.com/).
 * [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/) from Drift team.
 * [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9), by Bart King.
-* And finally! Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many-many examples of how popular web apps handle their onboarding experiences. The auther, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email. 
+* And finally! Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email. 
 
 When you have a new product release, you can use launch emails as an effective tool for growing users engagement:
 * [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
 
-You should always A/B test different email headers, text, message styles, images, CTA buttons. Look on your metricks and measure how well is your onboarding experience works:
+You should always A/B test different email headers, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
 
 You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game. 
 
 
 ### :fearful: Cold emails
-Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On everage, 25% of people answered on my cold emails. 😟 I was afreid, that people will write me: "go fucking away with your spam!" But, nobody did it. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing! 
+Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered on my cold emails. 😟 I was afraid, that people will write me: "go fucking away with your spam!" But, nobody did it. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing! 
 
-* Learn from people, who run cold email campaings, like this: [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
-* And here is some inspring stories from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
-* These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your targer audience. Don't forget to do research before writing cold email! You need to really know the person you are writing. Btw, these funny cool templates were done by Melissa Williams from Yesware. 
+* Learn from people, who run cold email campaigns, like this: [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
+* And here is some inspiring stories from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
+* These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. Btw, these funny cool templates were done by Melissa Williams from Yesware. 
 * And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team, which can help you to write your own too.
 
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
 * If you don't find needed email with Norbert, you can check [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
-* [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connectios. With this tool you can also see who have opened your email :wink:
+* [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool you can also see who have opened your email :wink:
 
 
 ## :bowtie: Building Partnerships 
 
-Communication is the key for building any kind of relationships. Every social community has its own rules for this. Business people will prefer concise value driven messages, when engineers are more open to deep well-thought-out talk. I encourage you to learn these social rules before writing a single line of LinkedIn invitation:
+Communication is the key to building any kind of relationships. Every social community has its own rules for this. Business people will prefer concise value driven messages when engineers are more open to deep well-thought-out talk. I encourage you to learn these social rules before writing a single line of LinkedIn invitation:
 
 * [How to Write Emails Like a CEO](https://medium.com/@Torbahax/how-to-write-emails-like-a-ceo-d6a2906611e0), by Andrew Torba
 * [5 rules for good email etiquette](https://byrslf.co/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671) by Mattan Griffel.
 * [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73) by Romain Serman
 
 ## 🕵️ Psychology in Marketing 
-If you want to make a deeper dive into the the user's brain, I will recommend you to learn disciplines on the intersection with marketing.
+If you want to make a deeper dive into the user's brain, I will recommend you to learn disciplines on the intersection of marketing.
 
 
 ## :moneybag: Pricing 
 We struggle in asking people to pay for your product or service.
-* [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging low price for you mobile apps or any other product.
-
-
-
-
-
-
-
+* [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging the low price for you mobile apps or any other product.
