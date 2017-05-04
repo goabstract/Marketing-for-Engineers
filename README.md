@@ -26,8 +26,9 @@ You will find here a collection of free marketing channels for getting the first
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is a co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. This essay is a must-read for every creator, indie developer or startup founder. You can also find many other useful essays in Paul Graham blog.
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah
 * Here is Product Hunt story! [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
-* If you have difficult product with many varying use cases, you can try to [use free products for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/). It's a great way to show benefits of your main offering and increase brand awareness. This post shows how to sell Clearbit API-solution via free high-valuable & easy-to-use tools. You can invest your time and make some free stuff as well. It can be anything, that gives a taste of your main product — UI kits, browser extensions, open source tools.
+* If you have difficult product with many varying use cases, you can try to [use free products for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/). It's a great way to show benefits of your main offering and increase brand awareness. This post shows how to sell Clearbit API-solution via free high-valuable & easy-to-use tools. You can invest your time and make some free stuff as well. It can be anything, that gives a taste of your main product — UI kits, browser extensions, open source tools. By the way, open Source products can tremendously grow loyalty to your brand! :heart_eyes: I love React-Sketchapp and Lottie from Airbnb Design team.s
 * Promotion via freebies is a powerful tool to get emails of prospect leads. 
+
 
 We used many free marketing channels. 
 
@@ -92,7 +93,9 @@ My favoirity SMM tools:
 
 ### Twitter
 
-Be awere of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364).
+Be awere of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364). And these tools help you maximize your Twitter presence, from timing to sharing to analysis:
+* [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
+
 
 ## :email: Email Marketing
 I know what you are thinking right now: "nobody cares about emails". Well, do you have your favorite newsletters? Do you love discount emails from your favorite dev tool? I bet, the answer is "yes" :smirk: The goal of email marketing is to turn email addresses into loyal users or prospect partners. 
