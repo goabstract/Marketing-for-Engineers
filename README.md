@@ -88,9 +88,9 @@ I know what you are thinking right now: "nobody cares about emails". Well, do yo
 ### Product emails 
 Product emails 
 
-The goal of onboarding is to increase the number of users who actually use your product (or free trial) and paid for it later. Onboarding process can be done not only via emails. You can reach out to users through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls. For [Flawless App](https://flawlessapp.io/) we decided to use a combination of triggered onboarding emails and in-app notifications.
+The goal of onboarding is to increase the number of users who actually use your product (or free trial) and pay for it later. Onboarding process can be done not only via emails. You can reach out to users through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls :telephone_receiver:. For [Flawless App](https://flawlessapp.io/) we decided to use a combination of triggered onboarding emails and in-app notifications. I will focus mostly on onboarding emails, becasue it's the easies tool to start with. 
 
-Product Onboarding emails: 
+These tutorial will help you to make your product onboarding experience right :love_letter:: 
 * [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by customer.io team.
 * [Trial expiration email best practices](https://postmarkapp.com/guides/trial-expiration-email-best-practices) by Garrett Dimon.
 * [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by customer.io team.
@@ -101,6 +101,7 @@ For getting an inspiration for your onboarding emails you can check some example
 * [Email copy from great companies](http://www.goodemailcopy.com/) by Front or [Really Good Emails site](https://reallygoodemails.com/).
 * [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/) from Drift team.
 * [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9), by Bart King.
+* And finally! Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many-many examples of how popular web apps handle their onboarding experiences. The auther, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email. 
 
 When you have a new product release, you can use launch emails as an effective tool for growing users engagement:
 * [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
