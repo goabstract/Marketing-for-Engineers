@@ -25,6 +25,7 @@ You will find here a collection of free marketing channels for getting the first
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is co-founder of Y Combinator, computer scientist, venture capitalist, and enterpreneur. This essay is a must-read for every stratup founder, indie developer or creator. You can also find many other useful essays in Paul Graham blog.
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah
 * [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
+* If you have a very difficult product with ton of varying use cases, you can try [Using free products for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/). It's a great way to show benefits of your main produtc and increase brand awareness. This post shows how to sell API-solution via free high-valuable tools
 
 We used many free marketing channels. 
 
@@ -79,8 +80,9 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 * [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app startup, who lauhcned on Product Hunt in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" useful. I encourage you to think about resources you will invest in PH launch versus possible outcome!
 
 Useful tools:
-* [Notify](https://notify.ly/) notifies you in Slack when your startup is mentioned online. That helps you to answer\react quickly if somebody talks about your product (feedback, question).
+* [Notify](https://notify.ly/) notifies you in Slack when your startup is mentioned online. That helps you to answer\react quickly if somebody talks about your product (feedback, question). The tool is free. 
 * [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practise to thank those people for supporting you via Twitter 😍
+* [Crisp Live Chat](https://crisp.im/en/) is very useful duirng your launch campaing, when people ask things in a real-time. Sush communication can increase conversion at your site and give you a lot of insights. We use free version and it's awesome so far. 
 
 ## Social Media Marketing
 ### Twitter
