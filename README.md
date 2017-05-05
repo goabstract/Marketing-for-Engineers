@@ -26,7 +26,7 @@ You will find here a collection of free marketing channels for getting the first
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is a co-founder of Y Combinator, computer scientist, investor, and entrepreneur. Paul shows how such popular companies as Stripe, Airbnb or Facebook got their first users. It's more philosophical read for helping your brain to think in the right direction. 
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah. It highlights a bunch of ideas to try.
 * Here is Product Hunt story! [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
-* If you have difficult product with many varying use cases, you can try to [use free products for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/). It's a great way to show benefits of your main offering and increase brand awareness. This post shows how to sell Clearbit API-solution via free high-valuable & easy-to-use tools. You can invest your time and make some free stuff as well. It can be anything, that gives a taste of your main product — UI kits, browser extensions, open source tools. By the way, open source products can tremendously grow loyalty to your brand! :heart_eyes: I love React-Sketchapp and Lottie from Airbnb Design team.
+* If you have difficult product with many varying use cases, you can try to [use free products for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/). It's a great way to show benefits of your main offering and increase brand awareness. This post shows how to sell Clearbit API-solution via free high-valuable & easy-to-use tools. You can invest your time and make some free stuff as well. It can be anything, that gives a taste of your main product — UI kits, browser extensions, open source tools. By the way, open source products can tremendously grow loyalty to your brand! :heart_eyes: I love OS React-Sketchapp and Lottie from Airbnb Design team.
 * Promotion via freebies is a powerful tool to get emails of prospect leads. 
 
 
@@ -42,7 +42,7 @@ So, your first step is to creat a content-plan.
 :see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
 
 ### :sunglasses: Personal Blog
-Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. Personaly, I don't like clickbites article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the induыtry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?) 
+Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. Personaly, I don't like clickbites article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?) 
 
 To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practise, "design for beginners", "how to market your app". Writing one artilce takes me minimun 3-4 days (five A4 pages).  Also, we decided to use Medium, as we didn't have time to make\maintane a personal blog at our website. 
 
@@ -96,6 +96,8 @@ My favoirity SMM tools:
 * [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
 
 ### Twitter
+
+[I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) via inbound.org.
 
 Be aware of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364). And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
