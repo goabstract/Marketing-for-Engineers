@@ -44,7 +44,12 @@ Next step is to creat a content-plan. Pick a schedule and write consistently on 
 :see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
 
 ### :sunglasses: Personal Blog
-Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. I know, that you would like to write a deep comprehansive article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?) 
+Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. I know, that you would like to write a deep comprehansive article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). More advice on getting ideas for your blog:
+
+* [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from  Help Scout team.
+
+
+When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?) 
 
 To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practise, "design for beginners", "how to market your app". Writing one artilce takes me minimun 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! We decided to use Medium, as we didn't have time to make\maintane a personal blog at our website. 
 
