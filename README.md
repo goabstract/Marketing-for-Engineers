@@ -35,9 +35,9 @@ We used many free marketing channels.
 To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talk to influencers, manually recruit users at events, post at Facebook developers groups, worked with developers\designers via Twitter and did many other clever tricks. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
   
 ## Content Marketing 
-Content Marketing is about promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your articles. You don't have to be a professional writer for making a cool content. Just give yourself space to be creative and share your expertise. I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning).
+Content Marketing is about promotion via content. You can run your personal blog, do guest-blogging or write at the popular industry platforms (or do everething). Focus on how you can help your users with your content. You don't have to be a professional writer for making cool articles. Just give yourself space to be creative and share your expertise. I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning).
 
-🤔 First think how your blog is you going to stand out. There are planty of cool blogs in every industry. So how are you going to be different? What unique value can you offer that nobody else has yet?
+🤔 First think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer that nobody else has yet?
 
 Next step is to creat a content-plan. Pick a schedule and write consistently on it.
 
