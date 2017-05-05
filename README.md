@@ -37,16 +37,16 @@ To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't 
 ## Content Marketing 
 Content Marketing is about promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your articles. You don't have to be a professional writer for making a cool content. Just give yourself space to be creative and share your expertise. I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning).
 
-🤔 First think how your blog is you going to stand out. There are planty of cool blogs in every industry and for every topic imaginable. So how are you going to be different? What unique value can you offer that nobody else has yet?
+🤔 First think how your blog is you going to stand out. There are planty of cool blogs in every industry. So how are you going to be different? What unique value can you offer that nobody else has yet?
 
-Next step is to creat a content-plan. 
+Next step is to creat a content-plan. Pick a schedule and write consistently on it.
 
 :see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
 
 ### :sunglasses: Personal Blog
 Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. I know, that you would like to write a deep comprehansive article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?) 
 
-To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practise, "design for beginners", "how to market your app". Writing one artilce takes me minimun 3-4 days (five A4 pages).  Also, we decided to use Medium, as we didn't have time to make\maintane a personal blog at our website. 
+To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practise, "design for beginners", "how to market your app". Writing one artilce takes me minimun 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! We decided to use Medium, as we didn't have time to make\maintane a personal blog at our website. 
 
 ### :green_book: Medium Marketing
 Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. I want also show you the downside of using Medium versus your own blog:
@@ -68,10 +68,14 @@ Articles, where you can find what topics, titles, collections, tags, categories 
 * [How to Win at Medium (advice on title, text formatting & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373), by Elizabeth Tobey
 * [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905)    (timing, some promotional tips), by Ali Mese.
 
-Publishing on Medium or elsewhere removes all your technology hassles. 
+Publishing on Medium or elsewhere removes all your technology hassles. It's a good place to start implemenating your content marketing strategy :stuck_out_tongue_winking_eye:
 
 ### :mega: Promotion of your content
 As you have already understood, you need to promote your content both for your own blog, Medium-like platforms or guest post at other blogs. Here some ideas how to promote your great articles: 
+
+* You can use some of these [38 Free Places to Promote Blog Posts Once You Hit Publish](http://www.mybloglift.com/places-to-promote-blog-posts/). Learn about every platform before sharing your content there (or you will become a spammer!)
+
+Content Marketing is not only about getting people to read your amazing articles (and use your product later). It's also about developing and maintaining relationships with audience. You have to creat dialog with your readers and constanly be improving.
 
 
 ## Influencer Marketing
@@ -164,7 +168,7 @@ Communication is the key to building any kind of relationships. Every social com
 
 ## 🕵️ Psychology in Marketing 
 If you want to make a deeper dive into the user's brain, I will recommend you to learn disciplines on the intersection of marketing.
-
+[31 Copywriting Tips Based on Psychology and Linguistics](https://www.nickkolenda.com/copywriting-tips/) by Nick Kolenda.
 
 ## :moneybag: Pricing 
 We struggle in asking people to pay for your product or service.
