@@ -111,6 +111,7 @@ This tutorial will help you to make your product onboarding experience right :lo
 * [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by customer.io team.
 * [3 Lessons Learned From Testing Hundreds Of Onboarding Emails](https://www.groovehq.com/blog/email-onboarding-optimization) by Alex Turnbull, Groove founder. 
 * [How to Bring Inactive Users Back from the Dead with Emails](https://www.appcues.com/blog/how-to-bring-inactive-users-back-from-the-dead/) by Ty Magnin from Appcues.
+* And finally, [User Onboarding isn’t a feature, it’s an evolving quality of your entire customer experience](https://medium.com/help-scout/user-onboarding-isn-t-a-feature-230455e7e41a) via Samuel Hulick.
 
 For getting an inspiration for your onboarding emails you can check some examples from popular companies:
 * [Email copy from great companies](http://www.goodemailcopy.com/) by Front or [Really Good Emails site](https://reallygoodemails.com/).
@@ -123,6 +124,7 @@ When you have a new product release, you can use launch emails as an effective t
 
 You should always A/B test different email headers, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
+* [Best Practices for Buttons: The User Experience of colors] by Luca Longo. One more short read to help you shoce your CTA button. 
 
 You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game. 
 
