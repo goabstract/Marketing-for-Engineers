@@ -32,19 +32,23 @@ You will find here a collection of free marketing channels for getting the first
 
 We used many free marketing channels. 
 
-To be honest, when we started Flawless App we didn't have other ways. We wrote cold emails, talk to influencers, manually recruit users at events, post at Facebook developers groups, worked with developers\designers via Twitter and did many other clever tricks. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
+To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talk to influencers, manually recruit users at events, post at Facebook developers groups, worked with developers\designers via Twitter and did many other clever tricks. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
   
 ## Content Marketing 
 When you don't have money or expertise to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your articles. You don't have to be a professional writer for making a cool content. Just give yourself space to be creative and share your expertise. I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning).
 
+So, your first step is to creat a content-plan. 
+
 :see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
 
 ### :sunglasses: Personal Blog
-Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. 
+Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. Personaly, I don't like clickbites article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the induыtry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?) 
+
+To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practise, "design for beginners", "how to market your app". Writing one artilce takes me minimun 3-4 days (five A4 pages).  Also, we decided to use Medium, as we didn't have time to make\maintane a personal blog at our website. 
 
 ### :green_book: Medium Marketing
 Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. I want also show you the downside of using Medium versus your own blog:
--  Lower Conversion. 
+- Lower Conversion. 
 You can get huge traffic to your Medium blog, but it doesn’t mean that people will go to your website or offering.
 - No magic with getting traffic
 You still need to promote your articles yourself. 
@@ -114,13 +118,14 @@ This tutorial will help you to make your product onboarding experience right :lo
 * And finally, [User Onboarding isn’t a feature, it’s an evolving quality of your entire customer experience](https://medium.com/help-scout/user-onboarding-isn-t-a-feature-230455e7e41a) via Samuel Hulick.
 
 For getting an inspiration for your onboarding emails you can check some examples from popular companies:
-* [Email copy from great companies](http://www.goodemailcopy.com/) by Front or [Really Good Emails site](https://reallygoodemails.com/).
+* [Email copy from great companies](http://www.goodemailcopy.com/) or [Really Good Emails site](https://reallygoodemails.com/).
 * [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/) from Drift team.
 * [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9), by Bart King.
 * And finally! Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email. 
 
 When you have a new product release, you can use launch emails as an effective tool for growing users engagement:
 * [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
+* [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d)
 
 You should always A/B test different email headers, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
