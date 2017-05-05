@@ -139,7 +139,7 @@ When you have a new product release, you can use launch emails as an effective t
 
 You should always A/B test different email headers, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
-* [Best Practices for Buttons: The User Experience of colors] by Luca Longo. One more short read to help you shoce your CTA button. 
+* [Best Practices for Buttons: The User Experience of colors](https://uxplanet.org/best-practices-for-buttons-b7048479d440) by Luca Longo. One more short read to help you shoce your CTA button. 
 
 You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game. 
 
@@ -168,7 +168,7 @@ Communication is the key to building any kind of relationships. Every social com
 
 ## 🕵️ Psychology in Marketing 
 If you want to make a deeper dive into the user's brain, I will recommend you to learn disciplines on the intersection of marketing.
-[31 Copywriting Tips Based on Psychology and Linguistics](https://www.nickkolenda.com/copywriting-tips/) by Nick Kolenda.
+* [31 Copywriting Tips Based on Psychology and Linguistics](https://www.nickkolenda.com/copywriting-tips/) by Nick Kolenda.
 
 ## :moneybag: Pricing 
 We struggle in asking people to pay for your product or service.
