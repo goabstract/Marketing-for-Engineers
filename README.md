@@ -35,14 +35,16 @@ We used many free marketing channels.
 To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talk to influencers, manually recruit users at events, post at Facebook developers groups, worked with developers\designers via Twitter and did many other clever tricks. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
   
 ## Content Marketing 
-When you don't have money or expertise to do paid advertising, consider promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your articles. You don't have to be a professional writer for making a cool content. Just give yourself space to be creative and share your expertise. I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning).
+Content Marketing is about promotion via content. You can run your personal blog or do guest-blogging at the popular industry platforms\blogs (or both). Focus on how you can help your users with your articles. You don't have to be a professional writer for making a cool content. Just give yourself space to be creative and share your expertise. I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning).
 
-So, your first step is to creat a content-plan. 
+🤔 First think how your blog is you going to stand out. There are planty of cool blogs in every industry and for every topic imaginable. So how are you going to be different? What unique value can you offer that nobody else has yet?
+
+Next step is to creat a content-plan. 
 
 :see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
 
 ### :sunglasses: Personal Blog
-Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. Personaly, I don't like clickbites article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?) 
+Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. I know, that you would like to write a deep comprehansive article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?) 
 
 To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practise, "design for beginners", "how to market your app". Writing one artilce takes me minimun 3-4 days (five A4 pages).  Also, we decided to use Medium, as we didn't have time to make\maintane a personal blog at our website. 
 
@@ -51,7 +53,7 @@ Medium is an online publishing platform with the huge active community. You can 
 - Lower Conversion. 
 You can get huge traffic to your Medium blog, but it doesn’t mean that people will go to your website or offering.
 - No magic with getting traffic
-You still need to promote your articles yourself. 
+You still need to promote your articles yourself. Medium is a high-traffic community, but you are not teh only one who competes for attention. 
 
 Basics of writing on Medium. How to write, edit, publish and add your article to publications:
 * [FAQ from Medium on Writing](https://help.medium.com/hc/en-us/sections/115001484727-General)
@@ -64,7 +66,9 @@ Articles, where you can find what topics, titles, collections, tags, categories 
 * [How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8), by Quincy Larson
 * [Medium’s Most Recommended Stories of 2016](https://medium.com/startup-grind/mediums-most-recommended-stories-of-2016-171efdd705c5), by Levent Aşkan
 * [How to Win at Medium (advice on title, text formatting & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373), by Elizabeth Tobey
-* [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905)    (timing, some promotional tips), by Ali Mese
+* [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905)    (timing, some promotional tips), by Ali Mese.
+
+Publishing on Medium or elsewhere removes all your technology hassles. 
 
 ### :mega: Promotion of your content
 As you have already understood, you need to promote your content both for your own blog, Medium-like platforms or guest post at other blogs. Here some ideas how to promote your great articles: 
