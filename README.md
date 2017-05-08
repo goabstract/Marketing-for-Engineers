@@ -93,6 +93,9 @@ Content Marketing is not only about getting people to read your amazing articles
 ## Influencer Marketing
 Influencer marketing is a type of marketing that focuses on working with opinion leaders to drive a brand's message\product\service to the larger market.
 
+* [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer. 
+
+
 ## :cat: Marketing for Product Hunt Launch 
 Product Hunt (PH) is a place to discover, share, and geek out about new products in tech. Submitting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get many honest feedback, downloads, users and PR buzz. Please, check success PH stories to decide if PH is the right launch platform for you!
 
@@ -127,7 +130,8 @@ And these tools help you maximize your Twitter presence, from timing to sharing 
 
 ### Facebook
 * [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
-* Advanced video on  [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
+* Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
+* Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights)
 
 ### LinkedIn
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
@@ -195,6 +199,7 @@ Communication is the key to building any kind of relationships. Every social com
 ## 🕵️ Psychology in Marketing 
 If you want to make a deeper dive into the user's brain, I will recommend you to learn disciplines on the intersection of marketing.
 * [31 Copywriting Tips Based on Psychology and Linguistics](https://www.nickkolenda.com/copywriting-tips/) by Nick Kolenda.
+* [The Psychology of Marketing: 18 Ways to Use Social Proof to Boost Your Results](https://blog.bufferapp.com/social-proof) by Alfred Lua from Buffer team.
 
 ## :moneybag: Pricing 
 We struggle in asking people to pay for your product or service.
