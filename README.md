@@ -47,7 +47,7 @@ Next step is to creat a content-plan. Pick a schedule and write consistently on 
 ### :sunglasses: Personal Blog
 Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. I know, that you would like to write a deep comprehansive article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). More advices on getting ideas for your blog and make writing a bit easier:
 
-* [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from  Help Scout team.
+* [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from Help Scout team.
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools, that find out what people were asking about your industry (via keywords). 
 * [Here’s How to Use Your Daily Habits For Writing Better Content in Less Time](https://moz.com/blog/heres-how-to-use-your-daily-habits-for-writing-better-content-in-less-time) by Lesley J. Vos.
 
@@ -158,6 +158,7 @@ For getting an inspiration for your onboarding emails you can check some example
 When you have a new product release, you can use launch emails as an effective tool for growing users engagement:
 * [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
 * [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d)
+* [A simple improvement to product announcements](https://blog.intercom.com/simple-improvement-product-mails/) from Intercome.
 
 You should always A/B test different email headers, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
