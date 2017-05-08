@@ -50,7 +50,11 @@ Start off by creating a blog that not only touts your product but offers helpful
 * [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from  Help Scout team.
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools, that find out what people were asking about your industry (via keywords). 
 
-When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?). Think about the right headlines for driving interest to your great article: 
+When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?). Pick the most approprite content format for your idea (video, list, long-read). Keep in mind, that some content format perfom better for improving your website SEO:
+* [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday) by Rand Fishkin
+
+
+Think about the right headlines for driving interest to your great article: 
 * [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/)
 
 To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practise, "design for beginners", "how to market your app". Writing one artilce takes me minimun 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! We decided to use Medium, as we didn't have time to make\maintane a personal blog at our website. 
@@ -111,9 +115,13 @@ My favoirity SMM tools:
 * [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
 
 ### Twitter
+
+* [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow. 
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) via inbound.org.
 
-Be aware of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364). And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
+Be aware of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364). 
+
+And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
 
 ### Facebook
