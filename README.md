@@ -173,6 +173,7 @@ Most people hate cold outreach and everything connected to the direct sales. How
 * And here is some inspiring stories from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
 * These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. Btw, these funny cool templates were done by Melissa Williams from Yesware. 
 * And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team, which can help you to write your own too.
+* [Timing is everything: what Intercom data says about the best time to send a message](https://blog.intercom.com/timing-is-everything-what-our-data-says-about-when-to-message-your-customers/) by Geoffrey Keating.
 
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
