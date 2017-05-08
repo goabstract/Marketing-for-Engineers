@@ -50,12 +50,12 @@ Start off by creating a blog that not only touts your product but offers helpful
 * [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from  Help Scout team.
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools, that find out what people were asking about your industry (via keywords). 
 
-When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?). Pick the most approprite content format for your idea (video, list, long-read). Keep in mind, that some content format perfom better for improving your website SEO:
-* [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday) by Rand Fishkin
-
-
-Think about the right headlines for driving interest to your great article: 
+When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?). Pick the most approprite content format for your idea (video, list, long-read). Think about the right headlines for driving interest to your great article: 
 * [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/)
+
+Craft blog with SEO focus:
+* [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-frinedly. He talks about blog strategy, keyword research and promotion of your blog via building links to posts.
+* [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday) by Rand Fishkin.
 
 To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practise, "design for beginners", "how to market your app". Writing one artilce takes me minimun 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! We decided to use Medium, as we didn't have time to make\maintane a personal blog at our website. 
 
