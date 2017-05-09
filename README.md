@@ -26,7 +26,7 @@ You will find here a collection of free marketing channels for getting the first
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is a co-founder of Y Combinator, computer scientist, investor, and entrepreneur. Paul shows how such popular companies as Stripe, Airbnb or Facebook got their first users. It's more philosophical read for helping your brain to think in the right direction. 
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah. It highlights a bunch of ideas to try.
 * Here is Product Hunt story! [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
-* [Comment Marketing: How to Earn Benefits from Community Participation](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) by Rand Fishkin. You can gain attention to your company via sharing meaningful opinions and thoughts. Rand Fishkin made an exelent 9 minutues how-to video on it!
+* [Comment Marketing: How to Earn Benefits from Community Participation](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) by Rand Fishkin. You can gain attention to your company via sharing meaningful opinions and thoughts. Rand Fishkin made an excellent 9 minutes how-to video on it!
 * If you have difficult product with many varying use cases, you can try to [use free products for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/). It's a great way to show benefits of your main offering and increase brand awareness. This post shows how to sell Clearbit API-solution via free high-valuable & easy-to-use tools. You can invest your time and make some free stuff as well. It can be anything, that gives a taste of your main product — UI kits, browser extensions, open source tools. By the way, open source products can tremendously grow loyalty to your brand! :heart_eyes: I love OS React-Sketchapp and Lottie from Airbnb Design team.
 * Promotion via freebies is a powerful tool to get emails of prospect leads. 
 
@@ -40,12 +40,12 @@ Content Marketing is about promotion via content. You can run your personal blog
 
 🤔 First, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer that nobody else has yet?
 
-Next step is to creat a content-plan. Pick a schedule and write consistently on it.
+Next step is to create a content plan. Pick a schedule and write consistently on it.
 
 :see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
 
 ### :sunglasses: Personal Blog
-Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. I know, that you would like to write a deep comprehansive article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). More advices on getting ideas for your blog and make writing a bit easier:
+Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. I know, that you would like to write a deep comprehensive article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). More advice on getting ideas for your blog and make writing a bit easier:
 
 * [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from Help Scout team.
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools, that find out what people were asking about your industry (via keywords). 
@@ -59,7 +59,7 @@ Craft blog with SEO focus:
 * [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-frinedly. He talks about blog strategy, keyword research and promotion of your blog via building links to posts.
 * [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday) by Rand Fishkin.
 
-To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practise, "design for beginners", "how to market your app". Writing one artilce takes me minimun 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! We decided to use Medium, as we didn't have time to make\maintane a personal blog at our website. 
+To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practice, "design for beginners", "how to market your app". Writing one article takes me minimum 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! We decided to use Medium, as we didn't have time to make/maintain a personal blog at our website. 
 
 ### :green_book: Medium Marketing
 Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. I want also show you the downside of using Medium versus your own blog:
@@ -81,14 +81,14 @@ Articles, where you can find what topics, titles, collections, tags, categories 
 * [How to Win at Medium (advice on title, text formatting & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373), by Elizabeth Tobey
 * [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905)    (timing, some promotional tips), by Ali Mese.
 
-Publishing on Medium or elsewhere removes all your technology hassles. It's a good place to start implemenating your content marketing strategy :stuck_out_tongue_winking_eye:
+Publishing on Medium or elsewhere removes all your technology hassles. It's a good place to start implementing your content marketing strategy :stuck_out_tongue_winking_eye:
 
 ### :mega: Promotion of your content
 As you have already understood, you need to promote your content both for your own blog, Medium-like platforms or guest post at other blogs. Here some ideas how to promote your great articles: 
 
 * You can use some of these [38 Free Places to Promote Blog Posts Once You Hit Publish](http://www.mybloglift.com/places-to-promote-blog-posts/). Learn about every platform before sharing your content there (or you will become a spammer!)
 
-Content Marketing is not only about getting people to read your amazing articles (and use your product later). It's also about developing and maintaining relationships with audience. You have to creat dialog with your readers and constanly be improving.
+Content Marketing is not only about getting people to read your amazing articles (and use your product later). It's also about developing and maintaining relationships with the audience. You have to create a dialog with your readers and constantly be improving.
 
 
 ## Influencer Marketing
@@ -96,7 +96,7 @@ Influencer marketing is a type of marketing that focuses on working with opinion
 
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
 
-Usefull tools:
+Useful tools:
 * [SocialHunt] helps you to monitor a group of chosen Twitter profiles. You can receive people's activities in your email hourly\weekly and engage with them. 
 * Use RSS apps for getting content from influencers' blogs. You can comment those posts and share good one via your social media. [Selfoss](https://selfoss.aditu.de/) is a good RSS app. It's an open source, so you may dig into its code and customize things.
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
@@ -111,7 +111,7 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 
 * [Product Hunt 101](https://medium.com/swlh/product-hunt-101-426511f03501) from one of the top hunters, Robleh Jama. It's very useful to listen to the launch algorithm from the person, who submit a lot of different products.
 * [The SaaS founder’s guide to Product Hunt](https://blog.amplifr.com/en/amplifr-on-producthunt/) from the Russian company, Amplifr. It's a nice tutorial around your product preparation (onboarding, language check, emails and other not obvious stuff).
-* [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app startup, who lauhcned on Product Hunt in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" useful. I encourage you to think about resources you will invest in PH launch versus possible outcome!
+* [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app startup, who launched on Product Hunt in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" useful. I encourage you to think about resources you will invest in PH launch versus possible outcome!
 
 Useful tools:
 * [Notify](https://notify.ly/) notifies you in Slack when your startup is mentioned online. That helps you to answer\react quickly if somebody talks about your product (feedback, question). The tool is free. 
@@ -120,9 +120,9 @@ Useful tools:
 
 ## Social Media Marketing
 
-* [How to Create a Social Media Marketing Strategy From Scratch](https://blog.bufferapp.com/social-media-marketing-plan) by Kevan Lee, Buffer Marketing Director. It's a comprehensive long-read about basic on SMM stategy. 
+* [How to Create a Social Media Marketing Strategy From Scratch](https://blog.bufferapp.com/social-media-marketing-plan) by Kevan Lee, Buffer Marketing Director. It's a comprehensive long-read about basic on SMM strategy. 
 
-When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favoirity ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have build-in analitics. So you can pick simple metrics that are meaningful and can be analyzed. 
+When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favorite ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have built-in analytics. So you can pick simple metrics that are meaningful and can be analyzed. 
 
 My SMM toolbox:
 * [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
@@ -144,7 +144,7 @@ And these tools help you maximize your Twitter presence, from timing to sharing 
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
 
 ### Facebook
-Facebook has many marketing options that could fit your company focus, budget and your current knowleadge. To target your users on Facebook you can work with pages, ads, and groups. Learn about
+Facebook has many marketing options that could fit your company focus, budget and your current knowledge. To target your users on Facebook you can work with pages, ads, and groups. Learn about
 
 Facebook Pages:
 * Many interesting thoughts on content, post types and other beginners question: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
@@ -163,7 +163,7 @@ The Beginner’s Guides to Facebook Advertising:
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
 * [LinkedIn Ads: Step-by-Step Tutorial](https://adespresso.com/academy/blog/linkedin-ads-everything-need-know/) by AdEspresso team.
 
-If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know' section. You only need to choose the key words. 
+If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords. 
 
 ## :email: Email Marketing
 I know what you are thinking right now: "nobody cares about emails". Well, do you have your favorite newsletters? Do you love discount emails from your favorite dev tool? I bet, the answer is "yes" :smirk: The goal of email marketing is to turn email addresses into loyal users or prospect partners. 
