@@ -66,7 +66,7 @@ Medium is an online publishing platform with the huge active community. You can 
 - Lower Conversion. 
 You can get huge traffic to your Medium blog, but it doesn’t mean that people will go to your website or offering.
 - No magic with getting traffic
-You still need to promote your articles yourself. Medium is a high-traffic community, but you are not teh only one who competes for attention. 
+You still need to promote your articles yourself. Medium is a high-traffic community, but you are not the only one who competes for attention. 
 
 Basics of writing on Medium. How to write, edit, publish and add your article to publications:
 * [FAQ from Medium on Writing](https://help.medium.com/hc/en-us/sections/115001484727-General)
@@ -126,8 +126,8 @@ When you have multiple Social Media accounts, use dashboards & tools for managin
 
 My SMM toolbox:
 * [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
-* [Nuzzel](http://nuzzel.com/) can show you the top content being shared among all your followers on Twitter and Facebook. You can use that content for sharing or as example. It's free tool.
-* [Google Analytics Campaign URL builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) for making UTM codes and here is guide on [Using UTM Parameters to Track Social Media Success](https://blog.hootsuite.com/how-to-use-utm-parameters/) from Hootsuite.
+* [Nuzzel](http://nuzzel.com/) can show you the top content being shared among all your followers on Twitter and Facebook. You can use that content for sharing or as an example. It's free tool.
+* [Google Analytics Campaign URL builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) for making UTM codes and here is a guide on [Using UTM Parameters to Track Social Media Success](https://blog.hootsuite.com/how-to-use-utm-parameters/) from Hootsuite.
  
 
 ### Twitter
