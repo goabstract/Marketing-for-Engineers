@@ -103,7 +103,7 @@ Useful tools:
 
 
 ## :cat: Marketing for Product Hunt Launch 
-Product Hunt (PH) is a place to discover, share, and geek out about new products in tech. Submitting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get many honest feedback, downloads, users and PR buzz. Please, check success PH stories to decide if PH is the right launch platform for you!
+Product Hunt (PH) is a place to discover, share, and geek out about new products in tech. Submitting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get a lot of honest feedback, downloads, users and PR buzz. Please, check success PH stories to decide if PH is the right launch platform for you!
 
 Start with [basic rules on Posting](https://help.producthunt.com/posting): how to post or comment, how to ask for support, how to get to the homepage. Then read [Five things everyone should know about Product Hunt](https://medium.com/product-hunt/five-things-everyone-should-know-about-product-hunt-fac74f44c32b). Join the PH community and feel how it works, before actually starting you launch activities.
 
@@ -201,11 +201,11 @@ You can work really hard and get a lot of traffic or trial signups. But if your 
 
 
 ### :fearful: Cold emails
-Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered on my cold emails. 😟 I was afraid, that people will write me: "go fucking away with your spam!" But, nobody did it. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing! 
+Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered on my cold emails. 😟 I was afraid, that people will write me: "go f**king away with your spam!" But, nobody did it. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing! 
 
 * Learn from people, who run cold email campaigns, like this: [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
 * And here is some inspiring stories from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
-* These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. Btw, these funny cool templates were done by Melissa Williams from Yesware. 
+* These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. By the way, these funny cool templates were done by Melissa Williams from Yesware. 
 * And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team, which can help you to write your own too.
 * [Timing is everything: what Intercom data says about the best time to send a message](https://blog.intercom.com/timing-is-everything-what-our-data-says-about-when-to-message-your-customers/) by Geoffrey Keating.
 
