@@ -33,12 +33,12 @@ You will find here a collection of free marketing channels for getting the first
 
 We used many free marketing channels. 
 
-To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talk to influencers, manually recruit users at events, post at Facebook developers groups, worked with developers\designers via Twitter and did many other clever tricks. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
+To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talk to influencers, manually recruit users at events, post at Facebook developers groups, worked with developers/designers via Twitter and did many other clever tricks. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
   
 ## Content Marketing 
 Content Marketing is about promotion via content. You can run your personal blog, do guest-blogging or write at the popular industry platforms (or combine it). Focus on how you can help your users with your content. You don't have to be a professional writer for making cool articles. Just give yourself space to be creative and share your expertise. I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning).
 
-🤔 First think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer that nobody else has yet?
+🤔 First, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer that nobody else has yet?
 
 Next step is to creat a content-plan. Pick a schedule and write consistently on it.
 
@@ -109,7 +109,7 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 
 :scream: Successful PH launch takes a lot of preparation, promotion during the launch (24h++) and follow-up work. These guides will help you:
 
-* [Product Hunt 101](https://medium.com/swlh/product-hunt-101-426511f03501) from one of the top-hunters, Robleh Jama. It's very useful to listen to the launch algorithm from the person, who submit a lot of different products.
+* [Product Hunt 101](https://medium.com/swlh/product-hunt-101-426511f03501) from one of the top hunters, Robleh Jama. It's very useful to listen to the launch algorithm from the person, who submit a lot of different products.
 * [The SaaS founder’s guide to Product Hunt](https://blog.amplifr.com/en/amplifr-on-producthunt/) from the Russian company, Amplifr. It's a nice tutorial around your product preparation (onboarding, language check, emails and other not obvious stuff).
 * [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app startup, who lauhcned on Product Hunt in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" useful. I encourage you to think about resources you will invest in PH launch versus possible outcome!
 
@@ -214,7 +214,7 @@ Useful tools:
 * If you don't find needed email with Norbert, you can check 
   * [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
   * [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
-* [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool you can also see who have opened your email :wink:
+* [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool, you can also see who have opened your email :wink:
 
 
 ## :bowtie: Building Partnerships 
