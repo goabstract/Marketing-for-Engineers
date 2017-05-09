@@ -143,10 +143,13 @@ And these tools help you maximize your Twitter presence, from timing to sharing 
 * [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
 * Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
 * Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights)
+* [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson. 
+
 
 ### LinkedIn
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
 
+If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know' section. You only need to choose the key words. 
 
 ## :email: Email Marketing
 I know what you are thinking right now: "nobody cares about emails". Well, do you have your favorite newsletters? Do you love discount emails from your favorite dev tool? I bet, the answer is "yes" :smirk: The goal of email marketing is to turn email addresses into loyal users or prospect partners. 
@@ -161,6 +164,7 @@ This tutorial will help you to make your product onboarding experience right :lo
 * [Trial expiration email best practices](https://postmarkapp.com/guides/trial-expiration-email-best-practices) by Garrett Dimon.
 * [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by customer.io team.
 * [3 Lessons Learned From Testing Hundreds Of Onboarding Emails](https://www.groovehq.com/blog/email-onboarding-optimization) by Alex Turnbull, Groove founder. 
+* [3 copywriting mistakes that could be hurting your lifecycle emails](https://blog.kissmetrics.com/3-copywriting-mistakes/) by Alli Blum.
 * [How to Bring Inactive Users Back from the Dead with Emails](https://www.appcues.com/blog/how-to-bring-inactive-users-back-from-the-dead/) by Ty Magnin from Appcues.
 * And finally, [User Onboarding isn’t a feature, it’s an evolving quality of your entire customer experience](https://medium.com/help-scout/user-onboarding-isn-t-a-feature-230455e7e41a) via Samuel Hulick.
 
