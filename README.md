@@ -9,9 +9,9 @@
 * [Marketing for Product Hunt Launch](https://github.com/LisaDziuba/Marketing-for-Engineers#cat-marketing-for-product-hunt-launch)
 * [Social Media Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#social-media-marketing)
   * [Twitter](https://github.com/LisaDziuba/Marketing-for-Engineers#twitter)
-  * Facebook
+  * [Facebook](https://github.com/LisaDziuba/Marketing-for-Engineers#facebook)
   * Reddit
-  * LinkedIn
+  * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#linkedin)
   * GitHub
 * [Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#email-email-marketing)
   * [Product Onboarding emails](https://github.com/LisaDziuba/Marketing-for-Engineers#product-emails)  
