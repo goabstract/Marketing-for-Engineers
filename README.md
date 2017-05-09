@@ -99,7 +99,7 @@ Influencer marketing is a type of marketing that focuses on working with opinion
 Usefull tools:
 * [SocialHunt] helps you to monitor a group of chosen Twitter profiles. You can receive people's activities in your email hourly\weekly and engage with them. 
 * Use RSS apps for getting content from influencers' blogs. You can comment those posts and share good one via your social media. [Selfoss](https://selfoss.aditu.de/) is a good RSS app. It's an open source, so you may dig into its code and customize things.
-
+* [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
 
 
 ## :cat: Marketing for Product Hunt Launch 
@@ -127,6 +127,7 @@ When you have multiple Social Media accounts, use dashboards & tools for managin
 My SMM toolbox:
 * [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
 * [Nuzzel](http://nuzzel.com/) can show you the top content being shared among all your followers on Twitter and Facebook. You can use that content for sharing or as example. It's free tool.
+* [Google Analytics Campaign URL builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) for making UTM codes and here is guide on [Using UTM Parameters to Track Social Media Success](https://blog.hootsuite.com/how-to-use-utm-parameters/) from Hootsuite.
  
 
 ### Twitter
@@ -152,9 +153,10 @@ Facebook Groups:
 
 The Beginner’s Guides to Facebook Advertising:
 * Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
-* Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team/
+* Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team.
 * [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson. 
 * [Using hashtags in Facebook adds](https://adespresso.com/academy/blog/hashtags-on-facebook-the-definitive-guide/) from AdEspresso team.
+* [How to use Facebook pixel tracking to refine your advertising strategy](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
 
 
 ### LinkedIn
