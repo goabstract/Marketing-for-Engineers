@@ -53,6 +53,7 @@ Start off by creating a blog that not only touts your product but offers helpful
 
 When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?). Pick the most approprite content format for your idea (video, list, long-read). Think about the right headlines for driving interest to your great article: 
 * [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/)
+* [30+ Ultimate Headline Formulas](https://blog.bufferapp.com/headline-formulas)
 
 Craft blog with SEO focus:
 * [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-frinedly. He talks about blog strategy, keyword research and promotion of your blog via building links to posts.
