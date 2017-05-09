@@ -93,7 +93,10 @@ Content Marketing is not only about getting people to read your amazing articles
 ## Influencer Marketing
 Influencer marketing is a type of marketing that focuses on working with opinion leaders to drive a brand's message\product\service to the larger market.
 
-* [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer. 
+* [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
+
+Usefull tools:
+* [SocialHunt] helps you to monitor a group of chosen Twitter profiles. You can receive people's activities in your email hourly\weekly and engage with them. 
 
 
 ## :cat: Marketing for Product Hunt Launch 
@@ -114,9 +117,14 @@ Useful tools:
 
 ## Social Media Marketing
 
-My favoirity SMM tools:
-* [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) for social media scheduling (both have free options). I love Buffer transperent culture and cool iOS dev team. 
+* [How to Create a Social Media Marketing Strategy From Scratch](https://blog.bufferapp.com/social-media-marketing-plan) by Kevan Lee, Buffer Marketing Director. It's a comprehensive long-read about basic on SMM stategy. 
+
+When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favoirity ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have build-in analitics. So you can pick simple metrics that are meaningful and can be analyzed. 
+
+My SMM toolbox:
 * [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
+* [Nuzzel](http://nuzzel.com/) can show you the top content being shared among all your followers on Twitter and Facebook. You can use that content for sharing or as example. It's free tool.
+ 
 
 ### Twitter
 
