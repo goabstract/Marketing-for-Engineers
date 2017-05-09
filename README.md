@@ -143,14 +143,23 @@ And these tools help you maximize your Twitter presence, from timing to sharing 
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
 
 ### Facebook
-* [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
+Facebook has many marketing options that could fit your company focus, budget and your current knowleadge. To target your users on Facebook you can work with pages, ads, and groups. Learn about
+
+Facebook Pages:
+* Many interesting thoughts on content, post types and other beginners question: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
+
+Facebook Groups:
+
+The Beginner’s Guides to Facebook Advertising:
 * Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
-* Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights)
+* Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team/
 * [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson. 
+* [Using hashtags in Facebook adds](https://adespresso.com/academy/blog/hashtags-on-facebook-the-definitive-guide/) from AdEspresso team.
 
 
 ### LinkedIn
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
+* [LinkedIn Ads: Step-by-Step Tutorial](https://adespresso.com/academy/blog/linkedin-ads-everything-need-know/) by AdEspresso team.
 
 If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know' section. You only need to choose the key words. 
 
