@@ -98,6 +98,8 @@ Influencer marketing is a type of marketing that focuses on working with opinion
 
 Usefull tools:
 * [SocialHunt] helps you to monitor a group of chosen Twitter profiles. You can receive people's activities in your email hourly\weekly and engage with them. 
+* Use RSS apps for getting content from influencers' blogs. You can comment those posts and share good one via your social media. [Selfoss](https://selfoss.aditu.de/) is a good RSS app. It's an open source, so you may dig into its code and customize things.
+
 
 
 ## :cat: Marketing for Product Hunt Launch 
