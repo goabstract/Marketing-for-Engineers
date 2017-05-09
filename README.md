@@ -134,6 +134,9 @@ My SMM toolbox:
 * [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow. 
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) via inbound.org.
 
+Follow-Unfollow game is tricky. Using such tools can give your company Twitter "first followers". But in most cases, it will be bots or inactive users:
+* [Is “fake” Twitter following working?](https://aggregateblog.com/automated-twitter-following-tools/)
+
 Be aware of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364). 
 
 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
