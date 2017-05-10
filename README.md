@@ -161,7 +161,13 @@ The Beginner’s Guides to Facebook Advertising:
 * [How to use Facebook pixel tracking to refine your advertising strategy](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
 
 ### Reddit
+
+Start with beginners guide on [How to Use Reddit](https://www.shopify.com/blog/how-to-use-reddit) by Braveen Kumar. 
+
 * [How To Make Your First $1,000 with Reddit Ads](http://ryanluedecke.com/reddit-ads/) by Ryan Luedecke. It's an old, but super informative tutorial. 
+
+Useful tools:
+
 
 ### LinkedIn
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
@@ -228,6 +234,9 @@ Communication is the key to building any kind of relationships. Every social com
 * [How to Write Emails Like a CEO](https://medium.com/@Torbahax/how-to-write-emails-like-a-ceo-d6a2906611e0), by Andrew Torba
 * [5 rules for good email etiquette](https://byrslf.co/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671) by Mattan Griffel.
 * [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73) by Romain Serman
+
+Check these guides on building partnerships (both for software & physical products):
+* [Co-Marketing: How to Reach New Customers With Strategic Partnerships](https://www.shopify.com/blog/195109129-co-marketing-strategic-partnerships) by Braveen Kumar. Reccomendations will suit companies, who have phisical products. 
 
 ## 🕵️ Psychology in Marketing 
 If you want to make a deeper dive into the user's brain, I will recommend you to learn disciplines on the intersection of marketing.
