@@ -28,6 +28,7 @@ You will find here a collection of free marketing channels for getting the first
 * [How Product Hunt Got First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
 * [Comment Marketing: How to Earn Benefits from Community Participation](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) by Rand Fishkin. You can gain attention to your company via sharing meaningful opinions and thoughts. Rand Fishkin made an excellent 9 minutes how-to video on it!
 * [Hacking the Press: Clever Ways to Get Free Press Coverage with Zero Budget](https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget) by Tucker Schreiber from Shopify. Although the post has some focus on online-shops, it gives a solid overview of getting free press coverage.
+* Also check these [51 Best Referral Program Examples of 2016] to find a good fit for your product. Prepared by Brandon Gains from Referral SaaSquatch. 
 * [Use free products for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/) when you have difficult tool with many use cases. It's a great way to show benefits of your main offering and increase brand awareness. This post shows how to sell Clearbit API-solution via free valuable & easy-to-use tools. You can invest your time and make some free stuff as well — UI kits, browser extensions, open source tools.
 * Promotion via freebies is a powerful tool to get emails of prospect leads. 
 
@@ -96,6 +97,7 @@ Content Marketing is not only about getting people to read your amazing articles
 Influencer marketing is a type of marketing that focuses on working with opinion leaders to drive a brand's message\product\service to the larger market.
 
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
+* [How to Run Influencer Marketing Campaigns](https://www.referralsaasquatch.com/influencer-marketing-campaigns/). Brandon Gains mostly focused on working with selebrities 
 
 Useful tools:
 * [SocialHunt] helps you to monitor a group of chosen Twitter profiles. You can receive people's activities in your email hourly\weekly and engage with them. 
