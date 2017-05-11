@@ -40,9 +40,13 @@ To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't 
 Content Marketing is about promotion via content. You can run your personal blog, do guest-blogging or write at the popular industry platforms (or combine it). Focus on how you can help your users with your content. You don't have to be a professional writer for making cool articles. Just give yourself space to be creative and share your expertise. 
 
 I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning). 
-🤔 Firstly, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer that nobody else has yet? Next step is to create a content plan and define your stategy, based on user research:
+🤔 Firstly, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer to your users? How can you build an engaged readers community? And the most important question is how you will convert these readers into leads. With all those considarations, you should create a content stategy:
 * [How to Generate Strategic Content Ideas for Each Funnel Stage](https://blog.ladder.io/content-strategy/) by Tyler Hakes.
-* 
+* [Growing From 0-12k Organic Visitors by Mapping Content to the Sales Funnel](https://growandconvert.com/content-marketing/grew-organic-visitors-suggested-search-hack/) by Benji Hyam. This post shows how to make content strategy for mobile and Web oriented blog. 
+* [How to use Popup to convert leads directly off of your blog](https://sumo.com/stories/email-popup-lead-generation). Now Benji Hyam explains how to get sales from your blog. 
+* [How to Turn Your Blog’s Thank You Page Into a Lead Generating Machine](https://growandconvert.com/conversion-rate-optimization/thank-you-lead-generating-machine/) by Emil Shour.
+* [How To Convert Blog Traffic Into Customers With CTAs: The Complete Guide](https://growandconvert.com/conversion-rate-optimization/blog-conversion-strategy/) by Devesh Khanal. 	
+* Don't forget to canculate [The Customer Acquisition Cost of Content Marketing](https://growandconvert.com/content-marketing/customer-acquisition-cost/#).
 
 
 ### :sunglasses: Personal Blog 
@@ -57,6 +61,7 @@ Pick the most approprite content format —  video, list, long-read, etc. Think 
 * [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/)
 * [30+ Ultimate Headline Formulas](https://blog.bufferapp.com/headline-formulas)
 * [Copywriting Headlines That Sell (with Templates & Swipe File)](https://kopywritingkourse.com/copywriting-headlines-that-sell/)
+* [The 3-Step Bulletproof Formula To Writing Kickass Blog Post Headlines](https://growandconvert.com/content-marketing/writing-blog-post-headlines/) by Danavir Sarria.
 
 Craft blog with SEO focus:
 * [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-frinedly. He talks about blog strategy, keyword research and promotion of your blog via building links to posts.
@@ -96,8 +101,9 @@ Publishing on Medium or elsewhere removes all your technology hassles. It's a go
 As you have already understood, you need to promote your content both for your own blog, Medium-like platforms or guest post at other blogs. Here some ideas how to promote your great articles: 
 
 * You can use some of these [38 Free Places to Promote Blog Posts Once You Hit Publish](http://www.mybloglift.com/places-to-promote-blog-posts/). Learn about every platform before sharing your content there (or you will become a spammer!)
+* [Content Promotion: How We Grew from 0 to 32,977 Users in 5 Months With Zero Paid Traffic](https://growandconvert.com/content-marketing/community-content-promotion/) by Benji Hyam.	
 
-Content Marketing is not only about getting people to read your amazing articles (and use your product later). It's also about developing and maintaining relationships with the audience. You have to create a dialog with your readers and constantly be improving.
+Content Marketing is not only about getting people to read your amazing articles (and use your product later). It's also about developing and maintaining relationships with community. 
 
 
 ## Influencer Marketing
@@ -171,6 +177,7 @@ The Beginner’s Guides to Facebook Advertising:
 * [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson. 
 * [Using hashtags in Facebook adds](https://adespresso.com/academy/blog/hashtags-on-facebook-the-definitive-guide/) from AdEspresso team.
 * [How to use Facebook pixel tracking to refine your advertising strategy](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
+* [Facebook Ads Review 101: Rules to follow to get your ads approved… quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
 
 ### Reddit
 Reddit is one of the most active internet community with it’s own unique culture. You can get tons of cool information there, great product feedback and first users. :satisfied: However, it's better to learn Reddit rules and basics before you get banned:
@@ -276,6 +283,7 @@ Check these guides on building partnerships (both for software & physical produc
 If you want to make a deeper dive into the user's brain, I will recommend you to learn disciplines on the intersection of marketing.
 * [Psychology of Marketing: Using Maslow’s Hierarchy of Needs](https://kopywritingkourse.com/marketing-psychology/) by Neville Medhora.
 * [31 Copywriting Tips Based on Psychology and Linguistics](https://www.nickkolenda.com/copywriting-tips/) by Nick Kolenda.
+* [12 Ways to Build Social Proof (From Scratch)](https://sumo.com/stories/build-social-proof) by Sarah Peterson
 * [The Psychology of Marketing: 18 Ways to Use Social Proof to Boost Your Results](https://blog.bufferapp.com/social-proof) by Alfred Lua from Buffer team.
 
 ## :moneybag: Pricing 
