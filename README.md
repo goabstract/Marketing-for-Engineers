@@ -121,6 +121,7 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 
 * [Product Hunt 101](https://medium.com/swlh/product-hunt-101-426511f03501) from one of the top hunters, Robleh Jama. It's very useful to listen to the launch algorithm from the person, who submit a lot of different products.
 * [The SaaS founder’s guide to Product Hunt](https://blog.amplifr.com/en/amplifr-on-producthunt/) from the Russian company, Amplifr. It's a nice tutorial around your product preparation (onboarding, language check, emails and other not obvious stuff).
+* [Master Checklist for Launching on Product Hunt (spreadsheet)](https://docs.google.com/spreadsheets/d/1ebg2HyS5P-WkznG5Tvr7mYtKZqXsDLXARtYWpxfkieo/edit#gid=0) by SpreadShare team.
 * [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app startup, who launched on Product Hunt in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" useful. I encourage you to think about resources you will invest in PH launch versus possible outcome!
 
 Useful tools:
@@ -161,6 +162,8 @@ Facebook Pages:
 * Many interesting thoughts on content, post types and other beginners question: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
 
 Facebook Groups:
+* [List of 50 Facebook Groups for Product, Tech, Growth Managers](https://docs.google.com/spreadsheets/d/1Zcjdm59lfMjsD4BfreLbSiCNBCO3bedolxlnsfeXyXA/edit#gid=0)
+* 
 
 The Beginner’s Guides to Facebook Advertising:
 * Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
@@ -181,15 +184,13 @@ Guides on promoting and advertising on Reddit:
 * [My Experience & 9 Ideas for Advertising on Reddit](https://www.shivarweb.com/3100/how-to-advertise-on-reddit/) by Nate Shivar.
 * [How To Make Your First $1,000 with Reddit Ads](http://ryanluedecke.com/reddit-ads/) by Ryan Luedecke. It's an old, but super informative tutorial. 
 * [The Reddit Ads Experiment: What We Learned for $250](https://blog.ladder.io/reddit-ads/) by Alex Berman. Spoiler: "we got a clear confirmation that the Reddit community is still Ad-proof and smells/ignores promoted posts". 
-
-Other interesting ways of using Reddit:
-* [How To Use Reddit For SEO & Content Marketing Research](https://www.shivarweb.com/3778/use-reddit-seo-content-marketing/) by Nate Shivar.
+* Other interesting case: [How To Use Reddit For SEO & Content Marketing Research](https://www.shivarweb.com/3778/use-reddit-seo-content-marketing/) by Nate Shivar.
 
 Useful tools:
 * [Later](https://laterforreddit.com/) helps to schedule your posts to Reddit and cross-post your link to other subreddits. Tool has free option.
 * [Subreddit Analysis Tool from Later](https://dashboard.laterforreddit.com/analysis/). It's a free tool.
 * [Reddit Insight](http://www.redditinsight.com/) is an analytics tool for real-time post tracking, single user tracking and other data analysis. 
-* [SnoopSnoo](SNOOP(SnoopSnoo Logo)SNOO provides reddit user and subreddits analytics.) provides reddit user and subreddits analytics.
+* [SnoopSnoo](https://snoopsnoo.com/) provides reddit user and subreddits analytics.
 * [RedditList](http://redditlist.com/) is useful for digging up worthwhile subreddits.
 * [Reddit converter](http://vyper.io/reddit_converter/) converts your text (blog post) to Reddit markdown.
 
