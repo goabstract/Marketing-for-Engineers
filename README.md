@@ -12,7 +12,7 @@
   * [Facebook](https://github.com/LisaDziuba/Marketing-for-Engineers#facebook)
   * Reddit
   * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#linkedin)
-  * GitHub
+  * Quora
 * [Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#email-email-marketing)
   * [Product Onboarding emails](https://github.com/LisaDziuba/Marketing-for-Engineers#product-emails)  
   * [Cold emails](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-emails)
@@ -40,17 +40,17 @@ To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't 
 Content Marketing is about promotion via content. You can run your personal blog, do guest-blogging or write at the popular industry platforms (or combine it). Focus on how you can help your users with your content. You don't have to be a professional writer for making cool articles. Just give yourself space to be creative and share your expertise. 
 
 I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning). 
-🤔 First, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer that nobody else has yet? Next step is to create a content plan. Pick a schedule and write consistently on it.
+🤔 Firstly, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer that nobody else has yet? Next step is to create a content plan and define your stategy, based on user research:
+* [How to Generate Strategic Content Ideas for Each Funnel Stage](https://blog.ladder.io/content-strategy/) by Tyler Hakes.
+* 
 
 
 ### :sunglasses: Personal Blog 
-Start off by creating a blog that not only touts your product but offers helpful advice, tips & tricks, links, etc. I know, that you'd like to write a deep comprehensive article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these advice on getting ideas:
+Start off by creating a blog that not only touts your product but offers helpful advice, tips & tricks, links, etc. Check what competitors' blogs are publishing, what is popular in the industry and what your users are interested in. Align your articles ideas with the content starategy, you have already definded. To get some article inspiration scroll these advices:
 
 * [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from Help Scout team.
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools, that find out what people were asking about your industry (via keywords).
 * [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/)
-
-When you generated ideas, put them into your content plan:
 
 
 Pick the most approprite content format —  video, list, long-read, etc. Think about the right headlines for driving interest to your article: 
@@ -61,13 +61,14 @@ Pick the most approprite content format —  video, list, long-read, etc. Think 
 Craft blog with SEO focus:
 * [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-frinedly. He talks about blog strategy, keyword research and promotion of your blog via building links to posts.
 * [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday) by Rand Fishkin.
+* [How To Use 11+ Free Tools To Find Prequalified Content Ideas for SEO](https://www.shivarweb.com/4275/finding-content-ideas-for-seo/) from Nate Shivar. Article is focused on prequalifying your content ideas with SEO research. 
 
 :see_no_evil: Check your grammar! I use these cool apps:
 * [Hemingway App](http://www.hemingwayapp.com/)
 * [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) 
 * Browser extensions, like []()
 
-To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practice, "design for beginners", "how to market your app". Writing one article takes me minimum 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! As a publishing platform, we decided to use Medium, as we didn't have time to make/maintain a personal blog at our website. 
+To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practice, "design for beginners", "how to market your app". Our content startegy is written in a simple Google Spreadsheet. Writing one article takes me minimum 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! As a publishing platform, we decided to use Medium, as we didn't have time to make/maintain a personal blog at our website. 
 
 ### :green_book: Medium Marketing
 Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. I want also show you the downside of using Medium versus your own blog:
@@ -131,9 +132,10 @@ Useful tools:
 
 * [How to Create a Social Media Marketing Strategy From Scratch](https://blog.bufferapp.com/social-media-marketing-plan) by Kevan Lee, Buffer Marketing Director. It's a comprehensive long-read about basic on SMM strategy. 
 
-When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favorite ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have built-in analytics. So you can pick simple metrics that are meaningful and can be analyzed. 
+
 
 My SMM toolbox:
+* When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favorite ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have built-in analytics. So you can pick simple metrics that are meaningful and can be analyzed. 
 * [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
 * [Nuzzel](http://nuzzel.com/) can show you the top content being shared among all your followers on Twitter and Facebook. You can use that content for sharing or as an example. It's free tool.
 * [Google Analytics Campaign URL builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) for making UTM codes and here is a guide on [Using UTM Parameters to Track Social Media Success](https://blog.hootsuite.com/how-to-use-utm-parameters/) from Hootsuite.
@@ -194,11 +196,15 @@ Useful tools:
 
 ### LinkedIn
 * [LinkedIn Company / Business Page Best Practices with Examples](https://www.shivarweb.com/11556/linkedin-company-business-page-best-practices/) from ShivarWeb staff.
+* [Company Page Best Practices with Page Examples](https://business.linkedin.com/marketing-solutions/company-pages/best-practices) via LinkedIn.
 * [How to Advertise On LinkedIn Effectively](https://www.shivarweb.com/11163/how-to-advertise-on-linkedin/) by Nate Shivar. 
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
 * [LinkedIn Ads: Step-by-Step Tutorial](https://adespresso.com/academy/blog/linkedin-ads-everything-need-know/) by AdEspresso team.
 
 If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords. 
+
+### Quora
+* [How To Use Quora For SEO & Content Marketing](https://www.shivarweb.com/10583/how-to-use-quora-for-seo-content-marketing/) by Nate Shivar.
 
 ## :email: Email Marketing
 I know what you are thinking right now: "nobody cares about emails". Well, do you have your favorite newsletters? Do you love discount emails from your favorite dev tool? I bet, the answer is "yes" :smirk: The goal of email marketing is to turn email addresses into loyal users or prospect partners. 
@@ -238,11 +244,13 @@ You can work really hard and get a lot of traffic or trial signups. But if your 
 ### :fearful: Cold emails
 Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered on my cold emails. 😟 I was afraid, that people will write me: "go f**king away with your spam!" But, nobody did it. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing! 
 
-* Learn from people, who run cold email campaigns, like this: [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
+Learn from people, who run cold email campaigns: 
+* [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
 * And here is some inspiring stories from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
 * These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. By the way, these funny cool templates were done by Melissa Williams from Yesware. 
 * And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team, which can help you to write your own too.
 * [Timing is everything: what Intercom data says about the best time to send a message](https://blog.intercom.com/timing-is-everything-what-our-data-says-about-when-to-message-your-customers/) by Geoffrey Keating.
+* [How To Send Better Email & Avoid Email Spam Trigger Words](https://www.shivarweb.com/9451/email-spam-trigger-words/) by Nate Shivar.
 
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
