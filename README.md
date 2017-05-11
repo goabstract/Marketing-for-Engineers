@@ -110,6 +110,7 @@ Content Marketing is not only about getting people to read your amazing articles
 Influencer marketing is a type of marketing that focuses on working with opinion leaders to drive a brand's message\product\service to the larger market.
 
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
+* [This Songwriter Accidentally Executed Influencer Marketing Perfectly and Got 40k Viewers Overnight](https://growandconvert.com/marketing/influencer-marketing-case-study/) by Benji Hyam.	
 
 
 Useful tools:
@@ -152,6 +153,7 @@ My SMM toolbox:
 
 * [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow. 
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) via inbound.org.
+* [How to Get Higher Tweet Engagement? We Analyzed 23,858 MarTech Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson.
 
 Follow-Unfollow game is tricky. Using such tools can give your company Twitter "first followers". But in most cases, it will be bots or inactive users:
 * [Is “fake” Twitter following working?](https://aggregateblog.com/automated-twitter-following-tools/)
