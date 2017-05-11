@@ -37,30 +37,37 @@ We used many free marketing channels.
 To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talk to influencers, manually recruit users at events, post at Facebook developers groups, worked with developers/designers via Twitter and did many other clever tricks. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
   
 ## Content Marketing 
-Content Marketing is about promotion via content. You can run your personal blog, do guest-blogging or write at the popular industry platforms (or combine it). Focus on how you can help your users with your content. You don't have to be a professional writer for making cool articles. Just give yourself space to be creative and share your expertise. I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning).
+Content Marketing is about promotion via content. You can run your personal blog, do guest-blogging or write at the popular industry platforms (or combine it). Focus on how you can help your users with your content. You don't have to be a professional writer for making cool articles. Just give yourself space to be creative and share your expertise. 
 
-🤔 First, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer that nobody else has yet?
+I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning). 
+🤔 First, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer that nobody else has yet? Next step is to create a content plan. Pick a schedule and write consistently on it.
 
-Next step is to create a content plan. Pick a schedule and write consistently on it.
 
-:see_no_evil: Please, always check your grammar! I use these cool apps — [Hemingway App](http://www.hemingwayapp.com/), [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) or browser extensions. Now it's time to write your first article :metal:
-
-### :sunglasses: Personal Blog
-Start off by creating a blog that not only touts your product but offers helpful advice, tips, tricks, links, etc. I know, that you would like to write a deep comprehensive article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/). More advice on getting ideas for your blog and make writing a bit easier:
+### :sunglasses: Personal Blog 
+Start off by creating a blog that not only touts your product but offers helpful advice, tips & tricks, links, etc. I know, that you'd like to write a deep comprehensive article, but it's better to write something easy at the beginning. Check what competitors' blogs are publishing, what is popular in the industry or just scroll these advice on getting ideas:
 
 * [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from Help Scout team.
-* [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools, that find out what people were asking about your industry (via keywords). 
-* [Here’s How to Use Your Daily Habits For Writing Better Content in Less Time](https://moz.com/blog/heres-how-to-use-your-daily-habits-for-writing-better-content-in-less-time) by Lesley J. Vos.
+* [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools, that find out what people were asking about your industry (via keywords).
+* [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/)
 
-When you generated ideas, put them into your content plan (do all your ideas suit choosen content topics?). Pick the most approprite content format for your idea (video, list, long-read). Think about the right headlines for driving interest to your great article: 
+When you generated ideas, put them into your content plan:
+
+
+Pick the most approprite content format —  video, list, long-read, etc. Think about the right headlines for driving interest to your article: 
 * [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/)
 * [30+ Ultimate Headline Formulas](https://blog.bufferapp.com/headline-formulas)
+* [Copywriting Headlines That Sell (with Templates & Swipe File)](https://kopywritingkourse.com/copywriting-headlines-that-sell/)
 
 Craft blog with SEO focus:
 * [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-frinedly. He talks about blog strategy, keyword research and promotion of your blog via building links to posts.
 * [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday) by Rand Fishkin.
 
-To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practice, "design for beginners", "how to market your app". Writing one article takes me minimum 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! We decided to use Medium, as we didn't have time to make/maintain a personal blog at our website. 
+:see_no_evil: Check your grammar! I use these cool apps:
+* [Hemingway App](http://www.hemingwayapp.com/)
+* [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) 
+* Browser extensions, like []()
+
+To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practice, "design for beginners", "how to market your app". Writing one article takes me minimum 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! As a publishing platform, we decided to use Medium, as we didn't have time to make/maintain a personal blog at our website. 
 
 ### :green_book: Medium Marketing
 Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. I want also show you the downside of using Medium versus your own blog:
