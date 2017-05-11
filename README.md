@@ -161,15 +161,28 @@ The Beginner’s Guides to Facebook Advertising:
 * [How to use Facebook pixel tracking to refine your advertising strategy](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
 
 ### Reddit
+Reddit is one of the most active internet community with it’s own unique culture. You can get tons of cool information there, great product feedback and first users. :satisfied: However, it's better to learn Reddit rules and basics before you get banned:
+* [How to Use Reddit: beginners guide](https://www.shopify.com/blog/how-to-use-reddit) by Braveen Kumar. 
+* [Reddiquette](https://www.reddit.com/wiki/reddiquette). Pay extra attention to the "please don't" section.
+* [Self-promotion on reddit](https://www.reddit.com/wiki/selfpromotion). 
+* [A complete glossary of Reddit terms ](https://www.reddit.com/r/TheoryOfReddit/wiki/glossary) 
 
-Start with beginners guide on [How to Use Reddit](https://www.shopify.com/blog/how-to-use-reddit) by Braveen Kumar. 
-
+Guides on promoting and advertising on Reddit:
+* [How to Promote on Reddit without Getting (Shadow) Banned or Deleted](http://vyper.io/blog/promote-on-reddit/) by Vyper.io team.
+* [My Experience & 9 Ideas for Advertising on Reddit](https://www.shivarweb.com/3100/how-to-advertise-on-reddit/) by Nate Shivar.
 * [How To Make Your First $1,000 with Reddit Ads](http://ryanluedecke.com/reddit-ads/) by Ryan Luedecke. It's an old, but super informative tutorial. 
+* [The Reddit Ads Experiment: What We Learned for $250](https://blog.ladder.io/reddit-ads/) by Alex Berman. Spoiler: "we got a clear confirmation that the Reddit community is still Ad-proof and smells/ignores promoted posts". 
+
+Other interesting ways of using Reddit:
+* [How To Use Reddit For SEO & Content Marketing Research](https://www.shivarweb.com/3778/use-reddit-seo-content-marketing/) by Nate Shivar.
 
 Useful tools:
 * [Later](https://laterforreddit.com/) helps to schedule your posts to Reddit and cross-post your link to other subreddits. Tool has free option.
 * [Subreddit Analysis Tool from Later](https://dashboard.laterforreddit.com/analysis/). It's a free tool.
 * [Reddit Insight](http://www.redditinsight.com/) is an analytics tool for real-time post tracking, single user tracking and other data analysis. 
+* [SnoopSnoo](SNOOP(SnoopSnoo Logo)SNOO provides reddit user and subreddits analytics.) provides reddit user and subreddits analytics.
+* [RedditList](http://redditlist.com/) is useful for digging up worthwhile subreddits.
+* [Reddit converter](http://vyper.io/reddit_converter/) converts your text (blog post) to Reddit markdown.
 
 
 ### LinkedIn
