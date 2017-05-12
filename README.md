@@ -227,6 +227,7 @@ Useful tools:
 If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords. 
 
 ### Quora
+* [Growth Hacking 1,500+ Visits From Quora](http://webris.org/how-to-drive-10000-monthly-visits-using-quora/) by Ryan Stewart.
 * [How To Use Quora For SEO & Content Marketing](https://www.shivarweb.com/10583/how-to-use-quora-for-seo-content-marketing/) by Nate Shivar.
 
 ## :email: Email Marketing
