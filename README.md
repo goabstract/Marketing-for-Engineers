@@ -78,11 +78,7 @@ Craft blog with SEO focus:
 To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practice, "design for beginners", "how to market your app". Our content startegy is written in a simple Google Spreadsheet. Writing one article takes me minimum 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! As a publishing platform, we decided to use Medium, as we didn't have time to make/maintain a personal blog at our website. 
 
 ### :green_book: Medium Marketing
-Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. I want also show you the downside of using Medium versus your own blog:
-- Lower Conversion. 
-You can get huge traffic to your Medium blog, but it doesn’t mean that people will go to your website or offering.
-- No magic with getting traffic
-You still need to promote your articles yourself. Medium is a high-traffic community, but you are not the only one who competes for attention. 
+Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. You still need to promote your articles yourself. Medium is a high-traffic community, but you are not the only one who competes for attention. 
 
 Basics of writing on Medium. How to write, edit, publish and add your article to publications:
 * [FAQ from Medium on Writing](https://help.medium.com/hc/en-us/sections/115001484727-General)
@@ -102,9 +98,9 @@ Publishing on Medium or elsewhere removes all your technology hassles. It's a go
 ### :mega: Promotion of your content
 As you have already understood, you need to promote your content both for your own blog, Medium-like platforms or guest post at other blogs. Here some ideas how to promote your great articles: 
 
-* You can use some of these [38 Free Places to Promote Blog Posts Once You Hit Publish](http://www.mybloglift.com/places-to-promote-blog-posts/). Learn about every platform before sharing your content there (or you will become a spammer!)
+* [38 Free Places to Promote Blog Posts Once You Hit Publish](http://www.mybloglift.com/places-to-promote-blog-posts/). Learn about every platform before sharing your content there (or you will become a spammer!)
 * [Content Promotion: How We Grew from 0 to 32,977 Users in 5 Months With Zero Paid Traffic](https://growandconvert.com/content-marketing/community-content-promotion/) by Benji Hyam.	
-
+* [How to get featured on large publications with republished content](https://sumo.com/stories/traffic-from-republishing) by Sarah Peterson. 
 Content Marketing is not only about getting people to read your amazing articles (and use your product later). It's also about developing and maintaining relationships with community. 
 
 
