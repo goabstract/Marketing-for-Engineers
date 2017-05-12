@@ -26,6 +26,7 @@ You will find here a collection of free marketing channels for getting the first
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is a co-founder of Y Combinator, computer scientist, investor, and entrepreneur. Paul shows how such popular companies as Stripe, Airbnb or Facebook got their first users. It's more philosophical read for helping your brain to think in the right direction. 
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah. It highlights a bunch of ideas to try.
 * [How Product Hunt Got First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
+* [How We Got Our First 100 Paying Customers in 24 Hours](https://www.groovehq.com/blog/startup-first-paying-customers) by Alex Turnbull, Groove founder. 
 * [Comment Marketing: How to Earn Benefits from Community Participation](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) by Rand Fishkin. You can gain attention to your company via sharing meaningful opinions and thoughts. Rand Fishkin made an excellent 9 minutes how-to video on it!
 * [Hacking the Press: Clever Ways to Get Free Press Coverage with Zero Budget](https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget) by Tucker Schreiber from Shopify. Although the post has some focus on online-shops, it gives a solid overview of getting free press coverage.
 * [Referral Marketing](https://www.referralsaasquatch.com/comprehensive-referral-marketing-guide/) and [Mobile Referral Marketing](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/) can work perfect! For inspiration check these [51 Best Referral Program Examples of 2016](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/). These exellent posts were prepared by Brandon Gains. 
@@ -107,14 +108,17 @@ Content Marketing is not only about getting people to read your amazing articles
 
 
 ## Influencer Marketing
-Influencer marketing is a type of marketing that focuses on working with opinion leaders to drive a brand's message\product\service to the larger market.
-
+Influencer marketing is a type of marketing that focuses on working with opinion leaders to drive a brand's message\product\service to the larger market:
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
 * [The Ultimate Guide to Influencer Marketing](https://sumo.com/stories/influencer-marketing-super-connector) by Jason Quey.
-* [This Songwriter Accidentally Executed Influencer Marketing Perfectly and Got 40k Viewers Overnight](https://growandconvert.com/marketing/influencer-marketing-case-study/) by Benji Hyam.	
+* [Influencers definitely should be compensated. The only question is how](http://klear.com/blog/paying-an-influencer/) by Yuval Maoz.
 * [How to engage with Twitter influencers](https://blog.twitter.com/2016/how-to-use-influencer-marketing-to-grow-your-small-business) via Twitter blog. 
 * Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team. 
-* [Micro-Influencers Show The Best ROI For Brand Partnerships (Research)](http://klear.com/blog/micro-influencers-roi/) by Yuval Maoz.  
+* [The Barney Stinson’s Playbook For Cold Tweeting Influencers](http://klear.com/blog/influencer-outreach-with-cold-tweets/) by Noam Avigdor.
+
+Case-studies, which can teach and inspire you:
+* [How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours](https://www.groovehq.com/blog/1000-subscribers) by Alex Turnbull. Groove team built relationships with influencers for getting the first readers on thier blog. Very smart tactics! 
+* [This Songwriter Accidentally Executed Influencer Marketing Perfectly and Got 40k Viewers Overnight](https://growandconvert.com/marketing/influencer-marketing-case-study/) by Benji Hyam.	
 
 
 Useful tools:
@@ -177,6 +181,7 @@ And these tools help you maximize your Twitter presence, from timing to sharing 
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
 * [Twitonomy](http://www.twitonomy.com/) provides very detailed profile information on Twitter followers.
 * [TweetChat](http://www.tweetchat.com/) is good free tool you can use to easily follow Twitter chats.
+* [Hashtagify](http://hashtagify.me/) helps you choose hashtags wisely.
 
 ### Facebook
 Facebook has many marketing options that could fit your company focus, budget and your current knowledge. To target your users on Facebook you can work with pages, ads, and groups. Learn about
@@ -251,14 +256,16 @@ This tutorial will help you to make your product onboarding experience right :lo
 
 For getting an inspiration for your onboarding emails you can check some examples from popular companies:
 * [Email copy from great companies](http://www.goodemailcopy.com/) or [Really Good Emails site](https://reallygoodemails.com/).
+* [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9) by Bart King.
 * [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/) from Drift team.
-* [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9), by Bart King.
+* [17 Email Scripts That Have Helped Us Grow Our Business (For You to Steal)](https://www.groovehq.com/blog/business-email-templates) from Groove Team. 
 * And finally! Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email. 
 
 When you have a new product release, you can use launch emails as an effective tool for growing users engagement:
 * [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
 * [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d)
 * [A simple improvement to product announcements](https://blog.intercom.com/simple-improvement-product-mails/) from Intercome.
+* [How Our Product Update Emails Get a 68% Response Rate](https://www.groovehq.com/blog/how-to-send-product-update-emails) by Groove Team.
 
 You should always A/B test different email headers, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
@@ -308,3 +315,4 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 We struggle in asking people to pay for your product or service.
 * [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging the low price for you mobile apps or any other product.
 * [Picking a pricing strategy for your SaaS product](https://blog.intercom.com/picking-your-pricing-model/) by Des Traynor, Intercom co-founder.
+* [Why You Should Change Your SaaS Pricing Every 6 Months](http://www.priceintelligently.com/blog/why-you-should-change-your-saas-pricing-every-six-months) by Jordan T. McBride.
