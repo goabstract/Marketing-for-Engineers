@@ -43,11 +43,12 @@ Content Marketing is about promotion via content. You can run your personal blog
 I encourage you to do a content-marketing by yourself because outsourcing it can be tricky (especially at the beginning). 
 🤔 Firstly, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer to your users? How can you build an engaged readers community? And the most important question is how you will convert these readers into leads. With all those considarations, you should create a content stategy:
 * [How to Generate Strategic Content Ideas for Each Funnel Stage](https://blog.ladder.io/content-strategy/) by Tyler Hakes.
-* [Growing From 0-12k Organic Visitors by Mapping Content to the Sales Funnel](https://growandconvert.com/content-marketing/grew-organic-visitors-suggested-search-hack/) by Benji Hyam. This post shows how to make content strategy for mobile and Web oriented blog. 
-* [How to use Popup to convert leads directly off of your blog](https://sumo.com/stories/email-popup-lead-generation). Now Benji Hyam explains how to get sales from your blog. 
-* [How to Turn Your Blog’s Thank You Page Into a Lead Generating Machine](https://growandconvert.com/conversion-rate-optimization/thank-you-lead-generating-machine/) by Emil Shour.
+* [Growing From 0-12k Organic Visitors by Mapping Content to the Sales Funnel](https://growandconvert.com/content-marketing/grew-organic-visitors-suggested-search-hack/) by Benji Hyam. This post shows how to make content strategy for mobile and Web oriented blog.
+* [Case study](https://www.groovehq.com/blog/how-we-built-a-5m-business-with-content-marketing) on how Groove rebuild their content marketing strategy from the ground up with an eye towards what could actually help their market. 
+* [How to convert leads directly off of your blog with help on Popups](https://sumo.com/stories/email-popup-lead-generation) by Benji Hyam.
 * [How To Convert Blog Traffic Into Customers With CTAs: The Complete Guide](https://growandconvert.com/conversion-rate-optimization/blog-conversion-strategy/) by Devesh Khanal. 	
-* Don't forget to canculate [The Customer Acquisition Cost of Content Marketing](https://growandconvert.com/content-marketing/customer-acquisition-cost/#).
+* [How to Turn Your Blog’s Thank You Page Into a Lead Generating Machine](https://growandconvert.com/conversion-rate-optimization/thank-you-lead-generating-machine/) by Emil Shour.
+* And don't forget to canculate [The Customer Acquisition Cost of Content Marketing](https://growandconvert.com/content-marketing/customer-acquisition-cost/#).
 
 
 ### :sunglasses: Personal Blog 
@@ -112,7 +113,9 @@ Influencer marketing is a type of marketing that focuses on working with opinion
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
 * [The Ultimate Guide to Influencer Marketing](https://sumo.com/stories/influencer-marketing-super-connector) by Jason Quey.
 * [Influencers definitely should be compensated. The only question is how](http://klear.com/blog/paying-an-influencer/) by Yuval Maoz.
-* [How to engage with Twitter influencers](https://blog.twitter.com/2016/how-to-use-influencer-marketing-to-grow-your-small-business) via Twitter blog. 
+
+You should not be afreid to reach to the cool people. Be helpful, nice and creative:
+* [The Exact Email Scripts I Use to Connect With VIP’s](https://www.groovehq.com/blog/vip-email-scripts) by Alex Turnbull.
 * Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team. 
 * [The Barney Stinson’s Playbook For Cold Tweeting Influencers](http://klear.com/blog/influencer-outreach-with-cold-tweets/) by Noam Avigdor.
 
@@ -122,10 +125,9 @@ Case-studies, which can teach and inspire you:
 
 
 Useful tools:
-* [Find Twitter Influencers from Klear](https://klear.com/free-tools/find-influencers-by-skill) shows you Twitter influencers. It's free for 10 search results for each key word (or "skill"). In the paid version it has much more filters for finding inluencers in Twitter\Facebook and other social media.
-* [Twitonomy](http://www.twitonomy.com/) is useful for getting detailed information about influencer from his Twitter profile. Tool can show people who are interacting with the influencer on the regular basics. Those people can become your starting point to get to top-nich person. Tool is free. 
+* [Find Twitter Influencers from Klear](https://klear.com/free-tools/find-influencers-by-skill). It's free for 10 searches for each keyword ("skill"). Paid version has more advanced options.
+* [Twitonomy](http://www.twitonomy.com/) gives a detailed info about influencer from his Twitter profile. It can show people who are interacting with the influencer on the regular basics. Those people can become your starting point to get to top-nich person. 
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user.
-* [SocialHunt] helps you to monitor a group of chosen Twitter profiles. You can receive people's activities in your email hourly\weekly and engage with them. 
 * Use RSS apps for getting content from influencers' blogs. You can comment those posts and share good one via your social media. [Selfoss](https://selfoss.aditu.de/) is a good RSS app. It's an open source, so you may dig into its code and customize things.
 
 
