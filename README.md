@@ -160,10 +160,16 @@ My SMM toolbox:
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) via inbound.org.
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 MarTech Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson.
 
+Direct Message Marketing on Twitter is about sending personal DM to your followers and automated DMs. 
+Automated DMs are tricky. They are usually sent to users when they follow you. If you send impersonal auto-DM with some spam, that will only annoy (do you want to talk with a robot who asks you "follow me on Facebook too"?) Welcome auto-DMs should e used only when it provides tanguable value to a new follower. These artiles will help you to staert with DMs stategies:
+* [7 Twitter Direct Message tactics absolutely anyone can use](https://audiense.com/7-twitter-direct-message-dm-tactics-anyone-social-media-marketing-communications-manager-can-use/) by Paz Segura.
+* 
+* [Be aware of Twitter tweet & DM limit](https://support.twitter.com/articles/15364). 
+
 Follow-Unfollow game is tricky. Using such tools can give your company Twitter "first followers". But in most cases, it will be bots or inactive users:
 * [Is “fake” Twitter following working?](https://aggregateblog.com/automated-twitter-following-tools/)
 
-Be aware of [Twitter tweet & DM limit](https://support.twitter.com/articles/15364). 
+
 
 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
