@@ -161,13 +161,13 @@ My SMM toolbox:
 * [The Pros and Cons of Twitter Automation](https://www.searchenginejournal.com/pros-cons-twitter-automation/164078/) by Michael Georgiou.
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 MarTech Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson.
 
-Direct Message Marketing on Twitter is about sending personal DM to your followers and automated DMs. Automated DMs are tricky. They are usually sent to users when they follow you. If you send impersonal auto-DM with some spam, that will only annoy. Welcome auto-DMs should be used only when it provides tanguable value to a new follower. These artiles will help you to start with your DMs strategy:
+Direct Message Marketing is about sending personal, mass or automated DMs to your followers. These artiles will help you to start with your DMs strategy:
 * [7 Twitter Direct Message tactics absolutely anyone can use](https://audiense.com/7-twitter-direct-message-dm-tactics-anyone-social-media-marketing-communications-manager-can-use/) by Paz Segura.
-* [Why Twitter Auto DMs are Evil (and what you should do instead)](http://www.blogclarity.com/why-twitter-auto-dms-are-evil-and-what-you-should-do-instead/) by Melissa Culberson.
-* [Case study when auto-DMs actualy working](http://niknitro.com/auto-dm-not-auto-dm/) by Nik Nitro.
+* [Why Twitter Auto DMs are Evil (and what you should do instead)](http://www.blogclarity.com/why-twitter-auto-dms-are-evil-and-what-you-should-do-instead/) by Melissa Culberson.  Melissa proves, that if you send impersonal auto-DM with some spam, that will only annoy your users.
+* [Case study when auto-DMs actualy working](http://niknitro.com/auto-dm-not-auto-dm/) by Nik Nitro.  Welcome auto-DMs should be used only when it provides tanguable value to a new follower. Nik shows his example.
 * [Be aware of Twitter tweet & DM limit](https://support.twitter.com/articles/15364). 
 
-Follow-Unfollow game is tricky. Using such tools can give your company Twitter "first followers". But in most cases, it will be bots or inactive users:
+Follow-Unfollow game is tricky. Using it can give you "first followers". But in most cases, it will be bots or inactive users:
 * [Is “fake” Twitter following working?](https://aggregateblog.com/automated-twitter-following-tools/)
 
 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
