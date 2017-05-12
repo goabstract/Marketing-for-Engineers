@@ -58,12 +58,12 @@ Start off by creating a blog that not only touts your product but offers helpful
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools, that find out what people were asking about your industry (via keywords).
 * [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/)
 
-
-Pick the most approprite content format —  video, list, long-read, etc. Think about the right headlines for driving interest to your article: 
+Pick the most approprite content format — video, list, long-read. Think about the right headline for driving interest to your article: 
 * [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/)
 * [30+ Ultimate Headline Formulas](https://blog.bufferapp.com/headline-formulas)
 * [Copywriting Headlines That Sell (with Templates & Swipe File)](https://kopywritingkourse.com/copywriting-headlines-that-sell/)
 * [The 3-Step Bulletproof Formula To Writing Kickass Blog Post Headlines](https://growandconvert.com/content-marketing/writing-blog-post-headlines/) by Danavir Sarria.
+* [Why Writing Creative Headlines Hurt Conversions: What We Learned Analyzing 150,000 Opt-Ins](https://sumo.com/stories/writing-headlines) bySean Bestor.
 
 Craft blog with SEO focus:
 * [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-frinedly. He talks about blog strategy, keyword research and promotion of your blog via building links to posts.
@@ -96,10 +96,11 @@ Articles, where you can find what topics, titles, collections, tags, categories 
 Publishing on Medium or elsewhere removes all your technology hassles. It's a good place to start implementing your content marketing strategy :stuck_out_tongue_winking_eye:
 
 ### :mega: Promotion of your content
-As you have already understood, you need to promote your content both for your own blog, Medium-like platforms or guest post at other blogs. Here some ideas how to promote your great articles: 
+As you have already understood, you need to promote your content both for your own blog, Medium-like platforms or guest post at other blogs. Here some ideas how to promote your great articles and make it more sharable: 
 
 * [38 Free Places to Promote Blog Posts Once You Hit Publish](http://www.mybloglift.com/places-to-promote-blog-posts/). Learn about every platform before sharing your content there (or you will become a spammer!)
 * [Content Promotion: How We Grew from 0 to 32,977 Users in 5 Months With Zero Paid Traffic](https://growandconvert.com/content-marketing/community-content-promotion/) by Benji Hyam.	
+* [Boost Social Sharing From Your Content](https://sumo.com/stories/social-sharing-chapter-2) by  Sarah Peterson
 * [How to get featured on large publications with republished content](https://sumo.com/stories/traffic-from-republishing) by Sarah Peterson. 
 Content Marketing is not only about getting people to read your amazing articles (and use your product later). It's also about developing and maintaining relationships with community. 
 
@@ -211,6 +212,7 @@ Guides on promoting and advertising on Reddit:
 * [My Experience & 9 Ideas for Advertising on Reddit](https://www.shivarweb.com/3100/how-to-advertise-on-reddit/) by Nate Shivar.
 * [How To Make Your First $1,000 with Reddit Ads](http://ryanluedecke.com/reddit-ads/) by Ryan Luedecke. It's an old, but super informative tutorial. 
 * [The Reddit Ads Experiment: What We Learned for $250](https://blog.ladder.io/reddit-ads/) by Alex Berman. Spoiler: "we got a clear confirmation that the Reddit community is still Ad-proof and smells/ignores promoted posts". 
+* [How to Build a Passionate Fanbase with Reddit](https://adespresso.com/academy/blog/how-to-build-a-passionate-fanbase-with-reddit/) by Ana Gotter.
 * Other interesting case: [How To Use Reddit For SEO & Content Marketing Research](https://www.shivarweb.com/3778/use-reddit-seo-content-marketing/) by Nate Shivar.
 
 Useful tools:
@@ -318,3 +320,4 @@ We struggle in asking people to pay for your product or service.
 * [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging the low price for you mobile apps or any other product.
 * [Picking a pricing strategy for your SaaS product](https://blog.intercom.com/picking-your-pricing-model/) by Des Traynor, Intercom co-founder.
 * [Why You Should Change Your SaaS Pricing Every 6 Months](http://www.priceintelligently.com/blog/why-you-should-change-your-saas-pricing-every-six-months) by Jordan T. McBride.
+* [9 Pricing Strategies to Explode Your Revenue (Backed by Psychology)](https://sumo.com/stories/marketing-pricing-strategies) by Nico Moreno. 
