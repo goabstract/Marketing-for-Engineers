@@ -166,13 +166,15 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 * [Why Twitter Auto DMs are Evil (and what you should do instead)](http://www.blogclarity.com/why-twitter-auto-dms-are-evil-and-what-you-should-do-instead/) by Melissa Culberson.  Melissa proves, that if you send impersonal auto-DM with some spam, that will only annoy your users.
 * [Case study when auto-DMs actualy working](http://niknitro.com/auto-dm-not-auto-dm/) by Nik Nitro.  Welcome auto-DMs should be used only when it provides tanguable value to a new follower. Nik shows his example.
 * [Be aware of Twitter tweet & DM limit](https://support.twitter.com/articles/15364). 
+Taking part in Twitter chats is a great way to attract new followers and actively participate in relevant conversations with people from your industry. 
 
 Follow-Unfollow game is tricky. Using it can give you "first followers". But in most cases, it will be bots or inactive users:
 * [Is “fake” Twitter following working?](https://aggregateblog.com/automated-twitter-following-tools/)
 
 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
-* [Twitonomy](http://www.twitonomy.com/) provides very detailed profile information on Twitter followers.  
+* [Twitonomy](http://www.twitonomy.com/) provides very detailed profile information on Twitter followers.
+* [TweetChat](http://www.tweetchat.com/) is good free tool you can use to easily follow Twitter chats.
 
 ### Facebook
 Facebook has many marketing options that could fit your company focus, budget and your current knowledge. To target your users on Facebook you can work with pages, ads, and groups. Learn about
