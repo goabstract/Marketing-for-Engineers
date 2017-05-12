@@ -15,7 +15,7 @@
   * Quora
 * [Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#email-email-marketing)
   * [Product Onboarding emails](https://github.com/LisaDziuba/Marketing-for-Engineers#product-emails)  
-  * [Cold emails](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-emails)
+* [Cold Emails Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-Cold-Email-Marketing)
 * [Building Partnerships](https://github.com/LisaDziuba/Marketing-for-Engineers#bowtie-building-partnerships)
 * [Psychology in Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#%EF%B8%8F-psychology-in-marketing)
 * [Pricing](https://github.com/LisaDziuba/Marketing-for-Engineers#moneybag-pricing)
@@ -237,6 +237,7 @@ If you need to grow your LinkedIn connection base, use this [script](https://doc
 
 ### Quora
 * [Growth Hacking 1,500+ Visits From Quora](http://webris.org/how-to-drive-10000-monthly-visits-using-quora/) by Ryan Stewart.
+* [How to Get Thousands of Leads from Quora in Five Months](https://sumo.com/stories/quora-traffic) by Josh Fechter, the "Top Quora Writer of 2017." 
 * [How To Use Quora For SEO & Content Marketing](https://www.shivarweb.com/10583/how-to-use-quora-for-seo-content-marketing/) by Nate Shivar.
 
 ## :email: Email Marketing
@@ -276,22 +277,25 @@ You should always A/B test different email headers, text, message styles, images
 You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game. 
 
 
-### :fearful: Cold emails
-Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered on my cold emails. 😟 I was afraid, that people will write me: "go f**king away with your spam!" But, nobody did it. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing! 
+## :fearful: Cold Email Marketing
+Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered on my cold emails. 😟 I was afraid, that people will write me: "go away with your spam!" But, nobody did that. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing:
+
+* [The Cold Sales Email Bible (With Templates)](https://sumo.com/stories/cold-email-templates) by Sean Bestor.
+* These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. By the way, these funny cool templates were done by Melissa Williams from Yesware. 
+* And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team.
 
 Learn from people, who run cold email campaigns: 
 * [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
-* And here is some inspiring stories from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
-* These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. By the way, these funny cool templates were done by Melissa Williams from Yesware. 
-* And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team, which can help you to write your own too.
+* And here is some inspiring story from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
+
+Some more tips & tricks:
 * [Timing is everything: what Intercom data says about the best time to send a message](https://blog.intercom.com/timing-is-everything-what-our-data-says-about-when-to-message-your-customers/) by Geoffrey Keating.
 * [How To Send Better Email & Avoid Email Spam Trigger Words](https://www.shivarweb.com/9451/email-spam-trigger-words/) by Nate Shivar.
+* [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
+* [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
 
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
-* If you don't find needed email with Norbert, you can check 
-  * [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
-  * [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
 * [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool, you can also see who have opened your email :wink:
 
 
