@@ -158,18 +158,17 @@ My SMM toolbox:
 * If you have never ever use Twitter, this brief [Twitter for Beginners Guide](https://www.wix.com/blog/2016/10/twitter-guide-for-beginners/) will help.
 * [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow. 
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) via inbound.org.
+* [The Pros and Cons of Twitter Automation](https://www.searchenginejournal.com/pros-cons-twitter-automation/164078/) by Michael Georgiou.
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 MarTech Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson.
 
-Direct Message Marketing on Twitter is about sending personal DM to your followers and automated DMs. 
-Automated DMs are tricky. They are usually sent to users when they follow you. If you send impersonal auto-DM with some spam, that will only annoy (do you want to talk with a robot who asks you "follow me on Facebook too"?) Welcome auto-DMs should e used only when it provides tanguable value to a new follower. These artiles will help you to staert with DMs stategies:
+Direct Message Marketing on Twitter is about sending personal DM to your followers and automated DMs. Automated DMs are tricky. They are usually sent to users when they follow you. If you send impersonal auto-DM with some spam, that will only annoy. Welcome auto-DMs should be used only when it provides tanguable value to a new follower. These artiles will help you to start with your DMs strategy:
 * [7 Twitter Direct Message tactics absolutely anyone can use](https://audiense.com/7-twitter-direct-message-dm-tactics-anyone-social-media-marketing-communications-manager-can-use/) by Paz Segura.
-* 
+* [Why Twitter Auto DMs are Evil (and what you should do instead)](http://www.blogclarity.com/why-twitter-auto-dms-are-evil-and-what-you-should-do-instead/) by Melissa Culberson.
+* [Case study when auto-DMs actualy working](http://niknitro.com/auto-dm-not-auto-dm/) by Nik Nitro.
 * [Be aware of Twitter tweet & DM limit](https://support.twitter.com/articles/15364). 
 
 Follow-Unfollow game is tricky. Using such tools can give your company Twitter "first followers". But in most cases, it will be bots or inactive users:
 * [Is “fake” Twitter following working?](https://aggregateblog.com/automated-twitter-following-tools/)
-
-
 
 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
