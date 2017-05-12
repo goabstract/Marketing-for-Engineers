@@ -110,9 +110,11 @@ Content Marketing is not only about getting people to read your amazing articles
 Influencer marketing is a type of marketing that focuses on working with opinion leaders to drive a brand's message\product\service to the larger market.
 
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
+* [The Ultimate Guide to Influencer Marketing](https://sumo.com/stories/influencer-marketing-super-connector) by Jason Quey.
 * [This Songwriter Accidentally Executed Influencer Marketing Perfectly and Got 40k Viewers Overnight](https://growandconvert.com/marketing/influencer-marketing-case-study/) by Benji Hyam.	
 * [How to engage with Twitter influencers](https://blog.twitter.com/2016/how-to-use-influencer-marketing-to-grow-your-small-business) via Twitter blog. 
 * Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team. 
+* [Micro-Influencers Show The Best ROI For Brand Partnerships (Research)](http://klear.com/blog/micro-influencers-roi/) by Yuval Maoz.  
 
 
 Useful tools:
