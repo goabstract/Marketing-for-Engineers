@@ -111,12 +111,17 @@ Influencer marketing is a type of marketing that focuses on working with opinion
 
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
 * [This Songwriter Accidentally Executed Influencer Marketing Perfectly and Got 40k Viewers Overnight](https://growandconvert.com/marketing/influencer-marketing-case-study/) by Benji Hyam.	
+* [How to engage with Twitter influencers](https://blog.twitter.com/2016/how-to-use-influencer-marketing-to-grow-your-small-business) via Twitter blog. 
+* Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team. 
 
 
 Useful tools:
+* [Find Twitter Influencers from Klear](https://klear.com/free-tools/find-influencers-by-skill) shows you Twitter influencers. It's free for 10 search results for each key word (or "skill"). In the paid version it has much more filters for finding inluencers in Twitter\Facebook and other social media.
+* [Twitonomy](http://www.twitonomy.com/) is useful for getting detailed information about influencer from his Twitter profile. Tool can show people who are interacting with the influencer on the regular basics. Those people can become your starting point to get to top-nich person. Tool is free. 
+* [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user.
 * [SocialHunt] helps you to monitor a group of chosen Twitter profiles. You can receive people's activities in your email hourly\weekly and engage with them. 
 * Use RSS apps for getting content from influencers' blogs. You can comment those posts and share good one via your social media. [Selfoss](https://selfoss.aditu.de/) is a good RSS app. It's an open source, so you may dig into its code and customize things.
-* [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
+
 
 
 ## :cat: Marketing for Product Hunt Launch 
@@ -150,7 +155,7 @@ My SMM toolbox:
  
 
 ### Twitter
-
+* If you have never ever use Twitter, this brief [Twitter for Beginners Guide](https://www.wix.com/blog/2016/10/twitter-guide-for-beginners/) will help.
 * [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow. 
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) via inbound.org.
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 MarTech Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson.
@@ -162,6 +167,7 @@ Be aware of [Twitter tweet & DM limit](https://support.twitter.com/articles/1536
 
 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user. 
+* [Twitonomy](http://www.twitonomy.com/) provides very detailed profile information on Twitter followers.  
 
 ### Facebook
 Facebook has many marketing options that could fit your company focus, budget and your current knowledge. To target your users on Facebook you can work with pages, ads, and groups. Learn about
