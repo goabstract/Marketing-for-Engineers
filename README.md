@@ -123,6 +123,7 @@ Case-studies, which can teach and inspire you:
 
 Useful tools:
 * [Find Twitter Influencers from Klear](https://klear.com/free-tools/find-influencers-by-skill). It's free for 10 searches for each keyword ("skill"). Paid version has more advanced options.
+* Social networks. You can find influencers by looking at keywords searches and look at followers number and the level of engagement for each user.
 * [Twitonomy](http://www.twitonomy.com/) gives a detailed info about influencer from his Twitter profile. It can show people who are interacting with the influencer on the regular basics. Those people can become your starting point to get to top-nich person. 
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user.
 * Use RSS apps for getting content from influencers' blogs. You can comment those posts and share good one via your social media. [Selfoss](https://selfoss.aditu.de/) is a good RSS app. It's an open source, so you may dig into its code and customize things.
@@ -311,10 +312,13 @@ Check these guides on building partnerships (both for software & physical produc
 ## 🕵️ Psychology in Marketing 
 If you want to make a deeper dive into the user's brain, I will recommend you to learn disciplines on the intersection of marketing.
 * [Psychology of Marketing: Using Maslow’s Hierarchy of Needs](https://kopywritingkourse.com/marketing-psychology/) by Neville Medhora.
+* [Cognitive bias cheat sheet (long-read)](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18) by Buster Benson.
+* TED Talks on Psychology of Choice: [The Paradox of Choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice) by Barry Schwartz and [How to make choosing easier](https://www.ted.com/talks/sheena_iyengar_choosing_what_to_choose?language=en) by Sheena Iyengar
 * [31 Copywriting Tips Based on Psychology and Linguistics](https://www.nickkolenda.com/copywriting-tips/) by Nick Kolenda.
 * [12 Ways to Build Social Proof (From Scratch)](https://sumo.com/stories/build-social-proof) by Sarah Peterson
 * [The Psychology of Marketing: 18 Ways to Use Social Proof to Boost Your Results](https://blog.bufferapp.com/social-proof) by Alfred Lua from Buffer team.
-* [the psychology of sending good triggers](http://www.nirandfar.com/2016/07/secret-sending-emails-notifications-work.html) by Nir Eyal & Ximena Vengoechea.
+* [Psychological Pricing: A Gigantic List of Strategies](https://www.nickkolenda.com/psychological-pricing-strategies/) by Nick Kolenda.
+* [The psychology of sending good triggers (Emails and Notifications)](http://www.nirandfar.com/2016/07/secret-sending-emails-notifications-work.html) by Nir Eyal & Ximena Vengoechea.
 
 ## :moneybag: Pricing 
 We struggle in asking people to pay for your product or service.
