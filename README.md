@@ -314,6 +314,7 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 * [31 Copywriting Tips Based on Psychology and Linguistics](https://www.nickkolenda.com/copywriting-tips/) by Nick Kolenda.
 * [12 Ways to Build Social Proof (From Scratch)](https://sumo.com/stories/build-social-proof) by Sarah Peterson
 * [The Psychology of Marketing: 18 Ways to Use Social Proof to Boost Your Results](https://blog.bufferapp.com/social-proof) by Alfred Lua from Buffer team.
+* [the psychology of sending good triggers](http://www.nirandfar.com/2016/07/secret-sending-emails-notifications-work.html) by Nir Eyal & Ximena Vengoechea.
 
 ## :moneybag: Pricing 
 We struggle in asking people to pay for your product or service.
