@@ -100,7 +100,9 @@ As you have already understood, you need to promote your content both for your o
 
 * [38 Free Places to Promote Blog Posts Once You Hit Publish](http://www.mybloglift.com/places-to-promote-blog-posts/). Learn about every platform before sharing your content there (or you will become a spammer!)
 * [Content Promotion: How We Grew from 0 to 32,977 Users in 5 Months With Zero Paid Traffic](https://growandconvert.com/content-marketing/community-content-promotion/) by Benji Hyam.	
-* [Boost Social Sharing From Your Content](https://sumo.com/stories/social-sharing-chapter-2) by  Sarah Peterson
+* [17 Advanced Methods for Promoting Your New Piece of Content](https://blog.kissmetrics.com/17-advanced-methods/) by Kissmetrics team.
+* [Boost Social Sharing From Your Content](https://sumo.com/stories/social-sharing-chapter-2) by Sarah Peterson.
+* [I Asked 235 People to Tweet My Article and All I Got Is This Cheerless Case Study](https://ahrefs.com/blog/asking-for-tweets/) by Joshua Hardwick. Although this tactic not always works out, it worths to try.
 * [How to get featured on large publications with republished content](https://sumo.com/stories/traffic-from-republishing) by Sarah Peterson. 
 Content Marketing is not only about getting people to read your amazing articles (and use your product later). It's also about developing and maintaining relationships with community. 
 
@@ -115,6 +117,7 @@ You should not be afreid to reach to the cool people. Be helpful, nice and creat
 * [The Exact Email Scripts I Use to Connect With VIP’s](https://www.groovehq.com/blog/vip-email-scripts) by Alex Turnbull.
 * Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team. 
 * [The Barney Stinson’s Playbook For Cold Tweeting Influencers](http://klear.com/blog/influencer-outreach-with-cold-tweets/) by Noam Avigdor.
+* [I Just Deleted Your Outreach Email Without Reading. And NO, I Don’t Feel Sorry](https://ahrefs.com/blog/outreach/) by Tim Soulo. Tim shows cool examples how to email influencers in a right way. Please, read this post before contacting opinion leaders! 
 
 Case-studies, which can teach and inspire you:
 * [How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours](https://www.groovehq.com/blog/1000-subscribers) by Alex Turnbull. Groove team built relationships with influencers for getting the first readers on thier blog. Very smart tactics! 
