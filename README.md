@@ -163,6 +163,9 @@ Useful tools:
 ## Social Media Marketing
 
 * [How to Create a Social Media Marketing Strategy From Scratch](https://blog.bufferapp.com/social-media-marketing-plan) by Kevan Lee, Buffer Marketing Director. It's a comprehensive long-read about basic on SMM strategy.
+* Guides on Copywriting for social media: [10 Ways to Write Damn Good Copy](http://www.copyblogger.com/good-copywriting/), 
+* [The Psychology of Social Sharing: How to Shape Your Content According to What People Want to Share](https://designschool.canva.com/blog/psychology-social-sharing-shape-content-according-people-want-share/) by Adrienne Branson.
+
 
 SMM toolbox:
 * When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favorite ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have built-in analytics. So you can pick simple metrics that are meaningful and can be analyzed.
@@ -200,6 +203,7 @@ Facebook has many marketing options that could fit your company focus, budget an
 
 Facebook Pages:
 * Many interesting thoughts on content, post types and other beginners question: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
+* [How to Stand Out with a Brilliant Facebook Cover Photo](https://designschool.canva.com/blog/how-to-stand-out-with-a-brilliant-facebook-cover-photo/) by Adrienne Branson.
 
 Facebook Groups:
 * [List of 50 Facebook Groups for Product, Tech, Growth Managers](https://docs.google.com/spreadsheets/d/1Zcjdm59lfMjsD4BfreLbSiCNBCO3bedolxlnsfeXyXA/edit#gid=0)
@@ -210,6 +214,7 @@ The Beginner’s Guides to Facebook Advertising:
 * [Defining Your Facebook Campaigns’ Goals and Strategies](https://adespresso.com/academy/guides/facebook-ads-optimization/facebook-campaign-strategy-goal/) from AdEspresso team.
 * Good advice on Ad Copywriting: [The Beginner’s Guide to Writing Facebook Ads](https://copyhackers.com/2016/06/writing-facebook-ads/) by Joanna Wiebe.
 * [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson.
+* [16 Secrets the Pros Use to Create Great Facebook Ad Designs](https://adespresso.com/academy/blog/9-tips-perfect-facebook-ad-design/) by Massimo Chieruzzi from AdEspresso team.
 * [Using hashtags in Facebook adds](https://adespresso.com/academy/blog/hashtags-on-facebook-the-definitive-guide/) from AdEspresso team.
 
 Advanced reading on Facebook Advertising:
