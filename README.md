@@ -206,18 +206,30 @@ Facebook Groups:
 
 The Beginner’s Guides to Facebook Advertising:
 * [7 Keys to Facebook Advertising Success](https://www.jonloomer.com/2017/02/17/facebook-advertising-success/) by Jon Loomer.
+* [The Complete, Always-Updated Guide to Facebook Advertising](https://blog.bufferapp.com/facebook-ads-guide) by Kevan Lee, Buffer Marketing Director. Buffer has put together a comprehensive guide on learning Facebook advertising, from the ad setup to analysis.
+* [Defining Your Facebook Campaigns’ Goals and Strategies](https://adespresso.com/academy/guides/facebook-ads-optimization/facebook-campaign-strategy-goal/) from AdEspresso team.
+* Good advice on Ad Copywriting: [The Beginner’s Guide to Writing Facebook Ads](https://copyhackers.com/2016/06/writing-facebook-ads/) by Joanna Wiebe.
 * [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson.
 * [Using hashtags in Facebook adds](https://adespresso.com/academy/blog/hashtags-on-facebook-the-definitive-guide/) from AdEspresso team.
 
-Advanced reading on Facebook Adds:
-* [Facebook Ad Conversion Attribution: What You Need to Know](https://www.jonloomer.com/2017/05/11/facebook-ad-conversion-attribution/) by Jon Loomer.
-* Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
-* Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team.
+Advanced reading on Facebook Advertising:
+* [The Complete Guide to Facebook Ads Manager: How to Create, Manage, Analyze Your Facebook Ads](https://blog.bufferapp.com/facebook-ads-manager) by Alfred Lua from Buffer team.
 * [The Facebook Pixel: What It Is and How to Use It](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
 * [6 Ways to Add the Facebook Pixel to Your Website](https://www.jonloomer.com/2017/02/24/facebook-pixel/) by Jon Loomer.
+* [101-Point Guide To Master: Facebook Custom Audiences](https://klientboost.com/ppc/facebook-custom-audience/) by Karola Karlson.
+* [The Big Damn Guide To Facebook Ad Targeting](https://www.contentharmony.com/blog/facebook-ad-targeting/) by Kane Jamison.
+* Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team.
+* Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
+* [Facebook Website Custom Audiences: A Definitive Guide for Remarketing](http://www.jonloomer.com/2015/09/11/facebook-website-custom-audiences-guide/) by Jon Loomer
+* 
+
+
+* [Facebook Ad Conversion Attribution: What You Need to Know](https://www.jonloomer.com/2017/05/11/facebook-ad-conversion-attribution/) by Jon Loomer.
+
+
 * [Facebook Ads Review 101: Rules to follow to get your ads approved… quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
 * [Facebook Ads Bidding 101: Everything You Need to Know (…Supported by Data) 2017 EDITION](https://adespresso.com/academy/blog/everything-need-know-facebook-ads-bidding/) by Massimo Chieruzzi.
-* [101-Point Guide To Master: Facebook Custom Audiences](https://klientboost.com/ppc/facebook-custom-audience/) by Karola Karlson.
+
 
 Other cool marketing tools on Facebook:
 * [Facebook Live: How to Stream a Webinar](http://www.jonloomer.com/2017/01/05/facebook-live-how-to-stream-a-webinar/) by Jon Loomer.
