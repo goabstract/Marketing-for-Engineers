@@ -29,7 +29,7 @@ You will find here a collection of free marketing channels for getting the first
 * [How we got from $0 to $75,000 MRR with zero marketing budget](https://medium.com/lifecycle-marketing/how-we-got-from-0-to-75-000-mrr-with-zero-marketing-budget-b20101b09a76) by Sergei Gusev. Good example on geting sales for a tangible product via sending free samples to the market influencers.
 * [How We Got Our First 100 Paying Customers in 24 Hours](https://www.groovehq.com/blog/startup-first-paying-customers) by Alex Turnbull, Groove founder. 
 * [Comment Marketing: How to Earn Benefits from Community Participation](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) by Rand Fishkin. You can gain attention to your company via sharing meaningful opinions and thoughts. Rand Fishkin made an excellent 9 minutes how-to video on it!
-* [5 Unlikely Places to Find and Poach Your Competitors' Customers](http://www.artofemails.com/prospecting-methods#change) by Sapph. Many smart ways to find leads and cold pitch them!
+* [5 Unlikely Places to Find and Poach Your Competitors' Customers](http://www.artofemails.com/prospecting-methods#change) by Sapph. Many smart ways to find leads and cold pitch them.
 * [Hacking the Press: Clever Ways to Get Free Press Coverage with Zero Budget](https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget) by Tucker Schreiber from Shopify. Although the post has some focus on online-shops, it gives a solid overview of getting free press coverage.
 * [Referral Marketing](https://www.referralsaasquatch.com/comprehensive-referral-marketing-guide/) and [Mobile Referral Marketing](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/) can work perfect! For inspiration check these [51 Best Referral Program Examples of 2016](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/). These exellent posts were prepared by Brandon Gains. 
 * [5 Low-Cost Guerrilla Marketing Tactics](https://www.shopify.com/blog/116564869-5-low-cost-guerrilla-marketing-tactics-to-grow-your-business-offline) via Braveen Kumar. :monkey: Direct offline exposure via foot traffic would suit physical products and brave founders. 
@@ -120,9 +120,10 @@ Influencer marketing is a type of marketing that focuses on working with opinion
 
 You should not be afreid to reach to the cool people. Be helpful, nice and creative:
 * [The Exact Email Scripts I Use to Connect With VIP’s](https://www.groovehq.com/blog/vip-email-scripts) by Alex Turnbull.
+* [8 Pitch Templates to Partner with Influencers](http://www.artofemails.com/partnerships#promote-product) by Sapph. Nice guides & examples for asking promotion, partnersip or review from influencer.
+* [I Just Deleted Your Outreach Email Without Reading. And NO, I Don’t Feel Sorry](https://ahrefs.com/blog/outreach/) by Tim Soulo. Tim shows cool examples how to email influencers in the right way. Please, read this post before contacting opinion leaders! 
 * Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team. 
 * [The Barney Stinson’s Playbook For Cold Tweeting Influencers](http://klear.com/blog/influencer-outreach-with-cold-tweets/) by Noam Avigdor.
-* [I Just Deleted Your Outreach Email Without Reading. And NO, I Don’t Feel Sorry](https://ahrefs.com/blog/outreach/) by Tim Soulo. Tim shows cool examples how to email influencers in the right way. Please, read this post before contacting opinion leaders! 
 * [Connecting with Others: What Have You Done for Me Lately?](http://okdork.com/what-have-you-done-for-me-lately/) by Noah Kagan, popular IT entrepreneur & influencer. I loved his breif instruction on making it easy for people to say YES to your request! 
 
 Case-studies, which can teach and inspire you:
@@ -292,7 +293,7 @@ Most people hate cold outreach and everything connected to the direct sales. How
 * [The Cold Sales Email Bible (With Templates)](https://sumo.com/stories/cold-email-templates) by Sean Bestor.
 * These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. By the way, these funny cool templates were done by Melissa Williams from Yesware. 
 * And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team.
-* [Mass emails that look like you wrote every one to 3.5x your response rates](http://www.artofemails.com/mail-merge-email-personalization#why-personalize) by Sapph. The author is using GMass for cold mass outreach. It's free tool for emailing 50 people at a time. 
+* [Mass emails that look like you wrote every one to 3.5x your response rates](http://www.artofemails.com/mail-merge-email-personalization#why-personalize) by Sapph. 
 
 Learn from people, who run cold email campaigns: 
 * [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
@@ -302,7 +303,7 @@ Some more tips & tricks:
 * [Timing is everything: what Intercom data says about the best time to send a message](https://blog.intercom.com/timing-is-everything-what-our-data-says-about-when-to-message-your-customers/) by Geoffrey Keating.
 * [How To Send Better Email & Avoid Email Spam Trigger Words](https://www.shivarweb.com/9451/email-spam-trigger-words/) by Nate Shivar.
 * [How to End an Email: 9 Never-Fail Sign-Offs and 9 to Avoid](https://www.grammarly.com/blog/how-to-end-an-email/) from Grammarly team.
-* More creative & fun ideas for you cold emails: [80 Powerful Email Endings To Make People Remember You](https://www.criminallyprolific.com/email-endings/) by Dmitry Dragilev. 
+* [80 Powerful Email Endings To Make People Remember You](https://www.criminallyprolific.com/email-endings/) by Dmitry Dragilev. You will find there vore creative & fun ideas for you cold emails engings. 
 * Funny short video with [11 Tips to Clean Up Your Dirty, Wordy Writing](https://www.grammarly.com/blog/clean-up-your-writing/).
 * [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
 * [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
@@ -310,7 +311,8 @@ Some more tips & tricks:
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
 * [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool, you can also see who have opened your email :wink:
-* [GMass](https://www.gmass.co/) for cold mass emailing. You can also use GMass for free to send 50 emails per day.
+* [GMass](https://www.gmass.co/) for cold mass emailing. You can use GMass for free to send 50 emails per day.
+
 
 
 ## :bowtie: Building Partnerships 
