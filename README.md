@@ -177,6 +177,7 @@ My SMM toolbox:
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) via inbound.org.
 * [The Pros and Cons of Twitter Automation](https://www.searchenginejournal.com/pros-cons-twitter-automation/164078/) by Michael Georgiou.
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 MarTech Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson.
+* [Get More (High Quality) Twitter Followers by Stalking Influencers](https://searchwilderness.com/get-followers-on-twitter/) by Paul Shapiro.
 
 Direct Message Marketing is about sending personal, mass or automated DMs to your followers. These artiles will help you to start with your DMs strategy:
 * [7 Twitter Direct Message tactics absolutely anyone can use](https://audiense.com/7-twitter-direct-message-dm-tactics-anyone-social-media-marketing-communications-manager-can-use/) by Paz Segura.
@@ -295,8 +296,9 @@ Most people hate cold outreach and everything connected to the direct sales. How
 * And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team.
 * [Mass emails that look like you wrote every one to 3.5x your response rates](http://www.artofemails.com/mail-merge-email-personalization#why-personalize) by Sapph. 
 
-Learn from people, who run cold email campaigns: 
+Learn from people's stories, who run cold email campaigns: 
 * [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
+* [How to get a $3,000 monthly contract (with exact scripts)](http://videofruit.com/blog/3kpermonth/) by Bryan Harris.
 * And here is some inspiring story from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
 
 Some more tips & tricks:
