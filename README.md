@@ -74,7 +74,7 @@ Craft blog with SEO focus:
 :see_no_evil: Check your grammar! I use these cool apps:
 * [Hemingway App](http://www.hemingwayapp.com/)
 * [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) 
-* Browser extensions, like []()
+* Browser extensions, like [Grammarly](https://app.grammarly.com/). 
 
 To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practice, "design for beginners", "how to market your app". Our content startegy is written in a simple Google Spreadsheet. Writing one article takes me minimum 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! As a publishing platform, we decided to use Medium, as we didn't have time to make/maintain a personal blog at our website. 
 
@@ -119,7 +119,8 @@ You should not be afreid to reach to the cool people. Be helpful, nice and creat
 * [The Exact Email Scripts I Use to Connect With VIP’s](https://www.groovehq.com/blog/vip-email-scripts) by Alex Turnbull.
 * Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team. 
 * [The Barney Stinson’s Playbook For Cold Tweeting Influencers](http://klear.com/blog/influencer-outreach-with-cold-tweets/) by Noam Avigdor.
-* [I Just Deleted Your Outreach Email Without Reading. And NO, I Don’t Feel Sorry](https://ahrefs.com/blog/outreach/) by Tim Soulo. Tim shows cool examples how to email influencers in a right way. Please, read this post before contacting opinion leaders! 
+* [I Just Deleted Your Outreach Email Without Reading. And NO, I Don’t Feel Sorry](https://ahrefs.com/blog/outreach/) by Tim Soulo. Tim shows cool examples how to email influencers in the right way. Please, read this post before contacting opinion leaders! 
+* [Connecting with Others: What Have You Done for Me Lately?](http://okdork.com/what-have-you-done-for-me-lately/) by Noah Kagan, popular IT entrepreneur & influencer. I loved his breif instruction on making it easy for people to say YES to your request! 
 
 Case-studies, which can teach and inspire you:
 * [How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours](https://www.groovehq.com/blog/1000-subscribers) by Alex Turnbull. Groove team built relationships with influencers for getting the first readers on thier blog. Very smart tactics! 
@@ -296,6 +297,8 @@ Learn from people, who run cold email campaigns:
 Some more tips & tricks:
 * [Timing is everything: what Intercom data says about the best time to send a message](https://blog.intercom.com/timing-is-everything-what-our-data-says-about-when-to-message-your-customers/) by Geoffrey Keating.
 * [How To Send Better Email & Avoid Email Spam Trigger Words](https://www.shivarweb.com/9451/email-spam-trigger-words/) by Nate Shivar.
+* [How to End an Email: 9 Never-Fail Sign-Offs and 9 to Avoid](https://www.grammarly.com/blog/how-to-end-an-email/) from Grammarly team.
+* Funny short video with [11 Tips to Clean Up Your Dirty, Wordy Writing](https://www.grammarly.com/blog/clean-up-your-writing/).
 * [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
 * [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
 
