@@ -164,9 +164,7 @@ Useful tools:
 
 * [How to Create a Social Media Marketing Strategy From Scratch](https://blog.bufferapp.com/social-media-marketing-plan) by Kevan Lee, Buffer Marketing Director. It's a comprehensive long-read about basic on SMM strategy.
 
-
-
-My SMM toolbox:
+SMM toolbox:
 * When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favorite ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have built-in analytics. So you can pick simple metrics that are meaningful and can be analyzed.
 * [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
 * [Nuzzel](http://nuzzel.com/) can show you the top content being shared among all your followers on Twitter and Facebook. You can use that content for sharing or as an example. It's free tool.
@@ -207,6 +205,7 @@ Facebook Groups:
 * [List of 50 Facebook Groups for Product, Tech, Growth Managers](https://docs.google.com/spreadsheets/d/1Zcjdm59lfMjsD4BfreLbSiCNBCO3bedolxlnsfeXyXA/edit#gid=0)
 
 The Beginner’s Guides to Facebook Advertising:
+* [7 Keys to Facebook Advertising Success](https://www.jonloomer.com/2017/02/17/facebook-advertising-success/) by Jon Loomer.
 * [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson.
 * [Using hashtags in Facebook adds](https://adespresso.com/academy/blog/hashtags-on-facebook-the-definitive-guide/) from AdEspresso team.
 
@@ -214,9 +213,11 @@ Advanced reading on Facebook Adds:
 * [Facebook Ad Conversion Attribution: What You Need to Know](https://www.jonloomer.com/2017/05/11/facebook-ad-conversion-attribution/) by Jon Loomer.
 * Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
 * Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team.
-* [How to use Facebook pixel tracking to refine your advertising strategy](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
- * [Facebook Ads Review 101: Rules to follow to get your ads approved… quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
+* [The Facebook Pixel: What It Is and How to Use It(https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
+* [6 Ways to Add the Facebook Pixel to Your Website](https://www.jonloomer.com/2017/02/24/facebook-pixel/) by Jon Loomer.
+* [Facebook Ads Review 101: Rules to follow to get your ads approved… quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
 * [Facebook Ads Bidding 101: Everything You Need to Know (…Supported by Data) 2017 EDITION](https://adespresso.com/academy/blog/everything-need-know-facebook-ads-bidding/) by Massimo Chieruzzi.
+* [101-Point Guide To Master: Facebook Custom Audiences](https://klientboost.com/ppc/facebook-custom-audience/) by Karola Karlson.
 
 Other cool marketing tools on Facebook:
 * [Facebook Live: How to Stream a Webinar](http://www.jonloomer.com/2017/01/05/facebook-live-how-to-stream-a-webinar/) by Jon Loomer.
