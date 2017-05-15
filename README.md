@@ -10,9 +10,9 @@
 * [Social Media Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#social-media-marketing)
   * [Twitter](https://github.com/LisaDziuba/Marketing-for-Engineers#twitter)
   * [Facebook](https://github.com/LisaDziuba/Marketing-for-Engineers#facebook)
-  * Reddit
+  * [Reddit](https://github.com/LisaDziuba/Marketing-for-Engineers#reddit)
   * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#linkedin)
-  * Quora
+  * [Quora](https://github.com/LisaDziuba/Marketing-for-Engineers#quora)
 * [Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#email-email-marketing)
   * [Product Onboarding emails](https://github.com/LisaDziuba/Marketing-for-Engineers#product-emails)  
 * [Cold Emails Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-Cold-Email-Marketing)
