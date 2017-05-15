@@ -29,6 +29,7 @@ You will find here a collection of free marketing channels for getting the first
 * [How we got from $0 to $75,000 MRR with zero marketing budget](https://medium.com/lifecycle-marketing/how-we-got-from-0-to-75-000-mrr-with-zero-marketing-budget-b20101b09a76) by Sergei Gusev. Good example on geting sales for a tangible product via sending free samples to the market influencers.
 * [How We Got Our First 100 Paying Customers in 24 Hours](https://www.groovehq.com/blog/startup-first-paying-customers) by Alex Turnbull, Groove founder. 
 * [Comment Marketing: How to Earn Benefits from Community Participation](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) by Rand Fishkin. You can gain attention to your company via sharing meaningful opinions and thoughts. Rand Fishkin made an excellent 9 minutes how-to video on it!
+* [5 Unlikely Places to Find and Poach Your Competitors' Customers](http://www.artofemails.com/prospecting-methods#change) by Sapph. Many smart ways to find leads and cold pitch them!
 * [Hacking the Press: Clever Ways to Get Free Press Coverage with Zero Budget](https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget) by Tucker Schreiber from Shopify. Although the post has some focus on online-shops, it gives a solid overview of getting free press coverage.
 * [Referral Marketing](https://www.referralsaasquatch.com/comprehensive-referral-marketing-guide/) and [Mobile Referral Marketing](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/) can work perfect! For inspiration check these [51 Best Referral Program Examples of 2016](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/). These exellent posts were prepared by Brandon Gains. 
 * [5 Low-Cost Guerrilla Marketing Tactics](https://www.shopify.com/blog/116564869-5-low-cost-guerrilla-marketing-tactics-to-grow-your-business-offline) via Braveen Kumar. :monkey: Direct offline exposure via foot traffic would suit physical products and brave founders. 
@@ -36,7 +37,7 @@ You will find here a collection of free marketing channels for getting the first
 
 We used many free marketing channels. 
 
-To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talk to influencers, manually recruit users at events, post at Facebook developers groups, worked with developers/designers via Twitter and did many other clever tricks. 🎉 These gave us our first 1000 beta users 🎉 So it worth trying out!
+To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talk to influencers, manually recruit users at events, post at Facebook developers groups, worked with developers/designers via Twitter and did many other clever stuff. These gave us our first 1000 beta users. So it worth trying out!
   
 ## Content Marketing 
 Content Marketing is about promotion via content. You can run your personal blog, do guest-blogging or write at the popular industry platforms (or combine it). Focus on how you can help your users with your content. You don't have to be a professional writer for making cool articles. Just give yourself space to be creative and share your expertise. 
@@ -46,6 +47,7 @@ I encourage you to do a content-marketing by yourself because outsourcing it can
 * [How to Generate Strategic Content Ideas for Each Funnel Stage](https://blog.ladder.io/content-strategy/) by Tyler Hakes.
 * [Growing From 0-12k Organic Visitors by Mapping Content to the Sales Funnel](https://growandconvert.com/content-marketing/grew-organic-visitors-suggested-search-hack/) by Benji Hyam. This post shows how to make content strategy for mobile and Web oriented blog.
 * [Case study](https://www.groovehq.com/blog/how-we-built-a-5m-business-with-content-marketing) on how Groove rebuild their content marketing strategy from the ground up with an eye towards what could actually help their market. 
+* Case study with the framework on [How to Create Content That Generates 400,000 Targeted Visitors](http://okdork.com/how-you-can-create-content-that-generates-40000-targeted-visitors/) by Brian Dean.
 * [How to convert leads directly off of your blog with help on Popups](https://sumo.com/stories/email-popup-lead-generation) by Benji Hyam.
 * [How To Convert Blog Traffic Into Customers With CTAs: The Complete Guide](https://growandconvert.com/conversion-rate-optimization/blog-conversion-strategy/) by Devesh Khanal. 	
 * [How to Turn Your Blog’s Thank You Page Into a Lead Generating Machine](https://growandconvert.com/conversion-rate-optimization/thank-you-lead-generating-machine/) by Emil Shour.
@@ -58,6 +60,7 @@ Start off by creating a blog that not only touts your product but offers helpful
 * [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from Help Scout team.
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools, that find out what people were asking about your industry (via keywords).
 * [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/)
+* If you have skiped articles in the Content Marketing section above, I do encorage you to read them! The first 4 articles have an exelent frameworks for getiing strategic content ideas. 
 
 Pick the most approprite content format — video, list, long-read. Think about the right headline for driving interest to your article: 
 * [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/)
@@ -76,7 +79,7 @@ Craft blog with SEO focus:
 * [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck) 
 * Browser extensions, like [Grammarly](https://app.grammarly.com/). 
 
-To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practice, "design for beginners", "how to market your app". Our content startegy is written in a simple Google Spreadsheet. Writing one article takes me minimum 3-4 days (five A4 pages). Be ready to invest a lot of time in writing, proofreading, styling! As a publishing platform, we decided to use Medium, as we didn't have time to make/maintain a personal blog at our website. 
+To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practice, "design for beginners", "how to market your app". Our content startegy is written in a simple Google Spreadsheet and it is based on the analysis of our target audience. Writing one article takes me or Ahmed minimum 3-4 days (five A4 pages). So be ready to invest a lot of time in writing, proofreading, styling and promoting! As a publishing platform, we decided to use Medium, as we didn't have time to make/maintain a personal blog at our website. 
 
 ### :green_book: Medium Marketing
 Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. You still need to promote your articles yourself. Medium is a high-traffic community, but you are not the only one who competes for attention. 
@@ -289,6 +292,7 @@ Most people hate cold outreach and everything connected to the direct sales. How
 * [The Cold Sales Email Bible (With Templates)](https://sumo.com/stories/cold-email-templates) by Sean Bestor.
 * These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. By the way, these funny cool templates were done by Melissa Williams from Yesware. 
 * And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team.
+* [Mass emails that look like you wrote every one to 3.5x your response rates](http://www.artofemails.com/mail-merge-email-personalization#why-personalize) by Sapph. The author is using GMass for cold mass outreach. It's free tool for emailing 50 people at a time. 
 
 Learn from people, who run cold email campaigns: 
 * [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
@@ -298,6 +302,7 @@ Some more tips & tricks:
 * [Timing is everything: what Intercom data says about the best time to send a message](https://blog.intercom.com/timing-is-everything-what-our-data-says-about-when-to-message-your-customers/) by Geoffrey Keating.
 * [How To Send Better Email & Avoid Email Spam Trigger Words](https://www.shivarweb.com/9451/email-spam-trigger-words/) by Nate Shivar.
 * [How to End an Email: 9 Never-Fail Sign-Offs and 9 to Avoid](https://www.grammarly.com/blog/how-to-end-an-email/) from Grammarly team.
+* More creative & fun ideas for you cold emails: [80 Powerful Email Endings To Make People Remember You](https://www.criminallyprolific.com/email-endings/) by Dmitry Dragilev. 
 * Funny short video with [11 Tips to Clean Up Your Dirty, Wordy Writing](https://www.grammarly.com/blog/clean-up-your-writing/).
 * [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
 * [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
@@ -305,6 +310,7 @@ Some more tips & tricks:
 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
 * [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool, you can also see who have opened your email :wink:
+* [GMass](https://www.gmass.co/) for cold mass emailing. You can also use GMass for free to send 50 emails per day.
 
 
 ## :bowtie: Building Partnerships 
