@@ -104,7 +104,7 @@ As you have already understood, you need to promote your content both for your o
 * [17 Advanced Methods for Promoting Your New Piece of Content](https://blog.kissmetrics.com/17-advanced-methods/) by Kissmetrics team.
 * [Boost Social Sharing From Your Content](https://sumo.com/stories/social-sharing-chapter-2) by Sarah Peterson.
 * [Blogger Outreach: How to Get Influencers to Promote Your Content for Free](https://smartblogger.com/blogger-outreach/) by Brian Dean.
-* [I Asked 235 People to Tweet My Article and All I Got Is This Cheerless Case Study](https://ahrefs.com/blog/asking-for-tweets/) by Joshua Hardwick. It's an interesting experiment, where Joshua & company cold emailed people who tweeted similar posts to his and asked for a promotional tweet.
+* [I Asked 235 People to Tweet My Article and All I Got Is This Cheerless Case Study](https://ahrefs.com/blog/asking-for-tweets/). It's an interesting experiment, where Joshua Hardwick cold emailed writers who tweeted similar posts to his and asked for a promotional tweet.
 * [How to get featured on large publications with republished content](https://sumo.com/stories/traffic-from-republishing) by Sarah Peterson. 
 Content Marketing is not only about getting people to read your amazing articles (and use your product later). It's also about developing and maintaining relationships with community. 
 
