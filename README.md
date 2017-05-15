@@ -245,7 +245,9 @@ Useful tools:
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
 * [LinkedIn Ads: Step-by-Step Tutorial](https://adespresso.com/academy/blog/linkedin-ads-everything-need-know/) by AdEspresso team.
 
-If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords. 
+Tools:
+* If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords. 
+* [LinkedIn X-Ray Search tool using Google](https://www.lisearcher.com/). With a free account, you only get 100 search results. To get around this limitation you can use X-Ray Searching. 
 
 ### Quora
 * [Growth Hacking 1,500+ Visits From Quora](http://webris.org/how-to-drive-10000-monthly-visits-using-quora/) by Ryan Stewart.
@@ -292,9 +294,11 @@ You can work really hard and get a lot of traffic or trial signups. But if your 
 ## :fearful: Cold Email Marketing
 Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered on my cold emails. 😟 I was afraid, that people will write me: "go away with your spam!" But, nobody did that. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing:
 
-* [The Cold Sales Email Bible (With Templates)](https://sumo.com/stories/cold-email-templates) by Sean Bestor.
-* These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. By the way, these funny cool templates were done by Melissa Williams from Yesware. 
+* [The Cold Sales Email Bible (Guide with templates)](https://sumo.com/stories/cold-email-templates) by Sean Bestor.
+* [How to Warm Up Prospects Before Sending Them a Cold Email?](https://blog.woodpecker.co/cold-email/warm-prospects/) by Cathy Patalas. Cathy's artcile proposes simple actions, that may seriously increase your cold email open & reply rates. 
+* These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. The funny cool templates were done by Melissa Williams from Yesware. 
 * And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team.
+* [14 Deliverability Checks to Carry Out Before Sending Your Cold Email Campaign](https://blog.woodpecker.co/cold-email/deliverability-checks/) by Cathy Patalas.
 * [Mass emails that look like you wrote every one to 3.5x your response rates](http://www.artofemails.com/mail-merge-email-personalization#why-personalize) by Sapph. 
 
 Learn from people's stories, who run cold email campaigns: 
@@ -303,10 +307,10 @@ Learn from people's stories, who run cold email campaigns:
 * And here is some inspiring story from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
 
 Some more tips & tricks:
+* [What to Do When You See Negative Replies to Your Cold Emails?](https://blog.woodpecker.co/cold-email/negative-replies/) by Cathy Patalas.
 * [Timing is everything: what Intercom data says about the best time to send a message](https://blog.intercom.com/timing-is-everything-what-our-data-says-about-when-to-message-your-customers/) by Geoffrey Keating.
 * [How To Send Better Email & Avoid Email Spam Trigger Words](https://www.shivarweb.com/9451/email-spam-trigger-words/) by Nate Shivar.
-* [How to End an Email: 9 Never-Fail Sign-Offs and 9 to Avoid](https://www.grammarly.com/blog/how-to-end-an-email/) from Grammarly team.
-* [80 Powerful Email Endings To Make People Remember You](https://www.criminallyprolific.com/email-endings/) by Dmitry Dragilev. You will find there vore creative & fun ideas for you cold emails engings. 
+* [80 Powerful Email Endings To Make People Remember You](https://www.criminallyprolific.com/email-endings/) by Dmitry Dragilev.
 * Funny short video with [11 Tips to Clean Up Your Dirty, Wordy Writing](https://www.grammarly.com/blog/clean-up-your-writing/).
 * [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
 * [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
@@ -325,6 +329,9 @@ Communication is the key to building any kind of relationships. Every social com
 * [How to Write Emails Like a CEO](https://medium.com/@Torbahax/how-to-write-emails-like-a-ceo-d6a2906611e0), by Andrew Torba
 * [5 rules for good email etiquette](https://byrslf.co/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671) by Mattan Griffel.
 * [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73) by Romain Serman
+
+How and where to find partners:
+* [15 Places Where You Can Find Prospects, Other than LinkedIn](https://blog.woodpecker.co/prospecting/where-to-find-prospects/) by Cathy Patalas.  
 
 Check these guides on building partnerships (both for software & physical products):
 * [Co-Marketing: How to Reach New Customers With Strategic Partnerships](https://www.shopify.com/blog/195109129-co-marketing-strategic-partnerships) by Braveen Kumar. Reccomendations will suit companies, who have phisical products. 
