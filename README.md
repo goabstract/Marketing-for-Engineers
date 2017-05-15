@@ -125,6 +125,7 @@ You should not be afraid to reach to the cool people. Be helpful, nice and creat
 * [I Just Deleted Your Outreach Email Without Reading. And NO, I Don’t Feel Sorry](https://ahrefs.com/blog/outreach/) by Tim Soulo. Tim shows cool examples how to email influencers in the right way. Please, read this post before contacting opinion leaders!
 * Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team.
 * [The Barney Stinson’s Playbook For Cold Tweeting Influencers](http://klear.com/blog/influencer-outreach-with-cold-tweets/) by Noam Avigdor.
+* [26 Headliners on How to Connect with Influencers at a Conference [Infographic]](https://venngage.com/blog/connect-with-influencers-conference/) via Venngage.
 * [Connecting with Others: What Have You Done for Me Lately?](http://okdork.com/what-have-you-done-for-me-lately/) by Noah Kagan, popular IT entrepreneur & influencer. I loved his brief instruction on making it easy for people to say YES to your request!
 
 Case-studies, which can teach and inspire you:
@@ -197,7 +198,7 @@ And these tools help you maximize your Twitter presence, from timing to sharing 
 * [Hashtagify](http://hashtagify.me/) helps you choose hashtags wisely.
 
 ### Facebook
-Facebook has many marketing options that could fit your company focus, budget and your current knowledge. To target your users on Facebook you can work with pages, ads, and groups. Learn about
+Facebook has many marketing options that could fit your company focus, budget and your current knowledge. To target your users on Facebook you can work with pages, ads, and groups. 
 
 Facebook Pages:
 * Many interesting thoughts on content, post types and other beginners question: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
@@ -206,13 +207,19 @@ Facebook Groups:
 * [List of 50 Facebook Groups for Product, Tech, Growth Managers](https://docs.google.com/spreadsheets/d/1Zcjdm59lfMjsD4BfreLbSiCNBCO3bedolxlnsfeXyXA/edit#gid=0)
 
 The Beginner’s Guides to Facebook Advertising:
-* Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
-* Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team.
 * [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson.
 * [Using hashtags in Facebook adds](https://adespresso.com/academy/blog/hashtags-on-facebook-the-definitive-guide/) from AdEspresso team.
+
+Advanced reading on Facebook Adds:
+* [Facebook Ad Conversion Attribution: What You Need to Know](https://www.jonloomer.com/2017/05/11/facebook-ad-conversion-attribution/) by Jon Loomer.
+* Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
+* Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team.
 * [How to use Facebook pixel tracking to refine your advertising strategy](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
-* [Facebook Ads Review 101: Rules to follow to get your ads approved… quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
+ * [Facebook Ads Review 101: Rules to follow to get your ads approved… quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
 * [Facebook Ads Bidding 101: Everything You Need to Know (…Supported by Data) 2017 EDITION](https://adespresso.com/academy/blog/everything-need-know-facebook-ads-bidding/) by Massimo Chieruzzi.
+
+Other cool marketing tools on Facebook:
+* [Facebook Live: How to Stream a Webinar](http://www.jonloomer.com/2017/01/05/facebook-live-how-to-stream-a-webinar/) by Jon Loomer.
 
 ### Reddit
 Reddit is one of the most active internet community with it’s own unique culture. You can get tons of cool information there, great product feedback and first users. :satisfied: However, it's better to learn Reddit rules and basics before you get banned:
@@ -332,6 +339,7 @@ Communication is the key to building any kind of relationships. Every social com
 
 How and where to find partners:
 * [15 Places Where You Can Find Prospects, Other than LinkedIn](https://blog.woodpecker.co/prospecting/where-to-find-prospects/) by Cathy Patalas.  
+* [How to Network at a Conference](http://www.wikihow.com/Network-at-a-Conference) from wikiHow. 
 
 Check these guides on building partnerships (both for software & physical products):
 * [Co-Marketing: How to Reach New Customers With Strategic Partnerships](https://www.shopify.com/blog/195109129-co-marketing-strategic-partnerships) by Braveen Kumar. Reccomendations will suit companies, who have physical products.
@@ -351,7 +359,9 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 
 ## :moneybag: Pricing
 We struggle in asking people to pay for your product or service.
+* [On Pricing and Discounts](https://www.jonloomer.com/2017/03/02/entrepreneurs-pricing-discounts/) by Jon Loomer.
 * [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging the low price for you mobile apps or any other product.
 * [Picking a pricing strategy for your SaaS product](https://blog.intercom.com/picking-your-pricing-model/) by Des Traynor, Intercom co-founder.
 * [Why You Should Change Your SaaS Pricing Every 6 Months](http://www.priceintelligently.com/blog/why-you-should-change-your-saas-pricing-every-six-months) by Jordan T. McBride.
 * [9 Pricing Strategies to Explode Your Revenue (Backed by Psychology)](https://sumo.com/stories/marketing-pricing-strategies) by Nico Moreno.
+* [Hacking Competitive Pricing Analysis with Scraping](https://www.matthewbarby.com/competitive-pricing-analysis/) by Matthew Barby.
