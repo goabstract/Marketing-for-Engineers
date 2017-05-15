@@ -213,7 +213,7 @@ Advanced reading on Facebook Adds:
 * [Facebook Ad Conversion Attribution: What You Need to Know](https://www.jonloomer.com/2017/05/11/facebook-ad-conversion-attribution/) by Jon Loomer.
 * Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
 * Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team.
-* [The Facebook Pixel: What It Is and How to Use It(https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
+* [The Facebook Pixel: What It Is and How to Use It](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
 * [6 Ways to Add the Facebook Pixel to Your Website](https://www.jonloomer.com/2017/02/24/facebook-pixel/) by Jon Loomer.
 * [Facebook Ads Review 101: Rules to follow to get your ads approved… quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
 * [Facebook Ads Bidding 101: Everything You Need to Know (…Supported by Data) 2017 EDITION](https://adespresso.com/academy/blog/everything-need-know-facebook-ads-bidding/) by Massimo Chieruzzi.
