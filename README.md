@@ -358,6 +358,7 @@ Communication is the key to building any kind of relationships. Every social com
 * [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73) by Romain Serman
 
 How and where to find partners:
+* Tips on the [New LinkedIn Search](https://blog.linkedin.com/2017/january/19/how-to-make-the-most-of-the-new-linkedin-search)
 * [15 Places Where You Can Find Prospects, Other than LinkedIn](https://blog.woodpecker.co/prospecting/where-to-find-prospects/) by Cathy Patalas.  
 * [How to Network at a Conference](http://www.wikihow.com/Network-at-a-Conference) from wikiHow. 
 
