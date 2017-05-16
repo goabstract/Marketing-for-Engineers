@@ -265,9 +265,12 @@ Useful tools:
 
 
 ### LinkedIn
-I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, make direct sales and search for investors. LinkedIn is a pefrect place for B2B companies and business profesionals. Its also useful for self-branding purpose. As a promotional tool, LinkedId has Personal Pages, Company Pages, Groups and Ads:
+I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, make direct sales and search for investors. LinkedIn is a pefrect place for B2B companies and business profesionals. Its also useful for self-branding purpose. As a promotional tools, LinkedId has Personal Pages, Company Pages, Groups and Ads:
 * [Want to Effectively Raise Your Linkedin Profile? Follow These Tips!](https://themission.co/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
+* [7 LinkedIn Summary Examples That Make You Look Good](http://www.yesware.com/blog/linkedin-summary-examples/) by Melissa Williams.
+* [5 Templates That'll Make Writing the Perfect LinkedIn Summary a Breeze](https://www.themuse.com/advice/5-templates-thatll-make-writing-the-perfect-linkedin-summary-a-breeze) by Aja Frost.
 * [Using LinkedIn: 7 of my favourite tips](https://www.hallaminternet.com/using-linkedin/) by Susan Hallam from Hallam.
+* [11 Quick Questions to Ask Yourself Before Accepting a Stranger's LinkedIn Request](https://www.themuse.com/advice/11-quick-questions-to-ask-yourself-before-accepting-a-strangers-linkedin-request) by Inc.com.
 * [LinkedIn Company / Business Page Best Practices with Examples](https://www.shivarweb.com/11556/linkedin-company-business-page-best-practices/) from ShivarWeb staff.
 * [Company Page Best Practices with Page Examples](https://business.linkedin.com/marketing-solutions/company-pages/best-practices) via LinkedIn.
 * [LinkedIn Analytics for Company Page](https://blog.hootsuite.com/linkedin-analytics/) by Hootsuite team.
@@ -278,10 +281,11 @@ LinkedIn Advertising:
 * [The Ultimate Guide to LinkedIn Conversion Tracking](https://www.hallaminternet.com/linkedin-conversion-tracking/) by Tom Whiley.
 * [5 tactics](https://blog.adstage.io/2017/05/03/expand-your-reach-and-drive-more-conversions-on-linkedin/) which can help reach your ideal audience, increase conversion rates, and boost your return on ad spend on LinkedIn. Written by Michael McEuen.
 
-Use LinkedIn for direct sales. You can write people via invitation note, direct message, InMail or Group message. Business outreach is common and very popular between LinkedIn members. So keep you sales pitch proffesional:
+Use LinkedIn for direct sales. You can write people via invitation note, direct message, InMail or Group message. Business outreach is common and very popular between LinkedIn members. Keep you sales pitch proffesional and be open to chat with people:
 * [The Anatomy of a Great LinkedIn Sales Message (Template)](https://blog.hubspot.com/sales/the-anatomy-of-a-great-linkedin-sales-message-template#sm.0000uk1rbj980cpntd41cly98kad3) by Emma Brudner. The example is very formal, but it worth to try out. 
+* [How to Write Reply-Worthy LinkedIn InMail](http://www.yesware.com/blog/linkedin-inmail/) by Melissa Williams from Yesware team.
 * [The ingredients of a Great LinkedIn Sales Message](https://www.linkedin.com/pulse/20141204135257-13078656-the-ingredients-of-a-great-linkedin-sales-message) by Mark Williams.
-* Please, check Cold Email Marketing section. It has awesome templates for cold outreach as well.
+* Please, check also Cold Email Marketing section. It has awesome templates for cold outreach as well.
 
 LinkedIn can help you get more eyes on your content, and receive a feedback from other folks. Contributing to a discussion will make both your profile and your Company Page more visible. If you listen to Rand Fishkin video on [Comment Marketing](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) you know how to establish youself & your company as thought leaders:
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
