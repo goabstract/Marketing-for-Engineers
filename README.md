@@ -59,7 +59,8 @@ Start off by creating a blog that not only touts your product but offers helpful
 
 * [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from Help Scout team.
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools, that find out what people were asking about your industry (via keywords).
-* [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/)
+* [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/).
+* [A Simple Guide To Figuring Out What To Blog About](http://howtomakemyblog.com/blog-topic/) by Marko Saric.
 * If you have skipped articles in the Content Marketing section above, I do encourage you to read them! The first 4 articles have an excellent frameworks for getting strategic content ideas.
 
 Pick the most appropriate content format — video, list, long-read. Think about the right headline for driving interest to your article:
@@ -71,6 +72,7 @@ Pick the most appropriate content format — video, list, long-read. Think about
 
 Craft blog with SEO focus:
 * [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-friendly. He talks about blog strategy, keyword research and promotion of your blog via building links to posts.
+* [SEO 101: How To Rank Your Blog Posts On Google’s First Page](http://howtomakemyblog.com/blog-seo/). Marko Saric focuses on SEO optimization spesificly for WordPress blogs. 
 * [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday) by Rand Fishkin.
 * [How To Use 11+ Free Tools To Find Prequalified Content Ideas for SEO](https://www.shivarweb.com/4275/finding-content-ideas-for-seo/) from Nate Shivar. Article is focused on prequalifying your content ideas with SEO research.
 
@@ -109,6 +111,7 @@ As you have already understood, you need to promote your content both for your o
 * [Blogger Outreach: How to Get Influencers to Promote Your Content for Free](https://smartblogger.com/blogger-outreach/) by Brian Dean.
 * [I Asked 235 People to Tweet My Article and All I Got Is This Cheerless Case Study](https://ahrefs.com/blog/asking-for-tweets/). It's an interesting experiment, where Joshua Hardwick cold emailed writers who tweeted similar posts to his and asked for a promotional tweet.
 * [Sharing Other Peoples Content and Simultaneously Promoting Your Own](https://searchwilderness.com/sharing-other-peoples-content/) by Paul Shapiro. 😯 Have you ever tried to include your blog in the UTM parameters of somebodies else blog post? Paul will teachs you this hack.
+* [Strategic Guide to Reposting Content on Medium and LinkedIn](https://ryanbattles.com/post/reposting-content) by Ryan Battles.
 * [How to get featured on large publications with republished content](https://sumo.com/stories/traffic-from-republishing) by Sarah Peterson.
 Content Marketing is not only about getting people to read your amazing articles (and use your product later). It's also about developing and maintaining relationships with community.
 
@@ -181,6 +184,7 @@ SMM toolbox:
 * [The Pros and Cons of Twitter Automation](https://www.searchenginejournal.com/pros-cons-twitter-automation/164078/) by Michael Georgiou.
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 MarTech Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson.
 * [Get More (High Quality) Twitter Followers by Stalking Influencers](https://searchwilderness.com/get-followers-on-twitter/) by Paul Shapiro.
+* [8 Tactics for Increasing Your Twitter Reach](http://www.socialmediatoday.com/social-networks/8-tactics-increasing-your-twitter-reach) by Patrick Whatman.
 
 Direct Message Marketing is about sending personal, mass or automated DMs to your followers. These artiles will help you to start with your DMs strategy:
 * [7 Twitter Direct Message tactics absolutely anyone can use](https://audiense.com/7-twitter-direct-message-dm-tactics-anyone-social-media-marketing-communications-manager-can-use/) by Paz Segura.
@@ -265,6 +269,8 @@ Useful tools:
 * [How to Advertise On LinkedIn Effectively](https://www.shivarweb.com/11163/how-to-advertise-on-linkedin/) by Nate Shivar.
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
 * [LinkedIn Ads: Step-by-Step Tutorial](https://adespresso.com/academy/blog/linkedin-ads-everything-need-know/) by AdEspresso team.
+* [Want to Effectively Raise Your Linkedin Profile? Follow These Tips!](https://themission.co/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
+* [How to Publish on LinkedIn Pulse: A Beginner's Guide](https://blog.hubspot.com/marketing/linkedin-publishing-beginner-guide#sm.0000uk1rbj980cpntd41cly98kad3) by Carly Stec. When published, tweet your post to “tip @LinkedInEditors” for maximizing your chances of being featured on the LinkedIn Pulse Channels.
 
 Tools:
 * If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords.
