@@ -199,33 +199,30 @@ And these tools help you maximize your Twitter presence, from timing to sharing 
 * [Hashtagify](http://hashtagify.me/) helps you choose hashtags wisely.
 
 ### Facebook
-Facebook has many marketing options that could fit your company focus, budget and your current knowledge. To target your users on Facebook you can work with pages, ads, and groups. 
+Facebook has many marketing options that could fit your company focus, budget and your current knowledge. To target your users on Facebook you can work with pages, groups and ads. Facebook pages & groups is easy to start. You will find many materials below on maintaining, promoting them. Facebook advertising is like a universe. I would reccomend you to have some buddy, who can advise you.  
 
-Facebook Pages:
+Facebook Pages & Groups:
 * Many interesting thoughts on content, post types and other beginners question: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
 * [How to Stand Out with a Brilliant Facebook Cover Photo](https://designschool.canva.com/blog/how-to-stand-out-with-a-brilliant-facebook-cover-photo/) by Adrienne Branson.
 
-Facebook Groups:
-* [List of 50 Facebook Groups for Product, Tech, Growth Managers](https://docs.google.com/spreadsheets/d/1Zcjdm59lfMjsD4BfreLbSiCNBCO3bedolxlnsfeXyXA/edit#gid=0)
-
-The Beginner’s Guides to Facebook Advertising:
-* [7 Keys to Facebook Advertising Success](https://www.jonloomer.com/2017/02/17/facebook-advertising-success/) by Jon Loomer.
+The Beginner’s Guides to Facebook Advertising. Here you will find step-by-step tutorials for setting up your first ad campaing (very londreads). I also included articles about ads design, copywriting and typical beginner mistakes. If you have skiped previos content, it will be usefull to check articles on the viral headlines in Personal Blog section and artilces in the main Social Media Marketing section. Let's begin:
 * [The Complete, Always-Updated Guide to Facebook Advertising](https://blog.bufferapp.com/facebook-ads-guide) by Kevan Lee, Buffer Marketing Director. Buffer has put together a comprehensive guide on learning Facebook advertising, from the ad setup to analysis.
 * [Defining Your Facebook Campaigns’ Goals and Strategies](https://adespresso.com/academy/guides/facebook-ads-optimization/facebook-campaign-strategy-goal/) from AdEspresso team.
 * Good advice on Ad Copywriting: [The Beginner’s Guide to Writing Facebook Ads](https://copyhackers.com/2016/06/writing-facebook-ads/) by Joanna Wiebe.
-* [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson.
+* [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson from Kissmetrics.
 * [16 Secrets the Pros Use to Create Great Facebook Ad Designs](https://adespresso.com/academy/blog/9-tips-perfect-facebook-ad-design/) by Massimo Chieruzzi from AdEspresso team.
-* [After 1.6 Billion Ad Impressions and 408 Facebook Ads, Here’s What I’d Do Differently by AdEspresso](https://adespresso.com/academy/blog/after-1-6-billion-ad-impressions-and-408-facebook-ads-heres-what-id-do-differently/) by Karola Karlson.
+* [The Primary Reasons Your Ads Don’t work and Keys to Facebook Advertising Success](https://www.jonloomer.com/2017/02/17/facebook-advertising-success/) by Jon Loomer.
+* [After 1.6 Billion Ad Impressions and 408 Facebook Ads, Here’s What I’d Do Differently](https://adespresso.com/academy/blog/after-1-6-billion-ad-impressions-and-408-facebook-ads-heres-what-id-do-differently/) by Karola Karlson.
 * [What I learned spending $2 Million on Facebook Ads](http://okdork.com/how-to-start-advertising-on-facebook/) by Noah Kagan.
 
 
-Advanced reading on Facebook Advertising:
+Advanced reading on Facebook Advertising.
 * [The Complete Guide to Facebook Ads Manager: How to Create, Manage, Analyze Your Facebook Ads](https://blog.bufferapp.com/facebook-ads-manager) by Alfred Lua from Buffer team.
 * [The Facebook Pixel: What It Is and How to Use It](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
 * [6 Ways to Add the Facebook Pixel to Your Website](https://www.jonloomer.com/2017/02/24/facebook-pixel/) by Jon Loomer.
 * [101-Point Guide To Master: Facebook Custom Audiences](https://klientboost.com/ppc/facebook-custom-audience/) by Karola Karlson.
 * [The Big Damn Guide To Facebook Ad Targeting](https://www.contentharmony.com/blog/facebook-ad-targeting/) by Kane Jamison.
-* Comprehensive guide on [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team.
+* [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team.
 * Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
 * [Facebook Website Custom Audiences: A Definitive Guide for Remarketing](http://www.jonloomer.com/2015/09/11/facebook-website-custom-audiences-guide/) by Jon Loomer.
 * [A/B Testing Facebook Ads: 121 Tips & Ideas for Extraordinary Discoveries](https://klientboost.com/ppc/facebook-ad-testing/) by KlientBoost.
@@ -235,6 +232,8 @@ Advanced reading on Facebook Advertising:
 * [Facebook Ads Review 101: Rules to follow to get your ads approved… quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
 * [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer.
 
+Useful tools:
+* [List of 50 Facebook Groups for Product, Tech, Growth Managers](https://docs.google.com/spreadsheets/d/1Zcjdm59lfMjsD4BfreLbSiCNBCO3bedolxlnsfeXyXA/edit#gid=0)
 
 ### Reddit
 Reddit is one of the most active internet community with it’s own unique culture. You can get tons of cool information there, great product feedback and first users. :satisfied: However, it's better to learn Reddit rules and basics before you get banned:
