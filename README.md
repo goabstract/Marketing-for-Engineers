@@ -185,6 +185,7 @@ SMM toolbox:
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 MarTech Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson.
 * [Get More (High Quality) Twitter Followers by Stalking Influencers](https://searchwilderness.com/get-followers-on-twitter/) by Paul Shapiro.
 * [8 Tactics for Increasing Your Twitter Reach](http://www.socialmediatoday.com/social-networks/8-tactics-increasing-your-twitter-reach) by Patrick Whatman.
+* [5 ways to increase your Tweet engagements with emojis](https://business.twitter.com/en/blog/5-ways-to-increase-your-tweet-engagements-with-emojis.html)
 
 Direct Message Marketing is about sending personal, mass or automated DMs to your followers. These artiles will help you to start with your DMs strategy:
 * [7 Twitter Direct Message tactics absolutely anyone can use](https://audiense.com/7-twitter-direct-message-dm-tactics-anyone-social-media-marketing-communications-manager-can-use/) by Paz Segura.
@@ -264,13 +265,21 @@ Useful tools:
 
 
 ### LinkedIn
+I want to tell you a secret: HR is not the only people who use LinkedIn.  
 * [LinkedIn Company / Business Page Best Practices with Examples](https://www.shivarweb.com/11556/linkedin-company-business-page-best-practices/) from ShivarWeb staff.
 * [Company Page Best Practices with Page Examples](https://business.linkedin.com/marketing-solutions/company-pages/best-practices) via LinkedIn.
 * [How to Advertise On LinkedIn Effectively](https://www.shivarweb.com/11163/how-to-advertise-on-linkedin/) by Nate Shivar.
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
 * [LinkedIn Ads: Step-by-Step Tutorial](https://adespresso.com/academy/blog/linkedin-ads-everything-need-know/) by AdEspresso team.
+* [The Ultimate Guide to LinkedIn Conversion Tracking](https://www.hallaminternet.com/linkedin-conversion-tracking/) by Tom Whiley.
 * [Want to Effectively Raise Your Linkedin Profile? Follow These Tips!](https://themission.co/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
+* [Using LinkedIn: 7 of my favourite tips](https://www.hallaminternet.com/using-linkedin/) by Susan Hallam from Hallam.
 * [How to Publish on LinkedIn Pulse: A Beginner's Guide](https://blog.hubspot.com/marketing/linkedin-publishing-beginner-guide#sm.0000uk1rbj980cpntd41cly98kad3) by Carly Stec. When published, tweet your post to “tip @LinkedInEditors” for maximizing your chances of being featured on the LinkedIn Pulse Channels.
+
+Use LinkedIn for direct sales. You can write people via invitation note, direct message, InMail or Group message. Business outreach is common and very popular between LinkedIn members. So keep you sales pitch proffesional:
+* [The Anatomy of a Great LinkedIn Sales Message [Template]](https://blog.hubspot.com/sales/the-anatomy-of-a-great-linkedin-sales-message-template#sm.0000uk1rbj980cpntd41cly98kad3) by Emma Brudner. The example is very formal, but it worth to try out. 
+* [The ingredients of a Great LinkedIn Sales Message](https://www.linkedin.com/pulse/20141204135257-13078656-the-ingredients-of-a-great-linkedin-sales-message) by Mark Williams.
+* Please, check Cold Email Marketing section. It has awesome templates for cold outreach as well.
 
 Tools:
 * If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords.
