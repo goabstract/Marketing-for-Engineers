@@ -13,8 +13,7 @@
   * [Reddit](https://github.com/LisaDziuba/Marketing-for-Engineers#reddit)
   * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#linkedin)
   * [Quora](https://github.com/LisaDziuba/Marketing-for-Engineers#quora)
-* [Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#email-email-marketing)
-  * [Product Onboarding emails](https://github.com/LisaDziuba/Marketing-for-Engineers#product-emails)  
+* [Lifecycle Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#lifecycle-email-marketing)  
 * [Cold Emails Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-Cold-Email-Marketing)
 * [Building Partnerships](https://github.com/LisaDziuba/Marketing-for-Engineers#bowtie-building-partnerships)
 * [Psychology in Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#%EF%B8%8F-psychology-in-marketing)
@@ -312,11 +311,7 @@ Tools:
 * [How to Get Thousands of Leads from Quora in Five Months](https://sumo.com/stories/quora-traffic) by Josh Fechter, the "Top Quora Writer of 2017."
 * [How To Use Quora For SEO & Content Marketing](https://www.shivarweb.com/10583/how-to-use-quora-for-seo-content-marketing/) by Nate Shivar.
 
-## :email: Email Marketing
-I know what you are thinking right now: "nobody cares about emails". Well, do you have your favorite newsletters? Do you love discount emails from your favorite dev tool? I bet, the answer is "yes" :smirk: The goal of email marketing is to turn email addresses into loyal users or prospect partners.
-
-### Product emails
-Product emails
+## Lifecycle Email Marketing
 
 The goal of onboarding is to increase the number of users who actually use your product (or free trial) and pay for it later. Onboarding process can be done not only via emails. You can reach out to users through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls :telephone_receiver:. For [Flawless App](https://flawlessapp.io/) we decided to use a combination of triggered onboarding emails and in-app notifications. I will focus mostly on onboarding emails because it's the easiest tool to start with.
 
