@@ -322,16 +322,16 @@ Let's start with onboarding. The goal of it is to increase the number of users w
 * [3 copywriting mistakes that could be hurting your lifecycle emails](https://blog.kissmetrics.com/3-copywriting-mistakes/) by Alli Blum.
 * [How to Bring Inactive Users Back from the Dead with Emails](https://www.appcues.com/blog/how-to-bring-inactive-users-back-from-the-dead/) by Ty Magnin from Appcues.
 * And finally, [User Onboarding isn’t a feature, it’s an evolving quality of your entire customer experience](https://medium.com/help-scout/user-onboarding-isn-t-a-feature-230455e7e41a) via Samuel Hulick.
+You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game.
 
 For getting an inspiration for your onboarding emails you can check some examples from popular companies:
 * [Email copy from great companies](http://www.goodemailcopy.com/) or [Really Good Emails site](https://reallygoodemails.com/).
 * [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9) by Bart King.
 * [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/) from Drift team.
 * [17 Email Scripts That Have Helped Us Grow Our Business (For You to Steal)](https://www.groovehq.com/blog/business-email-templates) from Groove Team.
-* And finally! Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email.
+* Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email.
 
-Subscriber emails are good for announcing new feature releases or new blog post, sending educational materials or newsletters.
-When you have a new product release, you can use launch emails as an effective tool for growing users engagement:
+Subscriber emails are good for announcing new feature releases or new blog post. Its also used for sending educational materials or newsletters. All these emails can be an effective tool for growing your users engagement:
 * [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
 * [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d)
 * [A simple improvement to product announcements](https://blog.intercom.com/simple-improvement-product-mails/) from Intercome.
@@ -341,7 +341,6 @@ You should always A/B test different email headers, text, message styles, images
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
 * [Best Practices for Buttons: The User Experience of colors](https://uxplanet.org/best-practices-for-buttons-b7048479d440) by Luca Longo. One more short read to help you choose your CTA button.
 
-You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game.
 
 
 ## :fearful: Cold Email Marketing
