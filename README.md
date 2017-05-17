@@ -311,11 +311,10 @@ Tools:
 * [How to Get Thousands of Leads from Quora in Five Months](https://sumo.com/stories/quora-traffic) by Josh Fechter, the "Top Quora Writer of 2017."
 * [How To Use Quora For SEO & Content Marketing](https://www.shivarweb.com/10583/how-to-use-quora-for-seo-content-marketing/) by Nate Shivar.
 
-## Lifecycle Email Marketing
+## :love_letter: Lifecycle Email Marketing
+Lifecycle emails can help you to accomplish almost any marketing goal: onboard new users, increase sales, grow users engagement, bring back inactive one and build long-lasting relationship. There are four key components of lifecycle email marketing campaign: the right user, goal-oriented topic, good timing and contextual message.
 
-The goal of onboarding is to increase the number of users who actually use your product (or free trial) and pay for it later. Onboarding process can be done not only via emails. You can reach out to users through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls :telephone_receiver:. For [Flawless App](https://flawlessapp.io/) we decided to use a combination of triggered onboarding emails and in-app notifications. I will focus mostly on onboarding emails because it's the easiest tool to start with.
-
-This tutorial will help you to make your product onboarding experience right :love_letter::
+Let's start with onboarding. The goal of it is to increase the number of users who actually use your product (or free trial) and pay for it later. Onboarding process can be done not only via emails. You can reach out to users through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls :telephone_receiver:. For [Flawless App](https://flawlessapp.io/) we decided to use a combination of triggered onboarding emails and in-app notifications. I will focus mostly on onboarding emails:
 * [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by customer.io team.
 * [Trial expiration email best practices](https://postmarkapp.com/guides/trial-expiration-email-best-practices) by Garrett Dimon.
 * [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by customer.io team.
