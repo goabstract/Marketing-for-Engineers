@@ -183,25 +183,23 @@ SMM toolbox:
 
 Your personal account can drive traffic to your product and content. When you grow your Twitter followers, you increage the media reach you might get. But don't forget, that Twitter is made for people. To be succesful there, you need to communicate with your audience just as you would offline. If users likes your tweets and your personality, there’s a higher chance that the user will trust you and click on your links:
 * If you have never ever use Twitter, this brief [Twitter for Beginners Guide](https://www.wix.com/blog/2016/10/twitter-guide-for-beginners/) will help.
-* [How to Get Higher Tweet Engagement? We Analyzed 23,858 Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson.
+* [How to Get Higher Tweet Engagement? We Analyzed 23,858 Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson. It's a long read about what, when and how to tweet. Although the main focus is on marketing industry, the key insights will be useful for tech as well.
 * [8 Tactics for Increasing Your Twitter Reach](http://www.socialmediatoday.com/social-networks/8-tactics-increasing-your-twitter-reach) by Patrick Whatman.
-* [5 ways to increase your Tweet engagements with emojis](https://business.twitter.com/en/blog/5-ways-to-increase-your-tweet-engagements-with-emojis.html)
-
-There is nothing wrong with automating your Twitter activities. You can shedule auto-posting, automatical send messages and set up rules for auto-engagement with Twitter users. However, only automation will hurt your Twitter startegy. So mix it with real time tweeting, being active and helpful with the community: 
-* [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) by Tami Brehse. Tami sheduled 60 Tweets with her blog posts for one month. Her overall site traffic showed how people actually engage with automated tweets.
-* [The Pros and Cons of Twitter Automation](https://www.searchenginejournal.com/pros-cons-twitter-automation/164078/) by Michael Georgiou. Consider the downside of automation.
-* [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow.
-* [Is “fake” Twitter following working?](https://aggregateblog.com/automated-twitter-following-tools/) by Karola Karlson. New accounts suffer from a lack of followers. Automated Follow-Unfollow tools seem like an obvious solution to give you the "first followers". But in most cases, it will be bots or inactive users.
-
 * [Get More (High Quality) Twitter Followers by Stalking Influencers](https://searchwilderness.com/get-followers-on-twitter/) by Paul Shapiro.
+* [5 ways to increase your Tweet engagements with emojis](https://business.twitter.com/en/blog/5-ways-to-increase-your-tweet-engagements-with-emojis.html)
+* Taking part in Twitter chats is a great way to attract new followers and actively participate in relevant conversations with people from your industry.
+
+There is nothing wrong with automating your Twitter activities. You can shedule auto-posting, automatical send messages and set up rules for auto-engagement with Twitter users. However, only automation will hurt your Twitter startegy. So mix it with a real time tweeting and being active & helpful with the community: 
+* [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) by Tami Brehse. Tami sheduled 60 Tweets with her blog posts for one month. Her overall site traffic showed how people actually engage with automated tweets.
+* [The Pros and Cons of Twitter Automation](https://www.searchenginejournal.com/pros-cons-twitter-automation/164078/) by Michael Georgiou. check it out for not becoming a robot.
+* [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic (video)](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow. Clever automation is awesome 👌.
+* [Is “fake” Twitter following working?](https://aggregateblog.com/automated-twitter-following-tools/) by Karola Karlson. New accounts suffer from a lack of followers. Follow-Unfollow tools seem like an obvious solution to give you the "first followers". But in most cases, it will be bots or inactive users.
 
 Direct Message Marketing is about sending personal, mass or automated DMs to your followers. These artiles will help you to start with your DMs strategy:
 * [7 Twitter Direct Message tactics absolutely anyone can use](https://audiense.com/7-twitter-direct-message-dm-tactics-anyone-social-media-marketing-communications-manager-can-use/) by Paz Segura.
 * [Why Twitter Auto DMs are Evil (and what you should do instead)](http://www.blogclarity.com/why-twitter-auto-dms-are-evil-and-what-you-should-do-instead/) by Melissa Culberson. Melissa proves, that if you send impersonal auto-DM with some spam, that will only annoy your users.
 * [Case study when auto-DMs actualy working](http://niknitro.com/auto-dm-not-auto-dm/) by Nik Nitro. Welcome auto-DMs should be used only when it provides tanguable value to a new follower. Nik shows his example.
 * [Be aware of Twitter tweet & DM limit](https://support.twitter.com/articles/15364).
-
-Taking part in Twitter chats is a great way to attract new followers and actively participate in relevant conversations with people from your industry.
 
 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user.
