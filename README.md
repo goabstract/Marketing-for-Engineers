@@ -330,6 +330,7 @@ For getting an inspiration for your onboarding emails you can check some example
 * [17 Email Scripts That Have Helped Us Grow Our Business (For You to Steal)](https://www.groovehq.com/blog/business-email-templates) from Groove Team.
 * And finally! Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email.
 
+Subscriber emails are good for announcing new feature releases or new blog post, sending educational materials or newsletters.
 When you have a new product release, you can use launch emails as an effective tool for growing users engagement:
 * [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
 * [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d)
