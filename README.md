@@ -108,6 +108,7 @@ As you have already understood, you need to promote your content both for your o
 * [Content Promotion: How We Grew from 0 to 32,977 Users in 5 Months With Zero Paid Traffic](https://growandconvert.com/content-marketing/community-content-promotion/) by Benji Hyam.
 * [17 Advanced Methods for Promoting Your New Piece of Content](https://blog.kissmetrics.com/17-advanced-methods/) by Kissmetrics team.
 * [Boost Social Sharing From Your Content](https://sumo.com/stories/social-sharing-chapter-2) by Sarah Peterson.
+* [The Simple Way to Get People to Read Your Blog Post on Facebook](http://adamrogersuk.com/blog/post-blog-on-facebook/) by Adam Rogers.
 * [Blogger Outreach: How to Get Influencers to Promote Your Content for Free](https://smartblogger.com/blogger-outreach/) by Brian Dean.
 * [I Asked 235 People to Tweet My Article and All I Got Is This Cheerless Case Study](https://ahrefs.com/blog/asking-for-tweets/). It's an interesting experiment, where Joshua Hardwick cold emailed writers who tweeted similar posts to his and asked for a promotional tweet.
 * [Sharing Other Peoples Content and Simultaneously Promoting Your Own](https://searchwilderness.com/sharing-other-peoples-content/) by Paul Shapiro. 😯 Have you ever tried to include your blog in the UTM parameters of somebodies else blog post? Paul will teachs you this hack.
@@ -268,13 +269,26 @@ Useful tools:
 ### LinkedIn
 I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, make direct sales and search for investors. LinkedIn is a pefrect place for B2B companies and business profesionals. It is also useful for self-branding purpose. As a promotional tools, LinkedId has Personal Pages, Company Pages, Groups and Ads.
 
-Guides on self-branding and tips for effective LinkedIn usage:
+Your LinkedIn profile can be a complete sales and marketing tool. It should communicates value of your product and your expetise to potential partners. These guides and tips will help you out:
 * [Want to Effectively Raise Your Linkedin Profile? Follow These Tips!](https://themission.co/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
 * [5 Templates That'll Make Writing the Perfect LinkedIn Summary a Breeze](https://www.themuse.com/advice/5-templates-thatll-make-writing-the-perfect-linkedin-summary-a-breeze) by Aja Frost.
 * [7 LinkedIn Summary Examples That Make You Look Good](http://www.yesware.com/blog/linkedin-summary-examples/) by Melissa Williams.
 * [How I Got 425% More Page Views on LinkedIn—and You Can, Too](https://www.themuse.com/advice/how-i-got-425-more-page-views-on-linkedinand-you-can-too) by Aja Frost.
 * [Using LinkedIn: 7 of my favourite tips](https://www.hallaminternet.com/using-linkedin/) by Susan Hallam from Hallam.
 * [11 Quick Questions to Ask Yourself Before Accepting a Stranger's LinkedIn Request](https://www.themuse.com/advice/11-quick-questions-to-ask-yourself-before-accepting-a-strangers-linkedin-request) by Inc.com.
+
+LinkedIn can help you get more eyes on your content, and receive a feedback from other folks. Contributing to a discussion will make both your profile and your Company Page more visible. If you listen to Rand Fishkin video on [Comment Marketing](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) you know how to establish youself & your company as thought leaders:
+* [255,262 Views on LinkedIn in 30 Days: Here’s Everything I’ve Learned](http://www.gregoryciotti.com/linkedin-publishing/) by  Gregory Ciott.
+* [We Analyzed the 3,000 Most Successful LinkedIn Publishing Posts](http://okdork.com/linkedin-publishing-success/) by Paul Shapiro.
+* [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
+* [How to Publish on LinkedIn Pulse: A Beginner's Guide](https://blog.hubspot.com/marketing/linkedin-publishing-beginner-guide#sm.0000uk1rbj980cpntd41cly98kad3) by Carly Stec. When published, tweet your post to “tip @LinkedInEditors” for maximizing your chances of being featured on the LinkedIn Pulse Channels.
+
+Use LinkedIn for direct sales and getting partners. You can write people via invitation note, direct message, InMail or Group message. You should have clear objectives and know exactly who you want to connect with. Business outreach is common and popular between LinkedIn members, but it should be done in a structural way:
+* [11 Strong Signs That You've Mastered LinkedIn](https://www.entrepreneur.com/article/282360) by Tony Messer. This post gives a general overview on how to use LinkedIn with purpose.
+* [The Anatomy of a Great LinkedIn Sales Message (Template)](https://blog.hubspot.com/sales/the-anatomy-of-a-great-linkedin-sales-message-template#sm.0000uk1rbj980cpntd41cly98kad3) by Emma Brudner. The example is very formal, but it worth to try out. 
+* [How to Write Reply-Worthy LinkedIn InMail](http://www.yesware.com/blog/linkedin-inmail/) by Melissa Williams from Yesware team.
+* [The ingredients of a Great LinkedIn Sales Message](https://www.linkedin.com/pulse/20141204135257-13078656-the-ingredients-of-a-great-linkedin-sales-message) by Mark Williams.
+* Please, check also Cold Email Marketing section. It has awesome templates for cold outreach as well.
 
 LinkedIn Company Pages & Advertising options:
 * [LinkedIn Company / Business Page Best Practices with Examples](https://www.shivarweb.com/11556/linkedin-company-business-page-best-practices/) from ShivarWeb staff.
@@ -283,17 +297,9 @@ LinkedIn Company Pages & Advertising options:
 * [LinkedIn Ads: Step-by-Step Tutorial](https://adespresso.com/academy/blog/linkedin-ads-everything-need-know/) by AdEspresso team.
 * [How to Advertise On LinkedIn Effectively](https://www.shivarweb.com/11163/how-to-advertise-on-linkedin/) by Nate Shivar.
 * [The Ultimate Guide to LinkedIn Conversion Tracking](https://www.hallaminternet.com/linkedin-conversion-tracking/) by Tom Whiley.
-* [5 tactics](https://blog.adstage.io/2017/05/03/expand-your-reach-and-drive-more-conversions-on-linkedin/) which can help reach your ideal audience, increase conversion rates, and boost your return on ad spend on LinkedIn. Written by Michael McEuen.
+* [5 tactics](https://blog.adstage.io/2017/05/03/expand-your-reach-and-drive-more-conversions-on-linkedin/) which can help reach your ideal audience and increase conversion rates. Written by Michael McEuen.
 
-Use LinkedIn for direct sales. You can write people via invitation note, direct message, InMail or Group message. Business outreach is common and very popular between LinkedIn members. Keep you sales pitch proffesional and be open to chat with people:
-* [The Anatomy of a Great LinkedIn Sales Message (Template)](https://blog.hubspot.com/sales/the-anatomy-of-a-great-linkedin-sales-message-template#sm.0000uk1rbj980cpntd41cly98kad3) by Emma Brudner. The example is very formal, but it worth to try out. 
-* [How to Write Reply-Worthy LinkedIn InMail](http://www.yesware.com/blog/linkedin-inmail/) by Melissa Williams from Yesware team.
-* [The ingredients of a Great LinkedIn Sales Message](https://www.linkedin.com/pulse/20141204135257-13078656-the-ingredients-of-a-great-linkedin-sales-message) by Mark Williams.
-* Please, check also Cold Email Marketing section. It has awesome templates for cold outreach as well.
-
-LinkedIn can help you get more eyes on your content, and receive a feedback from other folks. Contributing to a discussion will make both your profile and your Company Page more visible. If you listen to Rand Fishkin video on [Comment Marketing](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) you know how to establish youself & your company as thought leaders:
-* [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
-* [How to Publish on LinkedIn Pulse: A Beginner's Guide](https://blog.hubspot.com/marketing/linkedin-publishing-beginner-guide#sm.0000uk1rbj980cpntd41cly98kad3) by Carly Stec. When published, tweet your post to “tip @LinkedInEditors” for maximizing your chances of being featured on the LinkedIn Pulse Channels.
+I heavily use LinkedIn. As you remember, I run Flawless App - a tool for iOS & macOS engineers. A lot of my users spend time on LinkedIn, participate in iOS groups or post articles there. I often post cool stuff in those groups, engage with people via direct messages or share my writings in [my profile page](https://www.linkedin.com/in/lisadziuba/). Unfortunately, I do get spam or some random requests from job seekers\recruiters. But in general, LinkedIn works for me.   
 
 Tools:
 * If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords.
