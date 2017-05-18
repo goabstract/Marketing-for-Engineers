@@ -57,11 +57,11 @@ Start by creating a blog that not only touts your product but offers helpful rec
 
 * [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from Help Scout team.
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools 🔎 to find out what people are asking about your industry (via keywords).
-* [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/) from Ed Leake. It’s a mix of many topics to write about. Feel free to scroll it and steal something relevant. 
-* [A Simple Guide To Figuring Out What To Blog About](http://howtomakemyblog.com/blog-topic/). 🙏 As Marko Saric mentioned, the perfect topic is found by interlinking your passion and personality with the demand from the market.
+* [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/) from Ed Leake. It’s a mix of many topics to write about. Feel free to scroll it and steal relevant stuff. 
+* [A Simple Guide To Figuring Out What To Blog About](http://howtomakemyblog.com/blog-topic/). As Marko Saric mentioned, 🙏 the perfect topic is found by interlinking your passion and personality with the demand from the market.
 * If you have skipped articles in the Content Marketing section above, I do encourage you to read them! The first 4 articles have excellent frameworks for getting strategic content ideas.
 
-Pick the most appropriate content format — video, list, long-read. Think about the right headline for driving interest to your article:
+Pick the most appropriate content format — video, list, long-read. Than think about the right headline for driving interest to your great article:
 * [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/)
 * [30+ Ultimate Headline Formulas](https://blog.bufferapp.com/headline-formulas)
 * [Copywriting Headlines That Sell (with Templates & Swipe File)](https://kopywritingkourse.com/copywriting-headlines-that-sell/)
