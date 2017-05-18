@@ -325,20 +325,19 @@ Let's start with onboarding. The goal of it is to increase the number of users w
 * [User Onboarding isn’t a feature, it’s an evolving quality of your entire customer experience](https://medium.com/help-scout/user-onboarding-isn-t-a-feature-230455e7e41a) via Samuel Hulick. You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game. 
 * For getting an inspiration for your onboarding and product emails, you can check examples from big companies: [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9), [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/), [17 Email Scripts That Have Helped Groove Grow Business](https://www.groovehq.com/blog/business-email-templates) and [6 Wearables Tech Email Marketing Examples](https://www.referralsaasquatch.com/wearables-tech-email-marketing-examples/).
 
-Subscriber emails are good for announcing new feature releases or new blog post. Its also used for sending educational materials or newsletters. All these emails can be an effective tool for growing your users engagement:
-* [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
-* [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d)
-* [A simple improvement to product announcements](https://blog.intercom.com/simple-improvement-product-mails/) from Intercome.
-* [How Our Product Update Emails Get a 68% Response Rate](https://www.groovehq.com/blog/how-to-send-product-update-emails) by Groove Team.
+Subscriber emails are good for announcing new feature releases or sharing blog posts. Its also used for sending educational materials or curated content newsletters. All these emails can be an effective tool for growing your existing users engagement. With newsletters you can gain many email addresses and turn them into users or partners:
 * [How To Build And Scale A Curated Newsletter In 5 Easy Steps](http://blog.hubstaff.com/build-scale-curated-newsletter/) by Madhav Bhandari.
 * [Email Marketing Newsletters: General Overview](https://www.benchmarkemail.com/resources/email-marketing-articles/A-Top-To-Bottom-Guide) and [Brief Guide on Growing Your Permission-Based Email List](https://www.benchmarkemail.com/resources/email-marketing-articles/permission-based-email-list) via Benchmark Email team.
-* [14 High Converting Places to Add Email Signup Forms to Build Your List](http://optinmonster.com/14-high-converting-places-to-add-email-signup-forms-to-build-your-list/) from Optinmonster team. You can send newsletters not only to your users, but to people who are interested to keep in touch with your brand. 
+* [14 High Converting Places to Add Email Signup Forms to Build Your List](http://optinmonster.com/14-high-converting-places-to-add-email-signup-forms-to-build-your-list/) from Optinmonster team.
 * [10 Most Common Newsletter Mistakes & Check-List for Fixes](https://www.soundest.com/blog/12-most-common-newsletter-mistakes/) by Karolina Jasvinaitė. Beside avoiding these mistakes, you should figure out how to provide a consistent value without making your newsletter a "promotion" list.
 * [10 Rules to Make Your Email Newsletter Design Beautiful yet Effective](https://www.soundest.com/blog/10-rules-make-email-newsletter-design-beautiful-yet-effective/) by Karolina Jasvinaitė.
- 
+* Now let's focus on Product launch & relese notes: [A simple improvement to product announcements](https://blog.intercom.com/simple-improvement-product-mails/) from Intercome team.
+* [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
+* [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d)
+* [How Our Product Update Emails Get a 68% Response Rate](https://www.groovehq.com/blog/how-to-send-product-update-emails) by Groove Team.
+
 Promotional Emails helps you to grow sales:
 * [21 Little Known Reasons Why Your Sales Letter Is Not Converting](https://copymonk.com/sales-letter/) by Danavir Sarria. 
-
 
 
 You should always A/B test different email subject lines, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
