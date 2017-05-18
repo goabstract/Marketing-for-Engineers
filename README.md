@@ -313,7 +313,7 @@ Tools:
 * [How To Use Quora For SEO & Content Marketing](https://www.shivarweb.com/10583/how-to-use-quora-for-seo-content-marketing/) by Nate Shivar.
 
 ## :love_letter: Lifecycle Email Marketing
-Lifecycle emails can help you to accomplish almost any marketing goal: onboard new users, increase sales, grow users engagement, bring back inactive one and build long-lasting relationship. There are four key components of lifecycle email marketing campaign: the right user, goal-oriented topic, good timing and contextual message.
+Lifecycle emails can help you to accomplish almost any marketing goal: onboard new users, increase sales, grow users engagement, bring back inactive one or build long-lasting relationship. It's also known as drip marketing or automated email campaigns. To make it simple: it's a set of emails that will be sent out automatically based on schedule, triggers, or user actions. There are four key components for such email campaigns: the right user, goal-oriented topic, good timing and contextual message. 
 
 Let's start with onboarding. The goal of it is to increase the number of users who actually use your product (or free trial) and pay for it later. Onboarding process can be done through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls :telephone_receiver:. We will focus on onboarding via emails:
 * [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by customer.io team.
@@ -339,13 +339,16 @@ Subscriber emails are good for announcing new feature releases or sharing blog p
 Promotional Emails helps you to grow sales:
 * [21 Little Known Reasons Why Your Sales Letter Is Not Converting](https://copymonk.com/sales-letter/) by Danavir Sarria. 
 
-
-You should always A/B test different email subject lines, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
+You should always A/B test your email campaings: try different subject lines, texts, message styles, images, CTA buttons. Look at your metrics and measure how well each element works:
 * [A Beginner’s Guide to A/B Testing: Email Campaigns That Convert](https://blog.kissmetrics.com/ab-testing-email-campaigns/) from Kissmetrics blog.
 * [A/B Test Your Email Marketing: How to Get Started, What to Test, and 20+ Apps to Help](https://zapier.com/learn/email-marketing/ab-testing-email-marketing/) from Zapier blog.
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
 * [Best Practices for Buttons: The User Experience of colors](https://uxplanet.org/best-practices-for-buttons-b7048479d440) by Luca Longo. One more short read to help you choose your CTA button.
 * [164 Email Subject Lines to Boost Your Email Open Rates ](http://optinmonster.com/101-email-subject-lines-your-subscribers-cant-resist/) by Optinmonster team. Good inspirational examples to try out.
+
+Want to learn even more about Lifecycle Email Marketing? Read these comprehensive long guides, that contain all types of emails we talk above with examples, tips & trips and recomended tools: 
+* [The Ultimate Lifecycle Email Marketing Guide](https://www.getvero.com/resources/guides/lifecycle-marketing/) by Jimmy Daly from Vero. The guide has 135 email examples broken down into 5 categories and 41 sub-categories.
+* [What is Drip Marketing? The Complete Guide to Drip Campaigns, Lifecycle Emails, and More](https://zapier.com/learn/email-marketing/drip-marketing-campaign/) by Joe Stych from Zapier. It's a part of [The Ultimate Guide to Email Marketing Apps](https://zapier.com/learn/email-marketing/), which has 11 more chapters to read. I told you, it's a very huge library!
 
 Useful tools:
 * Websites with awesome email examples: [Email copy from great companies](http://www.goodemailcopy.com/) and [Really Good Emails](https://reallygoodemails.com/).
