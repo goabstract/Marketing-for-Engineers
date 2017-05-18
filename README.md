@@ -50,6 +50,7 @@ I encourage you to do a content-marketing by yourself because outsourcing it can
 * [How to convert leads directly off of your blog with help on Popups](https://sumo.com/stories/email-popup-lead-generation) by Benji Hyam.
 * [How To Convert Blog Traffic Into Customers With CTAs: The Complete Guide](https://growandconvert.com/conversion-rate-optimization/blog-conversion-strategy/) by Devesh Khanal. 	
 * [How to Turn Your Blog’s Thank You Page Into a Lead Generating Machine](https://growandconvert.com/conversion-rate-optimization/thank-you-lead-generating-machine/) by Emil Shour.
+* [Content Marketing ROI: How We Measure Success at Hubstaff](http://blog.hubstaff.com/measuring-content-marketing-roi/).
 * And don't forget to calculate [The Customer Acquisition Cost of Content Marketing](https://growandconvert.com/content-marketing/customer-acquisition-cost/#).
 
 
@@ -336,6 +337,10 @@ Subscriber emails are good for announcing new feature releases or new blog post.
 * [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d)
 * [A simple improvement to product announcements](https://blog.intercom.com/simple-improvement-product-mails/) from Intercome.
 * [How Our Product Update Emails Get a 68% Response Rate](https://www.groovehq.com/blog/how-to-send-product-update-emails) by Groove Team.
+* [How To Build And Scale A Curated Newsletter In 5 Easy Steps](http://blog.hubstaff.com/build-scale-curated-newsletter/) by Madhav Bhandari.
+* [10 Most Common Newsletter Mistakes & a Check-List for Fixes](https://www.soundest.com/blog/12-most-common-newsletter-mistakes/) by Karolina Jasvinaitė. Also, you should figure out how to provide a consistent value on an ongoing basis without making your newsletter a "promotion" list.
+* [164 Best Email Subject Lines to Boost Your Email Open Rates ](http://optinmonster.com/101-email-subject-lines-your-subscribers-cant-resist/) from Optinmonster team. Use these examples as inspiration for subscribers emails.
+ 
 
 You should always A/B test different email headers, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
