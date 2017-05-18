@@ -355,14 +355,16 @@ Most people hate cold outreach and everything connected to the direct sales. How
 
 * [The Cold Sales Email Bible (Guide with templates)](https://sumo.com/stories/cold-email-templates) by Sean Bestor.
 * [How to Warm Up Prospects Before Sending Them a Cold Email?](https://blog.woodpecker.co/cold-email/warm-prospects/) by Cathy Patalas. Cathy's article proposes simple actions, that may seriously increase your cold email open & reply rates.
-* These [11 Cold Email Templates & Examples](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing. The funny cool templates were done by Melissa Williams from Yesware.
-* And more [Sales Email Templates](https://attach.io/sales-email-templates/) from attach.io team.
+* These [11 Cold Email Templates & Examples by Melissa Williams](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing.
+* [9 Cold Email Formulas That Just Plain Work](http://www.yesware.com/blog/cold-email/). One more good tutorial from Yesware team.
+* [101 Sales Email Templates](https://attach.io/sales-email-templates/) 📚 Attach.io team prapared email examples from cold outreach to LinkedIn intro messages. 
 * [14 Deliverability Checks to Carry Out Before Sending Your Cold Email Campaign](https://blog.woodpecker.co/cold-email/deliverability-checks/) by Cathy Patalas.
 * [Mass emails that look like you wrote every one to 3.5x your response rates](http://www.artofemails.com/mail-merge-email-personalization#why-personalize) by Sapph.
 
 Learn from people's stories, who run cold email campaigns:
 * [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
 * [How to get a $3,000 monthly contract (with exact scripts)](http://videofruit.com/blog/3kpermonth/) by Bryan Harris.
+* [hy Every Outbound Campaign Needs 8 Emails](https://salesfolk.com/blog/why-every-outbound-campaign-needs-8-emails/) via Salesfolk. It's a case-study of Ambition, YC startup, who used cold email campaign and automautomation to grow sales. 
 * And here is some inspiring story from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
 
 Some more tips & tricks:
@@ -393,6 +395,7 @@ How and where to find partners:
 * Tips on the [New LinkedIn Search](https://blog.linkedin.com/2017/january/19/how-to-make-the-most-of-the-new-linkedin-search) and [Writing LinkedIn Requests](https://www.themuse.com/advice/want-people-to-accept-your-linkedin-requests-use-these-10-templates) by Aja Frost.
 * [15 Places Where You Can Find Prospects, Other than LinkedIn](https://blog.woodpecker.co/prospecting/where-to-find-prospects/) by Cathy Patalas.  
 * [How to Network at a Conference](http://www.wikihow.com/Network-at-a-Conference) from wikiHow. 
+* [How To Create A Follow Up Email in 5 Simple Steps](https://www.hubspot.com/sales/follow-up-email) by Hubspot team
 
 Check these guides on building partnerships (both for software & physical products):
 * [Co-Marketing: How to Reach New Customers With Strategic Partnerships](https://www.shopify.com/blog/195109129-co-marketing-strategic-partnerships) by Braveen Kumar. Reccomendations will suit companies, who have physical products.
