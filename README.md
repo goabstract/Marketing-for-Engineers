@@ -166,11 +166,11 @@ Useful tools:
 * [Crisp Live Chat](https://crisp.im/en/) is very useful during your launch campaign when people ask things in a real-time. Such communication can increase conversion at your site and give you a lot of insights. We use the free version and it's awesome so far.
 
 ## Social Media Marketing
-
+Let's start with the basics, which can be implement to any socail media platform:
 * [How to Create a Social Media Marketing Strategy From Scratch](https://blog.bufferapp.com/social-media-marketing-plan) by Kevan Lee, Buffer Marketing Director. It's a comprehensive long-read about basic on SMM strategy.
+* Case-study from Hubstaff: [The Improved Social Media Content Strategy That Boosted Visits by 230%](http://blog.hubstaff.com/updating-hubstaff-social-media-content-strategy/).
 * Guides on Copywriting for social media: [10 Ways to Write Damn Good Copy](http://www.copyblogger.com/good-copywriting/), 
 * [The Psychology of Social Sharing: How to Shape Your Content According to What People Want to Share](https://designschool.canva.com/blog/psychology-social-sharing-shape-content-according-people-want-share/) by Adrienne Branson.
-
 
 SMM toolbox:
 * When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favorite ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have built-in analytics. So you can pick simple metrics that are meaningful and can be analyzed.
@@ -322,15 +322,8 @@ Let's start with onboarding. The goal of it is to increase the number of users w
 * [3 Lessons Learned From Testing Hundreds Of Onboarding Emails](https://www.groovehq.com/blog/email-onboarding-optimization) by Alex Turnbull, Groove founder.
 * [3 copywriting mistakes that could be hurting your lifecycle emails](https://blog.kissmetrics.com/3-copywriting-mistakes/) by Alli Blum.
 * [How to Bring Inactive Users Back from the Dead with Emails](https://www.appcues.com/blog/how-to-bring-inactive-users-back-from-the-dead/) by Ty Magnin from Appcues.
-* And finally, [User Onboarding isn’t a feature, it’s an evolving quality of your entire customer experience](https://medium.com/help-scout/user-onboarding-isn-t-a-feature-230455e7e41a) via Samuel Hulick.
-You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game.
-
-For getting an inspiration for your onboarding emails you can check some examples from popular companies:
-* [Email copy from great companies](http://www.goodemailcopy.com/) or [Really Good Emails site](https://reallygoodemails.com/).
-* [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9) by Bart King.
-* [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/) from Drift team.
-* [17 Email Scripts That Have Helped Us Grow Our Business (For You to Steal)](https://www.groovehq.com/blog/business-email-templates) from Groove Team.
-* Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email.
+* [User Onboarding isn’t a feature, it’s an evolving quality of your entire customer experience](https://medium.com/help-scout/user-onboarding-isn-t-a-feature-230455e7e41a) via Samuel Hulick. You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game. 
+* For getting an inspiration for your onboarding and product emails, you can check examples from big companies: [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9), [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/), [17 Email Scripts That Have Helped Groove Grow Business](https://www.groovehq.com/blog/business-email-templates) and [6 Wearables Tech Email Marketing Examples](https://www.referralsaasquatch.com/wearables-tech-email-marketing-examples/).
 
 Subscriber emails are good for announcing new feature releases or new blog post. Its also used for sending educational materials or newsletters. All these emails can be an effective tool for growing your users engagement:
 * [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
@@ -339,18 +332,24 @@ Subscriber emails are good for announcing new feature releases or new blog post.
 * [How Our Product Update Emails Get a 68% Response Rate](https://www.groovehq.com/blog/how-to-send-product-update-emails) by Groove Team.
 * [How To Build And Scale A Curated Newsletter In 5 Easy Steps](http://blog.hubstaff.com/build-scale-curated-newsletter/) by Madhav Bhandari.
 * [14 High Converting Places to Add Email Signup Forms to Build Your List](http://optinmonster.com/14-high-converting-places-to-add-email-signup-forms-to-build-your-list/) from Optinmonster team. 
-* [10 Common Newsletter Mistakes & Check-List for Fixes](https://www.soundest.com/blog/12-most-common-newsletter-mistakes/) by Karolina Jasvinaitė. Beside avoiding these mistakes, you should figure out how to provide a consistent value without making your newsletter a "promotion" list.
+* [10 Most Common Newsletter Mistakes & Check-List for Fixes](https://www.soundest.com/blog/12-most-common-newsletter-mistakes/) by Karolina Jasvinaitė. Beside avoiding these mistakes, you should figure out how to provide a consistent value without making your newsletter a "promotion" list.
 * [10 Rules to Make Your Email Newsletter Design Beautiful yet Effective](https://www.soundest.com/blog/10-rules-make-email-newsletter-design-beautiful-yet-effective/) by Karolina Jasvinaitė.
  
+Promotional Emails helps you to grow sales:
+
+
 
 You should always A/B test different email subject lines, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
 * [A Beginner’s Guide to A/B Testing: Email Campaigns That Convert](https://blog.kissmetrics.com/ab-testing-email-campaigns/) from Kissmetrics blog.
 * [A/B Test Your Email Marketing: How to Get Started, What to Test, and 20+ Apps to Help](https://zapier.com/learn/email-marketing/ab-testing-email-marketing/) from Zapier blog.
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
 * [Best Practices for Buttons: The User Experience of colors](https://uxplanet.org/best-practices-for-buttons-b7048479d440) by Luca Longo. One more short read to help you choose your CTA button.
-* [164 Best Email Subject Lines to Boost Your Email Open Rates ](http://optinmonster.com/101-email-subject-lines-your-subscribers-cant-resist/) from Optinmonster team. Good inspirational examples to try out.
+* [164 Email Subject Lines to Boost Your Email Open Rates ](http://optinmonster.com/101-email-subject-lines-your-subscribers-cant-resist/) by Optinmonster team. Good inspirational examples to try out.
 
-
+Useful tools:
+* Websites with awesome email examples: [Email copy from great companies](http://www.goodemailcopy.com/) and [Really Good Emails](https://reallygoodemails.com/).
+* Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email.
+* [8 Free Newsletter Services](https://www.emailtooltester.com/en/blog/free-newsletter-services/). 
 
 ## :fearful: Cold Email Marketing
 Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered on my cold emails. 😟 I was afraid, that people will write me: "go away with your spam!" But, nobody did that. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing:
