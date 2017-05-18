@@ -336,6 +336,7 @@ Subscriber emails are good for announcing new feature releases or new blog post.
 * [10 Rules to Make Your Email Newsletter Design Beautiful yet Effective](https://www.soundest.com/blog/10-rules-make-email-newsletter-design-beautiful-yet-effective/) by Karolina Jasvinaitė.
  
 Promotional Emails helps you to grow sales:
+* [21 Little Known Reasons Why Your Sales Letter Is Not Converting](https://copymonk.com/sales-letter/) by Danavir Sarria. 
 
 
 
