@@ -339,14 +339,16 @@ Subscriber emails are good for announcing new feature releases or new blog post.
 * [How Our Product Update Emails Get a 68% Response Rate](https://www.groovehq.com/blog/how-to-send-product-update-emails) by Groove Team.
 * [How To Build And Scale A Curated Newsletter In 5 Easy Steps](http://blog.hubstaff.com/build-scale-curated-newsletter/) by Madhav Bhandari.
 * [14 High Converting Places to Add Email Signup Forms to Build Your List](http://optinmonster.com/14-high-converting-places-to-add-email-signup-forms-to-build-your-list/) from Optinmonster team. 
-* [10 Most Common Newsletter Mistakes & a Check-List for Fixes](https://www.soundest.com/blog/12-most-common-newsletter-mistakes/) by Karolina Jasvinaitė. Also, you should figure out how to provide a consistent value on an ongoing basis without making your newsletter a "promotion" list.
-* [164 Best Email Subject Lines to Boost Your Email Open Rates ](http://optinmonster.com/101-email-subject-lines-your-subscribers-cant-resist/) from Optinmonster team. Use these examples as inspiration for subscribers emails.
+* [10 Common Newsletter Mistakes & Check-List for Fixes](https://www.soundest.com/blog/12-most-common-newsletter-mistakes/) by Karolina Jasvinaitė. Beside avoiding these mistakes, you should figure out how to provide a consistent value without making your newsletter a "promotion" list.
 * [10 Rules to Make Your Email Newsletter Design Beautiful yet Effective](https://www.soundest.com/blog/10-rules-make-email-newsletter-design-beautiful-yet-effective/) by Karolina Jasvinaitė.
  
 
-You should always A/B test different email headers, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
+You should always A/B test different email subject lines, text, message styles, images, CTA buttons. Look at your metrics and measure how well is your onboarding experience works:
+* [A Beginner’s Guide to A/B Testing: Email Campaigns That Convert](https://blog.kissmetrics.com/ab-testing-email-campaigns/) from Kissmetrics blog.
+* [A/B Test Your Email Marketing: How to Get Started, What to Test, and 20+ Apps to Help](https://zapier.com/learn/email-marketing/ab-testing-email-marketing/) from Zapier blog.
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
 * [Best Practices for Buttons: The User Experience of colors](https://uxplanet.org/best-practices-for-buttons-b7048479d440) by Luca Longo. One more short read to help you choose your CTA button.
+* [164 Best Email Subject Lines to Boost Your Email Open Rates ](http://optinmonster.com/101-email-subject-lines-your-subscribers-cant-resist/) from Optinmonster team. Good inspirational examples to try out.
 
 
 
