@@ -265,13 +265,13 @@ Your LinkedIn profile can be a complete sales and marketing tool. It should comm
 * [11 Quick Questions to Ask Yourself Before Accepting a Stranger's LinkedIn Request](https://www.themuse.com/advice/11-quick-questions-to-ask-yourself-before-accepting-a-strangers-linkedin-request) by Inc.com
 
 LinkedIn can help you get more eyes on your content, and receive a feedback from other folks. Contributing to a discussion will make both your profile and your Company Page more visible. If you listen to Rand Fishkin video on [Comment Marketing](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) you know how to establish yourself & your company as thought leaders:
-* [255,262 Views on LinkedIn in 30 Days: Here’s Everything I’ve Learned](http://www.gregoryciotti.com/linkedin-publishing/) by  Gregory Ciott.
+* [255,262 Views on LinkedIn in 30 Days: Here’s Everything I’ve Learned](http://www.gregoryciotti.com/linkedin-publishing/) by Gregory Ciott.
 * [We Analyzed the 3,000 Most Successful LinkedIn Publishing Posts](http://okdork.com/linkedin-publishing-success/) by Paul Shapiro.
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
 * [How to Publish on LinkedIn Pulse: A Beginner's Guide](https://blog.hubspot.com/marketing/linkedin-publishing-beginner-guide#sm.0000uk1rbj980cpntd41cly98kad3) by Carly Stec. When you have published your post, tweet it with “tip @LinkedInEditors” message. It will maximize your chances to be featured on LinkedIn Pulse Channels.
 
 🕴️Use LinkedIn for direct sales and getting partners. You can write people via invitation note, direct message, InMail or Group message. You should have clear objectives and know exactly who you want to connect with. Business outreach is common and popular among LinkedIn members, but it should be done in a structural way:
-* [11 Signs That You've Mastered LinkedIn](https://www.entrepreneur.com/article/282360). Tony Messer gives a general overview of using LinkedIn with purpose.
+* [11 Signs That You've Mastered LinkedIn](https://www.entrepreneur.com/article/282360). Tony Messer gives a general overview of using LinkedIn with a sales purpose.
 * [The Anatomy of Great LinkedIn Sales Message](https://blog.hubspot.com/sales/the-anatomy-of-a-great-linkedin-sales-message-template#sm.0000uk1rbj980cpntd41cly98kad3) by Emma Brudner. The example is kind of formal, but it worth to try out. 
 * [How to Write Reply-Worthy LinkedIn InMail](http://www.yesware.com/blog/linkedin-inmail/) by Melissa Williams from Yesware team.
 * [The ingredients of a Great LinkedIn Sales Message](https://www.linkedin.com/pulse/20141204135257-13078656-the-ingredients-of-a-great-linkedin-sales-message) by Mark Williams.
@@ -322,54 +322,54 @@ Lifecycle emails can help you to accomplish almost any marketing goal: onboard n
 * [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d).
 * [How Our Product Update Emails Get a 68% Response Rate](https://www.groovehq.com/blog/how-to-send-product-update-emails) by Groove Team.
 
-Promotional Emails helps you to grow sales:
+📢 Promotional Emails helps you to grow sales:
 * [21 Little Known Reasons Why Your Sales Letter Is Not Converting](https://copymonk.com/sales-letter/) by Danavir Sarria. 
 
-You should always A/B test your email campaings: try different subject lines, texts, message styles, images, CTA buttons. Look at your metrics and measure how well each element works:
+You should always A/B test your email campaigns: try different subject lines, texts, message styles, images, CTA buttons. Look at your metrics and measure how well each element works:
 * [A Beginner’s Guide to A/B Testing: Email Campaigns That Convert](https://blog.kissmetrics.com/ab-testing-email-campaigns/) from Kissmetrics blog.
 * [A/B Test Your Email Marketing: How to Get Started, What to Test, and 20+ Apps to Help](https://zapier.com/learn/email-marketing/ab-testing-email-marketing/) from Zapier blog.
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
-* [Best Practices for Buttons: The User Experience of colors](https://uxplanet.org/best-practices-for-buttons-b7048479d440) by Luca Longo. One more short read to help you choose your CTA button.
+* [Best Practices for Buttons: The User Experience of colors](https://uxplanet.org/best-practices-for-buttons-b7048479d440) by Luca Longo. Good post to help you choose your CTA button.
 * [164 Email Subject Lines to Boost Your Email Open Rates ](http://optinmonster.com/101-email-subject-lines-your-subscribers-cant-resist/) by Optinmonster team. Good inspirational examples to try out.
 
-Want to learn even more about Lifecycle Email Marketing? Read these comprehensive long guides, that contain all types of emails we talk above with examples, tips & trips and recomended tools: 
+📚 Want to learn even more about Lifecycle Email Marketing? Read these comprehensive long guides, that contain all types of emails we talk above with examples, tips & trips and recommended tools: 
 * [The Ultimate Lifecycle Email Marketing Guide](https://www.getvero.com/resources/guides/lifecycle-marketing/) by Jimmy Daly from Vero. The guide has 135 email examples broken down into 5 categories and 41 sub-categories.
-* [What is Drip Marketing? The Complete Guide to Drip Campaigns, Lifecycle Emails, and More](https://zapier.com/learn/email-marketing/drip-marketing-campaign/) by Joe Stych from Zapier. It's a part of [The Ultimate Guide to Email Marketing Apps](https://zapier.com/learn/email-marketing/), which has 11 more chapters to read. I told you, it's a very huge library!
+* [What is Drip Marketing? The Complete Guide to Drip Campaigns, Lifecycle Emails, and More](https://zapier.com/learn/email-marketing/drip-marketing-campaign/) by Joe Stych from Zapier. It's a part of [The Ultimate Guide to Email Marketing Apps](https://zapier.com/learn/email-marketing/), which has 11 more chapters to read. I told you, it's a huge library!
 
 📌 Useful tools:
 * Websites with awesome email examples: [Email copy from great companies](http://www.goodemailcopy.com/) and [Really Good Emails](https://reallygoodemails.com/).
-* Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email.
+* Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user's step — from signing to the welcome email.
 * [8 Free Newsletter Services](https://www.emailtooltester.com/en/blog/free-newsletter-services/). 
 
 ## :fearful: Cold Email Marketing
-Most people hate cold outreach and everything connected to the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered on my cold emails. 😟 I was afraid, that people will write me: "go away with your spam!" But, nobody did that. The worst answer was: "not interested". So, there is no reason to avoid cold email marketing:
+Most people hate cold outreach and everything connected with the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered to my cold emails. 😟 I was afraid, that people would write me: "go away with your spam!" But nobody did that. The worst answer was: "not interested". As you see, there is no reason to avoid cold email marketing:
 
-* [The Cold Sales Email Bible (Guide with templates)](https://sumo.com/stories/cold-email-templates) by Sean Bestor.
+* [The Cold Sales Email Bible (guide with templates)](https://sumo.com/stories/cold-email-templates) by Sean Bestor.
 * [How to Warm Up Prospects Before Sending Them a Cold Email?](https://blog.woodpecker.co/cold-email/warm-prospects/) by Cathy Patalas. Cathy's article proposes simple actions, that may seriously increase your cold email open & reply rates.
-* These [11 Cold Email Templates & Examples by Melissa Williams](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do research before writing the cold email! You need to really know the person you are writing.
+* These [11 Cold Email Templates & Examples by Melissa Williams](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do the research first! You need to really know the person you’re writing.
 * [9 Cold Email Formulas That Just Plain Work](http://www.yesware.com/blog/cold-email/). One more good tutorial from Yesware team.
-* [101 Sales Email Templates](https://attach.io/sales-email-templates/) 📚 Attach.io team prapared email examples from cold outreach to LinkedIn intro messages. 
+* [101 Sales Email Templates](https://attach.io/sales-email-templates/) 📚 Attach.io team prepared email examples from cold outreach to LinkedIn intro messages. 
 * [14 Deliverability Checks to Carry Out Before Sending Your Cold Email Campaign](https://blog.woodpecker.co/cold-email/deliverability-checks/) by Cathy Patalas.
 * [Mass emails that look like you wrote every one to 3.5x your response rates](http://www.artofemails.com/mail-merge-email-personalization#why-personalize) by Sapph.
 
-Learn from people's stories, who run cold email campaigns:
+ :shipit: Learn from fellow entrepreneurs and makers, who run cold email campaigns:
 * [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
 * [How to get a $3,000 monthly contract (with exact scripts)](http://videofruit.com/blog/3kpermonth/) by Bryan Harris.
-* [hy Every Outbound Campaign Needs 8 Emails](https://salesfolk.com/blog/why-every-outbound-campaign-needs-8-emails/) via Salesfolk. It's a case-study of Ambition, YC startup, who used cold email campaign and automautomation to grow sales. 
-* And here is some inspiring story from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1) by Dan Kim.
+* [Why Every Outbound Campaign Needs 8 Emails](https://salesfolk.com/blog/why-every-outbound-campaign-needs-8-emails/) via Salesfolk. It's a case-study of Ambition, YC startup, who used cold email campaign and automation to grow sales. 
+* And here is some inspiring story from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1). Written by Dan Kim.
 
 Some more tips & tricks:
+* [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from Yesware team.
+* [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
+* [How To Send Better Email & Avoid Email Spam Trigger Words](https://www.shivarweb.com/9451/email-spam-trigger-words/) by Nate Shivar.
+* Funny short video with [11 Tips to Clean Up Your Dirty, Wordy Writing](https://www.grammarly.com/blog/clean-up-your-writing/) by Grammarly.
+* [80 Powerful Email Endings To Make People Remember You](https://www.criminallyprolific.com/email-endings/) by Dmitry Dragilev.
 * [What to Do When You See Negative Replies to Your Cold Emails?](https://blog.woodpecker.co/cold-email/negative-replies/) by Cathy Patalas.
 * [Timing is everything: what Intercom data says about the best time to send a message](https://blog.intercom.com/timing-is-everything-what-our-data-says-about-when-to-message-your-customers/) by Geoffrey Keating.
-* [How To Send Better Email & Avoid Email Spam Trigger Words](https://www.shivarweb.com/9451/email-spam-trigger-words/) by Nate Shivar.
-* [80 Powerful Email Endings To Make People Remember You](https://www.criminallyprolific.com/email-endings/) by Dmitry Dragilev.
-* Funny short video with [11 Tips to Clean Up Your Dirty, Wordy Writing](https://www.grammarly.com/blog/clean-up-your-writing/).
-* [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
-* [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
 
 📌 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
-* [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool, you can also see who have opened your email :wink:
+* [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool, you can also see who has opened your email :wink:
 * [GMass](https://www.gmass.co/) for cold mass emailing. You can use GMass for free to send 50 emails per day.
 
 
