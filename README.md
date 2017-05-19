@@ -68,11 +68,11 @@ Pick the most appropriate content format — video, list, long-read. Than think 
 * [The 3-Step Bulletproof Formula To Writing Kickass Blog Post Headlines](https://growandconvert.com/content-marketing/writing-blog-post-headlines/) by Danavir Sarria.
 * [Why Writing Creative Headlines Hurt Conversions: What We Learned Analyzing 150,000 Opt-Ins](https://sumo.com/stories/writing-headlines) by Sean Bestor.
 
-Craft blog with SEO focus:
-* [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-friendly. He talks about blog strategy, keyword research and promotion of your blog via building links to posts.
-* [SEO 101: How To Rank Your Blog Posts On Google’s First Page](http://howtomakemyblog.com/blog-seo/). Marko Saric focuses on SEO optimization spesificly for WordPress blogs. 
+Craft your blog with SEO focus:
+* [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-friendly. Ryan talks about blog strategy, keywords research, and promotion of your blog via building links to posts.
+* [How To Rank Your Blog Posts On Google’s First Page](http://howtomakemyblog.com/blog-seo/). Marko Saric keeps focus on SEO optimization for WordPress blogs. 
 * [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday) by Rand Fishkin.
-* [How To Use 11+ Free Tools To Find Prequalified Content Ideas for SEO](https://www.shivarweb.com/4275/finding-content-ideas-for-seo/) from Nate Shivar. Article is focused on prequalifying your content ideas with SEO research.
+* [How To Use 11+ Free Tools To Find Prequalified Content Ideas for SEO](https://www.shivarweb.com/4275/finding-content-ideas-for-seo/) from Nate Shivar. The article will teach you how to prequalify your content ideas with SEO research.
 
 :see_no_evil: Check your grammar! I use these cool apps:
 * [Hemingway App](http://www.hemingwayapp.com/)
