@@ -140,7 +140,7 @@ Case-studies, which can teach and inspire you:
 * Social networks. You can find opinion leaders by checking the keywords search, followers number and engagement level.
 * [Twitonomy](http://www.twitonomy.com/) gives a detailed info about influencer from his Twitter profile. It can show people who are interacting with the influencer on the regular basis. Those people can become your starting point to get to the top-niche person.
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user.
-* Use RSS apps for getting content from influencers' blogs. You can comment those posts and share good one via your social media. [Selfoss](https://selfoss.aditu.de/) is a good RSS app. It's an open source :octocat:, so you may dig into its code and customize things.
+* Use RSS apps for getting content from influencers' blogs. You can comment those posts and share good one via your social media. [Selfoss](https://selfoss.aditu.de/) is a good RSS app. It's an open source, so you may dig into its code and customize things.
 
 ## :cat: Marketing for Product Hunt Launch
 Product Hunt (PH) is a place to discover, share, and geek out about new products in tech. Submitting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get a lot of honest feedback, downloads, users and PR buzz. Please, check success PH stories to decide if PH is the right launch platform for you!
@@ -158,7 +158,7 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 * [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practice to thank those people for supporting your PH launch via Twitter.
 * [Crisp Live Chat](https://crisp.im/en/) is very useful during your launch campaign when people ask things in a real-time. Such communication can increase conversion at your site and give you a lot of insights. We use the free version of it and it's awesome so far.
 
-## 🍩 Social Media Marketing
+## 📷 Social Media Marketing
 Let's start with the basics, which can be used for any social media platform:
 * [How to Create a Social Media Marketing Strategy From Scratch](https://blog.bufferapp.com/social-media-marketing-plan) by Kevan Lee, Buffer Marketing Director. It's a comprehensive long-read about basic of making your SMM strategy.
 * Case-study from Hubstaff: [The Improved Social Media Content Strategy That Boosted Visits by 230%](http://blog.hubstaff.com/updating-hubstaff-social-media-content-strategy/).
@@ -176,7 +176,7 @@ Your personal account can drive traffic to your product and content. While growi
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson. It's a long read about what, when and how to tweet. Although the main focus is on marketing industry, the key insights will be useful for tech as well.
 * [8 Tactics for Increasing Your Twitter Reach](http://www.socialmediatoday.com/social-networks/8-tactics-increasing-your-twitter-reach) by Patrick Whatman.
 * [Get More (High Quality) Twitter Followers by Stalking Influencers](https://searchwilderness.com/get-followers-on-twitter/) by Paul Shapiro.
-* [5 ways to increase your Tweet engagements with emojis 🍰](https://business.twitter.com/en/blog/5-ways-to-increase-your-tweet-engagements-with-emojis.html) from Twitter team.
+* [5 ways to increase your Tweet engagements with emojis](https://business.twitter.com/en/blog/5-ways-to-increase-your-tweet-engagements-with-emojis.html) from Twitter team.
 * Taking part in Twitter chats is a great way to attract new followers and actively participate in relevant conversations with people from your industry.
 
 There is nothing wrong with automating your Twitter activities. You can schedule posts, automatically send messages and set up rules for auto-engagement with users. However, only automation 🤖 will hurt your SMM strategy. So mix it with a real-time tweeting and being active & helpful with the community: 
@@ -254,21 +254,21 @@ Guides on promoting and advertising on Reddit:
 * [Reddit converter](http://vyper.io/reddit_converter/) converts your text (blog post) to Reddit markdown.
 
 ### 👽 LinkedIn
-I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, makes direct sales and search for investors. LinkedIn is a perfect place for B2B companies and business professionals. It's also useful for the self-branding. For promotional purpose LinkedId has Personal Pages, Company Pages, Groups, and Ads.
+I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, makes direct sales and search for investors. LinkedIn is a perfect place for B2B companies and 👔 business professionals. It's also useful for the self-branding. For promotional purpose LinkedId has Personal Pages, Company Pages, Groups, and Ads.
 
-Your LinkedIn profile can be a complete sales and marketing tool. It should communicates value of your product and your expetise to potential partners. These guides and tips will help you out:
-* [Want to Effectively Raise Your Linkedin Profile? Follow These Tips!](https://themission.co/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
+Your LinkedIn profile can be a complete sales and marketing tool. It should communicate the value of your product and your expertise to potential partners. These guides and tips will help you out:
+* [Want to Effectively Raise Your Linkedin Profile? Follow These Tips](https://themission.co/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
 * [5 Templates That'll Make Writing the Perfect LinkedIn Summary a Breeze](https://www.themuse.com/advice/5-templates-thatll-make-writing-the-perfect-linkedin-summary-a-breeze) by Aja Frost.
 * [7 LinkedIn Summary Examples That Make You Look Good](http://www.yesware.com/blog/linkedin-summary-examples/) by Melissa Williams.
-* [How I Got 425% More Page Views on LinkedIn—and You Can, Too](https://www.themuse.com/advice/how-i-got-425-more-page-views-on-linkedinand-you-can-too) by Aja Frost.
-* [Using LinkedIn: 7 of my favourite tips](https://www.hallaminternet.com/using-linkedin/) by Susan Hallam from Hallam.
-* [11 Quick Questions to Ask Yourself Before Accepting a Stranger's LinkedIn Request](https://www.themuse.com/advice/11-quick-questions-to-ask-yourself-before-accepting-a-strangers-linkedin-request) by Inc.com.
+* [How I Got 425% More Page Views on LinkedIn — and You Can, Too](https://www.themuse.com/advice/how-i-got-425-more-page-views-on-linkedinand-you-can-too) by Aja Frost.
+* [Using LinkedIn: 7 of my favorite tips](https://www.hallaminternet.com/using-linkedin/) by Susan Hallam from Hallam.
+* [11 Quick Questions to Ask Yourself Before Accepting a Stranger's LinkedIn Request](https://www.themuse.com/advice/11-quick-questions-to-ask-yourself-before-accepting-a-strangers-linkedin-request) by Inc.com
 
-LinkedIn can help you get more eyes on your content, and receive a feedback from other folks. Contributing to a discussion will make both your profile and your Company Page more visible. If you listen to Rand Fishkin video on [Comment Marketing](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) you know how to establish youself & your company as thought leaders:
+LinkedIn can help you get more eyes on your content, and receive a feedback from other folks. Contributing to a discussion will make both your profile and your Company Page more visible. If you listen to Rand Fishkin video on [Comment Marketing](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) you know how to establish yourself & your company as thought leaders:
 * [255,262 Views on LinkedIn in 30 Days: Here’s Everything I’ve Learned](http://www.gregoryciotti.com/linkedin-publishing/) by  Gregory Ciott.
 * [We Analyzed the 3,000 Most Successful LinkedIn Publishing Posts](http://okdork.com/linkedin-publishing-success/) by Paul Shapiro.
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
-* [How to Publish on LinkedIn Pulse: A Beginner's Guide](https://blog.hubspot.com/marketing/linkedin-publishing-beginner-guide#sm.0000uk1rbj980cpntd41cly98kad3) by Carly Stec. When published, tweet your post to “tip @LinkedInEditors” for maximizing your chances of being featured on the LinkedIn Pulse Channels.
+* [How to Publish on LinkedIn Pulse: A Beginner's Guide](https://blog.hubspot.com/marketing/linkedin-publishing-beginner-guide#sm.0000uk1rbj980cpntd41cly98kad3) by Carly Stec. 💡 When you have published your post, tweet it with “tip @LinkedInEditors” message. It will maximize your chances to be featured on LinkedIn Pulse Channels.
 
 Use LinkedIn for direct sales and getting partners. You can write people via invitation note, direct message, InMail or Group message. You should have clear objectives and know exactly who you want to connect with. Business outreach is common and popular between LinkedIn members, but it should be done in a structural way:
 * [11 Strong Signs That You've Mastered LinkedIn](https://www.entrepreneur.com/article/282360) by Tony Messer. This post gives a general overview on how to use LinkedIn with purpose.
