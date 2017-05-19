@@ -201,13 +201,13 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 * [Hashtagify](http://hashtagify.me/) helps you choose hashtags wisely.
 
 ### Facebook
-Facebook has many marketing options that could fit your company focus, budget and your current knowledge. To target your users on Facebook you can work with pages, groups and ads. Facebook pages & groups is easy to start. You will find many materials below on maintaining, promoting them. Facebook advertising is like a universe. I would reccomend you to have some buddy, who can advise you.  
+Facebook has many marketing options that could fit your company focus, budget, and your current knowledge. To target your users there you can work with pages, groups, and ads.
 
-Facebook Pages & Groups:
-* Many interesting thoughts on content, post types and other beginners question: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
+🐣 Facebook Pages & Groups:
+* Many interesting thoughts on content, post types and other beginners questions: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
 * [How to Stand Out with a Brilliant Facebook Cover Photo](https://designschool.canva.com/blog/how-to-stand-out-with-a-brilliant-facebook-cover-photo/) by Adrienne Branson.
 
-The Beginner’s Guides to Facebook Advertising. Here you will find step-by-step tutorials for setting up your first ad campaing (very londreads). I also included articles about ads design, copywriting and typical beginner mistakes. If you have skiped previos content, it will be usefull to check articles on the viral headlines in Personal Blog section and artilces in the main Social Media Marketing section. Let's begin:
+🐤 The Beginner’s Guides to Facebook Advertising. Here you will find step-by-step tutorials for setting up your first ad campaign. I also included articles about ads design, copywriting and typical mistakes. If you have skipped previous sections, it will be useful to check articles on the viral headlines in Personal Blog section and articles in the main Social Media Marketing section. 
 * [The Complete, Always-Updated Guide to Facebook Advertising](https://blog.bufferapp.com/facebook-ads-guide) by Kevan Lee, Buffer Marketing Director. Buffer has put together a comprehensive guide on learning Facebook advertising, from the ad setup to analysis.
 * [Defining Your Facebook Campaigns’ Goals and Strategies](https://adespresso.com/academy/guides/facebook-ads-optimization/facebook-campaign-strategy-goal/) from AdEspresso team.
 * Good advice on Ad Copywriting: [The Beginner’s Guide to Writing Facebook Ads](https://copyhackers.com/2016/06/writing-facebook-ads/) by Joanna Wiebe.
@@ -217,21 +217,20 @@ The Beginner’s Guides to Facebook Advertising. Here you will find step-by-step
 * [After 1.6 Billion Ad Impressions and 408 Facebook Ads, Here’s What I’d Do Differently](https://adespresso.com/academy/blog/after-1-6-billion-ad-impressions-and-408-facebook-ads-heres-what-id-do-differently/) by Karola Karlson.
 * [What I learned spending $2 Million on Facebook Ads](http://okdork.com/how-to-start-advertising-on-facebook/) by Noah Kagan.
 
-
-Advanced reading on Facebook Advertising.
-* [The Complete Guide to Facebook Ads Manager: How to Create, Manage, Analyze Your Facebook Ads](https://blog.bufferapp.com/facebook-ads-manager) by Alfred Lua from Buffer team.
-* [The Facebook Pixel: What It Is and How to Use It](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.
+🐔 Advanced reading on Facebook Advertising. May the Force be with you!
+* [The Complete Guide to Facebook Ads Manager: How to Create, Manage, Analyze Facebook Ads](https://blog.bufferapp.com/facebook-ads-manager) by Alfred Lua from Buffer.
+* [The Facebook Pixel: What It Is and How to Use It](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team. 
 * [6 Ways to Add the Facebook Pixel to Your Website](https://www.jonloomer.com/2017/02/24/facebook-pixel/) by Jon Loomer.
 * [101-Point Guide To Master: Facebook Custom Audiences](https://klientboost.com/ppc/facebook-custom-audience/) by Karola Karlson.
 * [The Big Damn Guide To Facebook Ad Targeting](https://www.contentharmony.com/blog/facebook-ad-targeting/) by Kane Jamison.
-* [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) from Buffer team.
-* Advanced video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart.
+* [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) by Alfred Lua from Buffer.
+* Good video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday) by Ryan Stewart. Ryan talks about marketing funnel framework and touchpoints, that you have to build for your Facebook campaing. 
 * [Facebook Website Custom Audiences: A Definitive Guide for Remarketing](http://www.jonloomer.com/2015/09/11/facebook-website-custom-audiences-guide/) by Jon Loomer.
 * [A/B Testing Facebook Ads: 121 Tips & Ideas for Extraordinary Discoveries](https://klientboost.com/ppc/facebook-ad-testing/) by KlientBoost.
-* [Facebook Ads Bidding 101: Everything You Need to Know (…Supported by Data) 2017 EDITION](https://adespresso.com/academy/blog/everything-need-know-facebook-ads-bidding/) by Massimo Chieruzzi.
+* [Facebook Ads Bidding 101: Everything You Need to Know](https://adespresso.com/academy/blog/everything-need-know-facebook-ads-bidding/) by Massimo Chieruzzi from AdEspresso team.
 * [29 Facebook Ad Mistakes That Are Budget Drainers](https://klientboost.com/ppc/facebook-ad-mistakes/) by Johnathan Dane from KlientBoost.
 * [Facebook Ad Conversion Attribution: What You Need to Know](https://www.jonloomer.com/2017/05/11/facebook-ad-conversion-attribution/) by Jon Loomer.
-* [Facebook Ads Review 101: Rules to follow to get your ads approved… quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
+* [Facebook Ads Review 101: Rules to follow to get your ads approved quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
 * [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer.
 
 📌 Useful tools:
