@@ -374,28 +374,26 @@ Some more tips & tricks:
 
 
 ## :bowtie: Building Partnerships
-
-Communication is the key to building any kind of relationships. Every social community has its own rules for this. Business people will prefer concise value driven messages when engineers are more open to deep well-thought-out talk. I encourage you to learn these social rules before writing a single line of LinkedIn invitation:
-
-* [How to Write Emails Like a CEO](https://medium.com/@Torbahax/how-to-write-emails-like-a-ceo-d6a2906611e0), by Andrew Torba.
+Communication is the key to building any kind of relationships. Every social community has its own rules. Business people will prefer concise value driven messages, when engineers are more open to deep well-thought-out talk. I encourage you to learn these social rules before writing a single line of LinkedIn invitation:
+* [How to Write Emails Like a CEO](https://medium.com/@Torbahax/how-to-write-emails-like-a-ceo-d6a2906611e0) by Andrew Torba.
 * [5 rules for good email etiquette](https://byrslf.co/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671) by Mattan Griffel.
-* [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73) by Romain Serman
+* [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73) by Romain Serman.
 
-How and where to find partners:
+🔎 How and where to find partners:
 * Tips on the [New LinkedIn Search](https://blog.linkedin.com/2017/january/19/how-to-make-the-most-of-the-new-linkedin-search) and [Writing LinkedIn Requests](https://www.themuse.com/advice/want-people-to-accept-your-linkedin-requests-use-these-10-templates) by Aja Frost.
 * [15 Places Where You Can Find Prospects, Other than LinkedIn](https://blog.woodpecker.co/prospecting/where-to-find-prospects/) by Cathy Patalas.  
 * [How to Network at a Conference](http://www.wikihow.com/Network-at-a-Conference) from wikiHow. 
-* [How To Create A Follow Up Email in 5 Simple Steps](https://www.hubspot.com/sales/follow-up-email) by Hubspot team
+* [How To Create A Follow Up Email in 5 Simple Steps](https://www.hubspot.com/sales/follow-up-email) by Hubspot team.
 
 Check these guides on building partnerships (both for software & physical products):
-* [Co-Marketing: How to Reach New Customers With Strategic Partnerships](https://www.shopify.com/blog/195109129-co-marketing-strategic-partnerships) by Braveen Kumar. Reccomendations will suit companies, who have physical products.
+* [Co-Marketing: How to Reach New Customers With Strategic Partnerships](https://www.shopify.com/blog/195109129-co-marketing-strategic-partnerships) by Braveen Kumar. Recommendations will suit companies, who have physical products.
 
 ## 🕵️ Psychology in Marketing
-If you want to make a deeper dive into the user's brain, I will recommend you to learn disciplines on the intersection of marketing.
+If you want to make a deeper dive into the user's brain, I will recommend you to learn disciplines on the intersection of marketing. These articles will be nice starting point:
 * [Psychology of Marketing: Using Maslow’s Hierarchy of Needs](https://kopywritingkourse.com/marketing-psychology/) by Neville Medhora.
 * [Cognitive bias cheat sheet (long-read)](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18) by Buster Benson.
 * [Mental Models and User Experience](http://www.uxmatters.com/mt/archives/2016/05/mental-models-and-user-experience.php) by UXmatters.
-* TED Talks on Psychology of Choice: [The Paradox of Choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice) by Barry Schwartz and [How to make choosing easier](https://www.ted.com/talks/sheena_iyengar_choosing_what_to_choose?language=en) by Sheena Iyengar
+* TED Talks on Psychology of Choice: [The Paradox of Choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice) and [How to make choosing easier](https://www.ted.com/talks/sheena_iyengar_choosing_what_to_choose?language=en).
 * [TED Talk: What physics taught me about marketing](https://www.ted.com/talks/dan_cobley_what_physics_taught_me_about_marketing) by Dan Cobley.
 * [31 Copywriting Tips Based on Psychology and Linguistics](https://www.nickkolenda.com/copywriting-tips/) by Nick Kolenda.
 * [12 Ways to Build Social Proof (From Scratch)](https://sumo.com/stories/build-social-proof) by Sarah Peterson
@@ -404,10 +402,11 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 * [The psychology of sending good triggers (Emails and Notifications)](http://www.nirandfar.com/2016/07/secret-sending-emails-notifications-work.html) by Nir Eyal & Ximena Vengoechea.
 
 ## :moneybag: Pricing
-We struggle in asking people to pay for your product or service.
+We struggle in asking people to pay for your product or service. But business is about making money. So we need to learn how to choose the right pricing strategy and charge our users: 
 * [On Pricing and Discounts](https://www.jonloomer.com/2017/03/02/entrepreneurs-pricing-discounts/) by Jon Loomer.
 * [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging the low price for you mobile apps or any other product.
 * [Picking a pricing strategy for your SaaS product](https://blog.intercom.com/picking-your-pricing-model/) by Des Traynor, Intercom co-founder.
 * [Why You Should Change Your SaaS Pricing Every 6 Months](http://www.priceintelligently.com/blog/why-you-should-change-your-saas-pricing-every-six-months) by Jordan T. McBride.
 * [9 Pricing Strategies to Explode Your Revenue (Backed by Psychology)](https://sumo.com/stories/marketing-pricing-strategies) by Nico Moreno.
 * [Hacking Competitive Pricing Analysis with Scraping](https://www.matthewbarby.com/competitive-pricing-analysis/) by Matthew Barby.
+
