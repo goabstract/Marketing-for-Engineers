@@ -150,23 +150,22 @@ Product Hunt (PH) is a place to discover, share, and geek out about new products
 Start with [basic rules on Posting](https://help.producthunt.com/posting): how to post or comment, how to ask for support, how to get to the homepage. Then read [Five things everyone should know about Product Hunt](https://medium.com/product-hunt/five-things-everyone-should-know-about-product-hunt-fac74f44c32b). Join the PH community and feel how it works, before actually starting you launch activities.
 
 :scream: Successful PH launch takes a lot of preparation, promotion during the launch (24h++) and follow-up work. These guides will help you:
-
 * [Product Hunt 101](https://medium.com/swlh/product-hunt-101-426511f03501) from one of the top hunters, Robleh Jama. It's very useful to listen to the launch algorithm from the person, who submit a lot of different products.
-* [The SaaS founder’s guide to Product Hunt](https://blog.amplifr.com/en/amplifr-on-producthunt/) from the Russian company, Amplifr. It's a nice tutorial around your product preparation (onboarding, language check, emails and other not obvious stuff).
+* [The SaaS founder’s guide to Product Hunt](https://blog.amplifr.com/en/amplifr-on-producthunt/) from the Russian company, Amplifr. It's a nice tutorial about your product preparation (onboarding, language check, emails and other not obvious stuff).
 * [Master Checklist for Launching on Product Hunt (spreadsheet)](https://docs.google.com/spreadsheets/d/1ebg2HyS5P-WkznG5Tvr7mYtKZqXsDLXARtYWpxfkieo/edit#gid=0) by SpreadShare team.
-* [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app startup, who launched on Product Hunt in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" useful. I encourage you to think about resources you will invest in PH launch versus possible outcome!
+* [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app, who launched on PH in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" good. I encourage you to think about resources you will invest in PH launch versus possible outcome!
 
 📌 Useful tools:
 * [Notify](https://notify.ly/) notifies you in Slack when your startup is mentioned online. That helps you to answer\react quickly if somebody talks about your product (feedback, question). The tool is free.
-* [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practice to thank those people for supporting you via Twitter 😍
-* [Crisp Live Chat](https://crisp.im/en/) is very useful during your launch campaign when people ask things in a real-time. Such communication can increase conversion at your site and give you a lot of insights. We use the free version and it's awesome so far.
+* [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practice to thank those people for supporting your PH launch via Twitter 😍
+* [Crisp Live Chat](https://crisp.im/en/) is very useful during your launch campaign when people ask things in a real-time. Such communication can increase conversion at your site and give you a lot of insights. We use the free version of it and it's awesome so far.
 
 ## Social Media Marketing
-Let's start with the basics, which can be implement to any socail media platform:
-* [How to Create a Social Media Marketing Strategy From Scratch](https://blog.bufferapp.com/social-media-marketing-plan) by Kevan Lee, Buffer Marketing Director. It's a comprehensive long-read about basic on SMM strategy.
+Let's start with the basics, which can be used for any social media platform:
+* [How to Create a Social Media Marketing Strategy From Scratch](https://blog.bufferapp.com/social-media-marketing-plan) by Kevan Lee, Buffer Marketing Director. It's a comprehensive long-read about basic of making your SMM strategy.
 * Case-study from Hubstaff: [The Improved Social Media Content Strategy That Boosted Visits by 230%](http://blog.hubstaff.com/updating-hubstaff-social-media-content-strategy/).
-* Guides on Copywriting for social media: [10 Ways to Write Damn Good Copy](http://www.copyblogger.com/good-copywriting/), 
-* [The Psychology of Social Sharing: How to Shape Your Content According to What People Want to Share](https://designschool.canva.com/blog/psychology-social-sharing-shape-content-according-people-want-share/) by Adrienne Branson.
+* Guide on Copywriting for social media: [10 Ways to Write Damn Good Copy](http://www.copyblogger.com/good-copywriting/).
+* [The Psychology of Social Sharing: How to Shape Your Content According to What People Want to Share](https://designschool.canva.com/blog/psychology-social-sharing-shape-content-according-people-want-share/) via  Canva.
 
 📌 Useful SMM toolbox:
 * When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favorite ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have built-in analytics. So you can pick simple metrics that are meaningful and can be analyzed.
@@ -176,13 +175,11 @@ Let's start with the basics, which can be implement to any socail media platform
 
 
 ### Twitter
-
-Your personal account can drive traffic to your product and content. When you grow your Twitter followers, you increage the media reach you might get. But don't forget, that Twitter is made for people. To be succesful there, you need to communicate with your audience just as you would offline. If users likes your tweets and your personality, there’s a higher chance that the user will trust you and click on your links:
-* If you have never ever use Twitter, this brief [Twitter for Beginners Guide](https://www.wix.com/blog/2016/10/twitter-guide-for-beginners/) will help.
+Your personal account can drive traffic to your product and content. While growing your Twitter followers, you increase the media reach you might get. But don't forget, that Twitter is made for people 💗. To be successful there, you need to communicate with your audience just as you would do offline. If your target audience like your tweets and your personality, there’s a higher chance they will trust you and click on your links:
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson. It's a long read about what, when and how to tweet. Although the main focus is on marketing industry, the key insights will be useful for tech as well.
 * [8 Tactics for Increasing Your Twitter Reach](http://www.socialmediatoday.com/social-networks/8-tactics-increasing-your-twitter-reach) by Patrick Whatman.
 * [Get More (High Quality) Twitter Followers by Stalking Influencers](https://searchwilderness.com/get-followers-on-twitter/) by Paul Shapiro.
-* [5 ways to increase your Tweet engagements with emojis](https://business.twitter.com/en/blog/5-ways-to-increase-your-tweet-engagements-with-emojis.html)
+* [5 ways to increase your Tweet engagements with emojis 🍰](https://business.twitter.com/en/blog/5-ways-to-increase-your-tweet-engagements-with-emojis.html) from Twitter team.
 * Taking part in Twitter chats is a great way to attract new followers and actively participate in relevant conversations with people from your industry.
 
 There is nothing wrong with automating your Twitter activities. You can shedule auto-posting, automatical send messages and set up rules for auto-engagement with Twitter users. However, only automation will hurt your Twitter startegy. So mix it with a real time tweeting and being active & helpful with the community: 
