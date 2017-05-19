@@ -268,16 +268,16 @@ LinkedIn can help you get more eyes on your content, and receive a feedback from
 * [255,262 Views on LinkedIn in 30 Days: Here’s Everything I’ve Learned](http://www.gregoryciotti.com/linkedin-publishing/) by  Gregory Ciott.
 * [We Analyzed the 3,000 Most Successful LinkedIn Publishing Posts](http://okdork.com/linkedin-publishing-success/) by Paul Shapiro.
 * [The Most Successful LinkedIn Headlines and Topics of 2016](http://buzzsumo.com/blog/successful-headlines-topics-linkedin-2016/) by Steve Rayson from BuzzSumo.
-* [How to Publish on LinkedIn Pulse: A Beginner's Guide](https://blog.hubspot.com/marketing/linkedin-publishing-beginner-guide#sm.0000uk1rbj980cpntd41cly98kad3) by Carly Stec. 💡 When you have published your post, tweet it with “tip @LinkedInEditors” message. It will maximize your chances to be featured on LinkedIn Pulse Channels.
+* [How to Publish on LinkedIn Pulse: A Beginner's Guide](https://blog.hubspot.com/marketing/linkedin-publishing-beginner-guide#sm.0000uk1rbj980cpntd41cly98kad3) by Carly Stec. When you have published your post, tweet it with “tip @LinkedInEditors” message. It will maximize your chances to be featured on LinkedIn Pulse Channels.
 
-Use LinkedIn for direct sales and getting partners. You can write people via invitation note, direct message, InMail or Group message. You should have clear objectives and know exactly who you want to connect with. Business outreach is common and popular between LinkedIn members, but it should be done in a structural way:
-* [11 Strong Signs That You've Mastered LinkedIn](https://www.entrepreneur.com/article/282360) by Tony Messer. This post gives a general overview on how to use LinkedIn with purpose.
-* [The Anatomy of a Great LinkedIn Sales Message (Template)](https://blog.hubspot.com/sales/the-anatomy-of-a-great-linkedin-sales-message-template#sm.0000uk1rbj980cpntd41cly98kad3) by Emma Brudner. The example is very formal, but it worth to try out. 
+🕴️Use LinkedIn for direct sales and getting partners. You can write people via invitation note, direct message, InMail or Group message. You should have clear objectives and know exactly who you want to connect with. Business outreach is common and popular among LinkedIn members, but it should be done in a structural way:
+* [11 Signs That You've Mastered LinkedIn](https://www.entrepreneur.com/article/282360). Tony Messer gives a general overview of using LinkedIn with purpose.
+* [The Anatomy of Great LinkedIn Sales Message](https://blog.hubspot.com/sales/the-anatomy-of-a-great-linkedin-sales-message-template#sm.0000uk1rbj980cpntd41cly98kad3) by Emma Brudner. The example is kind of formal, but it worth to try out. 
 * [How to Write Reply-Worthy LinkedIn InMail](http://www.yesware.com/blog/linkedin-inmail/) by Melissa Williams from Yesware team.
 * [The ingredients of a Great LinkedIn Sales Message](https://www.linkedin.com/pulse/20141204135257-13078656-the-ingredients-of-a-great-linkedin-sales-message) by Mark Williams.
-* Please, check also Cold Email Marketing section. It has awesome templates for cold outreach as well.
+* Please, check also Cold Email Marketing section below. Articles there have awesome templates & advice for cold outreach.
 
-LinkedIn Company Pages & Advertising options:
+📢 LinkedIn Company Pages & Advertising options:
 * [LinkedIn Company / Business Page Best Practices with Examples](https://www.shivarweb.com/11556/linkedin-company-business-page-best-practices/) from ShivarWeb staff.
 * [Company Page Best Practices with Page Examples](https://business.linkedin.com/marketing-solutions/company-pages/best-practices) via LinkedIn.
 * [LinkedIn Analytics for Company Page](https://blog.hootsuite.com/linkedin-analytics/) by Hootsuite team.
