@@ -286,39 +286,40 @@ LinkedIn can help you get more eyes on your content, and receive a feedback from
 * [The Ultimate Guide to LinkedIn Conversion Tracking](https://www.hallaminternet.com/linkedin-conversion-tracking/) by Tom Whiley.
 * [5 tactics](https://blog.adstage.io/2017/05/03/expand-your-reach-and-drive-more-conversions-on-linkedin/) which can help reach your ideal audience and increase conversion rates. Written by Michael McEuen.
 
-I heavily use LinkedIn. As you remember, I run Flawless App - a tool for iOS & macOS engineers. A lot of my users spend time on LinkedIn, participate in iOS groups or post articles there. I often post cool stuff in those groups, engage with people via direct messages or share my writings in [my profile page](https://www.linkedin.com/in/lisadziuba/). Unfortunately, I do get spam or some random requests from job seekers\recruiters. But in general, LinkedIn works for me.   
+I heavily use LinkedIn. As you remember, I run [Flawless App](https://flawlessapp.io/) — a tool for iOS & macOS engineers. A lot of my users spend time on LinkedIn, participate in iOS groups or post articles there. I often post cool stuff in those groups, engage with people via direct messages or share my writings. Unfortunately, I do get spam or some random requests from job seekers\recruiters. But in general, LinkedIn works for me.   
 
 📌 Useful tools:
 * If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords.
 * [LinkedIn X-Ray Search tool using Google](https://www.lisearcher.com/). With a free account, you only get 100 search results. To get around this limitation you can use X-Ray Searching.
 
-### Quora
+### ❔Quora
+Quora is a question-and-answer site, where you can get traffic by helping the community:
 * [Growth Hacking 1,500+ Visits From Quora](http://webris.org/how-to-drive-10000-monthly-visits-using-quora/) by Ryan Stewart.
 * [How to Get Thousands of Leads from Quora in Five Months](https://sumo.com/stories/quora-traffic) by Josh Fechter, the "Top Quora Writer of 2017."
 * [How To Use Quora For SEO & Content Marketing](https://www.shivarweb.com/10583/how-to-use-quora-for-seo-content-marketing/) by Nate Shivar.
 
 ## :love_letter: Lifecycle Email Marketing
-Lifecycle emails can help you to accomplish almost any marketing goal: onboard new users, increase sales, grow users engagement, bring back inactive one or build long-lasting relationship. It's also known as drip marketing or automated email campaigns. To make it simple: it's a set of emails that will be sent out automatically based on schedule, triggers, or user actions. There are four key components for such email campaigns: the right user, goal-oriented topic, good timing and contextual message. 
+Lifecycle emails can help you to accomplish almost any marketing goal: onboard new users, increase sales, grow users engagement, bring back inactive one or build a long-lasting relationship. It's also known as drip marketing or automated email campaigns. To make it simple: it's a set of emails that will be sent out automatically based on schedule, triggers, or user actions. There are four key components for such email campaigns: the right user, goal-oriented topic, good timing and contextual message. 
 
-Let's start with onboarding. The goal of it is to increase the number of users who actually use your product (or free trial) and pay for it later. Onboarding process can be done through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls :telephone_receiver:. We will focus on onboarding via emails:
-* [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by customer.io team.
+💻 Let's start with onboarding. The goal of it is to increase the number of users who actually use your product (or free trial) and pay for it later. Onboarding process can be done through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls. We will focus on onboarding via emails:
+* [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by Customer.io team.
 * [Trial expiration email best practices](https://postmarkapp.com/guides/trial-expiration-email-best-practices) by Garrett Dimon.
-* [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by customer.io team.
-* [3 Lessons Learned From Testing Hundreds Of Onboarding Emails](https://www.groovehq.com/blog/email-onboarding-optimization) by Alex Turnbull, Groove founder.
+* [Upgrade Emails that Convert](https://customer.io/blog/upgrade-email-templates.html) by Customer.io team.
+* [3 Lessons Learned From Testing Hundreds Of Onboarding Emails](https://www.groovehq.com/blog/email-onboarding-optimization) by Alex Turnbull.
 * [3 copywriting mistakes that could be hurting your lifecycle emails](https://blog.kissmetrics.com/3-copywriting-mistakes/) by Alli Blum.
-* [How to Bring Inactive Users Back from the Dead with Emails](https://www.appcues.com/blog/how-to-bring-inactive-users-back-from-the-dead/) by Ty Magnin from Appcues.
+* [How to Bring 👻 Inactive Users Back from the Dead with Emails](https://www.appcues.com/blog/how-to-bring-inactive-users-back-from-the-dead/) by Ty Magnin from Appcues.
 * [User Onboarding isn’t a feature, it’s an evolving quality of your entire customer experience](https://medium.com/help-scout/user-onboarding-isn-t-a-feature-230455e7e41a) via Samuel Hulick. You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game. 
 * For getting an inspiration for your onboarding and product emails, you can check examples from big companies: [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9), [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/), [17 Email Scripts That Have Helped Groove Grow Business](https://www.groovehq.com/blog/business-email-templates) and [6 Wearables Tech Email Marketing Examples](https://www.referralsaasquatch.com/wearables-tech-email-marketing-examples/).
 
-Subscriber emails are good for announcing new feature releases or sharing blog posts. Its also used for sending educational materials or curated content newsletters. All these emails can be an effective tool for growing your existing users engagement. With newsletters you can gain many email addresses and turn them into users or partners:
+🚀 Subscriber emails are good for announcing new feature releases or sharing blog posts. It's also used for sending educational materials or curated content newsletters. All these emails can be an effective tool for growing your existing user's engagement. With newsletters you can gain many email addresses and turn them into users or partners:
 * [How To Build And Scale A Curated Newsletter In 5 Easy Steps](http://blog.hubstaff.com/build-scale-curated-newsletter/) by Madhav Bhandari.
-* [Email Marketing Newsletters: General Overview](https://www.benchmarkemail.com/resources/email-marketing-articles/A-Top-To-Bottom-Guide) and [Brief Guide on Growing Your Permission-Based Email List](https://www.benchmarkemail.com/resources/email-marketing-articles/permission-based-email-list) via Benchmark Email team.
+* [Newsletters: General Overview](https://www.benchmarkemail.com/resources/email-marketing-articles/A-Top-To-Bottom-Guide) and [Brief Guide on Growing Your Permission-Based Email List](https://www.benchmarkemail.com/resources/email-marketing-articles/permission-based-email-list) by Benchmark Email team.
 * [14 High Converting Places to Add Email Signup Forms to Build Your List](http://optinmonster.com/14-high-converting-places-to-add-email-signup-forms-to-build-your-list/) from Optinmonster team.
-* [10 Most Common Newsletter Mistakes & Check-List for Fixes](https://www.soundest.com/blog/12-most-common-newsletter-mistakes/) by Karolina Jasvinaitė. Beside avoiding these mistakes, you should figure out how to provide a consistent value without making your newsletter a "promotion" list.
+* [10 Most Common Newsletter Mistakes & Check-List for Fixes](https://www.soundest.com/blog/12-most-common-newsletter-mistakes/) by Karolina Jasvinaitė. Besides avoiding these mistakes, you should figure out how to provide a consistent value without making your newsletter a "promotion" list.
 * [10 Rules to Make Your Email Newsletter Design Beautiful yet Effective](https://www.soundest.com/blog/10-rules-make-email-newsletter-design-beautiful-yet-effective/) by Karolina Jasvinaitė.
-* Now let's focus on Product launch & relese notes: [A simple improvement to product announcements](https://blog.intercom.com/simple-improvement-product-mails/) from Intercome team.
-* [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by appcues.com team.
-* [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d)
+* Now let's focus on product launch emails & release notes: [A simple improvement to product announcements](https://blog.intercom.com/simple-improvement-product-mails/) via Intercome.
+* [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by Appcues team.
+* [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d).
 * [How Our Product Update Emails Get a 68% Response Rate](https://www.groovehq.com/blog/how-to-send-product-update-emails) by Groove Team.
 
 Promotional Emails helps you to grow sales:
