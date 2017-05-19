@@ -62,9 +62,9 @@ Start by creating a blog that not only touts your product but offers helpful rec
 * If you have skipped articles in the Content Marketing section above, I do encourage you to read them! The first 4 articles have excellent frameworks for getting strategic content ideas.
 
 Pick the most appropriate content format — video, list, long-read. Than think about the right headline for driving interest to your great article:
-* [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/)
-* [30+ Ultimate Headline Formulas](https://blog.bufferapp.com/headline-formulas)
-* [Copywriting Headlines That Sell (with Templates & Swipe File)](https://kopywritingkourse.com/copywriting-headlines-that-sell/)
+* [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/) by Steve Rayson from BuzzSumo.
+* [30+ Ultimate Headline Formulas for Tweets, Posts, Articles, and Emails](https://blog.bufferapp.com/headline-formulas) by Kevan Lee from Buffer team.
+* [Copywriting Headlines That Sell (with Templates & Swipe File)](https://kopywritingkourse.com/copywriting-headlines-that-sell/) via KopywritingKourse.
 * [The 3-Step Bulletproof Formula To Writing Kickass Blog Post Headlines](https://growandconvert.com/content-marketing/writing-blog-post-headlines/) by Danavir Sarria.
 * [Why Writing Creative Headlines Hurt Conversions: What We Learned Analyzing 150,000 Opt-Ins](https://sumo.com/stories/writing-headlines) by Sean Bestor.
 
