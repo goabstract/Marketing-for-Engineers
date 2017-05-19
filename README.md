@@ -115,20 +115,20 @@ Content Marketing is not only about getting people to read your amazing articles
 
 
 ## 💃Influencer Marketing
-Influencer marketing is a type of marketing that focuses on working with opinion leaders to drive a brand's message/product/service to the larger market:
+Influencer marketing is focused on working with opinion leaders to drive company message/product/service to the larger market.  📚 These long guides will be good starters: 
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
-* [The Ultimate Guide to Influencer Marketing](https://sumo.com/stories/influencer-marketing-super-connector) by Jason Quey.
+* [The Ultimate Guide to Influencer Marketing](https://sumo.com/stories/influencer-marketing-super-connector) by Jason Quey from Sumo.
 * [Influencers definitely should be compensated. The only question is how](http://klear.com/blog/paying-an-influencer/) by Yuval Maoz.
 
 You should not be afraid to reach to the cool people. Be helpful, nice and creative:
-* [The Exact Email Scripts I Use to Connect With VIP’s](https://www.groovehq.com/blog/vip-email-scripts) by Alex Turnbull.
-* [8 Pitch Templates to Partner with Influencers](http://www.artofemails.com/partnerships#promote-product) by Sapph. Nice guides & examples for asking promotion, partnership or review from influencer.
-* [I Just Deleted Your Outreach Email Without Reading. And NO, I Don’t Feel Sorry](https://ahrefs.com/blog/outreach/) by Tim Soulo. Tim shows cool examples how to email influencers in the right way. Please, read this post before contacting opinion leaders!
+* [The Exact Email Scripts I Use to Connect With VIP’s](https://www.groovehq.com/blog/vip-email-scripts) by Alex Turnbull, founder of Groove.
+* [8 Email Pitch Templates to Partner with Influencers](http://www.artofemails.com/partnerships#promote-product) by Sapph. Nice guides & examples for asking promotion, contribution, partnership or review from the influencer. Customize and use them!
+* 😱[I Just Deleted Your Outreach Email Without Reading. And NO, I Don’t Feel Sorry](https://ahrefs.com/blog/outreach/) by Tim Soulo. Tim shows cool examples how to email influencers in the right way. Please, read this post before contacting opinion leaders!
 * Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team.
 * [The Barney Stinson’s Playbook For Cold Tweeting Influencers](http://klear.com/blog/influencer-outreach-with-cold-tweets/) by Noam Avigdor.
 * [4 Tips for Reaching Out to Someone You Admire on LinkedIn](https://www.themuse.com/advice/4-tips-for-reaching-out-to-someone-you-admire-on-linkedin) by Lily Herman. 
-* [26 Headliners on How to Connect with Influencers at a Conference [Infographic]](https://venngage.com/blog/connect-with-influencers-conference/) via Venngage.
-* [Connecting with Others: What Have You Done for Me Lately?](http://okdork.com/what-have-you-done-for-me-lately/) by Noah Kagan, popular IT entrepreneur & influencer. I loved his brief instruction on making it easy for people to say YES to your request!
+* [26 Headliners on How to Connect with Influencers at Conference [Infographic]](https://venngage.com/blog/connect-with-influencers-conference/) by Venngage. Don't be afraid to talk to people!
+* [Connecting with Others: What Have You Done for Me Lately?](http://okdork.com/what-have-you-done-for-me-lately/) by Noah Kagan, popular IT entrepreneur & influencer. I loved his brief instruction on making its easier for people to say YES to your request :metal:
 
 Case-studies, which can teach and inspire you:
 * [How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours](https://www.groovehq.com/blog/1000-subscribers) by Alex Turnbull. Groove team built relationships with influencers for getting the first readers on their blog. Very smart tactics!
