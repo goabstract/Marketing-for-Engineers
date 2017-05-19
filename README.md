@@ -71,33 +71,31 @@ Pick the most appropriate content format — video, list, long-read. Than think 
 Craft your blog with SEO focus:
 * [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-friendly. Ryan talks about blog strategy, keywords research, and promotion of your blog via building links to posts.
 * [How To Rank Your Blog Posts On Google’s First Page](http://howtomakemyblog.com/blog-seo/). Marko Saric keeps focus on SEO optimization for WordPress blogs. 
-* [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday) by Rand Fishkin.
+* [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday). Rand Fishkin advises on which format should you use for your project.
 * [How To Use 11+ Free Tools To Find Prequalified Content Ideas for SEO](https://www.shivarweb.com/4275/finding-content-ideas-for-seo/) from Nate Shivar. The article will teach you how to prequalify your content ideas with SEO research.
 
-:see_no_evil: Check your grammar! I use these cool apps:
+📌 Check your grammar! I use these cool apps:
 * [Hemingway App](http://www.hemingwayapp.com/)
 * [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck)
 * Browser extensions, like [Grammarly](https://app.grammarly.com/).
-
-To give you an example, for [Flawless App](https://flawlessapp.io/) we took topics around iOS dev best practice, "design for beginners", "how to market your app". Our content strategy is written in a simple Google Spreadsheet and it is based on the analysis of our target audience. Writing one article takes me or Ahmed minimum 3-4 days (five A4 pages). So be ready to invest a lot of time in writing, proofreading, styling and promoting! As a publishing platform, we decided to use Medium, as we didn't have time to make/maintain a personal blog at our website.
 
 ### :green_book: Medium Marketing
 Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. You still need to promote your articles yourself. Medium is a high-traffic community, but you are not the only one who competes for attention.
 
 Basics of writing on Medium. How to write, edit, publish and add your article to publications:
-* [FAQ from Medium on Writing](https://help.medium.com/hc/en-us/sections/115001484727-General)
-* [Add draft or post to publication](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication)
-* [Keyboard shortcuts](https://help.medium.com/hc/en-us/articles/214672207)
-* [Tips and tricks for Medium writers](https://blog.medium.com/tips-and-tricks-for-medium-writers-1d79498101c3)
+* [FAQ from Medium on Writing](https://help.medium.com/hc/en-us/sections/115001484727-General).
+* [Useful keyboard shortcuts](https://help.medium.com/hc/en-us/articles/214672207).
+* [Tips and tricks for Medium writers](https://blog.medium.com/tips-and-tricks-for-medium-writers-1d79498101c3).
+* [How to add draft or post to publication](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication).
 
 Articles, where you can find what topics, titles, collections, tags, categories and post length are popular for Medium readers:
-* [What I learned from analyzing the top 252 Medium stories of 2016](https://medium.freecodecamp.com/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c), by freeCodeCamp founder Quincy Larson
-* [How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8), by Quincy Larson
-* [Medium’s Most Recommended Stories of 2016](https://medium.com/startup-grind/mediums-most-recommended-stories-of-2016-171efdd705c5), by Levent Aşkan
-* [How to Win at Medium (advice on title, text formatting & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373), by Elizabeth Tobey
-* [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905)    (timing, some promotional tips), by Ali Mese.
+* [What I learned from analyzing the top 252 Medium stories of 2016](https://medium.freecodecamp.com/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c) by freeCodeCamp founder, Quincy Larson.
+* [How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8) by Quincy Larson.
+* [Medium’s Most Recommended Stories of 2016](https://medium.com/startup-grind/mediums-most-recommended-stories-of-2016-171efdd705c5) by Levent Aşkan.
+* [How to Win at Medium (advice on title, text formatting & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373) by Elizabeth Tobey.
+* [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905) (timing, some promotional tips) by Ali Mese.
 
-Publishing on Medium or elsewhere removes all your technology hassles. It's a good place to start implementing your content marketing strategy :stuck_out_tongue_winking_eye:
+Publishing on Medium or elsewhere removes all your technology hassles. It's a good place to start implementing your content marketing strategy.
 
 ### :mega: Promotion of your content
 As you have already understood, you need to promote your content both for your own blog, Medium-like platforms or guest post at other blogs. Here some ideas how to promote your great articles and make it more sharable:
@@ -137,7 +135,7 @@ Case-studies, which can teach and inspire you:
 * [How Influencer Marketing helped us grow from $0 to $700k+ monthly revenue](https://medium.com/lifecycle-marketing/how-influencer-marketing-helped-us-grew-from-0-to-700k-monthly-revenue-51644e79f7a9). Sergei Gusev shows how they scale influencer marketing with the help of paid influencers marketing platforms.
 
 
-Useful tools:
+📌 Useful tools:
 * [Find Twitter Influencers from Klear](https://klear.com/free-tools/find-influencers-by-skill). It's free for 10 searches for each keyword ("skill"). Paid version has more advanced options.
 * Social networks. You can find influencers by looking at keywords searches and look at followers number and the level of engagement for each user.
 * [Twitonomy](http://www.twitonomy.com/) gives a detailed info about influencer from his Twitter profile. It can show people who are interacting with the influencer on the regular basics. Those people can become your starting point to get to top-nich person.
@@ -158,7 +156,7 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 * [Master Checklist for Launching on Product Hunt (spreadsheet)](https://docs.google.com/spreadsheets/d/1ebg2HyS5P-WkznG5Tvr7mYtKZqXsDLXARtYWpxfkieo/edit#gid=0) by SpreadShare team.
 * [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app startup, who launched on Product Hunt in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" useful. I encourage you to think about resources you will invest in PH launch versus possible outcome!
 
-Useful tools:
+📌 Useful tools:
 * [Notify](https://notify.ly/) notifies you in Slack when your startup is mentioned online. That helps you to answer\react quickly if somebody talks about your product (feedback, question). The tool is free.
 * [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practice to thank those people for supporting you via Twitter 😍
 * [Crisp Live Chat](https://crisp.im/en/) is very useful during your launch campaign when people ask things in a real-time. Such communication can increase conversion at your site and give you a lot of insights. We use the free version and it's awesome so far.
@@ -170,7 +168,7 @@ Let's start with the basics, which can be implement to any socail media platform
 * Guides on Copywriting for social media: [10 Ways to Write Damn Good Copy](http://www.copyblogger.com/good-copywriting/), 
 * [The Psychology of Social Sharing: How to Shape Your Content According to What People Want to Share](https://designschool.canva.com/blog/psychology-social-sharing-shape-content-according-people-want-share/) by Adrienne Branson.
 
-SMM toolbox:
+📌 Useful SMM toolbox:
 * When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favorite ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have built-in analytics. So you can pick simple metrics that are meaningful and can be analyzed.
 * [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
 * [Nuzzel](http://nuzzel.com/) can show you the top content being shared among all your followers on Twitter and Facebook. You can use that content for sharing or as an example. It's free tool.
@@ -199,7 +197,7 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 * [Case study when auto-DMs actualy working](http://niknitro.com/auto-dm-not-auto-dm/) by Nik Nitro. Welcome auto-DMs should be used only when it provides tanguable value to a new follower. Nik shows his example.
 * [Be aware of Twitter tweet & DM limit](https://support.twitter.com/articles/15364).
 
-And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
+📌 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user.
 * [Twitonomy](http://www.twitonomy.com/) provides very detailed profile information on Twitter followers.
 * [TweetChat](http://www.tweetchat.com/) is good free tool you can use to easily follow Twitter chats.
@@ -239,7 +237,7 @@ Advanced reading on Facebook Advertising.
 * [Facebook Ads Review 101: Rules to follow to get your ads approved… quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
 * [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer.
 
-Useful tools:
+📌 Useful tools:
 * [List of 50 Facebook Groups for Product, Tech, Growth Managers](https://docs.google.com/spreadsheets/d/1Zcjdm59lfMjsD4BfreLbSiCNBCO3bedolxlnsfeXyXA/edit#gid=0)
 
 ### Reddit
@@ -257,7 +255,7 @@ Guides on promoting and advertising on Reddit:
 * [How to Build a Passionate Fanbase with Reddit](https://adespresso.com/academy/blog/how-to-build-a-passionate-fanbase-with-reddit/) by Ana Gotter.
 * Other interesting case: [How To Use Reddit For SEO & Content Marketing Research](https://www.shivarweb.com/3778/use-reddit-seo-content-marketing/) by Nate Shivar.
 
-Useful tools:
+📌 Useful tools:
 * [Later](https://laterforreddit.com/) helps to schedule your posts to Reddit and cross-post your link to other subreddits. Tool has free option.
 * [Subreddit Analysis Tool from Later](https://dashboard.laterforreddit.com/analysis/). It's a free tool.
 * [Reddit Insight](http://www.redditinsight.com/) is an analytics tool for real-time post tracking, single user tracking and other data analysis.
@@ -301,7 +299,7 @@ LinkedIn Company Pages & Advertising options:
 
 I heavily use LinkedIn. As you remember, I run Flawless App - a tool for iOS & macOS engineers. A lot of my users spend time on LinkedIn, participate in iOS groups or post articles there. I often post cool stuff in those groups, engage with people via direct messages or share my writings in [my profile page](https://www.linkedin.com/in/lisadziuba/). Unfortunately, I do get spam or some random requests from job seekers\recruiters. But in general, LinkedIn works for me.   
 
-Tools:
+📌 Useful tools:
 * If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords.
 * [LinkedIn X-Ray Search tool using Google](https://www.lisearcher.com/). With a free account, you only get 100 search results. To get around this limitation you can use X-Ray Searching.
 
@@ -348,7 +346,7 @@ Want to learn even more about Lifecycle Email Marketing? Read these comprehensiv
 * [The Ultimate Lifecycle Email Marketing Guide](https://www.getvero.com/resources/guides/lifecycle-marketing/) by Jimmy Daly from Vero. The guide has 135 email examples broken down into 5 categories and 41 sub-categories.
 * [What is Drip Marketing? The Complete Guide to Drip Campaigns, Lifecycle Emails, and More](https://zapier.com/learn/email-marketing/drip-marketing-campaign/) by Joe Stych from Zapier. It's a part of [The Ultimate Guide to Email Marketing Apps](https://zapier.com/learn/email-marketing/), which has 11 more chapters to read. I told you, it's a very huge library!
 
-Useful tools:
+📌 Useful tools:
 * Websites with awesome email examples: [Email copy from great companies](http://www.goodemailcopy.com/) and [Really Good Emails](https://reallygoodemails.com/).
 * Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user step - from signing to the welcome email.
 * [8 Free Newsletter Services](https://www.emailtooltester.com/en/blog/free-newsletter-services/). 
@@ -379,11 +377,10 @@ Some more tips & tricks:
 * [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from yesware.com team.
 * [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
 
-Useful tools:
+📌 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
 * [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool, you can also see who have opened your email :wink:
 * [GMass](https://www.gmass.co/) for cold mass emailing. You can use GMass for free to send 50 emails per day.
-
 
 
 ## :bowtie: Building Partnerships
