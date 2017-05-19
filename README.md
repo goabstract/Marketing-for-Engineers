@@ -142,8 +142,6 @@ Case-studies, which can teach and inspire you:
 * [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user.
 * Use RSS apps for getting content from influencers' blogs. You can comment those posts and share good one via your social media. [Selfoss](https://selfoss.aditu.de/) is a good RSS app. It's an open source :octocat:, so you may dig into its code and customize things.
 
-
-
 ## :cat: Marketing for Product Hunt Launch
 Product Hunt (PH) is a place to discover, share, and geek out about new products in tech. Submitting your product there is a good way to appear in front of journalists, tech people and fellow makers. After submission, the product will participate in the daily race. The race starts PST 00:00 and finishes PST 23:59. You have to get as many upvotes and comments as you can by the end of the day! :trophy: The most successful products appear on the Homepage and can get a lot of honest feedback, downloads, users and PR buzz. Please, check success PH stories to decide if PH is the right launch platform for you!
 
@@ -173,7 +171,6 @@ Let's start with the basics, which can be used for any social media platform:
 * [Nuzzel](http://nuzzel.com/) can show you the top content being shared among all your followers on Twitter and Facebook. You can use that content for sharing or as an example. It's free tool.
 * [Google Analytics Campaign URL builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) for making UTM codes and here is a guide on [Using UTM Parameters to Track Social Media Success](https://blog.hootsuite.com/how-to-use-utm-parameters/) from Hootsuite.
 
-
 ### 🐦 Twitter
 Your personal account can drive traffic to your product and content. While growing your Twitter followers, you increase the media reach you might get. But don't forget, that Twitter is made for people. To be successful there, you need to communicate with your audience just as you would do offline. If your target audience like your tweets and your personality, there’s a higher chance they will trust you and click on your links:
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson. It's a long read about what, when and how to tweet. Although the main focus is on marketing industry, the key insights will be useful for tech as well.
@@ -201,7 +198,7 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 * [Hashtagify](http://hashtagify.me/) helps you choose hashtags wisely.
 
 ### Facebook
-Facebook has many marketing options that could fit your company focus, budget, and your current knowledge. To target your users there you can work with pages, groups, and ads.
+Facebook has many marketing options that could fit your company focus, budget, and your current knowledge. To target your users there you can work with Personal Profiles, Pages, Groups, and Ads.
 
 🐣 Facebook Pages & Groups:
 * Many interesting thoughts on content, post types and other beginners questions: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
@@ -224,21 +221,21 @@ Facebook has many marketing options that could fit your company focus, budget, a
 * [101-Point Guide To Master: Facebook Custom Audiences](https://klientboost.com/ppc/facebook-custom-audience/) by Karola Karlson.
 * [The Big Damn Guide To Facebook Ad Targeting](https://www.contentharmony.com/blog/facebook-ad-targeting/) by Kane Jamison.
 * [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) by Alfred Lua from Buffer.
-* Good video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad spend](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday). Ryan Stewart talks about marketing funnel framework and touchpoints that you have to build for your campaing. 
+* Good video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday). Ryan Stewart talks about marketing funnel framework and touchpoints that you have to build for your campaing. 
 * [Facebook Website Custom Audiences: A Definitive Guide for Remarketing](http://www.jonloomer.com/2015/09/11/facebook-website-custom-audiences-guide/) by Jon Loomer.
 * [A/B Testing Facebook Ads: 121 Tips & Ideas for Extraordinary Discoveries](https://klientboost.com/ppc/facebook-ad-testing/) by KlientBoost.
 * [Facebook Ads Bidding 101: Everything You Need to Know](https://adespresso.com/academy/blog/everything-need-know-facebook-ads-bidding/) by Massimo Chieruzzi from AdEspresso team.
 * [29 Facebook Ad Mistakes That Are Budget Drainers](https://klientboost.com/ppc/facebook-ad-mistakes/) by Johnathan Dane from KlientBoost.
 * [Facebook Ad Conversion Attribution: What You Need to Know](https://www.jonloomer.com/2017/05/11/facebook-ad-conversion-attribution/) by Jon Loomer.
 * [Facebook Ads Review 101: Rules to follow to get your ads approved quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
-* [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer.
+* [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer. High five if you have read till this point ✋.
 
 ### Reddit
-Reddit is one of the most active internet community with it’s own unique culture. You can get tons of cool information there, great product feedback and first users. :satisfied: However, it's better to learn Reddit rules and basics before you get banned:
-* [How to Use Reddit: beginners guide](https://www.shopify.com/blog/how-to-use-reddit) by Braveen Kumar.
+Reddit is one of the most active internet community with it’s own unique culture. You can get tons of cool information there, great product feedback and first users. :trollface: However, it's better to learn Reddit rules and basics before you get banned:
+* [How to Use Reddit: Geginners Guide](https://www.shopify.com/blog/how-to-use-reddit) by Braveen Kumar.
 * [Reddiquette](https://www.reddit.com/wiki/reddiquette). Pay extra attention to the "please don't" section.
-* [Self-promotion on reddit](https://www.reddit.com/wiki/selfpromotion).
-* [A complete glossary of Reddit terms ](https://www.reddit.com/r/TheoryOfReddit/wiki/glossary)
+* [Self-promotion on Reddit](https://www.reddit.com/wiki/selfpromotion).
+* [A complete glossary of Reddit terms ](https://www.reddit.com/r/TheoryOfReddit/wiki/glossary).
 
 Guides on promoting and advertising on Reddit:
 * [How to Promote on Reddit without Getting (Shadow) Banned or Deleted](http://vyper.io/blog/promote-on-reddit/) by Vyper.io team.
@@ -249,16 +246,15 @@ Guides on promoting and advertising on Reddit:
 * Other interesting case: [How To Use Reddit For SEO & Content Marketing Research](https://www.shivarweb.com/3778/use-reddit-seo-content-marketing/) by Nate Shivar.
 
 📌 Useful tools:
-* [Later](https://laterforreddit.com/) helps to schedule your posts to Reddit and cross-post your link to other subreddits. Tool has free option.
-* [Subreddit Analysis Tool from Later](https://dashboard.laterforreddit.com/analysis/). It's a free tool.
-* [Reddit Insight](http://www.redditinsight.com/) is an analytics tool for real-time post tracking, single user tracking and other data analysis.
-* [SnoopSnoo](https://snoopsnoo.com/) provides reddit user and subreddits analytics.
+* [Later](https://laterforreddit.com/) helps to schedule your posts to Reddit and cross-post your link to other subreddits. The tool has a free option.
+* [Subreddit Analysis Tool from Later](https://dashboard.laterforreddit.com/analysis/). It's a free tool to get insights about subreddits. 
+* [Reddit Insight](http://www.redditinsight.com/) is an analytics tool for real-time post tracking, single user tracking, and other data analysis.
+* [SnoopSnoo](https://snoopsnoo.com/) provides Reddit user and subreddits analytics.
 * [RedditList](http://redditlist.com/) is useful for digging up worthwhile subreddits.
 * [Reddit converter](http://vyper.io/reddit_converter/) converts your text (blog post) to Reddit markdown.
 
-
-### LinkedIn
-I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, make direct sales and search for investors. LinkedIn is a pefrect place for B2B companies and business profesionals. It is also useful for self-branding purpose. As a promotional tools, LinkedId has Personal Pages, Company Pages, Groups and Ads.
+### 👽 LinkedIn
+I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, makes direct sales and search for investors. LinkedIn is a perfect place for B2B companies and business professionals. It's also useful for the self-branding. For promotional purpose LinkedId has Personal Pages, Company Pages, Groups, and Ads.
 
 Your LinkedIn profile can be a complete sales and marketing tool. It should communicates value of your product and your expetise to potential partners. These guides and tips will help you out:
 * [Want to Effectively Raise Your Linkedin Profile? Follow These Tips!](https://themission.co/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
