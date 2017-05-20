@@ -154,6 +154,9 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 * [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app, who launched on PH in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" good. I encourage you to think about resources you will invest in PH launch versus possible outcome!
 
 📌 Useful tools:
+* You can find a list of top hunters at [All-time Leaderboard](https://www.yvoschaap.com/producthunt/) or [Top 500 Hunters](http://500hunters.com/).
+* A dynamic list of the [100 least upvoted projects on PH](http://www.productrunt.com/). It's good to check failed PH launch cases.
+* Product Hunt Analytics: [Daily, monthly, and yearly analytics with Product Hunt data](http://www.phlics.com/).
 * [Notify](https://notify.ly/) notifies you in Slack when your startup is mentioned online. That helps you to answer\react quickly if somebody talks about your product (feedback, question). The tool is free.
 * [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practice to thank those people for supporting your PH launch via Twitter.
 * [Crisp Live Chat](https://crisp.im/en/) is very useful during your launch campaign when people ask things in a real-time. Such communication can increase conversion at your site and give you a lot of insights. We use the free version of it and it's awesome so far.
