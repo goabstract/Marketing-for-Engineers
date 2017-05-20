@@ -338,6 +338,7 @@ You should always A/B test your email campaigns: try different subject lines, te
 
 📌 Useful tools:
 * Websites with awesome email examples: [Email copy from great companies](http://www.goodemailcopy.com/) and [Really Good Emails](https://reallygoodemails.com/).
+* [Email sequences / Email drip campaigns examples](http://www.emaildrips.com/) is a nice to place to see how other companies build their campaigns. Most of examples are from software, marketing or informational products. 
 * Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user's step — from signing to the welcome email.
 * [8 Free Newsletter Services](https://www.emailtooltester.com/en/blog/free-newsletter-services/). 
 
