@@ -224,6 +224,7 @@ Facebook has many marketing options that could fit your company focus, budget, a
 * [6 Ways to Add the Facebook Pixel to Your Website](https://www.jonloomer.com/2017/02/24/facebook-pixel/) by Jon Loomer.
 * [101-Point Guide To Master: Facebook Custom Audiences](https://klientboost.com/ppc/facebook-custom-audience/) by Karola Karlson.
 * [The Big Damn Guide To Facebook Ad Targeting](https://www.contentharmony.com/blog/facebook-ad-targeting/) by Kane Jamison.
+* [Messenger As a Destination for Facebook Ads (podcast)](http://thechatbubble.com/2017/01/messenger-as-a-destination-for-facebook-ads-solo-message/) and [an illustrated guide to this tool (post)](https://chatbotsmagazine.com/an-illustrated-guide-to-facebook-messenger-destination-ads-dd543d2659d0) by @Mssg.
 * [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) by Alfred Lua from Buffer.
 * Good video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday). Ryan Stewart talks about marketing funnel framework and touchpoints that you have to build for your campaing. 
 * [Facebook Website Custom Audiences: A Definitive Guide for Remarketing](http://www.jonloomer.com/2015/09/11/facebook-website-custom-audiences-guide/) by Jon Loomer.
