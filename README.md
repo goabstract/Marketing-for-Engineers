@@ -404,13 +404,14 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 * [31 Copywriting Tips Based on Psychology and Linguistics](https://www.nickkolenda.com/copywriting-tips/) by Nick Kolenda.
 * [12 Ways to Build Social Proof (From Scratch)](https://sumo.com/stories/build-social-proof) by Sarah Peterson
 * [The Psychology of Marketing: 18 Ways to Use Social Proof to Boost Your Results](https://blog.bufferapp.com/social-proof) by Alfred Lua from Buffer team.
-* [Psychological Pricing: A Gigantic List of Strategies](https://www.nickkolenda.com/psychological-pricing-strategies/) by Nick Kolenda.
 * [The psychology of sending good triggers (Emails and Notifications)](http://www.nirandfar.com/2016/07/secret-sending-emails-notifications-work.html) by Nir Eyal & Ximena Vengoechea.
+* [Great post how to be less emotional to the criticisms of your software and be more empathetic to users pain](http://haacked.com/archive/2012/12/17/you-do-not-need-a-thick-skin.aspx/) by Phil Haack, GitHub Engineering Director.
 
 ## :moneybag: Pricing
 We struggle in asking people to pay for your product or service. But business is about making money. So we need to learn how to choose the right pricing strategy and charge our users: 
 * [On Pricing and Discounts](https://www.jonloomer.com/2017/03/02/entrepreneurs-pricing-discounts/) by Jon Loomer.
 * [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging the low price for you mobile apps or any other product.
+* [Psychological Pricing: A Gigantic List of Strategies](https://www.nickkolenda.com/psychological-pricing-strategies/) by Nick Kolenda.
 * [Picking a pricing strategy for your SaaS product](https://blog.intercom.com/picking-your-pricing-model/) by Des Traynor, Intercom co-founder.
 * [Why You Should Change Your SaaS Pricing Every 6 Months](http://www.priceintelligently.com/blog/why-you-should-change-your-saas-pricing-every-six-months) by Jordan T. McBride.
 * [9 Pricing Strategies to Explode Your Revenue (Backed by Psychology)](https://sumo.com/stories/marketing-pricing-strategies) by Nico Moreno.
