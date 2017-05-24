@@ -1,0 +1,21 @@
+#Contribution Guidelines
+
+Please ensure your pull request meet to the following guidelines:
+
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- **Make an individual pull request for each suggestion: article, spreadshit or tool.**
+- Use the following format: `[PACKAGE](LINK) - DESCRIPTION.`
+- Try to make your pull request and title as descriptive as possible.
+- New categories, or improvements to the existing categorization are welcome.
+- End all descriptions with a full stop/period.
+- Check your spelling and grammar.
+- Make sure that your suggestion is positioned as the last item category.
+- Make sure your text editor is set to remove trailing whitespace.
+
+
+## Link Format
+Please, use the folowing format for the links:
+* ``[Title of the Article](link) by Author``
+* ``[Name on the tool](link) by Author``
+  
+Your contributions are always welcome!  Thank you for your suggestions! :smiley:
