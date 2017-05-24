@@ -237,7 +237,7 @@ Facebook has many marketing options that could fit your company focus, budget, a
 
 ### Reddit
 Reddit is one of the most active internet community with it’s own unique culture. You can get tons of cool information there, great product feedback and first users. :trollface: However, it's better to learn Reddit rules and basics before you get banned:
-* [How to Use Reddit: Geginners Guide](https://www.shopify.com/blog/how-to-use-reddit) by Braveen Kumar.
+* [How to Use Reddit: Beginners Guide](https://www.shopify.com/blog/how-to-use-reddit) by Braveen Kumar.
 * [Reddiquette](https://www.reddit.com/wiki/reddiquette). Pay extra attention to the "please don't" section.
 * [Self-promotion on Reddit](https://www.reddit.com/wiki/selfpromotion).
 * [A complete glossary of Reddit terms ](https://www.reddit.com/r/TheoryOfReddit/wiki/glossary).
