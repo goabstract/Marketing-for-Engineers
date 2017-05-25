@@ -209,7 +209,7 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 
 📌 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Trend24](https://trends24.in/) shows the latest Twitter trending topics (hashtags) through out the day locally and globally.
-* [Followerwonk](https://moz.com/followerwonk/analyze/) gives a huge base of data about any Twitter user.
+* [Followerwonk Analyze](https://moz.com/followerwonk/analyze/) gives a huge database about any Twitter user's network. This tool can show you info on user followers and people, whom this user follows. 
 * [Twitonomy](http://www.twitonomy.com/) provides very detailed profile information on your Twitter followers.
 * [TweetChat](http://www.tweetchat.com/) is a good free tool you can use to easily follow Twitter chats.
 * [Hashtagify](http://hashtagify.me/) helps you choose hashtags wisely.
