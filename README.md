@@ -418,6 +418,7 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 * [12 Ways to Build Social Proof (From Scratch)](https://sumo.com/stories/build-social-proof) by Sarah Peterson
 * [The Psychology of Marketing: 18 Ways to Use Social Proof to Boost Your Results](https://blog.bufferapp.com/social-proof) by Alfred Lua from Buffer team.
 * [The psychology of sending good triggers (Emails and Notifications)](http://www.nirandfar.com/2016/07/secret-sending-emails-notifications-work.html) by Nir Eyal & Ximena Vengoechea.
+* [The Five Types of Virality and choosing the right one for your product to grow](https://news.greylock.com/the-five-types-of-virality-8ba42051928d?ref=quuu) by Josh Elman.
 * [Great post how to be less emotional to the criticisms of your software and be more empathetic to users pain](http://haacked.com/archive/2012/12/17/you-do-not-need-a-thick-skin.aspx/) by Phil Haack, GitHub Engineering Director.
 
 ## :moneybag: Pricing
