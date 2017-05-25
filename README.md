@@ -434,7 +434,8 @@ We struggle in asking people to pay for your product or service. But business is
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/) team:
 * Lisa Dziuba (lisa@flawlessapp.io)
 * Ahmed Sulaiman (ahmed@flawlessapp.io)
-All great articles, awesome tools and other shiny things for growing your products were done by independent authors and companies.
+
+All great articles, awesome tools and other shiny things for growing your products were done by independent authors and companies. All credentials are included.
 
 ## Future Plans
 We would love to add more awesome content, which will answer on other marketing-related questions:
@@ -444,8 +445,10 @@ We would love to add more awesome content, which will answer on other marketing-
 * how to make a custom support
 * how to deal with scaling and growth
 * how to get fund for your project
+* and some usefull blogs, newsletters, cources. 
+
+Feel free to recommend us more topics! And please [contribute](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md) with awesome content. 
 
 ## License
-
 
 
