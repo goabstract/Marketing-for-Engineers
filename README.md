@@ -12,23 +12,25 @@ If you have found some great marketing content or tool, please, contribute to Ma
 
 ## 📚 Table of Content
 * [Marketing without Budget](https://github.com/LisaDziuba/Marketing-for-Engineers#triumph-marketing-without-budget)
-* [Content Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#content-marketing)
+* [Content Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-content-marketing)
   * [Personal blog](https://github.com/LisaDziuba/Marketing-for-Engineers#sunglasses-personal-blog)
   * [Medium Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#green_book-medium-marketing)
   * [Promotion of your content](https://github.com/LisaDziuba/Marketing-for-Engineers#mega-promotion-of-your-content)
 * [Influencer Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#influencer-marketing)
 * [Marketing for Product Hunt Launch](https://github.com/LisaDziuba/Marketing-for-Engineers#cat-marketing-for-product-hunt-launch)
-* [Social Media Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#social-media-marketing)
-  * [Twitter](https://github.com/LisaDziuba/Marketing-for-Engineers#twitter)
+* [Social Media Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-social-media-marketing)
+  * [Twitter](https://github.com/LisaDziuba/Marketing-for-Engineers#-twitter)
   * [Facebook](https://github.com/LisaDziuba/Marketing-for-Engineers#facebook)
   * [Reddit](https://github.com/LisaDziuba/Marketing-for-Engineers#reddit)
-  * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#linkedin)
+  * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#-linkedin)
   * [Quora](https://github.com/LisaDziuba/Marketing-for-Engineers#quora)
-* [Lifecycle Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#lifecycle-email-marketing)  
-* [Cold Emails Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-Cold-Email-Marketing)
+* [Lifecycle Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#love_letter-lifecycle-email-marketing)  
+* [Cold Emails Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-email-marketing)
 * [Building Partnerships](https://github.com/LisaDziuba/Marketing-for-Engineers#bowtie-building-partnerships)
 * [Psychology in Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#%EF%B8%8F-psychology-in-marketing)
 * [Pricing](https://github.com/LisaDziuba/Marketing-for-Engineers#moneybag-pricing)
+* [Authors](https://github.com/LisaDziuba/Marketing-for-Engineers#-authors)
+* [Future Plans](https://github.com/LisaDziuba/Marketing-for-Engineers#future-plans)
 
 
 ## :triumph: Marketing without Budget
