@@ -421,14 +421,19 @@ We struggle in asking people to pay for your product or service. But business is
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/) team:
 * Lisa Dziuba (lisa@flawlessapp.io)
 * Ahmed Sulaiman (ahmed@flawlessapp.io)
-
 All great articles, awesome tools and other shiny things for growing your products were done by independent authors and companies.
 
+## Future Plans
+We would love to add more awesome content, which will answer on other marketing-related questions:
+* how to validate the idea, before start coding
+* how to set up analytics for marketing
+* how to automate marketing and calculate the budgets
+* how to make a custom support
+* how to deal with scaling and growth
+* how to get fund for your project
 
-## 💗 Contributing
+## 💗 Contributing and License
 We would love you to contribute to **Marketing for Engineers** collection! Please, check the CONTRIBUTING guidelines for more information.
-
-## License
 
 
 
