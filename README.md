@@ -209,10 +209,10 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 
 📌 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Trend24](https://trends24.in/) shows the latest Twitter trending topics (hashtags) through out the day locally and globally.
-* [Followerwonk Analyze](https://moz.com/followerwonk/analyze/) gives a huge database about any Twitter user's network. This tool can show you info on user followers and people, whom this user follows. 
-* [Twitonomy](http://www.twitonomy.com/) provides very detailed profile information on your Twitter followers.
+* [Followerwonk Analyze](https://moz.com/followerwonk/analyze/) gives a huge database about any Twitter user's network. This free tool shows you info on user followers and people, whom this user follows. So you can find the best time to engage, popular users, location info, etc.
+* [Twitonomy](http://www.twitonomy.com/) provides you detailed info about your Twitter account. Twitonomy UI is terrible. But it can show analytics of your hashtags usage, daily activity (time & days), followers, retweets statistics. All these insights are available in free version.
 * [TweetChat](http://www.tweetchat.com/) is a good free tool you can use to easily follow Twitter chats.
-* [Hashtagify](http://hashtagify.me/) helps you choose hashtags wisely.
+* [Hashtagify](http://hashtagify.me/) is advanced Twitter Hashtags search engine. It recommends you related hashtags to your keyword, shows several influencers for this keyword and relevant tweets. Very useful free tool for choosing hashtags for your tweets!
 
 ### Facebook
 Facebook has many marketing options that could fit your company focus, budget, and your current knowledge. To target your users there you can work with Personal Profiles, Pages, Groups, and Ads.
