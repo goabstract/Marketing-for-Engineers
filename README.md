@@ -197,7 +197,7 @@ Your personal account can drive traffic to your product and content. While growi
 
 There is nothing wrong with automating your Twitter activities. You can schedule posts, automatically send messages and set up rules for auto-engagement with users. However, only automation 🤖 will hurt your SMM strategy. So mix it with a real-time tweeting and being active & helpful with the community: 
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) by Tami Brehse. Tami scheduled 60 tweets with her blog posts for one month. Her overall site traffic showed how people actually engage with automated tweets.
-* [The Pros and Cons of Twitter Automation](https://www.searchenginejournal.com/pros-cons-twitter-automation/164078/) by Michael Georgiou. Check possible downsides for knowing how to avoid them.
+* [The Pros & Cons of Twitter Automation](https://www.searchenginejournal.com/pros-cons-twitter-automation/164078/) by Michael Georgiou. Check possible downsides for knowing how to avoid them.
 * [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic (video)](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow. Clever automation is awesome 👌.
 * [Is “fake” Twitter following working?](https://aggregateblog.com/automated-twitter-following-tools/) by Karola Karlson. New accounts suffer from a lack of followers. Follow-Unfollow tools seem like an obvious solution to give you the "first followers". But in most cases, it will be bots or inactive users.
 
