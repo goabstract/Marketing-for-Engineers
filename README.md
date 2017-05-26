@@ -221,6 +221,7 @@ Facebook has many marketing options that could fit your company focus, budget, a
 
 🐣 Facebook Pages & Groups:
 * Many interesting thoughts on content, post types and other beginners questions: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
+* [How to Write Facebook Status Updates That Will Leave Your Audience Coming Back for More](http://neilpatel.com/blog/write-facebook-status-updates/) by Neil Patel. It's a useful read, but be aware of many promotional ads with Neil face...
 * [How to Stand Out with a Brilliant Facebook Cover Photo](https://designschool.canva.com/blog/how-to-stand-out-with-a-brilliant-facebook-cover-photo/) by Adrienne Branson.
 
 🐤 The Beginner’s Guides to Facebook Advertising. Here you will find step-by-step tutorials for setting up your first ad campaign. I also included articles about ads design, copywriting and typical mistakes. If you have skipped previous content, it will be useful to check posts on the viral headlines in the Personal Blog section and posts in the Social Media Marketing section. 
