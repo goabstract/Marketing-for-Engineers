@@ -197,8 +197,9 @@ Your personal account can drive traffic to your product and content. While growi
 
 There is nothing wrong with automating your Twitter activities. You can schedule posts, automatically send messages and set up rules for auto-engagement with users. However, only automation 🤖 will hurt your SMM strategy. So mix it with a real-time tweeting and being active & helpful with the community: 
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) by Tami Brehse. Tami scheduled 60 tweets with her blog posts for one month. Her overall site traffic showed how people actually engage with automated tweets.
-* [The Pros & Cons of Twitter Automation](https://www.searchenginejournal.com/pros-cons-twitter-automation/164078/) by Michael Georgiou. Check possible downsides for knowing how to avoid them.
 * [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic (video)](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow. Clever automation is awesome 👌.
+* [How to automate Twitter content curation with RSS blog feeds](http://www.jeffbullas.com/2017/02/27/how-to-automate-twitter-to-get-attention-and-grow-your-followers/). Jeff Bullas uses Dlvr.it for automation, this tool has a good free plan. Be aware, that simply spamming content to your social networks will not work out.
+* [The Pros & Cons of Twitter Automation](https://www.searchenginejournal.com/pros-cons-twitter-automation/164078/) by Michael Georgiou. Check possible downsides to know how to avoid them.
 * [Is “fake” Twitter following working?](https://aggregateblog.com/automated-twitter-following-tools/) by Karola Karlson. New accounts suffer from a lack of followers. Follow-Unfollow tools seem like an obvious solution to give you the "first followers". But in most cases, it will be bots or inactive users.
 
 Direct Message Marketing is about sending personal, mass or automated DMs to your followers. These articles will show you how to use this tool in a right way:
@@ -214,7 +215,7 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 * [Statusbrew](https://statusbrew.com/) allows you to manage your followers (Audience Feature) and scheduled tweets. Statusbrew finds inactive, spammy or not-following back accounts. Tool has very funcional free version.
 * [Followerwonk Analyze](https://moz.com/followerwonk/analyze/) gives a huge database about any Twitter user's network. This free tool shows you info on user followers and people, whom this user follows. So you can find the best time to engage, popular users, location info, etc.
 * [Twitonomy](http://www.twitonomy.com/) provides you detailed info about your Twitter account (or any other). Twitonomy UI is terrible. But it can show analytics of your hashtags usage, daily activity (time & days), followers, retweets statistics. All these insights are available in the free version. Also this tool is useful for Influencer Marketing research.
-* [dlvrit](dlvrit.com) and [Hootsuite](https://hootsuite.com/) for grabing website RSS feeds and auto sharing the content. Free accounts permit several RSS feeds.
+* [Dlvr.it](dlvrit.com) and [Hootsuite](https://hootsuite.com/) for grabing website RSS feeds and auto sharing the content. Free accounts permit several RSS feeds.
 * I mentioned tools, that I personally use. However, there are plenty of other great tools to try: [The Big List of Twitter Tools: 93 Free Twitter Tools and Apps to Fit Any Need](https://blog.bufferapp.com/free-twitter-tools)by Kevan Lee from Buffer team.
 
 ### Facebook
