@@ -74,7 +74,7 @@ Start by creating a blog that not only touts your product but offers helpful rec
 * [A Simple Guide To Figuring Out What To Blog About](http://howtomakemyblog.com/blog-topic/). As Marko Saric mentioned, 🙏 the perfect topic is found by interlinking your passion and personality with the demand from the market.
 * If you have skipped articles in the Content Marketing section above, I do encourage you to read them! The first 4 articles have excellent frameworks for getting strategic content ideas.
 
-Pick the most appropriate content format — video, list, long-read. Than think about the right headline for driving interest to your great article:
+Pick the most appropriate content format — video, list, long-read. Then think about the right headline for driving interest to your great article:
 * [Research on writing viral headlines](http://buzzsumo.com/blog/5-ways-create-amazing-viral-headlines/) by Steve Rayson from BuzzSumo.
 * [30+ Ultimate Headline Formulas for Tweets, Posts, Articles & Emails](https://blog.bufferapp.com/headline-formulas) from Buffer team.
 * [Copywriting Headlines That Sell (with Templates & Swipe File)](https://kopywritingkourse.com/copywriting-headlines-that-sell/) via KopywritingKourse.
@@ -104,7 +104,7 @@ Basics of writing on Medium. How to write, edit, publish and add your article to
 Articles, where you can find what topics, titles, collections, tags, categories and post length are popular for Medium readers:
 * [How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8) by Quincy Larson.
 * [Medium’s Most Recommended Stories of 2016](https://medium.com/startup-grind/mediums-most-recommended-stories-of-2016-171efdd705c5) by Levent Aşkan.
-* [How to Win at Medium (advice on title, text formatting & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373) by Elizabeth Tobey.
+* [How to Win at Medium (advice on the title, text formatting & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373) by Elizabeth Tobey.
 * [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905) (timing, some promotional tips) by Ali Mese.
 * [What I learned from analyzing the top 252 Medium stories of 2016](https://medium.freecodecamp.com/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c) by Quincy Larson.
 
@@ -114,10 +114,10 @@ Publishing on Medium or elsewhere removes all your technology hassles. It's a go
 You need to promote content on your own blog, Medium or guest platforms. Some ideas how to spread the word about your great articles and make it more shareable:
 
 * [38 Free Places to Promote Blog Posts Once You Hit Publish](http://www.mybloglift.com/places-to-promote-blog-posts/). Learn about every platform before sharing your content there (or you will become a spammer💩). At the end of the article Shafi Khan mentioned other important rules to follow.
-* [Content Promotion: How We Grew from 0 to 32,977 Users in 5 Months With Zero Paid Traffic](https://growandconvert.com/content-marketing/community-content-promotion/). Benji Hyam talks about community-driven content promotion. It means, that you engage with targeted community and then share your content so that it adds value.
+* [Content Promotion: How We Grew from 0 to 32,977 Users in 5 Months With Zero Paid Traffic](https://growandconvert.com/content-marketing/community-content-promotion/). Benji Hyam talks about community-driven content promotion. It means, that you engage with the targeted community and then share your content so that it adds value.
 * [17 Advanced Methods for Promoting Your New Piece of Content](https://blog.kissmetrics.com/17-advanced-methods/) by Kissmetrics team.
 * [Boost Social Sharing From Your Content](https://sumo.com/stories/social-sharing-chapter-2). Sarah Peterson shared methods, that will help readers to easily share your posts.
-* Useful guide on [Blogger Outreach: How to Get Influencers to Promote Your Content for Free](https://smartblogger.com/blogger-outreach/) by Brian Dean. 
+* A useful guide on [Blogger Outreach: How to Get Influencers to Promote Your Content for Free](https://smartblogger.com/blogger-outreach/) by Brian Dean. 
 * [I Asked 235 People to Tweet My Article and All I Got Is This Cheerless Case Study](https://ahrefs.com/blog/asking-for-tweets/). It's an interesting experiment! Joshua Hardwick cold emailed writers who tweeted similar posts and asked for a promotional tweet. You can try this too.
 * [Sharing Other Peoples Content and Simultaneously Promoting Your Own](https://searchwilderness.com/sharing-other-peoples-content/) by Paul Shapiro. 😯 Have you ever tried to include your blog in the UTM parameters of somebodies else blog post? Paul will teach you this smart hack.
 * [Strategic Guide to Reposting Content on Medium and LinkedIn](https://ryanbattles.com/post/reposting-content) by Ryan Battles. Does re-publishing strategy lead to growth or penalties? Ryan Battles made informational podcast & article on the topic.
@@ -212,10 +212,10 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 * [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) for scheduling (were mentioned already).
 * [Trend24](https://trends24.in/) shows the latest Twitter trending topics (hashtags) through out the day locally and globally.
 * [Hashtagify](http://hashtagify.me/) is advanced Twitter Hashtags search engine. It recommends you related hashtags to your keyword, shows several influencers for this keyword and relevant tweets. Very useful free tool for choosing hashtags for your tweets!
-* [Statusbrew](https://statusbrew.com/) allows you to manage your followers (Audience Feature) and scheduled tweets. Statusbrew finds inactive, spammy or not-following back accounts. Tool has very funcional free version.
+* [Statusbrew](https://statusbrew.com/) allows you to manage your followers (Audience Feature) and scheduled tweets. Statusbrew finds inactive, spammy or not following back accounts. The tool has very good free version.
 * [Followerwonk Analyze](https://moz.com/followerwonk/analyze/) gives a huge database about any Twitter user's network. This free tool shows you info on user followers and people, whom this user follows. So you can find the best time to engage, popular users, location info, etc.
-* [Twitonomy](http://www.twitonomy.com/) provides you detailed info about your Twitter account (or any other). Twitonomy UI is terrible. But it can show analytics of your hashtags usage, daily activity (time & days), followers, retweets statistics. All these insights are available in the free version. Also this tool is useful for Influencer Marketing research.
-* [Dlvr.it](dlvrit.com) and [Hootsuite](https://hootsuite.com/) for grabing website RSS feeds and auto sharing the content. Free accounts permit several RSS feeds.
+* [Twitonomy](http://www.twitonomy.com/) provides you detailed info about your Twitter account (or any other). Twitonomy UI is terrible. But it can show analytics of your hashtags usage, daily activity (time & days), followers, retweets statistics. All these insights are available in the free version. Also, this tool is useful for Influencer Marketing research.
+* [Dlvr.it](dlvrit.com) and [Hootsuite](https://hootsuite.com/) for grabbing website RSS feeds and auto-sharing the content. Free accounts permit several RSS feeds.
 * I mentioned tools, that I personally use. However, there are plenty of other great tools to try: [The Big List of Twitter Tools: 93 Free Twitter Tools and Apps to Fit Any Need](https://blog.bufferapp.com/free-twitter-tools)by Kevan Lee from Buffer team.
 
 ### Facebook
@@ -244,7 +244,7 @@ Facebook has many marketing options that could fit your company focus, budget, a
 * [The Big Damn Guide To Facebook Ad Targeting](https://www.contentharmony.com/blog/facebook-ad-targeting/) by Kane Jamison.
 * [Messenger As a Destination for Facebook Ads (podcast)](http://thechatbubble.com/2017/01/messenger-as-a-destination-for-facebook-ads-solo-message/) and [an illustrated guide to this tool (post)](https://chatbotsmagazine.com/an-illustrated-guide-to-facebook-messenger-destination-ads-dd543d2659d0) by @Mssg.
 * [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) by Alfred Lua from Buffer.
-* Good video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday). Ryan Stewart talks about marketing funnel framework and touchpoints that you have to build for your campaing. 
+* Good video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday). Ryan Stewart talks about marketing funnel framework and touchpoints that you have to build for your campaign. 
 * [Facebook Website Custom Audiences: A Definitive Guide for Remarketing](http://www.jonloomer.com/2015/09/11/facebook-website-custom-audiences-guide/) by Jon Loomer.
 * [A/B Testing Facebook Ads: 121 Tips & Ideas for Extraordinary Discoveries](https://klientboost.com/ppc/facebook-ad-testing/) by KlientBoost.
 * [Facebook Ads Bidding 101: Everything You Need to Know](https://adespresso.com/academy/blog/everything-need-know-facebook-ads-bidding/) by Massimo Chieruzzi from AdEspresso team.
