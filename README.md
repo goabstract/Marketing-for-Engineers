@@ -251,14 +251,14 @@ Facebook has many marketing options that could fit your company focus, budget, a
 * [29 Facebook Ad Mistakes That Are Budget Drainers](https://klientboost.com/ppc/facebook-ad-mistakes/) by Johnathan Dane from KlientBoost.
 * [Facebook Ad Conversion Attribution: What You Need to Know](https://www.jonloomer.com/2017/05/11/facebook-ad-conversion-attribution/) by Jon Loomer.
 * [Facebook Ads Review 101: Rules to follow to get your ads approved quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
-* [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer. High five if you have read till this point ✋.
+* [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer. High five if you have read untill this point ✋.
 
 ### Reddit
 Reddit is one of the most active internet community with it’s own unique culture. You can get tons of cool information there, great product feedback and first users. :trollface: However, it's better to learn Reddit rules and basics before you get banned:
 * [How to Use Reddit: Beginners Guide](https://www.shopify.com/blog/how-to-use-reddit) by Braveen Kumar.
 * [Reddiquette](https://www.reddit.com/wiki/reddiquette). Pay extra attention to the "please don't" section.
 * [Self-promotion on Reddit](https://www.reddit.com/wiki/selfpromotion).
-* [A complete glossary of Reddit terms ](https://www.reddit.com/r/TheoryOfReddit/wiki/glossary).
+* [A complete glossary of Reddit terms](https://www.reddit.com/r/TheoryOfReddit/wiki/glossary).
 
 Guides on promoting and advertising on Reddit:
 * [How to Promote on Reddit without Getting (Shadow) Banned or Deleted](http://vyper.io/blog/promote-on-reddit/) by Vyper.io team.
@@ -266,7 +266,7 @@ Guides on promoting and advertising on Reddit:
 * [How To Make Your First $1,000 with Reddit Ads](http://ryanluedecke.com/reddit-ads/) by Ryan Luedecke. It's an old, but super informative tutorial.
 * [The Reddit Ads Experiment: What We Learned for $250](https://blog.ladder.io/reddit-ads/) by Alex Berman. Spoiler: "we got a clear confirmation that the Reddit community is still Ad-proof and smells/ignores promoted posts".
 * [How to Build a Passionate Fanbase with Reddit](https://adespresso.com/academy/blog/how-to-build-a-passionate-fanbase-with-reddit/) by Ana Gotter.
-* Other interesting case: [How To Use Reddit For SEO & Content Marketing Research](https://www.shivarweb.com/3778/use-reddit-seo-content-marketing/) by Nate Shivar.
+* Another interesting case: [How To Use Reddit For SEO & Content Marketing Research](https://www.shivarweb.com/3778/use-reddit-seo-content-marketing/) by Nate Shivar.
 
 📌 Useful tools:
 * [Later](https://laterforreddit.com/) helps to schedule your posts to Reddit and cross-post your link to other subreddits. The tool has a free option.
@@ -451,7 +451,7 @@ We would love to add more awesome content, which will answer on other marketing-
 * how to make a custom support
 * how to deal with scaling and growth
 * how to get fund for your project
-* and some usefull blogs, newsletters, cources. 
+* and some useful blogs, newsletters, courses.
 
 Feel free to recommend us more topics! And please [contribute](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md) with awesome content. 
 
