@@ -4,7 +4,7 @@
 
 For getting needed advice, please:
 * Go through our Table of Content. 
-To help you navigate through the list, we added brief overviews of every marketing category. Also, content titles are displayed as clear as possible (so it tells you what to read there). 
+To help you navigate in the list, we added brief overviews of every marketing category. Also, content titles are displayed as clear as possible (it will tell you expected context and how you can benefit from it). 
 * Search for a keyword or phrase (for example, “Product Hunt”, “Facebook”, “Blog”).
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
