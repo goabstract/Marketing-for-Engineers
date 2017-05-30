@@ -3,7 +3,7 @@
 ## 🛠 How to Use and Contribute
 
 For getting needed advice, please:
-* Go through our Table of Content. To help you navigate in the collection, we added brief overviews of every marketing category. Also, content titles are displayed as clear as possible (so it will tell you expected context and how you can benefit from it). 
+* Go through our Table of Content. To help you navigate, we`ve added brief overviews of every marketing category. Also, content titles are displayed as clear as possible (so it will tell you the context and how you can benefit from it). 
 * Search for a keyword or phrase (for example, “Product Hunt”, “Facebook”, “Blog”).
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
