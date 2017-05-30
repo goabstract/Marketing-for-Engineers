@@ -6,7 +6,7 @@ For getting needed advice, please:
 * Go through our Table of Content. 
 To help you navigate through the list, we added brief overviews of every marketing category. Also, content titles are displayed as clear as possible (so it tells you what to read there). 
 * Search for a keyword or phrase (for example, “Product Hunt”, “Facebook”, “Blog”).
-* Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter (I’m usually happy to answer).
+* Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
 If you have found some great marketing content or tool, please, contribute to Marketing for Engineers list. Simply submit a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md). We would love you to see your suggestions! 
 
