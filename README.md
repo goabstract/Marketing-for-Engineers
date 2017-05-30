@@ -142,7 +142,7 @@ You should not be afraid to reach to the cool people. Be helpful, nice and creat
 * [The Barney Stinson’s Playbook For Cold Tweeting Influencers](http://klear.com/blog/influencer-outreach-with-cold-tweets/) by Noam Avigdor.
 * [4 Tips for Reaching Out to Someone You Admire on LinkedIn](https://www.themuse.com/advice/4-tips-for-reaching-out-to-someone-you-admire-on-linkedin) by Lily Herman. 
 * [26 Headliners on How to Connect with Influencers at Conference](https://venngage.com/blog/connect-with-influencers-conference/) by Venngage. Don't be afraid to talk to people!
-* [Connecting with Others: What Have You Done for Me Lately?](http://okdork.com/what-have-you-done-for-me-lately/) by Noah Kagan, popular IT entrepreneur & influencer. I loved his brief instruction on making its easier for people to say YES to your request :metal:
+* [Connecting with Others: What Have You Done for Me Lately?](http://okdork.com/what-have-you-done-for-me-lately/) by Noah Kagan, popular IT entrepreneur & influencer. I loved his brief instruction on making its easier for people to say YES to your request.
 
 Case-studies, which can teach and inspire you:
 * [How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours](https://www.groovehq.com/blog/1000-subscribers) by Alex Turnbull. Groove team built relationships with influencers for getting the first readers on their blog. Very smart tactics there!
@@ -199,7 +199,7 @@ Your personal account can drive traffic to your product and content. While growi
 * [5 ways to increase your Tweet engagements with emojis](https://business.twitter.com/en/blog/5-ways-to-increase-your-tweet-engagements-with-emojis.html) from Twitter team.
 * Taking part in Twitter chats is a great way to attract new followers and actively participate in relevant conversations with people from your industry.
 
-There is nothing wrong with automating your Twitter activities. You can schedule posts, automatically send messages and set up rules for auto-engagement with users. However, only automation 🤖 will hurt your SMM strategy. So mix it with a real-time tweeting and being active & helpful with the community: 
+There is nothing wrong with automating your Twitter activities. You can schedule posts, automatically send messages and set up rules for auto-engagement with users. However, using automation only 🤖 will hurt your SMM strategy. So mix it with a real-time tweeting and being active & helpful with the community: 
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) by Tami Brehse. Tami scheduled 60 tweets with her blog posts for one month. Her overall site traffic showed how people actually engage with automated tweets.
 * [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic (video)](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow. Clever automation is awesome 👌.
 * [How to automate Twitter content curation with RSS blog feeds](http://www.jeffbullas.com/2017/02/27/how-to-automate-twitter-to-get-attention-and-grow-your-followers/). Jeff Bullas uses Dlvr.it for automation, this tool has a good free plan. Be aware, that simply spamming content to your social networks will not work out.
@@ -316,7 +316,7 @@ LinkedIn can help you get more eyes on your content, and receive a feedback from
 * [The Ultimate Guide to LinkedIn Conversion Tracking](https://www.hallaminternet.com/linkedin-conversion-tracking/) by Tom Whiley.
 * [5 tactics](https://blog.adstage.io/2017/05/03/expand-your-reach-and-drive-more-conversions-on-linkedin/) which can help reach your ideal audience and increase conversion rates. Written by Michael McEuen.
 
-I heavily use LinkedIn. As you remember, I run [Flawless App](https://flawlessapp.io/) — a tool for iOS & macOS engineers. A lot of my users spend time on LinkedIn, participate in iOS groups or post articles there. I often post cool stuff in those groups, engage with people via direct messages or share my writings. Unfortunately, I do get spam or some random requests from job seekers\recruiters. But in general, LinkedIn works for me.   
+I heavily use LinkedIn. As you remember, we run [Flawless App](https://flawlessapp.io/) — a tool for iOS & macOS engineers. A lot of our users spend time on LinkedIn, participate in iOS groups or post articles there. I often post cool stuff in those groups, engage with people via direct messages or share my writings. Unfortunately, I do get spam or some random requests from job seekers\recruiters. But in general, LinkedIn works for me.   
 
 📌 Useful tools:
 * If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords.
