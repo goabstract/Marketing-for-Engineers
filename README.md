@@ -100,6 +100,7 @@ Basics of writing on Medium. How to write, edit, publish and add your article to
 * [Useful keyboard shortcuts](https://help.medium.com/hc/en-us/articles/214672207).
 * [Tips and tricks for Medium writers](https://blog.medium.com/tips-and-tricks-for-medium-writers-1d79498101c3).
 * [How to add draft or post to publication](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication).
+* [What are the pros and cons of publishing via Medium vs. your own domain?](https://www.quora.com/What-are-the-pros-and-cons-of-publishing-via-Medium-vs-your-own-domain) via Quora.
 
 Articles, where you can find what topics, titles, collections, tags, categories and post length are popular for Medium readers:
 * [How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8) by Quincy Larson.
@@ -169,6 +170,7 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 📌 Useful tools:
 * You can find a list of top hunters at [All-time Leaderboard](https://www.yvoschaap.com/producthunt/) or [Top 500 Hunters](http://500hunters.com/).
 * A dynamic list of the [100 least upvoted projects on PH](http://www.productrunt.com/). It's good to check failed PH launch cases.
+* [Daily Top 5 products on PH in one chart](http://tophuntsdaily.herokuapp.com/), which can show you dynamics of upvote grows on daily basis.
 * Product Hunt Analytics: [Daily, monthly, and yearly analytics with Product Hunt data](http://www.phlics.com/).
 * [Notify](https://notify.ly/) notifies you in Slack when your startup is mentioned online. That helps you to answer\react quickly if somebody talks about your product (feedback, question). The tool is free.
 * [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practice to thank those people for supporting your PH launch via Twitter.
