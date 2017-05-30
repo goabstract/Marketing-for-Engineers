@@ -120,7 +120,7 @@ You need to promote content on your own blog, Medium or guest platforms. Some id
 * [Boost Social Sharing From Your Content](https://sumo.com/stories/social-sharing-chapter-2). Sarah Peterson shared methods, that will help readers to easily share your posts.
 * A useful guide on [Blogger Outreach: How to Get Influencers to Promote Your Content for Free](https://smartblogger.com/blogger-outreach/) by Brian Dean. 
 * [I Asked 235 People to Tweet My Article and All I Got Is This Cheerless Case Study](https://ahrefs.com/blog/asking-for-tweets/). It's an interesting experiment! Joshua Hardwick cold emailed writers who tweeted similar posts and asked for a promotional tweet. You can try this too.
-* [Sharing Other Peoples Content and Simultaneously Promoting Your Own](https://searchwilderness.com/sharing-other-peoples-content/) by Paul Shapiro. 😯 Have you ever tried to include your blog in the UTM parameters of somebodies else blog post? Paul will teach you this smart hack.
+* [Sharing Other People`s Content and Simultaneously Promoting Your Own](https://searchwilderness.com/sharing-other-peoples-content/) by Paul Shapiro. 😯 Have you ever tried to include your blog in the UTM parameters of somebodies else blog post? Paul will teach you this smart hack.
 * [Strategic Guide to Reposting Content on Medium and LinkedIn](https://ryanbattles.com/post/reposting-content) by Ryan Battles. Does re-publishing strategy lead to growth or penalties? Ryan Battles made informational podcast & article on the topic.
 * [The Simple Way to Get People to Read Your Blog Post on Facebook](http://adamrogersuk.com/blog/post-blog-on-facebook/) by Adam Rogers. Nice ideas on optimizing your republished piece of content on Facebook.
 * [How to get featured on large publications with republished content](https://sumo.com/stories/traffic-from-republishing) by Sarah Peterson.
@@ -258,7 +258,7 @@ Facebook has many marketing options that could fit your company focus, budget, a
 * [29 Facebook Ad Mistakes That Are Budget Drainers](https://klientboost.com/ppc/facebook-ad-mistakes/) by Johnathan Dane from KlientBoost.
 * [Facebook Ad Conversion Attribution: What You Need to Know](https://www.jonloomer.com/2017/05/11/facebook-ad-conversion-attribution/) by Jon Loomer.
 * [Facebook Ads Review 101: Rules to follow to get your ads approved quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
-* [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer. High five if you have read untill this point ✋.
+* [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer. High five if you have read until this point ✋.
 
 ### Reddit
 Reddit is one of the most active internet community with it’s own unique culture. You can get tons of cool information there, great product feedback and first users. :trollface: However, it's better to learn Reddit rules and basics before you get banned:
@@ -284,7 +284,7 @@ Guides on promoting and advertising on Reddit:
 * [Reddit converter](http://vyper.io/reddit_converter/) converts your text (blog post) to Reddit markdown.
 
 ### 👽 LinkedIn
-I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, makes direct sales and search for investors. LinkedIn is a perfect place for B2B companies and 👔 business professionals. It's also useful for the self-branding. For promotional purpose LinkedId has Personal Pages, Company Pages, Groups, and Ads.
+I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, makes direct sales and search for investors. LinkedIn is a perfect place for B2B companies and 👔 business professionals. It's also useful for the self-branding. For promotional purpose LinkedIn has Personal Pages, Company Pages, Groups, and Ads.
 
 Your LinkedIn profile can be a complete sales and marketing tool. It should communicate the value of your product and your expertise to potential partners. These guides and tips will help you out:
 * [Want to Effectively Raise Your Linkedin Profile? Follow These Tips](https://themission.co/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
