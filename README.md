@@ -37,7 +37,7 @@ If you have found some great marketing content or tool, please, contribute to Ma
 You will find here a collection of free marketing channels for getting the first users. Most of them will take a lot of time & effort, but will not cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing, are comprehensively explained in its own directories below. So, get fresh ideas from these real-life stories and think what could work for your users:
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is a co-founder of Y Combinator, computer scientist, investor, and entrepreneur. Paul shows how such popular companies as Stripe, Airbnb or Facebook got their first users. It's more philosophical read for helping your brain to think in the right direction.
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah. It highlights a bunch of different ideas to try.
-* [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing [Ryan Hoover](https://twitter.com/rrhoover), co-founder of Product Hunt.
+* [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing Ryan Hoover, co-founder of Product Hunt.
 * [How we got from $0 to $75,000 MRR with zero marketing budget](https://medium.com/lifecycle-marketing/how-we-got-from-0-to-75-000-mrr-with-zero-marketing-budget-b20101b09a76) by Sergei Gusev. They sent free products (designer fragrance) to the market influencers and got video reviews. It grew their sales dramatically! 
 * [How We Got Our First 100 Paying Customers in 24 Hours](https://www.groovehq.com/blog/startup-first-paying-customers) by Alex Turnbull, founder of Groove.
 * [Comment Marketing: How to Earn Benefits from Community Participation](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) by Rand Fishkin. You can gain attention to your company by sharing meaningful opinions and thoughts. Rand Fishkin made an excellent 9 minutes video on using this technique 👌.
@@ -50,7 +50,7 @@ You will find here a collection of free marketing channels for getting the first
 :bowtie: We used many free marketing channels. To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talked to influencers, manually recruited users at events, posted at Facebook groups, worked with developers & designers via Twitter and did many other stuff. These gave us our first 1000 beta users. So it worth trying out!
 
 ## 💎 Content Marketing
-Content marketing is about promotion via content. You can run a personal blog, guest blog or write at the popular industry site (or combine it). Focus on how you can help your users with your content. :neckbeard: You don't have to be a professional writer for making cool articles. Just give yourself space to be creative and share your expertise.
+Content marketing is about promotion via content. You can run a personal blog, guest blog or write at platforms, like Medium (or combine it). Focus on how you can help your users with your content. You don't have to be a professional writer for making cool articles. Just give yourself space to be creative and share your expertise.
 
 I encourage you to start doing content marketing by yourself. Outsourcing it can be very tricky, especially at the beginning.
 🤔 Firstly, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer to your users? How can you build an engaged readers community? And the most important question is how you will convert readers into leads. With all those considerations, you should create a content strategy:
@@ -129,7 +129,7 @@ Content Marketing is not only about getting people to read your amazing articles
 
 
 ## 💃Influencer Marketing
-Influencer marketing is focused on working with opinion leaders to drive company message/product/service to the larger market.  📚 These long guides will be good starters: 
+Influencer marketing is focused on working with opinion leaders to drive company message/product/service to the larger market.  📚 These long guides will be good for start: 
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
 * [The Ultimate Guide to Influencer Marketing](https://sumo.com/stories/influencer-marketing-super-connector) by Jason Quey from Sumo.
 * [Influencers definitely should be compensated. The only question is how](http://klear.com/blog/paying-an-influencer/) by Yuval Maoz.
