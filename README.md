@@ -190,6 +190,8 @@ Let's start with the basics, which can be used for any social media platform:
 * [Google Analytics Campaign URL builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) for making UTM codes and here is a guide on [Using UTM Parameters to Track Social Media Success](https://blog.hootsuite.com/how-to-use-utm-parameters/) from Hootsuite.
 
 ### 🐦 Twitter
+I love Twitter as a tool for personal use. Moreover, Twitter has a huge variety of opportunities to promote your product — personal account, company account, Direct Message Marketing, Chats, Adds. Twitter can be used for sharing your articles, connecting with influencers or looking for competitors' customers. As you see, it's a powerful platform for many marketing activities, depending on your goals.  
+
 Your personal account can drive traffic to your product and content. While growing your Twitter followers, you increase the media reach you might get. But don't forget, that Twitter is made for people. To be successful there, you need to communicate with your audience just as you would do offline. If your target audience like your tweets and your personality, there’s a higher chance they will trust you and click on your links:
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson. It's a long read about what, when and how to tweet. Although the main focus is on marketing industry, the key insights will be useful for tech as well.
 * [8 Tactics for Increasing Your Twitter Reach](http://www.socialmediatoday.com/social-networks/8-tactics-increasing-your-twitter-reach) by Patrick Whatman.
