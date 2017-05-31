@@ -462,5 +462,5 @@ We would love to add more awesome content, which will answer on other marketing-
 Feel free to recommend us more topics! And please [contribute](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md) with awesome content. 
 
 ## License
-
+Coming soon!
 
