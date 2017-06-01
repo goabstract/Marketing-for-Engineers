@@ -346,7 +346,7 @@ Lifecycle emails can help you to accomplish almost any marketing goal: onboard n
 * [14 High Converting Places to Add Email Signup Forms to Build Your List](http://optinmonster.com/14-high-converting-places-to-add-email-signup-forms-to-build-your-list/) from Optinmonster team.
 * [10 Most Common Newsletter Mistakes & Check-List for Fixes](https://www.soundest.com/blog/12-most-common-newsletter-mistakes/) by Karolina Jasvinaitė. Besides avoiding these mistakes, you should figure out how to provide a consistent value without making your newsletter a "promotion" list.
 * [10 Rules to Make Your Email Newsletter Design Beautiful yet Effective](https://www.soundest.com/blog/10-rules-make-email-newsletter-design-beautiful-yet-effective/) by Karolina Jasvinaitė.
-* [Good Guide to Email Design with Checklist)](https://www.campaignmonitor.com/blog/email-marketing/2017/05/the-really-good-guide-to-email-design-bonus-checklist/) via Campaign Monitor.
+* [Good Guide to Email Design with Checklist](https://www.campaignmonitor.com/blog/email-marketing/2017/05/the-really-good-guide-to-email-design-bonus-checklist/) via Campaign Monitor.
 * Now let's focus on launch emails & release notes: [A simple improvement to product announcements](https://blog.intercom.com/simple-improvement-product-mails/) by Intercome.
 * [The 20 Best Product Launch Emails That Reengage Users](https://www.appcues.com/blog/product-launch-emails/) by Appcues team.
 * [A little thing about release notes. Why they’re important to us, and how we approach the writing of them at Slack](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d).
