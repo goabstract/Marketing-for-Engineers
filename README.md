@@ -218,7 +218,7 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 * [Statusbrew](https://statusbrew.com/) allows you to manage your followers (Audience Feature) and scheduled tweets. Statusbrew finds inactive, spammy or not following back accounts. The tool has very good free version.
 * [Followerwonk Analyze](https://moz.com/followerwonk/analyze/) gives a huge database about any Twitter user's network. This free tool shows you info on user followers and people, whom this user follows. So you can find the best time to engage, popular users, location info, etc.
 * [Twitonomy](http://www.twitonomy.com/) provides you detailed info about your Twitter account (or any other). Twitonomy UI is terrible. But it can show analytics of your hashtags usage, daily activity (time & days), followers, retweets statistics. All these insights are available in the free version. Also, this tool is useful for Influencer Marketing research.
-* [Dlvr.it](dlvrit.com) and [Hootsuite](https://hootsuite.com/) for grabbing website RSS feeds and auto-sharing the content. Free accounts permit several RSS feeds.
+* [Dlvr.it](https://dlvrit.com/) and [Hootsuite](https://hootsuite.com/) for grabbing website RSS feeds and auto-sharing the content. Free accounts permit several RSS feeds.
 * I mentioned tools, that I personally use. However, there are plenty of other great tools to try: [The Big List of Twitter Tools: 93 Free Twitter Tools and Apps to Fit Any Need](https://blog.bufferapp.com/free-twitter-tools)by Kevan Lee from Buffer team.
 
 ### Facebook
