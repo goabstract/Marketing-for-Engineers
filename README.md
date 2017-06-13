@@ -1,5 +1,15 @@
 # Marketing-for-Engineers
 
+💎 It’s is a hand-picked collection of resources for solving practical marketing tasks, such as: 
+* finding beta testers
+* growing first user base
+* advertising project without budget
+* scaling marketing activities for building constant revenue streams. 
+
+We faced these questions, when we made our first product (tool for iOS & macOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, try and bookmarked many useful stuff: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adopt and test awesome marketing hacks from our collection & experience. Good luck!
+
+_Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/)._
+
 ## 🛠 How to Use and Contribute
 
 For getting needed advice, please:
