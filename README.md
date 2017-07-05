@@ -55,7 +55,6 @@ You will find here a collection of free marketing channels for getting the first
 * [Referral Marketing](https://www.referralsaasquatch.com/comprehensive-referral-marketing-guide/) and [Mobile Referral Marketing](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/) can give you the word-of-mouth growth. For inspiration check [51 Best Referral Program Examples of 2016](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/). These useful guides were prepared by Brandon Gains from  Referral Saasquatch.
 * [5 Low-Cost Guerrilla Marketing Tactics](https://www.shopify.com/blog/116564869-5-low-cost-guerrilla-marketing-tactics-to-grow-your-business-offline) via Braveen Kumar. :monkey: Direct offline exposure via foot traffic would suit physical products and brave founders.
 * [Use free tools for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/) when you have a difficult software product with many use cases. It's a great way to show benefits of your main offering and increase brand awareness. This post shows how to sell Clearbit API-solution via free easy-to-use tools. You can invest your time and make some free stuff as well — UI kits, browser extensions, funny games or open source tools.
-* [App Launch Guide](https://github.com/adamwulf/app-launch-guide)  aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch More info at: http://www.applaunchguide.com
 
 :bowtie: We used many free marketing channels. To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talked to influencers, manually recruited users at events, posted at Facebook groups, worked with developers & designers via Twitter and did many other stuff. These gave us our first 1000 beta users. So it worth trying out!
 
@@ -452,6 +451,9 @@ We struggle in asking people to pay for your product or service. But business is
 * [Why You Should Change Your SaaS Pricing Every 6 Months](http://www.priceintelligently.com/blog/why-you-should-change-your-saas-pricing-every-six-months) by Jordan T. McBride.
 * [9 Pricing Strategies to Explode Your Revenue (Backed by Psychology)](https://sumo.com/stories/marketing-pricing-strategies) by Nico Moreno.
 * [Hacking Competitive Pricing Analysis with Scraping](https://www.matthewbarby.com/competitive-pricing-analysis/) by Matthew Barby.
+
+## Other Useful Materials
+* [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 
 ## 👩‍💻 Authors
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/) team:
