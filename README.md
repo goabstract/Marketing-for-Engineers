@@ -454,6 +454,7 @@ We struggle in asking people to pay for your product or service. But business is
 
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+* [Awesome-Indie](https://github.com/mezod/awesome-indie) is a great resources for independent developers to make money. Done by Joan Boixadós.
 
 ## 👩‍💻 Authors
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/) team:
