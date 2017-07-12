@@ -1,5 +1,3 @@
-# Marketing-for-Engineers
-
 <p align="center">
     <img src="cover-marketing-for-engineers.png" alt="Clue demo" />
 </p>
