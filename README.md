@@ -1,5 +1,9 @@
 # Marketing-for-Engineers
 
+<p align="center">
+    <img src="cover-marketing-for-engineers.png" alt="Clue demo" />
+</p>
+
 💎 It’s is a hand-picked collection of resources for solving practical marketing tasks, such as: 
 * finding beta testers
 * growing first user base
