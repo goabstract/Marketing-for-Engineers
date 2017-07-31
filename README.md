@@ -174,6 +174,7 @@ Product Hunt (PH) is a place to discover, share, and geek out about new products
 Start with [basic rules on Posting](https://help.producthunt.com/posting): how to post or comment, how to ask for support, how to get to the homepage. Then read [Five things everyone should know about Product Hunt](https://medium.com/product-hunt/five-things-everyone-should-know-about-product-hunt-fac74f44c32b). Join the PH community and feel how it works, before actually starting you launch activities.
 
 :scream: Successful PH launch takes a lot of preparation, promotion during the launch (24h++) and follow-up work. These guides will help you:
+* [How to Launch on Product Hunt 🚀](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399) by Product Hunt team.
 * [Product Hunt 101](https://medium.com/swlh/product-hunt-101-426511f03501) from one of the top hunters, Robleh Jama. It's very useful to listen to the launch algorithm from the person, who submit a lot of different products.
 * [The SaaS founder’s guide to Product Hunt](https://blog.amplifr.com/en/amplifr-on-producthunt/) from the Russian company, Amplifr. It's a nice tutorial about your product preparation (onboarding, language check, emails and other not obvious stuff).
 * [Master Checklist for Launching on Product Hunt (spreadsheet)](https://docs.google.com/spreadsheets/d/1ebg2HyS5P-WkznG5Tvr7mYtKZqXsDLXARtYWpxfkieo/edit#gid=0) by SpreadShare team.
