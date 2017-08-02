@@ -179,6 +179,7 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 * [The SaaS founder’s guide to Product Hunt](https://blog.amplifr.com/en/amplifr-on-producthunt/) from the Russian company, Amplifr. It's a nice tutorial about your product preparation (onboarding, language check, emails and other not obvious stuff).
 * [Master Checklist for Launching on Product Hunt (spreadsheet)](https://docs.google.com/spreadsheets/d/1ebg2HyS5P-WkznG5Tvr7mYtKZqXsDLXARtYWpxfkieo/edit#gid=0) by SpreadShare team.
 * [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app, who launched on PH in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" good. I encourage you to think about resources you will invest in PH launch versus possible outcome!
+* [Is Product Hunt useful for developer tools?](https://medium.com/flawless-app-stories/flawlessapp-on-producthunt-7db3e561ce7a). It's our story of launching on PH. We shared our marketing tactics and all results: traffic numbers, trials installations and sales. Hope, it will help some of you to succeed on Product Hunt! 
 
 📌 Useful tools:
 * You can find a list of top hunters at [All-time Leaderboard](https://www.yvoschaap.com/producthunt/) or [Top 500 Hunters](http://500hunters.com/).
