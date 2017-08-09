@@ -110,6 +110,7 @@ Medium is an online publishing platform with the huge active community. You can 
 Basics of writing on Medium. How to write, edit, publish and add your article to publications:
 * [FAQ from Medium on Writing](https://help.medium.com/hc/en-us/sections/115001484727-General).
 * [Useful keyboard shortcuts](https://help.medium.com/hc/en-us/articles/214672207).
+* [How to insert code blocks & inline code](https://help.medium.com/hc/en-us/articles/224550008-Code-blocks-inline-code) to your articles.
 * [Tips and tricks for Medium writers](https://blog.medium.com/tips-and-tricks-for-medium-writers-1d79498101c3).
 * [How to add draft or post to publication](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication).
 * [What are the pros and cons of publishing via Medium vs. your own domain?](https://www.quora.com/What-are-the-pros-and-cons-of-publishing-via-Medium-vs-your-own-domain) via Quora.
