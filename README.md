@@ -437,6 +437,7 @@ Check these guides on building partnerships (both for software & physical produc
 ## 🕵️ Psychology in Marketing
 If you want to make a deeper dive into the user's brain, I will recommend you to learn disciplines on the intersection of marketing. These articles will be nice starting point:
 * [Psychology of Marketing: Using Maslow’s Hierarchy of Needs](https://kopywritingkourse.com/marketing-psychology/) by Neville Medhora.
+* [An Enormous Guide to Emotional Marketing](https://www.nickkolenda.com/emotional-marketing/) by Nick Kolenda.
 * [Cognitive bias cheat sheet (long-read)](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18) by Buster Benson.
 * [Mental Models and User Experience](http://www.uxmatters.com/mt/archives/2016/05/mental-models-and-user-experience.php) by UXmatters.
 * TED Talks on Psychology of Choice: [The Paradox of Choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice) and [How to make choosing easier](https://www.ted.com/talks/sheena_iyengar_choosing_what_to_choose?language=en).
