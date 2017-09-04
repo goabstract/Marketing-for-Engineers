@@ -91,6 +91,7 @@ Content marketing is about promotion via content. You can run a personal blog, g
 
 I encourage you to start doing content marketing by yourself. Outsourcing it can be very tricky, especially at the beginning.
 🤔 Firstly, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer to your users? How can you build an engaged readers community? And the most important question is how you will convert readers into leads. With all those considerations, you should create a content strategy:
+* [How to Use Customer Research to Get Better Results from Your Content Marketing Program](https://www.crazyegg.com/blog/research-for-better-results-content-marketing/) by Crazyegg. 
 * [How to Generate Strategic Content Ideas for Each Funnel Stage](https://blog.ladder.io/content-strategy/) by Tyler Hakes.
 * [Growing From 0-12k Organic Visitors by Mapping Content to the Sales Funnel](https://growandconvert.com/content-marketing/grew-organic-visitors-suggested-search-hack/) by Benji Hyam. This post shows how to make the content strategy for mobile and web-oriented blog.
 * [Behind the Scenes: How We’ve Built a $5M/Year Business in 3 Years With Content Marketing](https://www.groovehq.com/blog/how-we-built-a-5m-business-with-content-marketing) by Alex Turnbull. An exciting story how Groove rebuilt their content marketing strategy with the focus on what could actually help their market.
