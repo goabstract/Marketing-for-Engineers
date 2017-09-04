@@ -53,8 +53,12 @@ User research gives you an answer for whom is your product. Analysing potential 
 - make your marketing & communication strategy.
 
 I hope, that I have convinced you that user research is very important. After learning these materials you should be able to make user research, create basic user persona and validate it with real people:
+* [How to Create a Concrete Buyer Persona Guide (with templates, tools, Examples, 188 survey questions)](http://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/) by optinmonster.
+* [How to Create Customer Profiles to Reach Your Target Audience](http://www.convinceandconvert.com/social-media-strategy/how-to-create-customer-profiles-to-reach-your-target-audience/) by Greg Ciotti. 
 * [Design-oriented video](https://www.youtube.com/watch?v=B23iWg0koi8) on performing basic user research.
 * Empathy Mapping is a one more techique, which widely used in UX for user research. This [Practical Guide to Empathy Maps](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/) will give you a good overwiev of this approach.
+* Now you need to reach your potentional users and validate your persona and hypothesis. Ckeck these [5 Ways to Research Your Potential Customers](https://www.marketing-partners.com/conversations2/5-ways-to-research-your-potential-customers). You can get users insight through surveys, interviews, online & offline meetings, chats, existing analitics (Google Analytics), googling users emails & names and researching them on socail media (be etichal!).
+* 9-min [video](https://www.youtube.com/watch?v=y5Nt_KRZWtY) on creating persona, when you already have something to analyze: website, followers for your product on Twitter\Facebook, first users or paying customers.
 * Simple [blueprint](https://blog.hubspot.com/marketing/market-research-buyers-journey-guide) for conducting a thorough buyer's journey study. It's a bit old article, but it has a nice plan for making user research interviews (study) with current or potential users.   
 * [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67) will be in use when you actuacly start talking to potantial users (😤 you must do this).
 
@@ -70,6 +74,7 @@ I hope, that I have convinced you that user research is very important. After le
 * LinkedIn search and brief [article](https://blog.linkedin.com/2017/january/19/how-to-make-the-most-of-the-new-linkedin-search) from LinkedIn team on how to use their new search (it's very easy!).
 * [Pipl](https://pipl.com/) helps you to find information about email's owners.
 * The Buyer Persona Word Doc [Generator](http://www.makemypersona.com/) from HubSpot can help you to make the first hypothesis for your persona.
+* [TypeForm](https://www.typeform.com/) is an easy-to-use, mobile-optimized form-builder that's great for gathering online surways. You also can use Google Forms for making online sourveys.
 
 
 
