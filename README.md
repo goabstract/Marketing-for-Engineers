@@ -52,11 +52,13 @@ User research gives you an answer for whom is your product. Analysing potential 
 - define the right marketing message (positioning) and choose marketing channels to spread this message;
 - make your marketing & communication strategy.
 
-I hope, I have convinced you that user research is very important. 
-After learning these materials you should be able to make user research and create basic user persona:
+I hope, that I have convinced you that user research is very important. After learning these materials you should be able to make user research, create basic user persona and validate it with real people:
 * [Design-oriented video](https://www.youtube.com/watch?v=B23iWg0koi8) on performing basic user research.
+* Empathy Mapping is a one more techique, which widely used in UX for user research. This [Practical Guide to Empathy Maps](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/) will give you a good overwiev of this approach.
+* Simple [blueprint](https://blog.hubspot.com/marketing/market-research-buyers-journey-guide) for conducting a thorough buyer's journey study. It's a bit old article, but it has a nice plan for making user research interviews (study) with current or potential users.   
+* [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67) will be in use when you actuacly start talking to potantial users (😤 you must do this).
 
-👆 User research is an initial part of customer discovery process. You should not only research your potential users but also test if what you want to build is needed on the market (it’s called Product Market Fit). If you are not familiar with Lean Startup approach, I advise you to check these resources. It's more startup-oriented, but still will be useful for newbie product makers:
+👆 User research is an initial part of customer discovery process. You should not only research your potential users but also test if what you want to build is needed on the market (it’s called Product Market Fit). If you are not familiar with Lean Startup approach, I advise you to check these resources. It's more startup-oriented, but still relevant for newbie product makers:
 *
 *
 *
@@ -67,6 +69,7 @@ After learning these materials you should be able to make user research and crea
 * [Twitter Advanced search](https://twitter.com/search-advanced?lang=en) and comprehensive [guide](https://zapier.com/blog/twitter-advanced-search-guide/) how to use it.
 * LinkedIn search and brief [article](https://blog.linkedin.com/2017/january/19/how-to-make-the-most-of-the-new-linkedin-search) from LinkedIn team on how to use their new search (it's very easy!).
 * [Pipl](https://pipl.com/) helps you to find information about email's owners.
+* The Buyer Persona Word Doc [Generator](http://www.makemypersona.com/) from HubSpot can help you to make the first hypothesis for your persona.
 
 
 
