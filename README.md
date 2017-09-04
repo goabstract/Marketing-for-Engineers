@@ -44,6 +44,20 @@ If you have found some great marketing content or tool, please, contribute to Ma
 * [Authors](https://github.com/LisaDziuba/Marketing-for-Engineers#-authors)
 * [Future Plans](https://github.com/LisaDziuba/Marketing-for-Engineers#future-plans)
 
+## 🔎 User Research
+User research gives you an answer for whom is your product. Analysing potential users & customers will help to:
+- understand users' needs, pains, motivations and decision-making process; 
+- outline product roadmap, key features, UI design and UX scenarios for interacting with your product;
+- define the right marketing message (positioning) and choose marketing channels to spread this message;
+- make your marketing & communication strategy.
+
+I hope, I have convinced you that user research is very important. 
+After learning these materials you should be able to make user research and create basic user persona:
+* [Design-oriented video](https://www.youtube.com/watch?v=B23iWg0koi8) on performing basic user research.
+* 
+
+
+
 
 ## :triumph: Marketing without Budget
 You will find here a collection of free marketing channels for getting the first users. Most of them will take a lot of time & effort, but will not cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing, are comprehensively explained in its own directories below. So, get fresh ideas from these real-life stories and think what could work for your users:
