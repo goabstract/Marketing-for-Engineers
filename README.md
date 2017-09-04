@@ -55,7 +55,7 @@ User research gives you an answer for whom is your product. Analysing potential 
 I hope, I have convinced you that user research is very important. 
 After learning these materials you should be able to make user research and create basic user persona:
 * [Design-oriented video](https://www.youtube.com/watch?v=B23iWg0koi8) on performing basic user research.
-* 
+
 
 📌 Useful tools:
 * Google search ([here](http://www.wikihow.com/Use-Google-Advanced-Search-Tricks) you will find how to make clever googling with advanced search).
