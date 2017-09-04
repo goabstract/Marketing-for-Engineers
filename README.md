@@ -60,8 +60,8 @@ After learning these materials you should be able to make user research and crea
 📌 Useful tools:
 * Google search ([here](http://www.wikihow.com/Use-Google-Advanced-Search-Tricks) you will find how to make clever googling with advanced search).
 * [Twitter Advanced search](https://twitter.com/search-advanced?lang=en) and comprehensive [guide](https://zapier.com/blog/twitter-advanced-search-guide/) how to use it.
-* LinkedIn search
-* 
+* LinkedIn search and brief [article](https://blog.linkedin.com/2017/january/19/how-to-make-the-most-of-the-new-linkedin-search) from LinkedIn team on how to use their new search (it's very easy!).
+* [Pipl](https://pipl.com/) helps you to find information about email's owners.
 
 
 
