@@ -484,8 +484,9 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 * [The Five Types of Virality and choosing the right one for your product to grow](https://news.greylock.com/the-five-types-of-virality-8ba42051928d?ref=quuu) by Josh Elman.
 * [Great post how to be less emotional to the criticisms of your software and be more empathetic to users pain](http://haacked.com/archive/2012/12/17/you-do-not-need-a-thick-skin.aspx/) by Phil Haack, GitHub Engineering Director.
 
-## :moneybag: Pricing
-We struggle in asking people to pay for your product or service. But business is about making money. So we need to learn how to choose the right pricing strategy and charge our users: 
+## :moneybag: Business Model and Pricing
+Business model is the most difficult part of any side-project. We struggle in asking people to pay for your product or service. Usually, we don't know what is the right way to build sustainable profit over the time. But business is about making money. So we need to learn how to choose the right business model & pricing strategy and charge our users: 
+* Let's startup with the basics: [Business Model Canvas Explained](https://www.youtube.com/watch?v=QoAOzMTLP5s) video and one more great [video](https://www.youtube.com/watch?v=IP0cUBWTgpY) from Steve Blank.
 * [On Pricing and Discounts](https://www.jonloomer.com/2017/03/02/entrepreneurs-pricing-discounts/) by Jon Loomer.
 * [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging the low price for you mobile apps or any other product.
 * [Psychological Pricing: A Gigantic List of Strategies](https://www.nickkolenda.com/psychological-pricing-strategies/) by Nick Kolenda.
