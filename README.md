@@ -52,18 +52,19 @@ User research gives you an answer for whom is your product. Analysing potential 
 - define the right marketing message (positioning) and choose marketing channels to spread this message;
 - make your marketing & communication strategy.
 
-I hope, that I have convinced you that user research is very important. After learning these materials you should be able to make user research, create basic user persona and validate it with real people:
+I hope, that I have convinced you that user research is very important. After learning these materials you should be able to make user research, create basic Persona and validate it on real people:
 * [How to Create a Concrete Buyer Persona Guide (with templates, tools, Examples, 188 survey questions)](http://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/) by optinmonster.
 * [How to Create Customer Profiles to Reach Your Target Audience](http://www.convinceandconvert.com/social-media-strategy/how-to-create-customer-profiles-to-reach-your-target-audience/) by Greg Ciotti. 
 * [Design-oriented video](https://www.youtube.com/watch?v=B23iWg0koi8) on performing basic user research.
-* Empathy Mapping is a one more techique, which widely used in UX for user research. This [Practical Guide to Empathy Maps](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/) will give you a good overwiev of this approach.
+* Empathy Mapping is one more technique, which widely used in UX for user research. This [Practical Guide to Empathy Maps](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/) will give you a good overview of this approach.
 
-You need to reach your potentional users and validate your persona & hypothesis. You can get real users insight through surveys, interviews, online & offline meetings, chats, Skype calls, checking existing analitics (Google Analytics, social media data), analisyng competitors' customers, ethical googling your users' emails & names and researching them on socail media:
-* 9-min [video](https://www.youtube.com/watch?v=y5Nt_KRZWtY) on creating persona, when you already have something to analyze: website, followers for your product on Twitter\Facebook, first users or paying customers.
+You need to reach your potential users and validate your Persona & hypothesis. You can get real users insight through surveys, interviews, online & offline meetings, chats, Skype calls, checking existing analytics (Google Analytics, social media data), analyzing competitors' customers, ethical googling your users' emails & names and researching them on social media:
+* 9-min [video](https://www.youtube.com/watch?v=y5Nt_KRZWtY) on creating a Persona, when you already have something to analyze: website, followers for your product on Twitter\Facebook, first users or paying customers.
 * Simple [blueprint](https://blog.hubspot.com/marketing/market-research-buyers-journey-guide) for conducting a thorough buyer's journey study. It's a bit old article, but it has a nice plan for making user research interviews (study) with current or potential users.   
-* [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67) will be in use when you actuacly start talking to potantial users (😤 you must do this).
+* [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67) will be in use when you actually start talking to potential user (😤 you must do this).
 
 👆 User research is an initial part of customer discovery process. You should not only research your potential users but also test if what you want to build is needed on the market (it’s called Product Market Fit). If you are not familiar with Lean Startup approach, I advise you to check these resources. It's more startup-oriented, but still relevant for newbie product makers:
+
 *
 *
 *
