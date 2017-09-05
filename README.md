@@ -65,10 +65,9 @@ You need to reach your potential users and validate your Persona & hypothesis. Y
 
 👆 User research is an initial part of customer discovery process. You should not only research your potential users but also test if what you want to build is needed on the market (it’s called Product Market Fit). If you are not familiar with Lean Startup approach, I advise you to check these resources. It's more startup-oriented, but still relevant for newbie product makers:
 
-*
-*
-*
-
+* [Doing Customer Discovery video](https://www.youtube.com/watch?v=hriiulBbWck) by Steve Blank. 
+* 16-min [video](https://www.youtube.com/watch?v=sBhtb6Hb_O4) from Stanford online course on Customer Development and Lean Startups.
+* [What is Customer Discovery?](https://www.coursera.org/learn/start-your-own-business-2-ideation/lecture/hRooY/what-is-customer-discovery) video from Coursera course. You can watch it without registration.
 
 📌 Useful tools:
 * Google search ([here](http://www.wikihow.com/Use-Google-Advanced-Search-Tricks) you will find how to make clever googling with advanced search).
