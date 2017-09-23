@@ -186,6 +186,7 @@ You should not be afraid to reach to the cool people. Be helpful, nice and creat
 * [The Exact Email Scripts I Use to Connect With VIP’s](https://www.groovehq.com/blog/vip-email-scripts) by Alex Turnbull, founder of Groove.
 * [8 Email Pitch Templates to Partner with Influencers](http://www.artofemails.com/partnerships#promote-product) by Sapph. Nice guides & examples for asking promotion, contribution, partnership or review from the influencer. Customize and use them!
 * 😱 [I Just Deleted Your Outreach Email Without Reading. And NO, I Don’t Feel Sorry](https://ahrefs.com/blog/outreach/) by Tim Soulo. Tim shows cool examples how to email influencers in the right way. Please, read this post before contacting opinion leaders!
+* [If you can’t express yourself by email, you’re not worthy of anyone’s time](https://levels.io/email-cuts-through-bullshit/) by Pieter Levels. People are busy and you should avoid vague messages, which only steals time. Read this brief article to understand what opinion leaders want to see in their inbox.
 * Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team.
 * [The Barney Stinson’s Playbook For Cold Tweeting Influencers](http://klear.com/blog/influencer-outreach-with-cold-tweets/) by Noam Avigdor.
 * [4 Tips for Reaching Out to Someone You Admire on LinkedIn](https://www.themuse.com/advice/4-tips-for-reaching-out-to-someone-you-admire-on-linkedin) by Lily Herman. 
