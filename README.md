@@ -217,6 +217,7 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 * [Master Checklist for Launching on Product Hunt (spreadsheet)](https://docs.google.com/spreadsheets/d/1ebg2HyS5P-WkznG5Tvr7mYtKZqXsDLXARtYWpxfkieo/edit#gid=0) by SpreadShare team.
 * [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app, who launched on PH in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" good. I encourage you to think about resources you will invest in PH launch versus possible outcome!
 * [Is Product Hunt useful for developer tools?](https://medium.com/flawless-app-stories/flawlessapp-on-producthunt-7db3e561ce7a). It's our story of launching on PH. We shared our marketing tactics and all results: traffic numbers, trials installations and sales. Hope, it will help some of you to succeed on Product Hunt! 
+* [Launching on Product Hunt: A curated checklist from +50 successful launches](https://medium.com/startup-grind/how-we-got-1000-upvotes-on-product-hunt-by-curating-a-checklist-from-50-successful-launches-6b77ce29b444) by Hidden Founders team. A very useful checklist to master the Product Hunt game.
 
 📌 Useful tools:
 * You can find a list of top hunters at [All-time Leaderboard](https://www.yvoschaap.com/producthunt/) or [Top 500 Hunters](http://500hunters.com/).
