@@ -23,6 +23,7 @@ If you have found some great marketing content or tool, please, contribute to Ma
 
 ## 📚 Table of Content
 * [User Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
+* [Market Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-market-research)
 * [Marketing without Budget](https://github.com/LisaDziuba/Marketing-for-Engineers#triumph-marketing-without-budget)
 * [Content Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-content-marketing)
   * [Personal blog](https://github.com/LisaDziuba/Marketing-for-Engineers#sunglasses-personal-blog)
@@ -77,6 +78,7 @@ You need to reach your potential users and validate your Persona & hypothesis. Y
 * The Buyer Persona Word Doc [Generator](http://www.makemypersona.com/) from HubSpot can help you to make the first hypothesis for your persona.
 * [TypeForm](https://www.typeform.com/) is an easy-to-use, mobile-optimized form-builder that's great for gathering online surways. You also can use Google Forms for making online sourveys.
 
+## 🔎 Market Research
 
 
 ## :triumph: Marketing without Budget
