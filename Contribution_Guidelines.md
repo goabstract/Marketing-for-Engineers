@@ -23,7 +23,7 @@ show the meaning of the content. That is good for getting clicks, but not for un
 * Video and podcast should be done in a good English, so engineers from all around the globe could understand it!
 * Please, don’t submit shameless promotion stuff with million popups and “sign now” forms. A lot of great marketing content is spoiled with this destructive self-promotion. We try to avoid it in our list.
 * Software & hardware focus of the content is a plus, but not required.
-* Tools can be paid, but it should have a pricing plan for individuals. Please, don’t submit tools, which are oriented on marketing agencies.
+* Tools can be paid, but it should have a pricing plan for individuals. Please, don’t submit tools, which are oriented on marketing agencies and cost an enormous amount of money.
 
 
 ## 🔮 Review Workflow  
