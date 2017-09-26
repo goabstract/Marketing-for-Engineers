@@ -459,6 +459,7 @@ Some more tips & tricks:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
 * [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool, you can also see who has opened your email :wink:
 * [GMass](https://www.gmass.co/) for cold mass emailing. You can use GMass for free to send 50 emails per day.
+* [Time Converter](http://www.worldtimebuddy.com/) will help you to schedule cold emails considering different time zones.
 
 
 ## :bowtie: Building Partnerships
