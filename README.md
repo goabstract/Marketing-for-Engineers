@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="cover-marketing-for-engineers.png" alt="Clue demo" />
+    <a href="https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection">
+    	<img src="cover-marketing-for-engineers.png" alt="Marketing for Engineers"/>
+    </a>
 </p>
 
 💎 It’s is a hand-picked collection of resources for solving practical marketing tasks, such as: 
