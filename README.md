@@ -81,7 +81,9 @@ You need to reach your potential users and validate your Persona & hypothesis. Y
 * [TypeForm](https://www.typeform.com/) is an easy-to-use, mobile-optimized form-builder that's great for gathering online surways. You also can use Google Forms for making online sourveys.
 
 ## 🔎 Market Research
+How is your product better than other solution? What is unique about your side project, open source tool or mobile app? What do you understand about your business that other companies in it just don't get?
 
+You should have answers to all these questions. Market research will help you out!
 
 ## :triumph: Marketing without Budget
 You will find here a collection of free marketing channels for getting the first users. Most of them will take a lot of time & effort, but will not cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing, are comprehensively explained in its own directories below. So, get fresh ideas from these real-life stories and think what could work for your users:
