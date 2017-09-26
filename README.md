@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="cover-marketing-for-engineers.png" alt="Clue demo" />
+    <a href="https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection">
+    	<img src="cover-marketing-for-engineers.png" alt="Marketing for Engineers"/>
+    </a>
 </p>
 
 💎 It’s is a hand-picked collection of resources for solving practical marketing tasks, such as: 
@@ -10,7 +12,7 @@
 
 We faced these questions, when we made our first product (tool for iOS & macOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, try and bookmarked many useful stuff: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adopt and test awesome marketing hacks from our collection & experience. Good luck!
 
-_Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/)._
+_Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection)._
 
 ## 🛠 How to Use and Contribute
 
@@ -95,7 +97,7 @@ You will find here a collection of free marketing channels for getting the first
 * [5 Low-Cost Guerrilla Marketing Tactics](https://www.shopify.com/blog/116564869-5-low-cost-guerrilla-marketing-tactics-to-grow-your-business-offline) via Braveen Kumar. :monkey: Direct offline exposure via foot traffic would suit physical products and brave founders.
 * [Use free tools for lead generation](https://blog.clearbit.com/how-were-using-free-tools-to-engage-developers/) when you have a difficult software product with many use cases. It's a great way to show benefits of your main offering and increase brand awareness. This post shows how to sell Clearbit API-solution via free easy-to-use tools. You can invest your time and make some free stuff as well — UI kits, browser extensions, funny games or open source tools.
 
-:bowtie: We used many free marketing channels. To be honest, when we started [Flawless App](https://flawlessapp.io/) we didn't have other ways. We wrote cold emails, talked to influencers, manually recruited users at events, posted at Facebook groups, worked with developers & designers via Twitter and did many other stuff. These gave us our first 1000 beta users. So it worth trying out!
+:bowtie: We used many free marketing channels. To be honest, when we started [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) we didn't have other ways. We wrote cold emails, talked to influencers, manually recruited users at events, posted at Facebook groups, worked with developers & designers via Twitter and did many other stuff. These gave us our first 1000 beta users. So it worth trying out!
 
 ## 💎 Content Marketing
 Content marketing is about promotion via content. You can run a personal blog, guest blog or write at platforms, like Medium (or combine it). Focus on how you can help your users with your content. You don't have to be a professional writer for making cool articles. Just give yourself space to be creative and share your expertise.
@@ -370,7 +372,7 @@ LinkedIn can help you get more eyes on your content, and receive a feedback from
 * [The Ultimate Guide to LinkedIn Conversion Tracking](https://www.hallaminternet.com/linkedin-conversion-tracking/) by Tom Whiley.
 * [5 tactics](https://blog.adstage.io/2017/05/03/expand-your-reach-and-drive-more-conversions-on-linkedin/) which can help reach your ideal audience and increase conversion rates. Written by Michael McEuen.
 
-I heavily use LinkedIn. As you remember, we run [Flawless App](https://flawlessapp.io/) — a tool for iOS & macOS engineers. A lot of our users spend time on LinkedIn, participate in iOS groups or post articles there. I often post cool stuff in those groups, engage with people via direct messages or share my writings. Unfortunately, I do get spam or some random requests from job seekers\recruiters. But in general, LinkedIn works for me.   
+I heavily use LinkedIn. As you remember, we run [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) — a tool for iOS & macOS engineers. A lot of our users spend time on LinkedIn, participate in iOS groups or post articles there. I often post cool stuff in those groups, engage with people via direct messages or share my writings. Unfortunately, I do get spam or some random requests from job seekers\recruiters. But in general, LinkedIn works for me.   
 
 📌 Useful tools:
 * If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords.
@@ -428,7 +430,7 @@ You should always A/B test your email campaigns: try different subject lines, te
 * [8 Free Newsletter Services](https://www.emailtooltester.com/en/blog/free-newsletter-services/). 
 
 ## :fearful: Cold Email Marketing
-Most people hate cold outreach and everything connected with the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/). On average, 25% of people answered to my cold emails. 😟 I was afraid, that people would write me: "go away with your spam!" But nobody did that. The worst answer was: "not interested". As you see, there is no reason to avoid cold email marketing:
+Most people hate cold outreach and everything connected with the direct sales. However, smart user-oriented cold emails can give you new users, partners or recommendations. I used this technique for getting feedback on early [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection). On average, 25% of people answered to my cold emails. 😟 I was afraid, that people would write me: "go away with your spam!" But nobody did that. The worst answer was: "not interested". As you see, there is no reason to avoid cold email marketing:
 
 * [The Cold Sales Email Bible (guide with templates)](https://sumo.com/stories/cold-email-templates) by Sean Bestor.
 * [How to Warm Up Prospects Before Sending Them a Cold Email?](https://blog.woodpecker.co/cold-email/warm-prospects/) by Cathy Patalas. Cathy's article proposes simple actions, that may seriously increase your cold email open & reply rates.
@@ -506,7 +508,7 @@ Business model is the most difficult part of any side-project. We struggle in as
 * [Awesome-Indie](https://github.com/mezod/awesome-indie) is a great resources for independent developers to make money. Done by Joan Boixadós.
 
 ## 👩‍💻 Authors
-**Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/) team:
+**Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) team:
 * Lisa Dziuba (lisa@flawlessapp.io)
 * Ahmed Sulaiman (ahmed@flawlessapp.io)
 
