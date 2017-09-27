@@ -7,10 +7,10 @@
 💎 It’s is a hand-picked collection of resources for solving practical marketing tasks, such as: 
 * finding beta testers
 * growing first user base
-* advertising project without budget
+* advertising project without a budget
 * scaling marketing activities for building constant revenue streams. 
 
-We faced these questions, when we made our first product (tool for iOS & macOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, try and bookmarked many useful stuff: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adopt and test awesome marketing hacks from our collection & experience. Good luck!
+We faced these questions, when we made our first product (tool for iOS & macOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, try and bookmarked many useful stuff: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adapt and test awesome marketing hacks from our collection & experience. Good luck!
 
 _Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection)._
 
@@ -77,7 +77,7 @@ You need to reach your potential users and validate your Persona & hypothesis. Y
 * LinkedIn search and brief [article](https://blog.linkedin.com/2017/january/19/how-to-make-the-most-of-the-new-linkedin-search) from LinkedIn team on how to use their new search (it's very easy!).
 * [Pipl](https://pipl.com/) helps you to find information about email's owners.
 * The Buyer Persona Word Doc [Generator](http://www.makemypersona.com/) from HubSpot can help you to make the first hypothesis for your persona.
-* [TypeForm](https://www.typeform.com/) is an easy-to-use, mobile-optimized form-builder that's great for gathering online surways. You also can use Google Forms for making online sourveys.
+* [TypeForm](https://www.typeform.com/) is an easy-to-use, mobile-optimized form-builder that's great for gathering online surveys. You also can use Google Forms for making online surveys.
 
 
 ## :triumph: Marketing without Budget
@@ -87,7 +87,7 @@ You will find here a collection of free marketing channels for getting the first
 * [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing Ryan Hoover, co-founder of Product Hunt.
 * [How we got from $0 to $75,000 MRR with zero marketing budget](https://medium.com/lifecycle-marketing/how-we-got-from-0-to-75-000-mrr-with-zero-marketing-budget-b20101b09a76) by Sergei Gusev. They sent free products (designer fragrance) to the market influencers and got video reviews. It grew their sales dramatically! 
 * [How We Got Our First 100 Paying Customers in 24 Hours](https://www.groovehq.com/blog/startup-first-paying-customers) by Alex Turnbull, founder of Groove.
-* [Comment Marketing: How to Earn Benefits from Community Participation](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) by Rand Fishkin. You can gain attention to your company by sharing meaningful opinions and thoughts. Rand Fishkin made an excellent 9 minutes video on using this technique 👌.
+* [Comment Marketing: How to Earn Benefits from Community Participation](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) by Rand Fishkin. You can gain attention to your company by sharing meaningful opinions and thoughts. Rand Fishkin made an excellent 9-minute video on using this technique 👌.
 * [5 Places to Find and Poach Your Competitors' Customers](http://www.artofemails.com/prospecting-methods#change). Sapph shares many smart ways to find leads and pitch them.
 * [Hacking the Press: Clever Ways to Get Free Press Coverage with Zero Budget](https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget) by Tucker Schreiber from Shopify. The post is focused on online stores industry. But the principles of getting free press attention are applicable to any market. 
 * [Referral Marketing](https://www.referralsaasquatch.com/comprehensive-referral-marketing-guide/) and [Mobile Referral Marketing](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/) can give you the word-of-mouth growth. For inspiration check [51 Best Referral Program Examples of 2016](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/). These useful guides were prepared by Brandon Gains from  Referral Saasquatch.
@@ -178,7 +178,8 @@ Content Marketing is not only about getting people to read your amazing articles
 
 
 ## 💃Influencer Marketing
-Influencer marketing is focused on working with opinion leaders to drive company message/product/service to the larger market.  📚 These long guides will be good for start: 
+Influencer marketing is focused on working with opinion leaders to drive company message/product/service to the larger market.  📚 These long guides will be good for the 
+start: 
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
 * [The Ultimate Guide to Influencer Marketing](https://sumo.com/stories/influencer-marketing-super-connector) by Jason Quey from Sumo.
 * [Influencers definitely should be compensated. The only question is how](http://klear.com/blog/paying-an-influencer/) by Yuval Maoz.
@@ -314,7 +315,7 @@ Facebook has many marketing options that could fit your company focus, budget, a
 * [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer. High five if you have read until this point ✋.
 
 ### Reddit
-Reddit is one of the most active internet community with it’s own unique culture. You can get tons of cool information there, great product feedback and first users. :trollface: However, it's better to learn Reddit rules and basics before you get banned:
+Reddit is one of the most active internet community with its own unique culture. You can get tons of cool information there, great product feedback and first users. :trollface: However, it's better to learn Reddit rules and basics before you get banned:
 * [How to Use Reddit: Beginners Guide](https://www.shopify.com/blog/how-to-use-reddit) by Braveen Kumar.
 * [Reddiquette](https://www.reddit.com/wiki/reddiquette). Pay extra attention to the "please don't" section.
 * [Self-promotion on Reddit](https://www.reddit.com/wiki/selfpromotion).
@@ -494,7 +495,7 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 Business model is the most difficult part of any side-project. We struggle in asking people to pay for your product or service. Usually, we don't know what is the right way to build sustainable profit over the time. But business is about making money. So we need to learn how to choose the right business model & pricing strategy and charge our users: 
 * Let's startup with the basics: [Business Model Canvas Explained](https://www.youtube.com/watch?v=QoAOzMTLP5s) video and one more great [video](https://www.youtube.com/watch?v=IP0cUBWTgpY) from Steve Blank.
 * [On Pricing and Discounts](https://www.jonloomer.com/2017/03/02/entrepreneurs-pricing-discounts/) by Jon Loomer.
-* [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging the low price for you mobile apps or any other product.
+* [How Much is Your App, Skill and Time Worth?](https://medium.com/mobile-growth/how-much-is-your-app-skill-and-time-worth-4386a7613fa1) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging the low price for your mobile apps or any other product.
 * [Psychological Pricing: A Gigantic List of Strategies](https://www.nickkolenda.com/psychological-pricing-strategies/) by Nick Kolenda.
 * [Picking a pricing strategy for your SaaS product](https://blog.intercom.com/picking-your-pricing-model/) by Des Traynor, Intercom co-founder.
 * [Why You Should Change Your SaaS Pricing Every 6 Months](http://www.priceintelligently.com/blog/why-you-should-change-your-saas-pricing-every-six-months) by Jordan T. McBride.
@@ -503,7 +504,7 @@ Business model is the most difficult part of any side-project. We struggle in as
 
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
-* [Awesome-Indie](https://github.com/mezod/awesome-indie) is a great resources for independent developers to make money. Done by Joan Boixadós.
+* [Awesome-Indie](https://github.com/mezod/awesome-indie) is a great resource for independent developers to make money. Done by Joan Boixadós.
 
 ## 👩‍💻 Authors
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) team:
