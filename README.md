@@ -25,7 +25,6 @@ If you have found some great marketing content or tool, please, contribute to Ma
 
 ## 📚 Table of Content
 * [User Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
-* [Market Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-market-research)
 * [Marketing without Budget](https://github.com/LisaDziuba/Marketing-for-Engineers#triumph-marketing-without-budget)
 * [Content Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-content-marketing)
   * [Personal blog](https://github.com/LisaDziuba/Marketing-for-Engineers#sunglasses-personal-blog)
@@ -80,10 +79,6 @@ You need to reach your potential users and validate your Persona & hypothesis. Y
 * The Buyer Persona Word Doc [Generator](http://www.makemypersona.com/) from HubSpot can help you to make the first hypothesis for your persona.
 * [TypeForm](https://www.typeform.com/) is an easy-to-use, mobile-optimized form-builder that's great for gathering online surways. You also can use Google Forms for making online sourveys.
 
-## 🔎 Market Research
-How is your product better than other solution? What is unique about your side project, open source tool or mobile app? What do you understand about your business that other companies in it just don't get?
-
-You should have answers to all these questions. Market research will help you out! Personally, I define Market Research as a combination of User Research and Competitor Analysis. The first part we discussed in the section above. And these guides explain how to research your competitors, catch trends and validate market opportunity: 
 
 ## :triumph: Marketing without Budget
 You will find here a collection of free marketing channels for getting the first users. Most of them will take a lot of time & effort, but will not cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing, are comprehensively explained in its own directories below. So, get fresh ideas from these real-life stories and think what could work for your users:
