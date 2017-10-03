@@ -341,7 +341,7 @@ Guides on promoting and advertising on Reddit:
 I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, makes direct sales and search for investors. LinkedIn is a perfect place for B2B companies and 👔 business professionals. It's also useful for the self-branding. For promotional purpose LinkedIn has Personal Pages, Company Pages, Groups, and Ads.
 
 Your LinkedIn profile can be a complete sales and marketing tool. It should communicate the value of your product and your expertise to potential partners. These guides and tips will help you out:
-* [Want to Effectively Raise Your Linkedin Profile? Follow These Tips](https://themission.co/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
+* [Want to Effectively Raise Your Linkedin Profile? Follow These Tips](https://medium.com/the-mission/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
 * [5 Templates That'll Make Writing the Perfect LinkedIn Summary a Breeze](https://www.themuse.com/advice/5-templates-thatll-make-writing-the-perfect-linkedin-summary-a-breeze) by Aja Frost.
 * [7 LinkedIn Summary Examples That Make You Look Good](http://www.yesware.com/blog/linkedin-summary-examples/) by Melissa Williams.
 * [How I Got 425% More Page Views on LinkedIn — and You Can, Too](https://www.themuse.com/advice/how-i-got-425-more-page-views-on-linkedinand-you-can-too) by Aja Frost.
