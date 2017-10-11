@@ -505,6 +505,7 @@ Business model is the most difficult part of any side-project. We struggle in as
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 * [Awesome-Indie](https://github.com/mezod/awesome-indie) is a great resource for independent developers to make money. Done by Joan Boixadós.
+* [The Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist/) is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list was created by a developer, and is [free and open source](https://github.com/karllhughes/side-project-marketing).
 
 ## 👩‍💻 Authors
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) team:
