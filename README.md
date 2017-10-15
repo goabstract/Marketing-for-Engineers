@@ -445,7 +445,7 @@ Most people hate cold outreach and everything connected with the direct sales. H
 * And here is some inspiring story from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1). Written by Dan Kim.
 
 Some more tips & tricks:
-* [How to Find Anyone’s Email: 13 Little-Known Tricks](http://www.yesware.com/blog/find-email-addresses/) from Yesware team.
+* [How to Find Any Email Address: The Complete List of Tactics (2017 Edition)](http://seosherpa.com/find-email-address/) by SEO Sherpa team.
 * [Step by Step Process to Find Anyone’s Email Address](http://webris.org/find-anyones-email-address/) by Ryan Stewart.
 * [How To Send Better Email & Avoid Email Spam Trigger Words](https://www.shivarweb.com/9451/email-spam-trigger-words/) by Nate Shivar.
 * Funny short video with [11 Tips to Clean Up Your Dirty, Wordy Writing](https://www.grammarly.com/blog/clean-up-your-writing/) by Grammarly.
