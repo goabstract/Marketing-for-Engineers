@@ -505,7 +505,7 @@ Business model is the most difficult part of any side-project. We struggle in as
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 * [Awesome-Indie](https://github.com/mezod/awesome-indie) is a great resource for independent developers to make money. Done by Joan Boixadós.
-* [Marketing for App Developers](https://speakerdeck.com/limedaring/release-notes-2017) is a thorough iOS app marketing deck, given at [Release Notes 2017](https://2017.releasenotes.tv/), chock-full of references. Includes competitive analysis, content marketing, ASO resources. Note that the prompt-for-review advice predates the requirement to only use SKStoreReviewController. From designer and marketer [Tracy Osborn](https://twitter.com/limedaring).
+* [Marketing for App Developers](https://speakerdeck.com/limedaring/release-notes-2017) is a thorough iOS app marketing deck, given at Release Notes 2017, chock-full of references. Includes competitive analysis, content marketing, ASO resources. Note that the prompt-for-review advice predates the requirement to only use SKStoreReviewController. From designer and marketer Tracy Osborn.
 
 ## 👩‍💻 Authors
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) team:
