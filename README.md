@@ -4,26 +4,26 @@
     </a>
 </p>
 
-💎 It’s is a hand-picked collection of resources for solving practical marketing tasks, such as: 
+💎 It’s a hand-picked collection of resources for solving practical marketing tasks, such as: 
 * finding beta testers
 * growing first user base
 * advertising project without a budget
 * scaling marketing activities for building constant revenue streams. 
 
-We faced these questions, when we made our first product (tool for iOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, try and bookmarked many useful stuff: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adapt and test awesome marketing hacks from our collection & experience. Good luck!
+We faced these questions, when we made our first product (tool for iOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, tried and bookmarked many useful things: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adapt and test awesome marketing hacks from our collection & experience. Good luck!
 
 _Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection), tool to verify iOS app according to the design_
 
 ## 🛠 How to Use and Contribute
 
 For getting needed advice, please:
-* Go through our Table of Content. To help you navigate, we`ve added brief overviews of every marketing category. Also, content titles are displayed as clear as possible (so it will tell you the context and how you can benefit from it). 
+* Go through our Table of Contents. To help you navigate, we`ve added brief overviews of every marketing category. Also, content titles are displayed as clearly as possible (so it will tell you the context and how you can benefit from it). 
 * Search for a keyword or phrase (for example, “Product Hunt”, “Facebook”, “Blog”).
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
 If you have found some great marketing content or tool, please, contribute to Marketing for Engineers collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md). We would love you to see your suggestions! 
 
-## 📚 Table of Content
+## 📚 Table of Contents
 * [User Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
 * [Marketing without Budget](https://github.com/LisaDziuba/Marketing-for-Engineers#triumph-marketing-without-budget)
 * [Content Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-content-marketing)
@@ -54,7 +54,7 @@ User research gives you an answer for whom is your product. Analysing potential 
 - define the right marketing message (positioning) and choose marketing channels to spread this message;
 - make your marketing & communication strategy.
 
-I hope, that I have convinced you that user research is very important. After learning these materials you should be able to make user research, create basic Persona and validate it on real people:
+I hope that I have convinced you that user research is very important. After learning these materials you should be able to make user research, create basic Persona and validate it on real people:
 * [How to Create a Concrete Buyer Persona Guide (with templates, tools, Examples, 188 survey questions)](http://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/) by optinmonster.
 * [How to Create Customer Profiles to Reach Your Target Audience](http://www.convinceandconvert.com/social-media-strategy/how-to-create-customer-profiles-to-reach-your-target-audience/) by Greg Ciotti. 
 * [Design-oriented video](https://www.youtube.com/watch?v=B23iWg0koi8) on performing basic user research.
@@ -505,6 +505,7 @@ Business model is the most difficult part of any side-project. We struggle in as
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 * [Awesome-Indie](https://github.com/mezod/awesome-indie) is a great resource for independent developers to make money. Done by Joan Boixadós.
+* [Marketing for App Developers](https://speakerdeck.com/limedaring/release-notes-2017) is a thorough iOS app marketing deck, given at Release Notes 2017, chock-full of references. Includes competitive analysis, content marketing, ASO resources. Note that the prompt-for-review advice predates the requirement to only use SKStoreReviewController. From designer and marketer Tracy Osborn.
 
 ## 👩‍💻 Authors
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) team:
