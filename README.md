@@ -470,6 +470,7 @@ Communication is the key to building any kind of relationships. Every social com
 * Tips on the [New LinkedIn Search](https://blog.linkedin.com/2017/january/19/how-to-make-the-most-of-the-new-linkedin-search) and [Writing LinkedIn Requests](https://www.themuse.com/advice/want-people-to-accept-your-linkedin-requests-use-these-10-templates) by Aja Frost.
 * [15 Places Where You Can Find Prospects, Other than LinkedIn](https://blog.woodpecker.co/prospecting/where-to-find-prospects/) by Cathy Patalas.  
 * [How to Network at a Conference](http://www.wikihow.com/Network-at-a-Conference) from wikiHow. 
+* [How YouTeam generated $91 735 in revenue from tech conferences:](https://youteam.co.uk/blog/how-we-attracted-new-clients-and-generated-90k-from-tech-conferences/)A practical guide for finding clients at events.
 * [How To Create A Follow Up Email in 5 Simple Steps](https://www.hubspot.com/sales/follow-up-email) by Hubspot team.
 
 Check these guides on building partnerships (both for software & physical products):
