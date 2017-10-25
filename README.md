@@ -517,12 +517,12 @@ All great articles, awesome tools and other shiny things for growing your produc
 
 ## Future Plans
 We would love to add more awesome content, which will answer on other marketing-related questions:
-* how to validate the idea, before start coding
+* how to validate the idea, before you start coding
 * how to set up analytics for marketing
 * how to automate marketing and calculate the budgets
 * how to make a custom support
 * how to deal with scaling and growth
-* how to get fund for your project
+* how to get funding for your project
 * and some useful blogs, newsletters, courses.
 
 Feel free to recommend us more topics! And please [contribute](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md) with awesome content. 
