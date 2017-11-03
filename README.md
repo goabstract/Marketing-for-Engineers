@@ -374,7 +374,7 @@ I heavily use LinkedIn. As you remember, we run [Flawless App](https://flawlessa
 
 📌 Useful tools:
 * If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords.
-* Another good tool to manage your Linkedin connections and automatically send inmails is [Dux-Soup](https://www.dux-soup.com/#see) is another good tool to automatically add LinkedIn connections + send invitation. Free account is not really useful. Paid version really worth 15$ a month. It has auto-inviting with personalised messages, auto-messages to 1st degree connections, downloading your tag-lists with links to profiles.
+* [Dux-Soup](https://www.dux-soup.com/#see) is another good tool to automatically add LinkedIn connections + send invitations. Free account is not really useful. Paid version really worth 15$ a month. It has auto-inviting with personalised messages, auto-messages to 1st degree connections, downloading your tag-lists with links to profiles.
 * [LinkedIn X-Ray Search tool using Google](https://www.lisearcher.com/). With a free account, you only get 100 search results. To get around this limitation you can use X-Ray Searching.
 
 ### ❔Quora
