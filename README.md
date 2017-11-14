@@ -87,6 +87,14 @@ You should have answers to all these questions. Market research will help you ou
 
 * [How Identify Your Competitors and Surpass Their Marketing Strategies](https://hi.photoslurp.com/blog/competitor-analysis/) by photoslurp team.
 
+:pushpin: Useful tools:
+
+* [Google Advanced Search Operators](https://bynd.com/news-ideas/google-advanced-search-comprehensive-list-google-search-operators/) is a competitive audit tool to help you find exactly what you’re looking for :slightly_smiling_face:
+* [SimilarWeb](https://www.similarweb.com/) provides detailed info on different sites & overview of thier marketing strategy. Free version is pretty good.
+* [Alexa](https://www.alexa.com/) is one of the oldest web analytics tools out there, but it’s still a great option with strong free version.
+* [Social Mention](http://www.socialmention.com/) is a nice free tool, which provides real-time search on brand mentions.
+* With [Buzzsumo](http://buzzsumo.com/) you can find the most shared content for a given topic or competitor. In a free version you will get the full page of content with many filters.
+
 
 ## :triumph: Marketing without Budget
 You will find here a collection of free marketing channels for getting the first users. Most of them will take a lot of time & effort, but will not cost money to do it yourself. Some channels, like Content Marketing or Influencer Marketing, are comprehensively explained in its own directories below. So, get fresh ideas from these real-life stories and think what could work for your users:
