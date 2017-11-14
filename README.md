@@ -25,7 +25,7 @@ If you have found some great marketing content or tool, please, contribute to Ma
 
 ## 📚 Table of Contents
 * [User Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
-* [Market Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-market-research)
+* [Market Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#mag_right-market-research)
 * [Marketing without Budget](https://github.com/LisaDziuba/Marketing-for-Engineers#triumph-marketing-without-budget)
 * [Content Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-content-marketing)
   * [Personal blog](https://github.com/LisaDziuba/Marketing-for-Engineers#sunglasses-personal-blog)
