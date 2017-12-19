@@ -86,6 +86,7 @@ How is your product better than other solution? What is unique about your side p
 You should have answers to all these questions. Market research will help you out! Personally, I define Market Research as a combination of User Research and Competitor Analysis. The first part we discussed in the section above. And these guides will explain how to research your competitors, catch trends and validate market opportunity:
 
 * [How Identify Your Competitors and Surpass Their Marketing Strategies](https://hi.photoslurp.com/blog/competitor-analysis/) by photoslurp team.
+* coming soon
 
 :pushpin: Useful tools:
 
