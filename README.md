@@ -173,6 +173,7 @@ Basics of writing on Medium. How to write, edit, publish and add your article to
 
 Articles, where you can find what topics, titles, collections, tags, categories and post length are popular for Medium readers:
 * [How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8) by Quincy Larson.
+* Guide from Medium team on [making your publicatio](https://help.medium.com/hc/en-us/articles/115004681607-Create-publication)(basically, your blog) and nice tutorial [How to Make Your Publication Look Great](https://blog.medium.com/how-to-make-your-publication-look-great-9d788f0fcb2f) by Elizabeth Tobey. 
 * [Medium’s Most Recommended Stories of 2016](https://medium.com/startup-grind/mediums-most-recommended-stories-of-2016-171efdd705c5) by Levent Aşkan.
 * [How to Win at Medium (advice on the title, text formatting & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373) by Elizabeth Tobey.
 * [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905) (timing, some promotional tips) by Ali Mese.
