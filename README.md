@@ -532,6 +532,7 @@ Business model is the most difficult part of any side-project. We struggle in as
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 * [Awesome-Indie](https://github.com/mezod/awesome-indie) is a great resource for independent developers to make money. Done by Joan Boixadós.
 * [Marketing for App Developers](https://speakerdeck.com/limedaring/release-notes-2017) is a thorough iOS app marketing deck, given at Release Notes 2017, chock-full of references. Includes competitive analysis, content marketing, ASO resources. From designer and marketer Tracy Osborn.
+* [THE BAMF BIBLE](https://drive.google.com/file/d/0B4GUMxzn_rEMSElrR0JtamVHQjQ/view) is the complete recipe book of growth hacks (300+ pages of how-to tactics) from Josh Fechter & community. It covers marketing tips for Facebook, LinkedIn, Quora, Instagram, Twitter, YouTube, Content Marketing, Cold Emails, Backlinks and much-much more!
 
 ## 👩‍💻 Authors
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) team:
