@@ -322,7 +322,7 @@ Facebook has many marketing options that could fit your company focus, budget, a
 
 🐔 Advanced reading on Facebook Advertising. May the Force be with you!
 * [The Complete Guide to Facebook Ads Manager: How to Create, Manage, Analyze Facebook Ads](https://blog.bufferapp.com/facebook-ads-manager) from Buffer team.
-* [The Facebook Pixel: What It Is and How to Use It](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team. 
+* [The Facebook Pixel: What It Is and How to Use It](https://blog.hootsuite.com/facebook-pixel/) from Hootsuite team.A Facebook pixel is code that you place on your website to track conversions from Facebook ads, optimize ads based on collected data, build targeted audiences for future ads, and remarket to qualified leads. We started using Facebook Pixel after 6 months of actively working on Flawless App. This was a mistake. If we used this tool earlier, we would collect data from all these time for paid marketing on Facebook.
 * [6 Ways to Add the Facebook Pixel to Your Website](https://www.jonloomer.com/2017/02/24/facebook-pixel/) by Jon Loomer.
 * [101-Point Guide To Master: Facebook Custom Audiences](https://klientboost.com/ppc/facebook-custom-audience/) by Karola Karlson.
 * [The Big Damn Guide To Facebook Ad Targeting](https://www.contentharmony.com/blog/facebook-ad-targeting/) by Kane Jamison.
