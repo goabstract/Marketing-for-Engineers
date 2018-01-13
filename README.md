@@ -361,7 +361,7 @@ Guides on promoting and advertising on Reddit:
 * [Reddit converter](http://vyper.io/reddit_converter/) converts your text (blog post) to Reddit markdown.
 
 ### 👽 LinkedIn
-I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, makes direct sales and search for investors. LinkedIn is a perfect place for B2B companies and 👔 business professionals. It's also useful for the self-branding. For promotional purpose LinkedIn has Personal Pages, Company Pages, Groups, and Ads.
+I want to tell you a secret: HR is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, make direct sales and search for investors. LinkedIn is a perfect place for B2B companies and 👔 business professionals. It's also useful for the self-branding. For the promotional purpose, LinkedIn has Personal Pages, Company Pages, Groups, and Ads.
 
 Your LinkedIn profile can be a complete sales and marketing tool. It should communicate the value of your product and your expertise to potential partners. These guides and tips will help you out:
 * [Want to Effectively Raise Your Linkedin Profile? Follow These Tips](https://medium.com/the-mission/want-to-effectively-raise-your-linkedin-profile-follow-these-tips-36679852f058) by Larry Kim.
@@ -447,7 +447,7 @@ You should always A/B test your email campaigns: try different subject lines, te
 
 📌 Useful tools:
 * Websites with awesome email examples: [Email copy from great companies](http://www.goodemailcopy.com/) and [Really Good Emails](https://reallygoodemails.com/).
-* [Email sequences / Email drip campaigns examples](http://www.emaildrips.com/) is a nice to place to see how other companies build their campaigns. Most of examples are from software, marketing or informational products. 
+* [Email sequences / Email drip campaigns examples](http://www.emaildrips.com/) is a nice to place to see how other companies build their campaigns. Most of the examples are from software, marketing or informational products. 
 * Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user's step — from signing to the welcome email.
 * [8 Free Newsletter Services](https://www.emailtooltester.com/en/blog/free-newsletter-services/). 
 
