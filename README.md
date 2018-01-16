@@ -312,8 +312,8 @@ Facebook has many marketing options that could fit your company focus, budget, a
 
 🐤 The Beginner’s Guides to Facebook Advertising. Here you will find step-by-step tutorials for setting up your first ad campaign. I also included articles about ads design, copywriting and typical mistakes. If you have skipped previous content, it will be useful to check posts on the viral headlines in the Personal Blog section and posts in the Social Media Marketing section. 
 * [The Complete, Always-Updated Guide to Facebook Advertising](https://blog.bufferapp.com/facebook-ads-guide) by Kevan Lee, Buffer Marketing Director. Buffer has put together a comprehensive guide on learning Facebook advertising, from the ad setup to analysis.
-* [Defining Your Facebook Campaigns’ Goals and Strategies](https://adespresso.com/academy/guides/facebook-ads-optimization/facebook-campaign-strategy-goal/) from AdEspresso team.
 * Good advice on Ad Copywriting: [The Beginner’s Guide to Writing Facebook Ads](https://copyhackers.com/2016/06/writing-facebook-ads/) by Joanna Wiebe.
+* [11 Storytelling Formulas to Supercharge Your Social Media Marketing](https://blog.bufferapp.com/storytelling-formulas) will help you with copywriting as well.
 * [Practical post on creating emotional Facebook ads](https://blog.kissmetrics.com/emotional-marketing-to-facebook-ads/) by Karola Karlson from Kissmetrics.
 * [16 Secrets the Pros Use to Create Great Facebook Ad Designs](https://adespresso.com/academy/blog/9-tips-perfect-facebook-ad-design/) by Massimo Chieruzzi from AdEspresso team.
 * [The Primary Reasons Your Ads Don’t work and Keys to Facebook Advertising Success](https://www.jonloomer.com/2017/02/17/facebook-advertising-success/) by Jon Loomer.
