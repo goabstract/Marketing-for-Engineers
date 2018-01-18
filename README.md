@@ -337,6 +337,8 @@ Facebook has many marketing options that could fit your company focus, budget, a
 * [Facebook Ads Review 101: Rules to follow to get your ads approved quickly!](https://adespresso.com/academy/blog/facebook-ads-review-rules/) by Massimo Chieruzzi.
 * [The Ultimate Guide to Facebook Video Ads](http://www.digitalmarketer.com/facebook-video-ads/) by Digital Marketer. High five if you have read until this point ✋.
 
+Some more cool hacks:
+
 ### Reddit
 Reddit is one of the most active internet community with its own unique culture. You can get tons of cool information there, great product feedback and first users. :trollface: However, it's better to learn Reddit rules and basics before you get banned:
 * [How to Use Reddit: Beginners Guide](https://www.shopify.com/blog/how-to-use-reddit) by Braveen Kumar.
