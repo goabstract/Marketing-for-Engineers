@@ -339,6 +339,7 @@ Facebook has many marketing options that could fit your company focus, budget, a
 
 Some more cool hacks:
 * How to retarget on Facebook Ads [every people who clicked on your link](https://medium.com/pixelme-blog/pixelme-how-can-i-retarget-on-facebook-ads-every-people-who-clicked-on-my-link-60865f85e406). And even more advanced Facebook retargeting for your [Medium Readers](https://medium.com/pixelme-blog/how-to-retarget-your-medium-readers-with-facebook-ads-c63bc7c8089d) by PixelMe team.
+* [How to Create Facebook Custom Audiences from Facebook Group Members](https://grouply.io/custom-audiences-facebook-groups/) by Grouply team.
 
 ### Reddit
 Reddit is one of the most active internet community with its own unique culture. You can get tons of cool information there, great product feedback and first users. :trollface: However, it's better to learn Reddit rules and basics before you get banned:
