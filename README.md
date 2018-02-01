@@ -79,6 +79,7 @@ You need to reach your potential users and validate your Persona & hypothesis. Y
 * [Pipl](https://pipl.com/) helps you to find information about email's owners.
 * The Buyer Persona Word Doc [Generator](http://www.makemypersona.com/) from HubSpot can help you to make the first hypothesis for your persona.
 * [TypeForm](https://www.typeform.com/) is an easy-to-use, mobile-optimized form-builder that's great for gathering online surveys. You also can use Google Forms for making online surveys.
+* [GetReview](https://getreview.co) is a platform which helps you to get feedback and advice from fellow entrepreneurs. It's a karma points based platform where people can review each others product even at idea stage! It's absolutely free to use. 
 
 ## :mag_right: Market Research
 How is your product better than other solution? What is unique about your side project, open source tool or mobile app? What do you understand about your business that other companies in it just don't get?
