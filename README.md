@@ -248,7 +248,7 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 * [Daily Top 5 products on PH in one chart](http://tophuntsdaily.herokuapp.com/), which can show you dynamics of upvote grows on daily basis.
 * Product Hunt Analytics: [Daily, monthly, and yearly analytics with Product Hunt data](http://www.phlics.com/).
 * [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practice to thank those people for supporting your PH launch via Twitter.
-* [Crisp Live Chat](https://crisp.im/en/) is very useful during your launch campaign when people ask things in a real-time. Such communication can increase conversion at your site and give you a lot of insights. We use the free version of it and it's awesome so far.
+* [Crisp Live Chat](https://crisp.chat/?ta=HcOQZbJNvs) is very useful during your launch campaign when people ask things in a real-time. Such communication can increase conversion at your site and give you a lot of insights. We use the free version of it and it's awesome so far.
 
 ## 📷 Social Media Marketing
 Let's start with the basics, which can be used for any social media platform:
