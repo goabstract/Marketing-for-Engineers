@@ -537,6 +537,7 @@ Business model is the most difficult part of any side-project. We struggle in as
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 * [Awesome-Indie](https://github.com/mezod/awesome-indie) is a great resource for independent developers to make money. Done by Joan Boixadós.
+* [The Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist/) is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list was created by a developer, and is [free and open source](https://github.com/karllhughes/side-project-marketing).
 * [Marketing for App Developers](https://speakerdeck.com/limedaring/release-notes-2017) is a thorough iOS app marketing deck, given at Release Notes 2017, chock-full of references. Includes competitive analysis, content marketing, ASO resources. From designer and marketer Tracy Osborn.
 * [THE BAMF BIBLE](https://drive.google.com/file/d/0B4GUMxzn_rEMSElrR0JtamVHQjQ/view) is the complete recipe book of growth hacks (300+ pages of how-to tactics) from Josh Fechter & community. It covers marketing tips for Facebook, LinkedIn, Quora, Instagram, Twitter, YouTube, Content Marketing, Cold Emails, Backlinks and much-much more!
 
