@@ -512,7 +512,8 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 * [Psychology of Marketing: Using Maslow’s Hierarchy of Needs](https://kopywritingkourse.com/marketing-psychology/) by Neville Medhora.
 * [An Enormous Guide to Emotional Marketing](https://www.nickkolenda.com/emotional-marketing/) by Nick Kolenda.
 * [Cognitive bias cheat sheet (long-read)](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18) by Buster Benson.
-* [Scarcity in UX: The psychological bias that became the norm](https://uxdesign.cc/scarcity-in-ux-the-psychological-bias-that-became-the-norm-3e666b749a9a) by David Teodorescu: *Scarcity makes us place a higher value on things that are scarce and, over time, has become the go to method for increasing desirability. It is powerful because it combines multiple biases (Loss aversion, Social proof and Anticipated regret) and it comes in different forms (Time, Quantity and Access).*
+* [Scarcity in UX: The psychological bias that became the norm](https://uxdesign.cc/scarcity-in-ux-the-psychological-bias-that-became-the-norm-3e666b749a9a) by David Teodorescu: 
+> Scarcity makes us place a higher value on things that are scarce and, over time, has become the go to method for increasing desirability. It is powerful because it combines multiple biases (Loss aversion, Social proof and Anticipated regret) and it comes in different forms (Time, Quantity and Access).
 * [Mental Models and User Experience](http://www.uxmatters.com/mt/archives/2016/05/mental-models-and-user-experience.php) by UXmatters.
 * TED Talks on Psychology of Choice: [The Paradox of Choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice) and [How to make choosing easier](https://www.ted.com/talks/sheena_iyengar_choosing_what_to_choose?language=en).
 * [TED Talk: What physics taught me about marketing](https://www.ted.com/talks/dan_cobley_what_physics_taught_me_about_marketing) by Dan Cobley.
