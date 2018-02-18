@@ -184,7 +184,7 @@ Publishing on Medium or elsewhere removes all your technology hassles. It's a go
 ### :mega: Promotion of your content
 You need to promote content on your own blog, Medium or guest platforms. Some ideas how to spread the word about your great articles and make it more shareable:
 
-* [38 Free Places to Promote Blog Posts Once You Hit Publish](http://www.mybloglift.com/places-to-promote-blog-posts/). Learn about every platform before sharing your content there (or you will become a spammer💩). At the end of the article Shafi Khan mentioned other important rules to follow.
+* [39 Free Places to Promote Blog Posts Once You Hit Publish](https://blogcharge.com/places-to-promote-blog-posts/). Learn about every platform before sharing your content there (or you will become a spammer💩). At the end of the article Shafi Khan mentioned other important rules to follow.
 * [Content Promotion: How We Grew from 0 to 32,977 Users in 5 Months With Zero Paid Traffic](https://growandconvert.com/content-marketing/community-content-promotion/). Benji Hyam talks about community-driven content promotion. It means, that you engage with the targeted community and then share your content so that it adds value.
 * [17 Advanced Methods for Promoting Your New Piece of Content](https://blog.kissmetrics.com/17-advanced-methods/) by Kissmetrics team.
 * [Boost Social Sharing From Your Content](https://sumo.com/stories/social-sharing-chapter-2). Sarah Peterson shared methods, that will help readers to easily share your posts.
