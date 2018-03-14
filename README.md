@@ -19,7 +19,7 @@ _Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/?utm_source=Git
 For getting needed advice, please:
 * Go through our Table of Contents. To help you navigate, we`ve added brief overviews of every marketing category. Also, content titles are displayed as clearly as possible (so it will tell you the context and how you can benefit from it). 
 * Search for a keyword or phrase (for example, “Product Hunt”, “Facebook”, “Blog”).
-* Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
+* Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter
 
 If you have found some great marketing content or tool, please, contribute to Marketing for Engineers collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md). We would love you to see your suggestions! 
 
