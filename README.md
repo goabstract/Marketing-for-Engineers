@@ -19,7 +19,7 @@ _Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/?utm_source=Git
 For getting needed advice, please:
 * Go through our Table of Contents. To help you navigate, we`ve added brief overviews of every marketing category. Also, content titles are displayed as clearly as possible (so it will tell you the context and how you can benefit from it). 
 * Search for a keyword or phrase (for example, “Product Hunt”, “Facebook”, “Blog”).
-* Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter
+* Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
 If you have found some great marketing content or tool, please, contribute to Marketing for Engineers collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md). We would love you to see your suggestions! 
 
@@ -91,10 +91,12 @@ You should have answers to all these questions. Market research will help you ou
 :pushpin: Useful tools:
 
 * [Google Advanced Search Operators](https://bynd.com/news-ideas/google-advanced-search-comprehensive-list-google-search-operators/) is a competitive audit tool to help you find exactly what you’re looking for :slightly_smiling_face:
+* [Twitter Advanced search](https://twitter.com/search-advanced?lang=en) is an easy way to search anyone on Twitter.
 * [SimilarWeb](https://www.similarweb.com/) provides detailed info on different sites & overview of thier marketing strategy. Free version is pretty good.
 * [Alexa](https://www.alexa.com/) is one of the oldest web analytics tools out there, but it’s still a great option with strong free version.
 * [Social Mention](http://www.socialmention.com/) is a nice free tool, which provides real-time search on brand mentions.
 * With [Buzzsumo](http://buzzsumo.com/) you can find the most shared content for a given topic or competitor. In a free version you will get the full page of content with many filters.
+* [Siftery](https://siftery.com/alternatives) allows you to find alternatives to any product.
 
 
 ## :triumph: Marketing without Budget
