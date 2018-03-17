@@ -96,7 +96,7 @@ You should have answers to all these questions. Market research will help you ou
 * [Alexa](https://www.alexa.com/) is one of the oldest web analytics tools out there, but it’s still a great option with strong free version.
 * [Social Mention](http://www.socialmention.com/) is a nice free tool, which provides real-time search on brand mentions.
 * With [Buzzsumo](http://buzzsumo.com/) you can find the most shared content for a given topic or competitor. In a free version you will get the full page of content with many filters.
-* [Siftery](https://siftery.com/alternatives) allows you to find alternatives to any product.
+* [Siftery](https://siftery.com/alternatives) and [AlternativeTo](https://alternativeto.net/) allow you to find alternatives to any product.
 
 
 ## :triumph: Marketing without Budget
