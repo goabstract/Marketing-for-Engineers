@@ -545,6 +545,7 @@ Business model is the most difficult part of any side-project. We struggle in as
 * [Marketing for App Developers](https://speakerdeck.com/limedaring/release-notes-2017) is a thorough iOS app marketing deck, given at Release Notes 2017, chock-full of references. Includes competitive analysis, content marketing, ASO resources. From designer and marketer Tracy Osborn.
 * [THE BAMF BIBLE](https://drive.google.com/file/d/0B4GUMxzn_rEMSElrR0JtamVHQjQ/view) is the complete recipe book of growth hacks (300+ pages of how-to tactics) from Josh Fechter & community. It covers marketing tips for Facebook, LinkedIn, Quora, Instagram, Twitter, YouTube, Content Marketing, Cold Emails, Backlinks and much-much more!
 * [MAKE](https://makebook.io) is the book on bootstrapping your startup the indie way from Pieter Levels – the creator of Nomad List. It's basically an imprint of his experiences creating his products from the past several years. Most of the book content is very practical and approachable, aimed to try things yourself.
+* [The Four Steps to the Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) or Successful Strategies for Products that Win by Steven Blank.
 
 ## 👩‍💻 Authors
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) team:
