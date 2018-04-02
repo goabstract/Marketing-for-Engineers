@@ -526,6 +526,7 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 * [The Five Types of Virality and choosing the right one for your product to grow](https://news.greylock.com/the-five-types-of-virality-8ba42051928d?ref=quuu) by Josh Elman.
 * Mastering work with "micronetwork" can help you achieve virality in your activities. Nick Kolenda made an excellent [guide on it](https://www.nickkolenda.com/viral-marketing/).
 * [Great post how to be less emotional to the criticisms of your software and be more empathetic to users pain](http://haacked.com/archive/2012/12/17/you-do-not-need-a-thick-skin.aspx/) by Phil Haack, GitHub Engineering Director.
+* [The Law of Shitty Clickthroughs](http://andrewchen.co/the-law-of-shitty-clickthroughs/) or over time, all marketing strategies result in shitty clickthrough rates. This article expains how to deal with it.
 
 ## :moneybag: Business Model and Pricing
 Business model is the most difficult part of any side-project. We struggle in asking people to pay for your product or service. Usually, we don't know what is the right way to build sustainable profit over the time. But business is about making money. So we need to learn how to choose the right business model & pricing strategy and charge our users: 
