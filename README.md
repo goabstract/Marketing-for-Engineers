@@ -445,6 +445,7 @@ Lifecycle emails can help you to accomplish almost any marketing goal: onboard n
 You should always A/B test your email campaigns: try different subject lines, texts, message styles, images, CTA buttons. Look at your metrics and measure how well each element works:
 * [A Beginner’s Guide to A/B Testing: Email Campaigns That Convert](https://blog.kissmetrics.com/ab-testing-email-campaigns/) from Kissmetrics blog.
 * [A/B Test Your Email Marketing: How to Get Started, What to Test, and 20+ Apps to Help](https://zapier.com/learn/email-marketing/ab-testing-email-marketing/) from Zapier blog.
+*[150+ Email marketing Split tests and ideas](https://www.emailmonday.com/150-ab-email-split-test-ideas-examples/) from Emailmonday
 * [Everything You Wanted to Know About Email CTA Buttons](https://explore.reallygoodemails.com/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806) by Really Good Emails.
 * [Best Practices for Buttons: The User Experience of colors](https://uxplanet.org/best-practices-for-buttons-b7048479d440) by Luca Longo. Good post to help you choose your CTA button.
 * [164 Email Subject Lines to Boost Your Email Open Rates ](http://optinmonster.com/101-email-subject-lines-your-subscribers-cant-resist/) by Optinmonster team. Good inspirational examples to try out.
