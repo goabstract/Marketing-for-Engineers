@@ -414,6 +414,9 @@ Quora is a question-and-answer site, where you can get traffic by helping the co
 * [How to Get Thousands of Leads from Quora in Five Months](https://sumo.com/stories/quora-traffic) by Josh Fechter, the "Top Quora Writer of 2017."
 * [How To Use Quora For SEO & Content Marketing](https://www.shivarweb.com/10583/how-to-use-quora-for-seo-content-marketing/) by Nate Shivar.
 
+## Viral Marketing
+[The K-Factor, “Growth” and Going Viral][https://bothgunsblazingblog.wordpress.com/2013/10/22/the-k-factor-growth-and-going-viral/], an old but very usuful article on viral growth.
+
 ## :love_letter: Lifecycle Email Marketing
 Lifecycle emails can help you to accomplish almost any marketing goal: onboard new users, increase sales, grow users engagement, bring back inactive one or build a long-lasting relationship. It's also known as drip marketing or automated email campaigns. To make it simple: it's a set of emails that will be sent out automatically based on schedule, triggers, or user actions. There are four key components for such email campaigns: the right user, goal-oriented topic, good timing and contextual message. 
 
