@@ -44,6 +44,7 @@ If you have found some great marketing content or tool, please, contribute to Ma
 * [Building Partnerships](https://github.com/LisaDziuba/Marketing-for-Engineers#bowtie-building-partnerships)
 * [Psychology in Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#%EF%B8%8F-psychology-in-marketing)
 * [Business Model and Pricing](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#moneybag-business-model-and-pricing)
+* [Moving to SaaS model]
 * [Other Useful Materials](https://github.com/LisaDziuba/Marketing-for-Engineers#other-useful-materials)
 * [Authors](https://github.com/LisaDziuba/Marketing-for-Engineers#-authors)
 * [Future Plans](https://github.com/LisaDziuba/Marketing-for-Engineers#future-plans)
@@ -542,6 +543,11 @@ Business model is the most difficult part of any side-project. We struggle in as
 * [Why You Should Change Your SaaS Pricing Every 6 Months](http://www.priceintelligently.com/blog/why-you-should-change-your-saas-pricing-every-six-months) by Jordan T. McBride.
 * [9 Pricing Strategies to Explode Your Revenue (Backed by Psychology)](https://sumo.com/stories/marketing-pricing-strategies) by Nico Moreno.
 * [Hacking Competitive Pricing Analysis with Scraping](https://www.matthewbarby.com/competitive-pricing-analysis/) by Matthew Barby.
+
+
+## Moving to SaaS model
+
+* Excellent guide from Stripe team on [The business of SaaS](https://stripe.com/atlas/guides/business-of-saas#high-touch-saas-sales): Understand why SaaS businesses work and how to grow them. The first read you should start with! 
 
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
