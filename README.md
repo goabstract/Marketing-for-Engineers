@@ -298,7 +298,6 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 * [Twitonomy](http://www.twitonomy.com/) provides you detailed info about your Twitter account (or any other). Twitonomy UI is terrible. But it can show analytics of your hashtags usage, daily activity (time & days), followers, retweets statistics. All these insights are available in the free version. Also, this tool is useful for Influencer Marketing research.
 * [Dlvr.it](https://dlvrit.com/) and [Hootsuite](https://hootsuite.com/) for grabbing website RSS feeds and auto-sharing the content. Free accounts permit several RSS feeds.
 * [Twitter Follower](https://chrome.google.com/webstore/detail/twitter-follower/hcghlfjkhaigchnbbkbcgadlnckobaei?hl=en-GB),free extension for multi-follow (or unfollow) users on Twitter.
-*  ~~[Free Twitter Follower Report](https://simplymeasured.com/freebies/twitter-follower-analytics) will allow you to download all your followers and information about them. ~~
 * If you want to spend less time reading tweets, you can automatically unfollow people. This [script](https://github.com/KrauseFx/twitter-unfollow) from Felix Krause unfollows everybody and puts those followers into a list called "Old Follow". 
 * [Scoutzen](https://www.scoutzen.com/) allows you to download Twitter followers from your public or private lists. Pretty useful!
 * I mentioned tools, that I personally use. However, there are plenty of other great tools to try: [The Big List of Twitter Tools: 93 Free Twitter Tools and Apps to Fit Any Need](https://blog.bufferapp.com/free-twitter-tools) by Kevan Lee from Buffer team.
@@ -548,6 +547,7 @@ Business model is the most difficult part of any side-project. We struggle in as
 ## Moving to SaaS model
 
 * Excellent guide from Stripe team on [The business of SaaS](https://stripe.com/atlas/guides/business-of-saas#high-touch-saas-sales): Understand why SaaS businesses work and how to grow them. The first read you should start with! 
+* Advanced guide on CAC and CPA: [How To (Actually) Calculate CAC](http://andrewchen.co/how-to-actually-calculate-cac/) (and [Russian vesrion](https://vc.ru/21195-cac-calculation)).
 
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
