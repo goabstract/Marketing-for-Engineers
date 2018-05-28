@@ -548,6 +548,7 @@ Business model is the most difficult part of any side-project. We struggle in as
 
 * Excellent guide from Stripe team on [The business of SaaS](https://stripe.com/atlas/guides/business-of-saas#high-touch-saas-sales): Understand why SaaS businesses work and how to grow them. The first read you should start with! 
 * Advanced guide on CAC and CPA: [How To (Actually) Calculate CAC](http://andrewchen.co/how-to-actually-calculate-cac/) (and [Russian vesrion](https://vc.ru/21195-cac-calculation)).
+* [Prioritizing product announcements in a SaaS world](https://blog.intercom.com/prioritizing-product-announcements-saas-world/) with Intercom team. 
 
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
