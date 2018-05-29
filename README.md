@@ -44,7 +44,7 @@ If you have found some great marketing content or tool, please, contribute to Ma
 * [Building Partnerships](https://github.com/LisaDziuba/Marketing-for-Engineers#bowtie-building-partnerships)
 * [Psychology in Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#%EF%B8%8F-psychology-in-marketing)
 * [Business Model and Pricing](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#moneybag-business-model-and-pricing)
-* [Moving to SaaS model]
+* [Moving to SaaS model](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#moving-to-saas-model)
 * [Other Useful Materials](https://github.com/LisaDziuba/Marketing-for-Engineers#other-useful-materials)
 * [Authors](https://github.com/LisaDziuba/Marketing-for-Engineers#-authors)
 * [Future Plans](https://github.com/LisaDziuba/Marketing-for-Engineers#future-plans)
