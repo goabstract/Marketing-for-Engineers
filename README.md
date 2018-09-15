@@ -162,6 +162,7 @@ Craft your blog with SEO focus:
 * [Hemingway App](http://www.hemingwayapp.com/)
 * [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck)
 * Browser extensions, like [Grammarly](https://app.grammarly.com/).
+* To check that your content is unique you can use [this site](https://www.copyscape.com/) or online tools. I use this [Ru-checker](https://be1.ru/antiplagiat-online/).
 
 ### :green_book: Medium Marketing
 Medium is an online publishing platform with the huge active community. You can make your blog there and engage with your users and Medium readers. You still need to promote your articles yourself. Medium is a high-traffic community, but you are not the only one who competes for attention.
