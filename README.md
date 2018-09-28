@@ -290,7 +290,7 @@ Direct Message Marketing is about sending personal, mass or automated DMs to you
 * [Case study when auto-DMs actually were working](http://niknitro.com/auto-dm-not-auto-dm/) by Nik Nitro. Welcome auto-DMs should be used only when it provides tangible value to a new follower. Nik shows his example.
 * [Be aware of Twitter tweet & DM limit](https://support.twitter.com/articles/15364).
 
-One more option to consider is Twitter Adds.
+One more option to consider is Twitter Adds. My experience with Twitter adds was not so positive... especially when I set up the first campaing. So be ready to 
 
 📌 And these tools help you maximize your Twitter presence, from timing to sharing to the analysis:
 * [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) for scheduling (were mentioned already).
