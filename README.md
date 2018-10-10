@@ -39,6 +39,7 @@ If you have found some great marketing content or tool, please, contribute to Ma
   * [Reddit](https://github.com/LisaDziuba/Marketing-for-Engineers#reddit)
   * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#-linkedin)
   * [Quora](https://github.com/LisaDziuba/Marketing-for-Engineers#quora)
+  * Instagram (coming soon)
 * [Lifecycle Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#love_letter-lifecycle-email-marketing)  
 * [Cold Emails Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-email-marketing)
 * [Building Partnerships](https://github.com/LisaDziuba/Marketing-for-Engineers#bowtie-building-partnerships)
