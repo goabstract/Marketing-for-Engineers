@@ -557,6 +557,9 @@ Business model is the most difficult part of any side-project. We struggle in as
 * Advanced guide on CAC and CPA: [How To (Actually) Calculate CAC](http://andrewchen.co/how-to-actually-calculate-cac/) (and [Russian vesrion](https://vc.ru/21195-cac-calculation)).
 * [Prioritizing product announcements in a SaaS world](https://blog.intercom.com/prioritizing-product-announcements-saas-world/) with Intercom team. 
 
+Guides on analitics:
+* [Funnel charts in Google Sheets using the chart tool, formulas and Apps Script](https://www.benlcollins.com/spreadsheets/funnel-charts/). It can be used for making your sales or analitics funnels right in Spreadsheets.
+
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 * [Awesome-Indie](https://github.com/mezod/awesome-indie) is a great resource for independent developers to make money. Done by Joan Boixadós.
