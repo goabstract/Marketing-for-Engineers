@@ -159,9 +159,10 @@ Craft your blog with SEO focus:
 * [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday). Rand Fishkin advises on which format should you use for your project.
 * [How To Use 11+ Free Tools To Find Prequalified Content Ideas for SEO](https://www.shivarweb.com/4275/finding-content-ideas-for-seo/) from Nate Shivar. The article will teach you how to prequalify your content ideas with SEO research.
 
-📌 Check your grammar! I use these cool apps:
+📌 Check your grammar and readability! I use these cool apps:
 * [Hemingway App](http://www.hemingwayapp.com/)
 * [Ginger Grammar Checker](http://www.gingersoftware.com/grammarcheck)
+* [Readable.io](https://app.readable.io/text/)
 * Browser extensions, like [Grammarly](https://app.grammarly.com/).
 * To check that your content is unique you can use [this site](https://www.copyscape.com/) or online tools. I use this [Ru-checker](https://be1.ru/antiplagiat-online/).
 
@@ -422,7 +423,7 @@ Quora is a question-and-answer site, where you can get traffic by helping the co
 * [How To Use Quora For SEO & Content Marketing](https://www.shivarweb.com/10583/how-to-use-quora-for-seo-content-marketing/) by Nate Shivar.
 
 ## Viral Marketing
-[The K-Factor, “Growth” and Going Viral][https://bothgunsblazingblog.wordpress.com/2013/10/22/the-k-factor-growth-and-going-viral/], an old but very usuful article on viral growth.
+[The K-Factor, “Growth” and Going Viral](https://bothgunsblazingblog.wordpress.com/2013/10/22/the-k-factor-growth-and-going-viral/), an old but very usuful article on viral growth.
 
 ## :love_letter: Lifecycle Email Marketing
 Lifecycle emails can help you to accomplish almost any marketing goal: onboard new users, increase sales, grow users engagement, bring back inactive one or build a long-lasting relationship. It's also known as drip marketing or automated email campaigns. To make it simple: it's a set of emails that will be sent out automatically based on schedule, triggers, or user actions. There are four key components for such email campaigns: the right user, goal-oriented topic, good timing and contextual message. 
