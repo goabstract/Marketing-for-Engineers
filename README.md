@@ -532,6 +532,7 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 * TED Talks on Psychology of Choice: [The Paradox of Choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice) and [How to make choosing easier](https://www.ted.com/talks/sheena_iyengar_choosing_what_to_choose?language=en).
 * [TED Talk: What physics taught me about marketing](https://www.ted.com/talks/dan_cobley_what_physics_taught_me_about_marketing) by Dan Cobley.
 * [31 Copywriting Tips Based on Psychology and Linguistics](https://www.nickkolenda.com/copywriting-tips/) by Nick Kolenda.
+* [Color in Design: Influence on Users' Actions](https://tubikstudio.com/color-in-design-influence-on-users-actions/) by TubiK Studio.
 * [12 Ways to Build Social Proof (From Scratch)](https://sumo.com/stories/build-social-proof) by Sarah Peterson
 * [The Psychology of Marketing: 18 Ways to Use Social Proof to Boost Your Results](https://blog.bufferapp.com/social-proof) by Alfred Lua from Buffer team.
 * [The psychology of sending good triggers (Emails and Notifications)](http://www.nirandfar.com/2016/07/secret-sending-emails-notifications-work.html) by Nir Eyal & Ximena Vengoechea.
