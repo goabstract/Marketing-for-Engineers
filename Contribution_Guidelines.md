@@ -30,3 +30,11 @@ show the meaning of the content. That is good for getting clicks, but not for un
 We will do our best to review your submission as soon as we can. However, we would love to take a deep look on it and it might take time. Please, consider that we have a full-time job in our startup :)
 
 Your contribution might be rejected if the content or tool didn't pass our curation. This can be for multiple reasons: poorly written, too much self-promotion, not relevant to the community in general, etc. Of course, this is very subjective and if you think we (Lisa and Ahmed) are being unfair, do let us know.
+
+
+## 🤑 Schema Integration 
+* [How to Boost Your SEO by Using Schema Markup](https://neilpatel.com/blog/get-started-using-schema/) by Neil Patel
+* [How structured data works](https://developers.google.com/search/docs/guides/intro-structured-data) 
+* [Product Markup Example](https://developers.google.com/search/docs/data-types/product). List of Schema Markup for Rich Results. 
+* Free tool for Testing [Schema Markup/Structured Data](https://search.google.com/structured-data/testing-tool)
+
