@@ -223,6 +223,7 @@ You should not be afraid to reach to the cool people. Be helpful, nice and creat
 * [4 Tips for Reaching Out to Someone You Admire on LinkedIn](https://www.themuse.com/advice/4-tips-for-reaching-out-to-someone-you-admire-on-linkedin) by Lily Herman. 
 * [26 Headliners on How to Connect with Influencers at Conference](https://venngage.com/blog/connect-with-influencers-conference/) by Venngage. Don't be afraid to talk to people!
 * [Connecting with Others: What Have You Done for Me Lately?](http://okdork.com/what-have-you-done-for-me-lately/) by Noah Kagan, popular IT entrepreneur & influencer. I loved his brief instruction on making it easier for people to say YES to your request.
+* [How to Send Emails w/ 83%+ Open Rates [Podcast]](https://www.everyonehatesmarketers.com/andre-chaperon/) by André Chaperon. Custom approach to building outreach and mail lists.
 
 Case-studies, which can teach and inspire you:
 * [How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours](https://www.groovehq.com/blog/1000-subscribers) by Alex Turnbull. Groove team built relationships with influencers for getting the first readers on their blog. Very smart tactics there!
@@ -255,7 +256,6 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 * A dynamic list of the [100 least upvoted projects on PH](http://www.productrunt.com/). It's good to check failed PH launch cases.
 * [Daily Top 5 products on PH in one chart](http://tophuntsdaily.herokuapp.com/), which can show you dynamics of upvote grows on a daily basis.
 * Product Hunt Analytics: [Daily, monthly, and yearly analytics with Product Hunt data](http://www.phlics.com/).
-* [MakerTools](http://makertools.xyz/) allows you to create a Twitter list of all the wonderful folks who upvoted your product. It's a good practice to thank those people for supporting your PH launch via Twitter.
 * [Crisp Live Chat](https://crisp.chat/?ta=HcOQZbJNvs) is very useful during your launch campaign when people ask things in a real-time. Such communication can increase conversion at your site and give you a lot of insights. We use the free version of it and it's awesome so far.
 
 ## 📷 Social Media Marketing
