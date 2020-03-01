@@ -59,9 +59,17 @@ User research gives you an answer for whom is your product. Analyzing potential 
 - make your marketing & communication strategy.
 
 I hope that I have convinced you that user research is very important. After learning these materials you should be able to make user research, create basic Persona and validate it on real people:
+* [How to Create Highly Accurate Customer Personas for Marketing](https://neilpatel.com/blog/accurate-customer-personas/)
+* [A Guide To Creating Buyer Personas That Will Improve Your Content Conversion Rates](https://www.crazyegg.com/blog/guide-creating-buyer-personas/)
 * [How to Create a Concrete Buyer Persona Guide (with templates, tools, Examples, 188 survey questions)](http://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/) by optinmonster.
 * [How to Create Customer Profiles to Reach Your Target Audience](http://www.convinceandconvert.com/social-media-strategy/how-to-create-customer-profiles-to-reach-your-target-audience/) by Greg Ciotti. 
-* [Design-oriented video](https://www.youtube.com/watch?v=B23iWg0koi8) on performing basic user research from the UX perspective. More good videos on UX personas: [Creating Personas for User Experience Research](https://www.youtube.com/watch?v=u44pBnAn7cM)
+
+* [Marketing and UX personas](https://www.getresponse.com/blog/marketing-persona-vs-ux-persona): how they are similar and different?
+
+> A marketing persona, or buyer persona, is a way to segment target market by common characteristics. It is used to guide media campaigns to target the right audience with the appropriate messaging. Buyer personas usually comes from market research. ... If marketing persona is focused on the WHO, a UX persona is more about the HOW. A UX persona, or design persona, can include all the information in buyer persona, but with additional emphasis on the task-oriented user behavior. What a UX persona wants to uncover is all the steps a target user will take to go from point A to point B. 
+
+
+* [Design-oriented video](https://www.youtube.com/watch?v=B23iWg0koi8) on performing [basic user research from the UX perspective](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/). More good videos on UX personas: [Creating Personas for User Experience Research](https://www.youtube.com/watch?v=u44pBnAn7cM).
 * Empathy Mapping is one more technique, which widely used in UX for user research. This [Practical Guide to Empathy Maps](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/) and [video](https://www.youtube.com/watch?v=QwF9a56WFWA) will give you good overviews of this approach.
 
 You need to reach your potential users and validate your Persona & hypothesis. You can get real users insight through surveys, interviews, online & offline meetings, chats, Skype calls, checking existing analytics (Google Analytics, social media data), analyzing competitors' customers, ethical googling your users' emails & names and researching them on social media:
