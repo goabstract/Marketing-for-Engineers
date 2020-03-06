@@ -63,6 +63,10 @@ I hope that I have convinced you that user research is very important. After lea
 * [A Guide To Creating Buyer Personas That Will Improve Your Content Conversion Rates](https://www.crazyegg.com/blog/guide-creating-buyer-personas/)
 * [How to Create a Concrete Buyer Persona Guide (with templates, tools, Examples, 188 survey questions)](http://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/) by optinmonster.
 * [How to Create Customer Profiles to Reach Your Target Audience](http://www.convinceandconvert.com/social-media-strategy/how-to-create-customer-profiles-to-reach-your-target-audience/) by Greg Ciotti. 
+* [Buyer Persona and Ideal Customer Profile: How They Help Your Sales](https://cience.com/buyer-persona-vs-ideal-customer-profile/)
+* [The Ultimate Guide to Developing Buyer Personas (with Templates!)](https://www.singlegrain.com/buyer-personas/complete-guide-developing-using-buyer-personas/)
+* [An Alternative Approach to Developing Content Marketing Personas](https://contentmarketinginstitute.com/2018/04/alternative-content-marketing-personas/)
+* [A Guide To Creating Buyer Personas That Will Improve Your Content Conversion Rates](https://www.crazyegg.com/blog/guide-creating-buyer-personas/)
 
 * [Marketing and UX personas](https://www.getresponse.com/blog/marketing-persona-vs-ux-persona): how they are similar and different?
 
