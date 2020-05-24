@@ -4,11 +4,11 @@
     </a>
 </p>
 
-💎 It’s a hand-picked collection of resources for solving practical marketing tasks, such as: 
+💎 It’s a hand-picked collection of resources for solving practical marketing tasks, such as:
 * finding beta testers
 * growing first user base
 * advertising project without a budget
-* scaling marketing activities for building constant revenue streams. 
+* scaling marketing activities for building constant revenue streams.
 
 We faced these question when we made our first product (a tool for iOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, tried and bookmarked many useful things: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adapt and test awesome marketing hacks from our collection & experience. Good luck!
 
@@ -17,11 +17,11 @@ _Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/?utm_source=Git
 ## 🛠 How to Use and Contribute
 
 For getting needed advice, please:
-* Go through our Table of Contents. To help you navigate, we`ve added brief overviews of every marketing category. Also, content titles are displayed as clearly as possible (so it will tell you the context and how you can benefit from it). 
+* Go through our Table of Contents. To help you navigate, we`ve added brief overviews of every marketing category. Also, content titles are displayed as clearly as possible (so it will tell you the context and how you can benefit from it).
 * Search for a keyword or phrase (for example, “Product Hunt”, “Facebook”, “Blog”).
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-If you have found some great marketing content or tool, please, contribute to Marketing for Engineers collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md). We would love you to see your suggestions! 
+If you have found some great marketing content or tool, please, contribute to Marketing for Engineers collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md). We would love you to see your suggestions!
 
 ## 📚 Table of Contents
 * [User Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
@@ -40,7 +40,7 @@ If you have found some great marketing content or tool, please, contribute to Ma
   * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#-linkedin)
   * [Quora](https://github.com/LisaDziuba/Marketing-for-Engineers#quora)
   * Instagram (coming soon)
-* [Lifecycle Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#love_letter-lifecycle-email-marketing)  
+* [Lifecycle Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#love_letter-lifecycle-email-marketing)
 * [Cold Emails Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-email-marketing)
 * [Building Partnerships](https://github.com/LisaDziuba/Marketing-for-Engineers#bowtie-building-partnerships)
 * [Psychology in Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#%EF%B8%8F-psychology-in-marketing)
@@ -53,7 +53,7 @@ If you have found some great marketing content or tool, please, contribute to Ma
 
 ## 🔎 User Research
 User research gives you an answer for whom is your product. Analyzing potential users & customers will help to:
-- understand users' needs, pains, motivations and decision-making process; 
+- understand users' needs, pains, motivations and decision-making process;
 - outline product roadmap, key features, UI design and UX scenarios for interacting with your product;
 - define the right marketing message (positioning) and choose marketing channels to spread this message;
 - make your marketing & communication strategy.
@@ -62,7 +62,7 @@ I hope that I have convinced you that user research is very important. After lea
 * [How to Create Highly Accurate Customer Personas for Marketing](https://neilpatel.com/blog/accurate-customer-personas/)
 * [A Guide To Creating Buyer Personas That Will Improve Your Content Conversion Rates](https://www.crazyegg.com/blog/guide-creating-buyer-personas/)
 * [How to Create a Concrete Buyer Persona Guide (with templates, tools, Examples, 188 survey questions)](http://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/) by optinmonster.
-* [How to Create Customer Profiles to Reach Your Target Audience](http://www.convinceandconvert.com/social-media-strategy/how-to-create-customer-profiles-to-reach-your-target-audience/) by Greg Ciotti. 
+* [How to Create Customer Profiles to Reach Your Target Audience](http://www.convinceandconvert.com/social-media-strategy/how-to-create-customer-profiles-to-reach-your-target-audience/) by Greg Ciotti.
 * [Buyer Persona and Ideal Customer Profile: How They Help Your Sales](https://cience.com/buyer-persona-vs-ideal-customer-profile/)
 * [The Ultimate Guide to Developing Buyer Personas (with Templates!)](https://www.singlegrain.com/buyer-personas/complete-guide-developing-using-buyer-personas/)
 * [An Alternative Approach to Developing Content Marketing Personas](https://contentmarketinginstitute.com/2018/04/alternative-content-marketing-personas/)
@@ -70,7 +70,7 @@ I hope that I have convinced you that user research is very important. After lea
 
 * [Marketing and UX personas](https://www.getresponse.com/blog/marketing-persona-vs-ux-persona): how they are similar and different?
 
-> A marketing persona, or buyer persona, is a way to segment target market by common characteristics. It is used to guide media campaigns to target the right audience with the appropriate messaging. Buyer personas usually comes from market research. ... If marketing persona is focused on the WHO, a UX persona is more about the HOW. A UX persona, or design persona, can include all the information in buyer persona, but with additional emphasis on the task-oriented user behavior. What a UX persona wants to uncover is all the steps a target user will take to go from point A to point B. 
+> A marketing persona, or buyer persona, is a way to segment target market by common characteristics. It is used to guide media campaigns to target the right audience with the appropriate messaging. Buyer personas usually comes from market research. ... If marketing persona is focused on the WHO, a UX persona is more about the HOW. A UX persona, or design persona, can include all the information in buyer persona, but with additional emphasis on the task-oriented user behavior. What a UX persona wants to uncover is all the steps a target user will take to go from point A to point B.
 
 
 * [Design-oriented video](https://www.youtube.com/watch?v=B23iWg0koi8) on performing [basic user research from the UX perspective](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/). More good videos & guides on UX personas and research methods: [Creating Personas for User Experience Research](https://www.youtube.com/watch?v=u44pBnAn7cM), [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
@@ -78,12 +78,12 @@ I hope that I have convinced you that user research is very important. After lea
 
 You need to reach your potential users and validate your Persona & hypothesis. You can get real users insight through surveys, interviews, online & offline meetings, chats, Skype calls, checking existing analytics (Google Analytics, social media data), analyzing competitors' customers, ethical googling your users' emails & names and researching them on social media:
 * 9-min [video](https://www.youtube.com/watch?v=y5Nt_KRZWtY) on creating a Persona, when you already have something to analyze: website, followers for your product on Twitter\Facebook, first users or paying customers.
-* Simple [blueprint](https://blog.hubspot.com/marketing/market-research-buyers-journey-guide) for conducting a thorough buyer's journey study. It's a bit old article, but it has a nice plan for making user research interviews (study) with current or potential users.   
+* Simple [blueprint](https://blog.hubspot.com/marketing/market-research-buyers-journey-guide) for conducting a thorough buyer's journey study. It's a bit old article, but it has a nice plan for making user research interviews (study) with current or potential users.
 * [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67) will be in use when you actually start talking to the potential user (😤 you must do this).
 
 👆 User research is an initial part of the customer discovery process. You should not only research your potential users but also test if what you want to build is needed on the market (it’s called Product Market Fit). If you are not familiar with the Lean Startup approach, I advise you to check these resources. It's more startup-oriented, but still relevant for newbie product makers:
 
-* [Doing Customer Discovery video](https://www.youtube.com/watch?v=hriiulBbWck) + [Validation video](https://www.youtube.com/watch?v=dRNZyDR10yo) by Steve Blank. 
+* [Doing Customer Discovery video](https://www.youtube.com/watch?v=hriiulBbWck) + [Validation video](https://www.youtube.com/watch?v=dRNZyDR10yo) by Steve Blank.
 * 16-min [video](https://www.youtube.com/watch?v=sBhtb6Hb_O4) from Stanford online course on Customer Development and Lean Startups.
 * [What is Customer Discovery?](https://www.coursera.org/learn/start-your-own-business-2-ideation/lecture/hRooY/what-is-customer-discovery) video from Coursera course. You can watch it without registration.
 
@@ -119,12 +119,12 @@ You will find here a collection of free marketing channels for getting the first
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html) by Paul Graham. He is a co-founder of Y Combinator, a computer scientist, investor, and entrepreneur. Paul shows how such popular companies as Stripe, Airbnb or Facebook got their first users. It's a more philosophical read for helping your brain to think in the right direction.
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/) by Hiten Shah. It highlights a bunch of different ideas to try.
 * [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) by amazing Ryan Hoover, co-founder of Product Hunt.
-* [How we got from $0 to $75,000 MRR with zero marketing budget](https://medium.com/lifecycle-marketing/how-we-got-from-0-to-75-000-mrr-with-zero-marketing-budget-b20101b09a76) by Sergei Gusev. They sent free products (designer fragrance) to the market influencers and got video reviews. It grew their sales dramatically! 
+* [How we got from $0 to $75,000 MRR with zero marketing budget](https://medium.com/lifecycle-marketing/how-we-got-from-0-to-75-000-mrr-with-zero-marketing-budget-b20101b09a76) by Sergei Gusev. They sent free products (designer fragrance) to the market influencers and got video reviews. It grew their sales dramatically!
 * [How We Got Our First 100 Paying Customers in 24 Hours](https://www.groovehq.com/blog/startup-first-paying-customers) by Alex Turnbull, founder of Groove.
 * [Comment Marketing: How to Earn Benefits from Community Participation](https://moz.com/blog/comment-marketing-how-to-earn-benefits-from-community-participation-whiteboard-friday) by Rand Fishkin. You can gain attention to your company by sharing meaningful opinions and thoughts. Rand Fishkin made an excellent 9-minute video on using this technique 👌.
 * How to create [Online Courses](https://thestartupchat.com/ep246/) and [Webinars](https://thestartupchat.com/ep234/) to get users for your product. Very clever marketing tips in these The Startup Chat podcasts!
 * [5 Places to Find and Poach Your Competitors' Customers](http://www.artofemails.com/prospecting-methods#change). Sapph shares many smart ways to find leads and pitch them.
-* [Hacking the Press: Clever Ways to Get Free Press Coverage with Zero Budget](https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget) by Tucker Schreiber from Shopify. The post is focused on an online stores industry. But the principles of getting free press attention are applicable to any market. 
+* [Hacking the Press: Clever Ways to Get Free Press Coverage with Zero Budget](https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget) by Tucker Schreiber from Shopify. The post is focused on an online stores industry. But the principles of getting free press attention are applicable to any market.
 * [How to Get Press Coverage for Your App](https://blog.realmacsoftware.com/how-to-get-press-coverage-for-your-app/): a practical guide from Dan Counsell, indie developer & agency founder.
 * [Referral Marketing](https://www.referralsaasquatch.com/comprehensive-referral-marketing-guide/) and [Mobile Referral Marketing](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/) can give you word-of-mouth growth. For inspiration check [51 Best Referral Program Examples of 2016](https://www.referralsaasquatch.com/ultimate-guide-to-mobile-referral-marketing/). These useful guides were prepared by Brandon Gains from  Referral Saasquatch.
 * [5 Low-Cost Guerrilla Marketing Tactics](https://www.shopify.com/blog/116564869-5-low-cost-guerrilla-marketing-tactics-to-grow-your-business-offline) via Braveen Kumar. :monkey: Direct offline exposure via foot traffic would suit physical products and brave founders.
@@ -138,13 +138,13 @@ Content marketing is about promotion via content. You can run a personal blog, g
 I encourage you to start doing content marketing by yourself. Outsourcing it can be very tricky, especially at the beginning.
 🤔 Firstly, think how your blog or content is you going to stand out. There are plenty of cool blogs in every industry. How are you going to be different? What unique value can you offer to your users? How can you build an engaged readers community? And the most important question is how you will convert readers into leads. With all those considerations, you should create a content strategy:
 * Before starting ask yourself: [Should You Blog?](https://thestartupchat.com/ep253/) (podcast)
-* [How to Use Customer Research to Get Better Results from Your Content Marketing Program](https://www.crazyegg.com/blog/research-for-better-results-content-marketing/) by Crazyegg. 
+* [How to Use Customer Research to Get Better Results from Your Content Marketing Program](https://www.crazyegg.com/blog/research-for-better-results-content-marketing/) by Crazyegg.
 * [How to Generate Strategic Content Ideas for Each Funnel Stage](https://blog.ladder.io/content-strategy/) by Tyler Hakes.
 * [Growing From 0-12k Organic Visitors by Mapping Content to the Sales Funnel](https://growandconvert.com/content-marketing/grew-organic-visitors-suggested-search-hack/) by Benji Hyam. This post shows how to make the content strategy for a mobile and web-oriented blog.
 * [Behind the Scenes: How We’ve Built a $5M/Year Business in 3 Years With Content Marketing](https://www.groovehq.com/blog/how-we-built-a-5m-business-with-content-marketing) by Alex Turnbull. An exciting story of how Groove rebuilt their content marketing strategy with the focus on what could actually help their market.
 * A case study with the framework on [Creating Content That Generates 400,000 Targeted Visitors](http://okdork.com/how-you-can-create-content-that-generates-40000-targeted-visitors/) by Brian Dean.
 * [How to convert leads directly off of your blog with help on Popups 💰](https://sumo.com/stories/email-popup-lead-generation) by Benji Hyam.
-* [How To Convert Blog Traffic Into Customers With CTAs: The Complete Guide](https://growandconvert.com/conversion-rate-optimization/blog-conversion-strategy/) by Devesh Khanal.     
+* [How To Convert Blog Traffic Into Customers With CTAs: The Complete Guide](https://growandconvert.com/conversion-rate-optimization/blog-conversion-strategy/) by Devesh Khanal.
 * [How to Turn Your Blog’s Thank You Page Into a Lead Generating Machine](https://growandconvert.com/conversion-rate-optimization/thank-you-lead-generating-machine/) by Emil Shour.
 * [Content Marketing ROI: How We Measure Success at Hubstaff](http://blog.hubstaff.com/measuring-content-marketing-roi/) by Ilia Markov.
 * And don't forget to calculate [The Customer Acquisition Cost of Content Marketing](https://growandconvert.com/content-marketing/customer-acquisition-cost/#). Devesh Khanal has divided the cost into 3 categories: costs per article, salary costs and technology costs. You can repeat his calculations for your case and get approximate budgets.
@@ -155,7 +155,7 @@ Start by creating a blog that not only touts your product but offers helpful rec
 
 * [How We Come Up With Ideas for the Blog](https://www.helpscout.net/blog/blog-post-ideas/) by Emily Triplett Lentz from Help Scout team.
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools 🔎 to find out what people are asking about your industry (via keywords).
-* [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/) from Ed Leake. It’s a mix of many topics to write about. Feel free to scroll it and steal relevant stuff. 
+* [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/) from Ed Leake. It’s a mix of many topics to write about. Feel free to scroll it and steal relevant stuff.
 * [A Simple Guide To Figuring Out What To Blog About](http://howtomakemyblog.com/blog-topic/). As Marko Saric mentioned, 🙏 the perfect topic is found by interlinking your passion and personality with the demand from the market.
 * If you have skipped articles in the Content Marketing section above, I do encourage you to read them! The first 4 articles have excellent frameworks for getting strategic content ideas.
 
@@ -168,7 +168,7 @@ Pick the most appropriate content format — video, list, long-read. Then think 
 
 Craft your blog with SEO focus:
 * [The Complete Guide to Blog SEO](http://webris.org/blog-seo-how-to-optimize-your-blog-for-google/). Ryan Stewart covers more than just making your blog SEO-friendly. Ryan talks about blog strategy, keywords research, and promotion of your blog via building links to posts.
-* [How To Rank Your Blog Posts On Google’s First Page](http://howtomakemyblog.com/blog-seo/). Marko Saric keeps focus on SEO optimization for WordPress blogs. 
+* [How To Rank Your Blog Posts On Google’s First Page](http://howtomakemyblog.com/blog-seo/). Marko Saric keeps focus on SEO optimization for WordPress blogs.
 * [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday). Rand Fishkin advises on which format should you use for your project.
 * [How To Use 11+ Free Tools To Find Prequalified Content Ideas for SEO](https://www.shivarweb.com/4275/finding-content-ideas-for-seo/) from Nate Shivar. The article will teach you how to prequalify your content ideas with SEO research.
 
@@ -193,7 +193,7 @@ Basics of writing on Medium. How to write, edit, publish and add your article to
 
 Articles, where you can find what topics, titles, collections, tags, categories and post length are popular for Medium readers:
 * [How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8) by Quincy Larson.
-* Guide from Medium team on [making your publicatio](https://help.medium.com/hc/en-us/articles/115004681607-Create-publication)(basically, your blog) and nice tutorial [How to Make Your Publication Look Great](https://blog.medium.com/how-to-make-your-publication-look-great-9d788f0fcb2f) by Elizabeth Tobey. 
+* Guide from Medium team on [making your publicatio](https://help.medium.com/hc/en-us/articles/115004681607-Create-publication)(basically, your blog) and nice tutorial [How to Make Your Publication Look Great](https://blog.medium.com/how-to-make-your-publication-look-great-9d788f0fcb2f) by Elizabeth Tobey.
 * [Medium’s Most Recommended Stories of 2016](https://medium.com/startup-grind/mediums-most-recommended-stories-of-2016-171efdd705c5) by Levent Aşkan.
 * [How to Win at Medium (advice on the title, text formatting & images)](https://blog.medium.com/how-to-win-at-medium-d662e11b0373) by Elizabeth Tobey.
 * [35 Actionable Tips to Grow Your Medium Blog](https://medium.com/swlh/35-actionable-tips-to-grow-your-medium-blog-4e4017b89905) (timing, some promotional tips) by Ali Mese.
@@ -208,7 +208,7 @@ You need to promote content on your own blog, Medium or guest platforms. Some id
 * [Content Promotion: How We Grew from 0 to 32,977 Users in 5 Months With Zero Paid Traffic](https://growandconvert.com/content-marketing/community-content-promotion/). Benji Hyam talks about community-driven content promotion. It means, that you engage with the targeted community and then share your content so that it adds value.
 * [17 Advanced Methods for Promoting Your New Piece of Content](https://blog.kissmetrics.com/17-advanced-methods/) by Kissmetrics team.
 * [Boost Social Sharing From Your Content](https://sumo.com/stories/social-sharing-chapter-2). Sarah Peterson shared methods, that will help readers to easily share your posts.
-* A useful guide on [Blogger Outreach: How to Get Influencers to Promote Your Content for Free](https://smartblogger.com/blogger-outreach/) by Brian Dean. 
+* A useful guide on [Blogger Outreach: How to Get Influencers to Promote Your Content for Free](https://smartblogger.com/blogger-outreach/) by Brian Dean.
 * [I Asked 235 People to Tweet My Article and All I Got Is This Cheerless Case Study](https://ahrefs.com/blog/asking-for-tweets/). It's an interesting experiment! Joshua Hardwick cold emailed writers who tweeted similar posts and asked for a promotional tweet. You can try this too.
 * [Sharing Other People Content and Simultaneously Promoting Your Own](https://searchwilderness.com/sharing-other-peoples-content/) by Paul Shapiro. 😯 Have you ever tried to include your blog in the UTM parameters of somebody else blog post? Paul will teach you this smart hack.
 * [Strategic Guide to Reposting Content on Medium and LinkedIn](https://ryanbattles.com/post/reposting-content) by Ryan Battles. Does re-publishing strategy lead to growth or penalties? Ryan Battles made informational podcast & article on the topic.
@@ -219,8 +219,8 @@ Content Marketing is not only about getting people to read your amazing articles
 
 
 ## 💃Influencer Marketing
-Influencer marketing is focused on working with opinion leaders to drive company message/product/service to the larger market.  📚 These long guides will be good for the 
-start: 
+Influencer marketing is focused on working with opinion leaders to drive company message/product/service to the larger market.  📚 These long guides will be good for the
+start:
 * [What is influencer marketing and how to find influencers?](https://blog.bufferapp.com/influencer-marketing) by Ash Read from Buffer.
 * [The Ultimate Guide to Influencer Marketing](https://sumo.com/stories/influencer-marketing-super-connector) by Jason Quey from Sumo.
 * [Influencers definitely should be compensated. The only question is how](http://klear.com/blog/paying-an-influencer/) by Yuval Maoz.
@@ -232,7 +232,7 @@ You should not be afraid to reach to the cool people. Be helpful, nice and creat
 * [If you can’t express yourself by email, you’re not worthy of anyone’s time](https://levels.io/email-cuts-through-bullshit/) by Pieter Levels. People are busy and you should avoid vague messages, which only steals time. Read this brief article to understand what opinion leaders want to see in their inbox.
 * Good videos on [Finding influencers on Twitter](https://www.youtube.com/watch?v=8ecAWMMleks) and [6 easy ways to engage with them on Twitter](https://www.youtube.com/watch?v=qLvKfc2CMOs) by 123 Reg team.
 * [The Barney Stinson’s Playbook For Cold Tweeting Influencers](http://klear.com/blog/influencer-outreach-with-cold-tweets/) by Noam Avigdor.
-* [4 Tips for Reaching Out to Someone You Admire on LinkedIn](https://www.themuse.com/advice/4-tips-for-reaching-out-to-someone-you-admire-on-linkedin) by Lily Herman. 
+* [4 Tips for Reaching Out to Someone You Admire on LinkedIn](https://www.themuse.com/advice/4-tips-for-reaching-out-to-someone-you-admire-on-linkedin) by Lily Herman.
 * [26 Headliners on How to Connect with Influencers at Conference](https://venngage.com/blog/connect-with-influencers-conference/) by Venngage. Don't be afraid to talk to people!
 * [Connecting with Others: What Have You Done for Me Lately?](http://okdork.com/what-have-you-done-for-me-lately/) by Noah Kagan, popular IT entrepreneur & influencer. I loved his brief instruction on making it easier for people to say YES to your request.
 
@@ -259,8 +259,8 @@ Start with [basic rules on Posting](https://help.producthunt.com/posting): how t
 * [The SaaS founder’s guide to Product Hunt](https://blog.amplifr.com/en/amplifr-on-producthunt/) from the Russian company, Amplifr. It's a nice tutorial about your product preparation (onboarding, language check, emails and other not obvious stuff).
 * [Master Checklist for Launching on Product Hunt (spreadsheet)](https://docs.google.com/spreadsheets/d/1ebg2HyS5P-WkznG5Tvr7mYtKZqXsDLXARtYWpxfkieo/edit#gid=0) by SpreadShare team.
 * [Launching on Product Hunt: what works and what doesn’t [guide & case study]](https://hackernoon.com/launching-on-product-hunt-what-works-and-what-doesnt-guide-case-study-776c77d56e26) by 3D modeling app, who launched on PH in December 2016. These folks have not typical "sweet product for startup audience" and their launch was "so-so" good. I encourage you to think about resources you will invest in PH launch versus possible outcome!
-* [Is Product Hunt useful for developer tools?](https://medium.com/flawless-app-stories/flawlessapp-on-producthunt-7db3e561ce7a) - it's our story of launching on PH. We shared our marketing tactics and all results: traffic numbers, trials installations and sales. Also, we made a talk on Product Hunt meetup, here is [the slides](https://speakerdeck.com/lisadziuba/how-to-launch-on-product-hunt-flawless-app-startup-guide) from it. Hope, it will help some of you to succeed on Product Hunt! 
-* [Launching on Product Hunt: A curated checklist from +50 successful launches](https://medium.com/startup-grind/how-we-got-1000-upvotes-on-product-hunt-by-curating-a-checklist-from-50-successful-launches-6b77ce29b444) by Hidden Founders team. 
+* [Is Product Hunt useful for developer tools?](https://medium.com/flawless-app-stories/flawlessapp-on-producthunt-7db3e561ce7a) - it's our story of launching on PH. We shared our marketing tactics and all results: traffic numbers, trials installations and sales. Also, we made a talk on Product Hunt meetup, here is [the slides](https://speakerdeck.com/lisadziuba/how-to-launch-on-product-hunt-flawless-app-startup-guide) from it. Hope, it will help some of you to succeed on Product Hunt!
+* [Launching on Product Hunt: A curated checklist from +50 successful launches](https://medium.com/startup-grind/how-we-got-1000-upvotes-on-product-hunt-by-curating-a-checklist-from-50-successful-launches-6b77ce29b444) by Hidden Founders team.
 
 📌 Useful tools:
 * You can find a list of top hunters at [All-time Leaderboard](https://www.yvoschaap.com/producthunt/) or [Top 500 Hunters](http://500hunters.com/).
@@ -284,7 +284,7 @@ Let's start with the basics, which can be used for any social media platform:
 * [Google Analytics Campaign URL builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) for making UTM codes and here is a guide on [Using UTM Parameters to Track Social Media Success](https://blog.hootsuite.com/how-to-use-utm-parameters/) from Hootsuite.
 
 ### 🐦 Twitter
-I love Twitter as a tool for personal use. Moreover, Twitter has a huge variety of opportunities to promote your product — personal account, company account, Direct Message Marketing, Chats, Adds. Twitter can be used for sharing your articles, connecting with influencers or looking for competitors' customers. As you see, it's a powerful platform for many marketing activities, depending on your goals.  
+I love Twitter as a tool for personal use. Moreover, Twitter has a huge variety of opportunities to promote your product — personal account, company account, Direct Message Marketing, Chats, Adds. Twitter can be used for sharing your articles, connecting with influencers or looking for competitors' customers. As you see, it's a powerful platform for many marketing activities, depending on your goals.
 
 Your personal account can drive traffic to your product and content. While growing your Twitter followers, you increase the media reach you might get. But don't forget, that Twitter is made for people. To be successful there, you need to communicate with your audience just as you would do offline. If your target audience like your tweets and your personality, there’s a higher chance they will trust you and click on your links:
 * [How to Get Higher Tweet Engagement? We Analyzed 23,858 Tweets](https://adespresso.com/academy/blog/get-higher-tweet-engagement-analysis-23858-tweets/) by Karola Karlson. It's a long read about what, when and how to tweet. Although the main focus is on the marketing industry, the key insights will be useful for tech as well.
@@ -293,7 +293,7 @@ Your personal account can drive traffic to your product and content. While growi
 * [5 ways to increase your Tweet engagements with emojis](https://business.twitter.com/en/blog/5-ways-to-increase-your-tweet-engagements-with-emojis.html) from the Twitter team.
 * Taking part in Twitter chats is a great way to attract new followers and actively participate in relevant conversations with people from your industry.
 
-There is nothing wrong with automating your Twitter activities. You can schedule posts, automatically send messages and set up rules for auto-engagement with users. However, using automation only 🤖 will hurt your SMM strategy. So mix it with real-time tweeting and being active & helpful with the community: 
+There is nothing wrong with automating your Twitter activities. You can schedule posts, automatically send messages and set up rules for auto-engagement with users. However, using automation only 🤖 will hurt your SMM strategy. So mix it with real-time tweeting and being active & helpful with the community:
 * [I Automated My Tweets for 30 Days and This is What Happened](https://inbound.org/blog/i-automated-my-tweets-for-30-days-and-this-is-what-happened) by Tami Brehse. Tami scheduled 60 tweets with her blog posts for one month. Her overall site traffic showed how people actually engage with automated tweets.
 * [Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic (video)](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday) by Tara Reed. Tara shared a cool guide on building Twitter strategy and automating your engagement workflow. Clever automation is awesome 👌.
 * [How to automate Twitter content curation with RSS blog feeds](http://www.jeffbullas.com/2017/02/27/how-to-automate-twitter-to-get-attention-and-grow-your-followers/). Jeff Bullas uses Dlvr.it for automation, this tool has a good free plan. Be aware, that simply spamming content to your social networks will not work out.
@@ -319,7 +319,7 @@ One more option to consider is Twitter Adds. My experience with Twitter adds was
 * [Twitonomy](http://www.twitonomy.com/) provides you detailed info about your Twitter account (or any other). Twitonomy UI is terrible. But it can show analytics of your hashtags usage, daily activity (time & days), followers, retweets statistics. All these insights are available in the free version. Also, this tool is useful for Influencer Marketing research.
 * [Dlvr.it](https://dlvrit.com/) and [Hootsuite](https://hootsuite.com/) for grabbing website RSS feeds and auto-sharing the content. Free accounts permit several RSS feeds.
 * [Twitter Follower](https://chrome.google.com/webstore/detail/twitter-follower/hcghlfjkhaigchnbbkbcgadlnckobaei?hl=en-GB),free extension for multi-follow (or unfollow) users on Twitter.
-* If you want to spend less time reading tweets, you can automatically unfollow people. This [script](https://github.com/KrauseFx/twitter-unfollow) from Felix Krause unfollows everybody and puts those followers into a list called "Old Follow". 
+* If you want to spend less time reading tweets, you can automatically unfollow people. This [script](https://github.com/KrauseFx/twitter-unfollow) from Felix Krause unfollows everybody and puts those followers into a list called "Old Follow".
 * [Scoutzen](https://www.scoutzen.com/) allows you to download Twitter followers from your public or private lists. Pretty useful!
 * I mentioned tools, that I personally use. However, there are plenty of other great tools to try: [The Big List of Twitter Tools: 93 Free Twitter Tools and Apps to Fit Any Need](https://blog.bufferapp.com/free-twitter-tools) by Kevan Lee from Buffer team.
 
@@ -329,12 +329,12 @@ Facebook has many marketing options that could fit your company focus, budget, a
 🐣 Facebook Pages & Groups:
 * Many interesting thoughts on content, post types and other beginners questions: [The Ultimate Guide to Facebook Engagement in 2017](http://buzzsumo.com/blog/ultimate-guide-facebook-engagement-2017/) by Susan Moeller.
 * [How to Start Your Facebook Business Page](https://sproutsocial.com/insights/facebook-business-page-guide/) by Alex York.
-* [How to Write Facebook Status Updates That Will Leave Your Audience Coming Back for More](http://neilpatel.com/blog/write-facebook-status-updates/) by Neil Patel. It's a useful read, but be aware of many promotional ads with Neil face. 
+* [How to Write Facebook Status Updates That Will Leave Your Audience Coming Back for More](http://neilpatel.com/blog/write-facebook-status-updates/) by Neil Patel. It's a useful read, but be aware of many promotional ads with Neil face.
 * [How to Stand Out with a Brilliant Facebook Cover Photo](https://designschool.canva.com/blog/how-to-stand-out-with-a-brilliant-facebook-cover-photo/) by Adrienne Branson.
 * [Facebook page promotion tips](https://socialspacers.com/blog/facebook/tips-for-effective-business-facebook-fan-page/) by SocialSpacers.
-* Facebook Group can help you gather your fans in one place and encourage them to interact with one another. Groups are useful for building an active community of people talking about your product, giving feedback or ideas. It's a good place to have a discussion on betas, coming feature questions, and bugs.   
+* Facebook Group can help you gather your fans in one place and encourage them to interact with one another. Groups are useful for building an active community of people talking about your product, giving feedback or ideas. It's a good place to have a discussion on betas, coming feature questions, and bugs.
 
-🐤 The Beginner’s Guides to Facebook Advertising. Here you will find step-by-step tutorials for setting up your first ad campaign. I also included articles about ad design, copywriting and typical mistakes. If you have skipped previous content, it will be useful to check posts on the viral headlines in the Personal Blog section and posts in the Social Media Marketing section. 
+🐤 The Beginner’s Guides to Facebook Advertising. Here you will find step-by-step tutorials for setting up your first ad campaign. I also included articles about ad design, copywriting and typical mistakes. If you have skipped previous content, it will be useful to check posts on the viral headlines in the Personal Blog section and posts in the Social Media Marketing section.
 * [The Complete, Always-Updated Guide to Facebook Advertising](https://blog.bufferapp.com/facebook-ads-guide) by Kevan Lee, Buffer Marketing Director. Buffer has put together a comprehensive guide on learning Facebook advertising, from the ad setup to analysis.
 * Good advice on Ad Copywriting: [The Beginner’s Guide to Writing Facebook Ads](https://copyhackers.com/2016/06/writing-facebook-ads/) by Joanna Wiebe.
 * [11 Storytelling Formulas to Supercharge Your Social Media Marketing](https://blog.bufferapp.com/storytelling-formulas) will help you with copywriting as well.
@@ -352,7 +352,7 @@ Facebook has many marketing options that could fit your company focus, budget, a
 * [The Big Damn Guide To Facebook Ad Targeting](https://www.contentharmony.com/blog/facebook-ad-targeting/) by Kane Jamison.
 * [Messenger As a Destination for Facebook Ads (podcast)](http://thechatbubble.com/2017/01/messenger-as-a-destination-for-facebook-ads-solo-message/) and [an illustrated guide to this tool (post)](https://chatbotsmagazine.com/an-illustrated-guide-to-facebook-messenger-destination-ads-dd543d2659d0) by @Mssg.
 * [How to Use Facebook Insights & Analytics to Boost Social Media Marketing Strategy](https://blog.bufferapp.com/facebook-insights) by Alfred Lua from Buffer.
-* Good video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday). Ryan Stewart talks about the marketing funnel framework and touchpoints that you have to build for your campaign. 
+* Good video on [using remarketing and targeted content creation to get more conversions out of your Facebook ad](https://moz.com/blog/facebook-funnel-that-converts-whiteboard-friday). Ryan Stewart talks about the marketing funnel framework and touchpoints that you have to build for your campaign.
 * [Facebook Website Custom Audiences: A Definitive Guide for Remarketing](http://www.jonloomer.com/2015/09/11/facebook-website-custom-audiences-guide/) by Jon Loomer.
 * [A/B Testing Facebook Ads: 121 Tips & Ideas for Extraordinary Discoveries](https://klientboost.com/ppc/facebook-ad-testing/) by KlientBoost.
 * [Facebook Ads Bidding 101: Everything You Need to Know](https://adespresso.com/academy/blog/everything-need-know-facebook-ads-bidding/) by Massimo Chieruzzi from AdEspresso team.
@@ -364,7 +364,7 @@ Facebook has many marketing options that could fit your company focus, budget, a
 Some more cool hacks:
 * How to retarget on Facebook Ads [every people who clicked on your link](https://medium.com/pixelme-blog/pixelme-how-can-i-retarget-on-facebook-ads-every-people-who-clicked-on-my-link-60865f85e406). And even more advanced Facebook retargeting for your [Medium Readers](https://medium.com/pixelme-blog/how-to-retarget-your-medium-readers-with-facebook-ads-c63bc7c8089d) by PixelMe team.
 * [How to Create Facebook Custom Audiences from Facebook Group Members](https://grouply.io/custom-audiences-facebook-groups/) by Grouply team.
-* [How to export your complete Facebook friends list to Excel](https://www.facebook.com/help/community/question/?id=10102930368300253) 
+* [How to export your complete Facebook friends list to Excel](https://www.facebook.com/help/community/question/?id=10102930368300253)
 
 ### Reddit
 Reddit is one of the most active internet community with its own unique culture. You can get tons of cool information there, great product feedback and first users. :trollface: However, it's better to learn Reddit rules and basics before you get banned:
@@ -383,7 +383,7 @@ Guides on promoting and advertising on Reddit:
 
 📌 Useful tools:
 * [Later](https://laterforreddit.com/) helps to schedule your posts to Reddit and cross-post your link to other subreddits. The tool has a free option.
-* [Subreddit Analysis Tool from Later](https://dashboard.laterforreddit.com/analysis/). It's a free tool to get insights about subreddits. 
+* [Subreddit Analysis Tool from Later](https://dashboard.laterforreddit.com/analysis/). It's a free tool to get insights about subreddits.
 * [Reddit Insight](http://www.redditinsight.com/) is an analytics tool for real-time post tracking, single-user tracking, and other data analysis.
 * [SnoopSnoo](https://snoopsnoo.com/) provides Reddit user and subreddits analytics.
 * [RedditList](http://redditlist.com/) is useful for digging up worthwhile subreddits.
@@ -408,7 +408,7 @@ LinkedIn can help you get more eyes on your content, and receive feedback from o
 
 🕴️Use LinkedIn for direct sales and getting partners. You can write people via invitation note, direct message, InMail or Group message. You should have clear objectives and know exactly who you want to connect with. Business outreach is common and popular among LinkedIn members, but it should be done in a structural way:
 * [11 Signs That You've Mastered LinkedIn](https://www.entrepreneur.com/article/282360). Tony Messer gives a general overview of using LinkedIn with a sales purpose.
-* [The Anatomy of Great LinkedIn Sales Message](https://blog.hubspot.com/sales/the-anatomy-of-a-great-linkedin-sales-message-template#sm.0000uk1rbj980cpntd41cly98kad3) by Emma Brudner. The example is kind of formal, but it worth to try out. 
+* [The Anatomy of Great LinkedIn Sales Message](https://blog.hubspot.com/sales/the-anatomy-of-a-great-linkedin-sales-message-template#sm.0000uk1rbj980cpntd41cly98kad3) by Emma Brudner. The example is kind of formal, but it worth to try out.
 * [How to Write Reply-Worthy LinkedIn InMail](http://www.yesware.com/blog/linkedin-inmail/) by Melissa Williams from Yesware team.
 * [The ingredients of a Great LinkedIn Sales Message](https://www.linkedin.com/pulse/20141204135257-13078656-the-ingredients-of-a-great-linkedin-sales-message) by Mark Williams.
 * Please, check also Cold Email Marketing section below. Articles there have awesome templates & advice for cold outreach.
@@ -422,7 +422,7 @@ LinkedIn can help you get more eyes on your content, and receive feedback from o
 * [The Ultimate Guide to LinkedIn Conversion Tracking](https://www.hallaminternet.com/linkedin-conversion-tracking/) by Tom Whiley.
 * [5 tactics](https://blog.adstage.io/2017/05/03/expand-your-reach-and-drive-more-conversions-on-linkedin/) which can help reach your ideal audience and increase conversion rates. Written by Michael McEuen.
 
-I heavily use LinkedIn. As you remember, we run [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) — a tool for iOS & macOS engineers. A lot of our users spend time on LinkedIn, participate in iOS groups or post articles there. I often post cool stuff in those groups, engage with people via direct messages or share my writings. Unfortunately, I do get spam or some random requests from job seekers\recruiters. But in general, LinkedIn works for me.   
+I heavily use LinkedIn. As you remember, we run [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) — a tool for iOS & macOS engineers. A lot of our users spend time on LinkedIn, participate in iOS groups or post articles there. I often post cool stuff in those groups, engage with people via direct messages or share my writings. Unfortunately, I do get spam or some random requests from job seekers\recruiters. But in general, LinkedIn works for me.
 
 📌 Useful tools:
 * If you need to grow your LinkedIn connection base, use this [script](https://docs.google.com/spreadsheets/d/10P2Exz5ctRRdvwOaXkFZFTmGcnvv9L5UbBmfPzqKWI8/edit#gid=0). It will automatically add targeted people from the "People You May Know" section. You only need to choose the keywords.
@@ -439,7 +439,7 @@ Quora is a question-and-answer site, where you can get traffic by helping the co
 [The K-Factor, “Growth” and Going Viral](https://bothgunsblazingblog.wordpress.com/2013/10/22/the-k-factor-growth-and-going-viral/), an old but very useful article on viral growth.
 
 ## :love_letter: Lifecycle Email Marketing
-Lifecycle emails can help you to accomplish almost any marketing goal: onboard new users, increase sales, grow users' engagement, bring back inactive one or build a long-lasting relationship. It's also known as drip marketing or automated email campaigns. To make it simple: it's a set of emails that will be sent out automatically based on schedule, triggers, or user actions. There are four key components for such email campaigns: the right user, goal-oriented topic, good timing and contextual message. 
+Lifecycle emails can help you to accomplish almost any marketing goal: onboard new users, increase sales, grow users' engagement, bring back inactive one or build a long-lasting relationship. It's also known as drip marketing or automated email campaigns. To make it simple: it's a set of emails that will be sent out automatically based on schedule, triggers, or user actions. There are four key components for such email campaigns: the right user, goal-oriented topic, good timing and contextual message.
 
 💻 Let's start with onboarding. The goal of it is to increase the number of users who actually use your product (or free trial) and pay for it later. The onboarding process can be done through in-app messages, live chat messages, product tours, welcome modal windows, well-crafted UX or even phone calls. We will focus on onboarding via emails:
 * [The Anatomy of a Welcome Email](https://customer.io/blog/welcome-email-best-practices.html) by Customer.io team.
@@ -448,7 +448,7 @@ Lifecycle emails can help you to accomplish almost any marketing goal: onboard n
 * [3 Lessons Learned From Testing Hundreds Of Onboarding Emails](https://www.groovehq.com/blog/email-onboarding-optimization) by Alex Turnbull.
 * [3 copywriting mistakes that could be hurting your lifecycle emails](https://blog.kissmetrics.com/3-copywriting-mistakes/) by Alli Blum.
 * [How to Bring 👻 Inactive Users Back from the Dead with Emails](https://www.appcues.com/blog/how-to-bring-inactive-users-back-from-the-dead/) by Ty Magnin from Appcues.
-* [User Onboarding isn’t a feature, it’s an evolving quality of your entire customer experience](https://medium.com/help-scout/user-onboarding-isn-t-a-feature-230455e7e41a) via Samuel Hulick. You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game. 
+* [User Onboarding isn’t a feature, it’s an evolving quality of your entire customer experience](https://medium.com/help-scout/user-onboarding-isn-t-a-feature-230455e7e41a) via Samuel Hulick. You can work really hard and get a lot of traffic or trial signups. But if your onboarding experience and converting users to customers suck, you will lose the game.
 * For getting an inspiration for your onboarding and product emails, you can check examples from big companies: [Pinterest Onboarding Emails](https://explore.reallygoodemails.com/pinterest-onboarding-emails-2c7fbb0424a9), [Here Are All Of The Emails We Send At Drift](https://blog.drift.com/all-the-emails-at-drift/), [17 Email Scripts That Have Helped Groove Grow Business](https://www.groovehq.com/blog/business-email-templates) and [6 Wearables Tech Email Marketing Examples](https://www.referralsaasquatch.com/wearables-tech-email-marketing-examples/).
 
 🚀 Subscriber emails are good for announcing new feature releases or sharing blog posts. It's also used for sending educational materials or curated content newsletters. All these emails can be an effective tool for growing your existing user's engagement. With newsletters you can gain many email addresses and turn them into users or partners:
@@ -464,7 +464,7 @@ Lifecycle emails can help you to accomplish almost any marketing goal: onboard n
 * [How Our Product Update Emails Get a 68% Response Rate](https://www.groovehq.com/blog/how-to-send-product-update-emails) by Groove Team.
 
 📢 Promotional Emails helps you to grow sales:
-* [21 Little Known Reasons Why Your Sales Letter Is Not Converting](https://copymonk.com/sales-letter/) by Danavir Sarria. 
+* [21 Little Known Reasons Why Your Sales Letter Is Not Converting](https://copymonk.com/sales-letter/) by Danavir Sarria.
 
 You should always A/B test your email campaigns: try different subject lines, texts, message styles, images, CTA buttons. Look at your metrics and measure how well each element works:
 * [A Beginner’s Guide to A/B Testing: Email Campaigns That Convert](https://blog.kissmetrics.com/ab-testing-email-campaigns/) from Kissmetrics blog.
@@ -474,15 +474,15 @@ You should always A/B test your email campaigns: try different subject lines, te
 * [Best Practices for Buttons: The User Experience of colors](https://uxplanet.org/best-practices-for-buttons-b7048479d440) by Luca Longo. Good post to help you choose your CTA button.
 * [164 Email Subject Lines to Boost Your Email Open Rates ](http://optinmonster.com/101-email-subject-lines-your-subscribers-cant-resist/) by Optinmonster team. Good inspirational examples to try out.
 
-📚 Want to learn even more about Lifecycle Email Marketing? Read these comprehensive long guides, that contain all types of emails we talk above with examples, tips & trips and recommended tools: 
+📚 Want to learn even more about Lifecycle Email Marketing? Read these comprehensive long guides, that contain all types of emails we talk above with examples, tips & trips and recommended tools:
 * [The Ultimate Lifecycle Email Marketing Guide](https://www.getvero.com/resources/guides/lifecycle-marketing/) by Jimmy Daly from Vero. The guide has 135 email examples broken down into 5 categories and 41 sub-categories.
 * [What is Drip Marketing? The Complete Guide to Drip Campaigns, Lifecycle Emails, and More](https://zapier.com/learn/email-marketing/drip-marketing-campaign/) by Joe Stych from Zapier. It's a part of [The Ultimate Guide to Email Marketing Apps](https://zapier.com/learn/email-marketing/), which has 11 more chapters to read. I told you, it's a huge library!
 
 📌 Useful tools:
 * Websites with awesome email examples: [Email copy from great companies](http://www.goodemailcopy.com/) and [Really Good Emails](https://reallygoodemails.com/).
-* [Email sequences / Email drip campaigns examples](http://www.emaildrips.com/) is a nice to place to see how other companies build their campaigns. Most of the examples are from software, marketing or informational products. 
+* [Email sequences / Email drip campaigns examples](http://www.emaildrips.com/) is a nice to place to see how other companies build their campaigns. Most of the examples are from software, marketing or informational products.
 * Look this [mind-blowing UserOnboard site](http://www.useronboard.com/onboarding-teardowns/) with many examples of how popular web apps handle their onboarding experiences. The author, Samuel Hulick, made screenshots with explanations of every user's step — from signing to the welcome email.
-* [8 Free Newsletter Services](https://www.emailtooltester.com/en/blog/free-newsletter-services/). 
+* [8 Free Newsletter Services](https://www.emailtooltester.com/en/blog/free-newsletter-services/).
 
 ## :fearful: Cold Email Marketing
 Update: After GDPR changes, I won't recommend you working with cold email marketing.
@@ -492,14 +492,14 @@ Most people hate cold outreach and everything connected with direct sales. Howev
 * [How to Warm Up Prospects Before Sending Them a Cold Email?](https://blog.woodpecker.co/cold-email/warm-prospects/) by Cathy Patalas. Cathy's article proposes simple actions, that may seriously increase your cold email open & reply rates.
 * These [11 Cold Email Templates & Examples by Melissa Williams](http://www.yesware.com/blog/cold-email-template/) are very creative! Grab some and personalize it for your target audience. Don't forget to do the research first! You need to really know the person you’re writing.
 * [9 Cold Email Formulas That Just Plain Work](http://www.yesware.com/blog/cold-email/). One more good tutorial from Yesware team.
-* [101 Sales Email Templates](https://attach.io/sales-email-templates/) 📚 Attach.io team prepared email examples from cold outreach to LinkedIn intro messages. 
+* [101 Sales Email Templates](https://attach.io/sales-email-templates/) 📚 Attach.io team prepared email examples from cold outreach to LinkedIn intro messages.
 * [14 Deliverability Checks to Carry Out Before Sending Your Cold Email Campaign](https://blog.woodpecker.co/cold-email/deliverability-checks/) by Cathy Patalas.
 * [Mass emails that look like you wrote every one to 3.5x your response rates](http://www.artofemails.com/mail-merge-email-personalization#why-personalize) by Sapph.
 
  :shipit: Learn from fellow entrepreneurs and makers, who run cold email campaigns:
 * [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić.
 * [How to get a $3,000 monthly contract (with exact scripts)](http://videofruit.com/blog/3kpermonth/) by Bryan Harris.
-* [Why Every Outbound Campaign Needs 8 Emails](https://salesfolk.com/blog/why-every-outbound-campaign-needs-8-emails/) via Salesfolk. It's a case-study of Ambition, YC startup, who used cold email campaign and automation to grow sales. 
+* [Why Every Outbound Campaign Needs 8 Emails](https://salesfolk.com/blog/why-every-outbound-campaign-needs-8-emails/) via Salesfolk. It's a case-study of Ambition, YC startup, who used cold email campaign and automation to grow sales.
 * And here is some inspiring story from Android Programmer at Basecamp, who just cold emailed people: [Admire someone? Write them an email, you might be surprised](https://m.signalvnoise.com/admire-someone-write-them-an-email-you-might-be-surprised-27e2f94f0fc1). Written by Dan Kim.
 
 Some more tips & tricks:
@@ -526,8 +526,8 @@ Communication is the key to building any kind of relationship. Every social comm
 
 🔎 How and where to find partners:
 * Tips on the [New LinkedIn Search](https://blog.linkedin.com/2017/january/19/how-to-make-the-most-of-the-new-linkedin-search) and [Writing LinkedIn Requests](https://www.themuse.com/advice/want-people-to-accept-your-linkedin-requests-use-these-10-templates) by Aja Frost.
-* [15 Places Where You Can Find Prospects, Other than LinkedIn](https://blog.woodpecker.co/prospecting/where-to-find-prospects/) by Cathy Patalas.  
-* [How to Network at a Conference](http://www.wikihow.com/Network-at-a-Conference) from wikiHow. 
+* [15 Places Where You Can Find Prospects, Other than LinkedIn](https://blog.woodpecker.co/prospecting/where-to-find-prospects/) by Cathy Patalas.
+* [How to Network at a Conference](http://www.wikihow.com/Network-at-a-Conference) from wikiHow.
 * [How to generated $91 735 in revenue from tech conferences:](https://youteam.co.uk/blog/how-we-attracted-new-clients-and-generated-90k-from-tech-conferences/) Guide for finding clients at events from YouTeam.
 * [How to Use Conferences to Grow Your Startup](https://thestartupchat.com/ep248/) podcast by Hiten Shah & Steli Efti.
 * [How To Create A Follow Up Email in 5 Simple Steps](https://www.hubspot.com/sales/follow-up-email) by Hubspot team.
@@ -540,7 +540,7 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 * [Psychology of Marketing: Using Maslow’s Hierarchy of Needs](https://kopywritingkourse.com/marketing-psychology/) by Neville Medhora.
 * [An Enormous Guide to Emotional Marketing](https://www.nickkolenda.com/emotional-marketing/) by Nick Kolenda.
 * [Cognitive bias cheat sheet (long-read)](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18) by Buster Benson.
-* [Scarcity in UX: The psychological bias that became the norm](https://uxdesign.cc/scarcity-in-ux-the-psychological-bias-that-became-the-norm-3e666b749a9a) by David Teodorescu: 
+* [Scarcity in UX: The psychological bias that became the norm](https://uxdesign.cc/scarcity-in-ux-the-psychological-bias-that-became-the-norm-3e666b749a9a) by David Teodorescu:
 > Scarcity makes us place a higher value on things that are scarce and, over time, has become the go-to method for increasing desirability. It is powerful because it combines multiple biases (Loss aversion, Social proof and Anticipated regret) and it comes in different forms (Time, Quantity and Access).
 * [Mental Models and User Experience](http://www.uxmatters.com/mt/archives/2016/05/mental-models-and-user-experience.php) by UXmatters.
 * TED Talks on Psychology of Choice: [The Paradox of Choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice) and [How to make choosing easier](https://www.ted.com/talks/sheena_iyengar_choosing_what_to_choose?language=en).
@@ -556,7 +556,7 @@ If you want to make a deeper dive into the user's brain, I will recommend you to
 * [The Law of Shitty Clickthroughs](http://andrewchen.co/the-law-of-shitty-clickthroughs/) or over time, all marketing strategies result in shitty clickthrough rates. This article explains how to deal with it.
 
 ## :moneybag: Business Model and Pricing
-The business model is the most difficult part of any side-project. It's hard asking people to pay for the product or service. Usually, it's a long journey to discover the right way to build a sustainable profit over time. But business is about making money. So we all need to learn how to choose the right business model & pricing strategy and charge our users: 
+The business model is the most difficult part of any side-project. It's hard asking people to pay for the product or service. Usually, it's a long journey to discover the right way to build a sustainable profit over time. But business is about making money. So we all need to learn how to choose the right business model & pricing strategy and charge our users:
 * Let's start with the basics: [Business Model Canvas Explained](https://www.youtube.com/watch?v=QoAOzMTLP5s) video and one more great [video](https://www.youtube.com/watch?v=IP0cUBWTgpY) from Steve Blank.
 * [On Pricing and Discounts](https://www.jonloomer.com/2017/03/02/entrepreneurs-pricing-discounts/) by Jon Loomer.
 * [How Much is Your App, Skill and Time Worth?](https://peterwitham.com/development-notes/how-much-is-your-app-skill-and-time-worth/) by Peter Witham. It's more a philosophical read from my friend, who tries to prevent you from charging the low price for your mobile apps or any other product.
@@ -575,9 +575,9 @@ Marketing automation is about using software to automate marketing tasks, includ
 
 ## Moving to SaaS model
 
-* Excellent guide from Stripe team on [The business of SaaS](https://stripe.com/atlas/guides/business-of-saas#high-touch-saas-sales): Understand why SaaS businesses work and how to grow them. The first read you should start with! 
+* Excellent guide from Stripe team on [The business of SaaS](https://stripe.com/atlas/guides/business-of-saas#high-touch-saas-sales): Understand why SaaS businesses work and how to grow them. The first read you should start with!
 * Advanced guide on CAC and CPA: [How To (Actually) Calculate CAC](http://andrewchen.co/how-to-actually-calculate-cac/) (and [Russian vesrion](https://vc.ru/21195-cac-calculation)).
-* [Prioritizing product announcements in a SaaS world](https://blog.intercom.com/prioritizing-product-announcements-saas-world/) with Intercom team. 
+* [Prioritizing product announcements in a SaaS world](https://blog.intercom.com/prioritizing-product-announcements-saas-world/) with Intercom team.
 
 Guides on analytics:
 * [Funnel charts in Google Sheets using the chart tool, formulas and Apps Script](https://www.benlcollins.com/spreadsheets/funnel-charts/). It can be used for making your sales or analytics funnels right in Spreadsheets.
@@ -607,4 +607,4 @@ We would love to add more awesome content, which will answer on other marketing-
 * how to get funding for your project
 * and some useful blogs, newsletters, courses.
 
-Feel free to recommend us more topics! And please [contribute](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md) with awesome content. 
+Feel free to recommend us more topics! And please [contribute](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md) with awesome content.
