@@ -520,7 +520,6 @@ Some more tips & tricks:
 
 ## :bowtie: Building Partnerships
 Communication is the key to building any kind of relationship. Every social community has its own rules. Business people will prefer concise value-driven messages when engineers are more open to deep well-thought-out talk. I encourage you to learn these social rules before writing a single line of LinkedIn invitation:
-* [How to Write Emails Like a CEO](https://medium.com/@Torbahax/how-to-write-emails-like-a-ceo-d6a2906611e0) by Andrew Torba.
 * [5 rules for good email etiquette](https://byrslf.co/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671) by Mattan Griffel.
 * [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73) by Romain Serman.
 
