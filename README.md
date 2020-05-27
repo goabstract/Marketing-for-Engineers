@@ -47,6 +47,7 @@ If you have found some great marketing content or tool, please, contribute to Ma
 * [Business Model and Pricing](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#moneybag-business-model-and-pricing)
 * [Marketing Automation](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-marketing-automation)
 * [Moving to SaaS model](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#moving-to-saas-model)
+* [Open-source Marketing Libraries](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#open-source-marketing-libraries)
 * [Other Useful Materials](https://github.com/LisaDziuba/Marketing-for-Engineers#other-useful-materials)
 * [Authors](https://github.com/LisaDziuba/Marketing-for-Engineers#-authors)
 * [Future Plans](https://github.com/LisaDziuba/Marketing-for-Engineers#future-plans)
@@ -581,6 +582,9 @@ Marketing automation is about using software to automate marketing tasks, includ
 
 Guides on analytics:
 * [Funnel charts in Google Sheets using the chart tool, formulas and Apps Script](https://www.benlcollins.com/spreadsheets/funnel-charts/). It can be used for making your sales or analytics funnels right in Spreadsheets.
+
+## 🧑‍💻 Open-source Marketing Libraries
+[advertools](https://github.com/eliasdabbas/advertools) is a Python package that helps in many online marketing activities (SEO, SEM campaigns, text/content analysis, and social media).
 
 ## Other Useful Materials
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
