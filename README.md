@@ -157,6 +157,7 @@ Start by creating a blog that not only touts your product but offers helpful rec
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools 🔎 to find out what people are asking about your industry (via keywords).
 * [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/) from Ed Leake. It’s a mix of many topics to write about. Feel free to scroll it and steal relevant stuff. 
 * [A Simple Guide To Figuring Out What To Blog About](http://howtomakemyblog.com/blog-topic/). As Marko Saric mentioned, 🙏 the perfect topic is found by interlinking your passion and personality with the demand from the market.
+* [Not every topic you think of should be turned into an article](https://usergrowth.io/blog/creating-a-content-calendar/). Get off the hamster-wheel of content production before you even start. By only investing time and energy, creating content that will have the ability to rank and deliver business results. 📈 
 * If you have skipped articles in the Content Marketing section above, I do encourage you to read them! The first 4 articles have excellent frameworks for getting strategic content ideas.
 
 Pick the most appropriate content format — video, list, long-read. Then think about the right headline for driving interest to your great article:
