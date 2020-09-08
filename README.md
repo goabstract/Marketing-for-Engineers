@@ -388,6 +388,7 @@ Guides on promoting and advertising on Reddit:
 * [SnoopSnoo](https://snoopsnoo.com/) provides Reddit user and subreddits analytics.
 * [RedditList](http://redditlist.com/) is useful for digging up worthwhile subreddits.
 * [Reddit converter](http://vyper.io/reddit_converter/) converts your text (blog post) to Reddit markdown.
+* [Reddit Subreddit Discovery](https://www.delayforreddit.com/discover) A free tool that helps identify subreddits which align with your keywords.
 
 ### 👽 LinkedIn
 I want to tell you a secret: HRs is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, make direct sales and search for investors. LinkedIn is a perfect place for B2B companies and 👔 business professionals. It's also useful for self-branding. For the promotional purpose, LinkedIn has Personal Pages, Company Pages, Groups, and Ads.
