@@ -10,7 +10,7 @@
 * advertising project without a budget
 * scaling marketing activities for building constant revenue streams. 
 
-We faced these question when we made our first product (a tool for iOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, tried and bookmarked many useful things: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adapt and test awesome marketing hacks from our collection & experience. Good luck!
+We faced these questions when we made our first product (a tool for iOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, tried and bookmarked many useful things: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adapt and test awesome marketing hacks from our collection & experience. Good luck!
 
 _Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection), tool to verify iOS app according to the design_
 
