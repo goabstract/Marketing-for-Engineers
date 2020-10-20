@@ -157,6 +157,7 @@ Start by creating a blog that not only touts your product but offers helpful rec
 * [How to Generate Content Ideas With These 3 Awesome Tools](http://buzzsumo.com/blog/how-to-generate-content-ideas-with-these-3-awesome-tools/). Robert Katai shows how to use tools 🔎 to find out what people are asking about your industry (via keywords).
 * [266 blog post ideas](https://midasmedia.co.uk/killer-blog-post-ideas-no-more-writers-block/) from Ed Leake. It’s a mix of many topics to write about. Feel free to scroll it and steal relevant stuff. 
 * [A Simple Guide To Figuring Out What To Blog About](http://howtomakemyblog.com/blog-topic/). As Marko Saric mentioned, 🙏 the perfect topic is found by interlinking your passion and personality with the demand from the market.
+* [Crazy idea: What if we used marketing to start a tech blog? 🤔](https://medium.com/@vin.pradeilles/crazy-idea-what-if-we-used-marketing-to-start-a-tech-blog-ff01e96cc99a). Vincent Pradeilles and Aurélie Fon discuss how marketing tools can help us come up with the blueprint for a successful tech blog.
 * If you have skipped articles in the Content Marketing section above, I do encourage you to read them! The first 4 articles have excellent frameworks for getting strategic content ideas.
 
 Pick the most appropriate content format — video, list, long-read. Then think about the right headline for driving interest to your great article:
