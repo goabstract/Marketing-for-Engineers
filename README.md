@@ -322,6 +322,7 @@ One more option to consider is Twitter Adds. My experience with Twitter adds was
 * If you want to spend less time reading tweets, you can automatically unfollow people. This [script](https://github.com/KrauseFx/twitter-unfollow) from Felix Krause unfollows everybody and puts those followers into a list called "Old Follow". 
 * [Scoutzen](https://www.scoutzen.com/) allows you to download Twitter followers from your public or private lists. Pretty useful!
 * I mentioned tools, that I personally use. However, there are plenty of other great tools to try: [The Big List of Twitter Tools: 93 Free Twitter Tools and Apps to Fit Any Need](https://blog.bufferapp.com/free-twitter-tools) by Kevan Lee from Buffer team.
+* [ExportData.io](https://www.exportdata.io/) allows exporting followers & followings list of any public Twitter account, downloading user timeline & tweets by hashtag or keyword to Excel and CSV formats. The tool also provides free access to historical Twitter trends dated from 2019.
 
 ### Facebook
 Facebook has many marketing options that could fit your company focus, budget, and your current knowledge. To target your users there you can work with Personal Profiles, Pages, Groups, and Ads.
